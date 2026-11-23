@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE 16:9 cinematic exterior locator for royal STUDY wing, no text or labels. Image1 PRIMARY for exact palace wing placement: large tall audience window in upper main wing at LEFT and smaller attached study wing to its RIGHT, study approximately same occupied floor with a lower roof, connected by covered arched gallery. Image2 PRIMARY for study INTERIOR furniture/material identity, broad low sweeping panoramic window, single black-gold desk and green gold chair, armillary at west desk end, cream open ledger/two sealed letters at east desk end, treasury cabinet on north wall. New camera outside study at medium distance along its bay-facing balcony, enough context to include whole study wing, rock footing, waterfall terrace BELOW, gallery running LEFT to a partial glimpse of adjacent taller audience facade. Focus on study's ONE broad flowing curved arched panoramic window, finely traced gold rim, warm glow, physically transparent glass; through window show modestly visible coherent single desk, chair and inset cabinet, not furniture pasted onto facade, no people. At this exterior east-side study camera looking west, north cabinet falls toward image RIGHT interior, chair to left side of desk, west flowers behind, plausible perspective. Palace is grounded on solid forested cliff not suspended over abyss; blue bay and city distant in edge/background, not a second giant ring on roof. Match ivory flowing ribs, black gold wood and fine warm lanterns of references. Dusk with cool blue-violet sky and warm interior, high-end feature-film CGI, PBR detailed ivory stone, gold roughness, glass and water, restrained glow, natural crisp details. Maintain same palace design no new detached castle, no giant stairs through window, no collage/watermark.",
+  "references": [
+    "assets/scenes/王室宫殿-听政厅/外景定位/02-宫殿三室位置总览.png",
+    "assets/scenes/王室宫殿-理事书房/室内机位/01-理事书房全景.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/王室宫殿-理事书房/外景定位/01-理事书房侧翼外景.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-3162d4ef-c792-4d0a-b8c9-793233360230.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查：上层较低屋顶书房与左侧听政厅由廊道连接，书房宽弧窗、单书案、主椅、账本、浑天仪及柜体可辨，山崖与瀑布提供支撑；相邻听政窗内带微小角色剪影，本图不称完全无人空景。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "ecfc776448a33c239c6c406af67320f85498099239c5fb04e3f418021744edc7"
+}

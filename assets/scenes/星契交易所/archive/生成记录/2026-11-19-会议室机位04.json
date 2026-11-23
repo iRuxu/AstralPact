@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic CGI still, EMPTY SAME approved AstralPact exchange meeting room as reference image 1. Image 1 is authoritative for ALL furniture, dimensions, materials, lighting and layout; change CAMERA ONLY. No characters. Coordinate system for continuity (local, not geographic): north = amethyst star wall/head chair; south = entrance wall/empty short end; east = bay windows; west = dark wood cabinet and financial display. ONE rounded rectangular smoked violet stone table, two sculpted solid pedestal supports, gold orbital inlay, violet carpet with gold border. EXACTLY FIVE chairs: ONE taller head chair at north short end, TWO chairs west side, TWO chairs east side, NO south end chair. Five folios with dark inset work panels. Purple leather, slim gold chair frames. Gold elliptical gemstone chandelier, faceted violet crystal ceiling, ivory and warm gold ribs. North eight-point crystal star and thin gold orbits. West ONE wide financial display above low dark wood ledger cabinet. East tall arched faceted bay windows at blue hour, same distant coastal city. Do not relocate or mirror architecture to resemble original framing. Finely resolved high-end feature-film CGI, physically based amethyst, satin stone, leather grain, metal roughness, warm practical light and subtle blue fill, natural contact shadows and crisp detail, controlled bloom. No text, watermark, collage, new furniture, extra chairs, humans, animals, dragon flags or jade wall.\nCAMERA: TRUE VERTICAL TOP-DOWN 90-degree overhead cinematic cutaway view, NOT an oblique perspective. Hide ceiling/chandelier as an architectural camera cutaway so floor arrangement is clear, no new ceiling hole. NORTH head/star wall at TOP image, SOUTH entrance doors at BOTTOM, EAST bay windows at RIGHT, WEST display/cabinet at LEFT. Whole rectangular room footprint fills 16:9 image with comfortable margins; long table north-south with north at top. EXACTLY FIVE chairs identifiable from above: one north head chair, two west chairs and two east chairs, NO south chair. Five folios. Purple gold bordered carpet, pale stone perimeter and circulation aisles. Overhead is still finished photoreal cinematic CGI, not line drawing or annotated floor plan. Do not add any labels or compass markings.",
+  "references": [
+    {
+      "order": 1,
+      "path": "assets/scenes/星契交易所/室内机位/01-内部会议室-入口看向主位-候选.png",
+      "role": "用户已认可内景；布局、家具、材质、灯光的唯一主参考"
+    }
+  ],
+  "output": "室内机位/04-内部会议室-俯视布局-候选.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": "无，原生输出复制",
+  "status": "新机位待用户验收；不自动继承原图认可状态",
+  "inspection": "已目视五席、上主位下入口、左屏右窗。顶棚与吊灯为展示布局隐藏；墙面带广角展开效果，属于俯视布局参考，非测绘正投影。",
+  "limitations": "新机位的局部纹理、窗景、桌纹与比例有生成漂移，未进行精确三维重建或人物落座适配。",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

@@ -1,0 +1,153 @@
+{
+  "name": "星沙城",
+  "mainImage": "09-花夏星-滨海都会",
+  "images": [
+    {
+      "id": "09-花夏星-滨海都会",
+      "file": "index.png",
+      "label": "花夏星-滨海都会",
+      "category": "view",
+      "status": "reference"
+    },
+    {
+      "id": "四季/01-春季",
+      "file": "seasons/01-春季.png",
+      "label": "春季",
+      "category": "season",
+      "status": "candidate",
+      "conditions": {
+        "season": "春季"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        6
+      ]
+    },
+    {
+      "id": "四季/02-夏季",
+      "file": "seasons/02-夏季.png",
+      "label": "夏季",
+      "category": "season",
+      "status": "candidate",
+      "conditions": {
+        "season": "夏季"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        7
+      ]
+    },
+    {
+      "id": "四季/03-秋季",
+      "file": "seasons/03-秋季.png",
+      "label": "秋季",
+      "category": "season",
+      "status": "candidate",
+      "conditions": {
+        "season": "秋季"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        8
+      ]
+    },
+    {
+      "id": "四季/04-冬季",
+      "file": "seasons/04-冬季.png",
+      "label": "冬季",
+      "category": "season",
+      "status": "candidate",
+      "conditions": {
+        "season": "冬季"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        9
+      ]
+    },
+    {
+      "id": "时间/01-清晨",
+      "file": "time/01-清晨.png",
+      "label": "清晨",
+      "category": "time",
+      "status": "candidate",
+      "conditions": {
+        "time": "清晨"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        3
+      ]
+    },
+    {
+      "id": "时间/02-正午",
+      "file": "time/02-正午.png",
+      "label": "正午",
+      "category": "time",
+      "status": "candidate",
+      "conditions": {
+        "time": "正午"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        4
+      ]
+    },
+    {
+      "id": "时间/03-深夜",
+      "file": "time/03-深夜.png",
+      "label": "深夜",
+      "category": "time",
+      "status": "candidate",
+      "conditions": {
+        "time": "深夜"
+      },
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        5
+      ]
+    },
+    {
+      "id": "空间定位/01-星沙城与王室宫殿",
+      "file": "layout/01-星沙城与王室宫殿.png",
+      "label": "星沙城与王室宫殿",
+      "category": "layout",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-city-location.json"
+    },
+    {
+      "id": "视角/02-海湾滨水视角",
+      "file": "views/02-海湾滨水视角.png",
+      "label": "海湾滨水视角",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        0
+      ]
+    },
+    {
+      "id": "视角/03-跨海桥近景",
+      "file": "views/03-跨海桥近景.png",
+      "label": "跨海桥近景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        1
+      ]
+    },
+    {
+      "id": "视角/04-群岛高空鸟瞰",
+      "file": "views/04-群岛高空鸟瞰.png",
+      "label": "群岛高空鸟瞰",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        2
+      ]
+    }
+  ],
+  "history": []
+}

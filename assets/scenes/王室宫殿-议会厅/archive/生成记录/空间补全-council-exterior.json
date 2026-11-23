@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: precise-object-edit. ONE landscape 16:9 corrected exterior location frame of SAME lower royal council wing. Reference 1 is AUTHORITATIVE for exact window-side view of interior: from WEST bay window looking EAST, the NORTH jade star-map wall is on IMAGE LEFT at an oblique angle, tall black-gold bookshelf is BACK WALL center-right, south entrance at FAR RIGHT, council table extends horizontally across window view, SINGLE head chair at LEFT table end, four side chairs two near and two far. Reference2 is edit target for medium-wide exterior architecture: retain same lower wing, three pointed exterior bays, curved terrace, solid cliff and waterfalls and connecting stair at image RIGHT leading to upper palace. Reference3 only confirms location in palace. Correct Reference2 interior perspective so it matches Reference1 INSIDE the three bays: green star map on LEFT SIDE WALL, main black-gold bookshelf on BACK wall, one long table running left-right, one head chair at LEFT and 2+2 side chairs. Do not put star map on back wall centered behind table; do not turn window into opposite end of room. Keep five chairs, empty room, no people. REMOVE all silhouettes/figures visible in UPPER RIGHT audience window of reference2; leave empty chair and warm lanterns there. The target exterior can have slightly more oblique camera angle so window frame separation and left/right interior orientation make physical sense. Bay water and distant island city remain on left, cliff beneath wing retains clear support. High-end feature-film CGI, precise ivory flowing ribs and gold tracery, rich physically based dark wood/leather/jade, warm lights and cool violet dusk, no neon outlines or plastic gloss. No text or labels or panels, no watermarks. Correct spatial correspondence is more important than copying the erroneous center star-map arrangement of reference2.",
+  "references": [
+    "assets/scenes/议会厅/v2/02-窗外向内视角.png",
+    "assets/scenes/议会厅/archive/外景朝向修订前/01-议会厅临湾侧翼外景.png",
+    "assets/scenes/王室宫殿-听政厅/外景定位/02-宫殿三室位置总览.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/议会厅/外景定位/01-议会厅临湾侧翼外景.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-52440f6d-ee5c-4113-9a52-d82a4e73256c.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查：星图位于左侧墙，陈列柜在对面，入口在右；主位在左端、两近两远共五席，符合v2窗外向内的轴线。上层窗内人物已去除。低层临湾侧翼、上行阶梯、山崖瀑布和宫殿关系成立；窗框和局部装饰仍属空间补全，不等于测绘。",
+  "actual_dimensions": [
+    1671,
+    941
+  ],
+  "aspect_ratio": 1.77577,
+  "sha256": "fa90c00a0922636d280d44884315bb2d2f8520743544969731b6459fc8b369b7"
+}

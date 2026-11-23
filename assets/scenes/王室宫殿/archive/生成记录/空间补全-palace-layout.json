@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE landscape 16:9 high-end cinematic CGI royal palace exterior architectural LOCATION GUIDE, a single coherent perspective image, not collage. Image 1 primary for the royal palace architecture: great stepped ivory-gold palace integrated into solid rocky forested cliff, waterfalls and terraces. Image 2 locks exact large pointed gold tracery audience-hall window with rounded projecting balcony. Image 3 locks palace location on LEFT mountain side of Xingsha bay, separate from giant ring-spire main island. Camera from across adjacent bay toward palace at medium-wide elevated three-quarter angle, reveal three connected wings, all physically on cliff terraces, city water behind/below, no floating palace. Main highest central palace wing: one very tall pointed audience window of image 2, audience room above lower terraces. To screen RIGHT of that window and slightly back/uphill, a modest lower-roof attached private wing with one broad flowing arched study window, at approximately SAME occupied floor as audience room. To screen LEFT and one occupied floor below audience room, a broader projecting council wing with a row of tall pointed windows along bay-facing facade and discreet covered connecting gallery. Keep wings readable and close, don't turn palace into three detached castles. Same camera establishes geography; all tall rooms not miniature rooms in tower top. Underline solid rock, waterfall channels and continuous access terraces. Place exactly THREE small elegant Chinese callout labels with thin unobtrusive leader lines, not billboards, pointing precisely to relevant WINDOW/VOLUME: “听政厅” highest central audience window, “理事书房” right attached upper private wing broad window, “议会厅” left projecting lower wing row of windows. No other text. Dusk blue-violet sky, warm windows, fine ivory ribs and gold tracery, physically based stone metal and natural foliage, crisp feature-film CGI, controlled glow. This is a proposed production location reference with clear spatial correspondence, not a floorplan or cutaway. No characters, no panels, no watermark.",
+  "references": [
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/01-光入宫城.png",
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/02-暖窗之内.png",
+    "assets/scenes/星沙城/空间定位/01-星沙城与王室宫殿.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/王室宫殿-听政厅/外景定位/02-宫殿三室位置总览.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-355468d0-4fc6-4761-9c0b-fbd97ac2d913.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查主体、构图、建筑与参考关系。空间补全为设计方案，不是测绘或三维重建。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "fe082f1457d55a391c99ac982ada2f91c691dc4609f27a6b2723caa563ecee34"
+}

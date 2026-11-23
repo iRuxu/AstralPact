@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-19",
+  "authorization": "用户：你新生成的用起来，把旧的放进归档吧",
+  "current": "室内机位/四张新版；局部特写/十二星座状态/十二张",
+  "moves": [
+    {
+      "from": "assets/scenes/议会厅/室内机位/01-正面视角.png",
+      "to": "assets/scenes/议会厅/archive/2026-11-19-新版启用前/室内机位/01-正面视角.png",
+      "sha256": "c06cd15c411a474897277afa1f7a22072814712b74b1f8dab07dbb331303ec06"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png",
+      "to": "assets/scenes/议会厅/室内机位/01-正面视角.png",
+      "sha256": "350fbef40444bb09e95ebe12063b8cc0dae061cbcb16c7d0b2ec0f01cd6aa564"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/02-窗外向内视角.png",
+      "to": "assets/scenes/议会厅/archive/2026-11-19-新版启用前/室内机位/02-窗外向内视角.png",
+      "sha256": "203068bf4644a9cf90a59ccaf50f491446096fa4773d12d0bf637c944d742304"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/风格统一候选/02-窗外向内视角-材质统一候选.png",
+      "to": "assets/scenes/议会厅/室内机位/02-窗外向内视角.png",
+      "sha256": "9917ac60f824aa9634ef405397f4a081357df556182636e7f28dfb9d7c0f9f86"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/03-垂直俯视视角.png",
+      "to": "assets/scenes/议会厅/archive/2026-11-19-新版启用前/室内机位/03-垂直俯视视角.png",
+      "sha256": "e408d46555f165f1b9ebee6be9450606d7aa73aef4a05b0fa54371ed70d0c387"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/风格统一候选/03-垂直俯视视角-材质统一候选.png",
+      "to": "assets/scenes/议会厅/室内机位/03-垂直俯视视角.png",
+      "sha256": "4157b4b76bf5715d1331e2e83057e31b7d325a5927f832529d5658cfe55aa463"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/04-背面反打视角.png",
+      "to": "assets/scenes/议会厅/archive/2026-11-19-新版启用前/室内机位/04-背面反打视角.png",
+      "sha256": "257cd661c50c9ae3e4e0f9eb0b8660f36ee2814977892abd07f262278055d3b4"
+    },
+    {
+      "from": "assets/scenes/议会厅/室内机位/风格统一候选/04-背面反打视角-材质统一候选.png",
+      "to": "assets/scenes/议会厅/室内机位/04-背面反打视角.png",
+      "sha256": "d08d4702617a7adc86ed54761a71ed74032948746500697f7f511df461a4cc01"
+    },
+    {
+      "from": "assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+      "to": "assets/scenes/议会厅/archive/2026-11-19-新版启用前/局部特写/01-青玉星图-金牛座-候选.png",
+      "sha256": "be710780323147a3e655318829c281bb4d86e84551e205d50506e8edf5c319ae"
+    }
+  ],
+  "history": "历史生成JSON未改写；旧输入路径按当时项目根目录解释，现存文件按本映射查找。"
+}

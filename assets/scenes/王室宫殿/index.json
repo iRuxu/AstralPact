@@ -1,0 +1,27 @@
+{
+  "name": "王室宫殿",
+  "mainImage": "外景机位/01-清晨云雾",
+  "images": [
+    {
+      "id": "外景机位/01-清晨云雾",
+      "file": "index.png",
+      "label": "清晨云雾",
+      "category": "weather",
+      "status": "candidate",
+      "conditions": {
+        "time": "清晨",
+        "weather": "云雾"
+      },
+      "promptRecord": "archive/生成记录/清晨云雾-生成记录.json"
+    },
+    {
+      "id": "空间定位/01-宫殿三室位置总览",
+      "file": "layout/01-宫殿三室位置总览.png",
+      "label": "宫殿三室位置总览",
+      "category": "layout",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-palace-layout.json"
+    }
+  ],
+  "history": []
+}

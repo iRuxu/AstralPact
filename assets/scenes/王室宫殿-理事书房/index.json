@@ -1,0 +1,59 @@
+{
+  "name": "王室宫殿-理事书房",
+  "mainImage": "室内机位/01-理事书房全景",
+  "images": [
+    {
+      "id": "外景定位/01-理事书房侧翼外景",
+      "file": "layout/01-理事书房侧翼外景.png",
+      "label": "理事书房侧翼外景",
+      "category": "layout",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-study-exterior.json"
+    },
+    {
+      "id": "室内机位/01-理事书房全景",
+      "file": "index.png",
+      "label": "理事书房全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        0
+      ]
+    },
+    {
+      "id": "室内机位/02-临窗侧向全景",
+      "file": "views/02-临窗侧向全景.png",
+      "label": "临窗侧向全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        1
+      ]
+    },
+    {
+      "id": "室内机位/03-书案正面反打",
+      "file": "views/03-书案正面反打.png",
+      "label": "书案正面反打",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        2
+      ]
+    },
+    {
+      "id": "室内机位/04-入口斜向全景",
+      "file": "views/04-入口斜向全景.png",
+      "label": "入口斜向全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/生成提示词.json",
+      "promptEntry": [
+        3
+      ]
+    }
+  ],
+  "history": []
+}

@@ -1,0 +1,214 @@
+{
+  "name": "王室宫殿-议会厅",
+  "mainImage": "室内机位/01-正面视角",
+  "images": [
+    {
+      "id": "外景定位/01-议会厅临湾侧翼外景",
+      "file": "layout/01-议会厅临湾侧翼外景.png",
+      "label": "议会厅临湾侧翼外景",
+      "category": "layout",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-council-exterior.json"
+    },
+    {
+      "id": "室内机位/01-正面视角",
+      "file": "index.png",
+      "label": "正面视角",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-材质统一与星图特写.json",
+      "promptEntry": [
+        "wide"
+      ]
+    },
+    {
+      "id": "室内机位/02-窗外向内视角",
+      "file": "views/02-窗外向内视角.png",
+      "label": "窗外向内视角",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-三机位统一与圆框修正.json",
+      "promptEntry": [
+        "shots",
+        0
+      ]
+    },
+    {
+      "id": "室内机位/03-垂直俯视视角",
+      "file": "views/03-垂直俯视视角.png",
+      "label": "垂直俯视视角",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-三机位统一与圆框修正.json",
+      "promptEntry": [
+        "repairs",
+        1
+      ]
+    },
+    {
+      "id": "室内机位/04-背面反打视角",
+      "file": "views/04-背面反打视角.png",
+      "label": "背面反打视角",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-三机位统一与圆框修正.json",
+      "promptEntry": [
+        "repairs",
+        0
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/01-白羊座",
+      "file": "details/十二星座状态/01-白羊座.png",
+      "label": "白羊座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        0
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/02-金牛座",
+      "file": "details/十二星座状态/02-金牛座.png",
+      "label": "金牛座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        1
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/03-双子座",
+      "file": "details/十二星座状态/03-双子座.png",
+      "label": "双子座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        2
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/04-巨蟹座",
+      "file": "details/十二星座状态/04-巨蟹座.png",
+      "label": "巨蟹座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        3
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/05-狮子座",
+      "file": "details/十二星座状态/05-狮子座.png",
+      "label": "狮子座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        4
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/06-处女座",
+      "file": "details/十二星座状态/06-处女座.png",
+      "label": "处女座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        5
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/07-天秤座",
+      "file": "details/十二星座状态/07-天秤座.png",
+      "label": "天秤座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        6
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/08-天蝎座",
+      "file": "details/十二星座状态/08-天蝎座.png",
+      "label": "天蝎座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        7
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/09-射手座",
+      "file": "details/十二星座状态/09-射手座.png",
+      "label": "射手座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        8
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/10-摩羯座",
+      "file": "details/十二星座状态/10-摩羯座.png",
+      "label": "摩羯座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        9
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/11-水瓶座",
+      "file": "details/十二星座状态/11-水瓶座.png",
+      "label": "水瓶座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        10
+      ]
+    },
+    {
+      "id": "局部特写/十二星座状态/12-双鱼座",
+      "file": "details/十二星座状态/12-双鱼座.png",
+      "label": "双鱼座",
+      "category": "detail",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-十二星座状态.json",
+      "promptEntry": [
+        "states",
+        11
+      ]
+    },
+    {
+      "id": "第二集候选/01-日间窗边谈话区",
+      "file": "views/01-日间窗边谈话区.png",
+      "label": "日间窗边谈话区",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-councilDay.json"
+    }
+  ],
+  "history": []
+}

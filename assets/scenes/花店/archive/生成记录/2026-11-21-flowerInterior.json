@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 cinematic CGI environment still, no collage, no text/watermark, NO characters. High-end feature-film CGI, individually detailed petals, natural fine glass/cotton/wood surfaces, soft morning warm key and cool fill, precise natural detail, controlled bloom. Interior of EXACT florist from attached exterior, as viewed from open arched entrance toward rear wall. Cozy oval single-room florist, warm ivory curved walls and thin gold-framed windows, pale oak shelves and weathered oak floral worktable at BACK CENTER, sink and cutting tools at BACK RIGHT, refrigerated cut flower cabinets at BACK LEFT, large front window to RIGHT admits sunrise. Narrow clear central walking aisle. No cafe or royal banquet. Abundant dreamed beautiful bouquets, wooden flower stands and hanging greenery. Chinese twelve month flower collection mixed with Western roses and baby's breath: arrange clear separate ceramic vessels/planters displaying plum blossoms, apricot blossoms, peach blossoms, peonies, pomegranate flowers, LOTUS in shallow water basin, tall hollyhock stalks, tiny golden osmanthus flowering branches, chrysanthemums, hibiscus mutabilis, camellias, Chinese narcissus in pebble bowl. Pink/ivory roses and baby's breath additional prominent front foreground. These are florist stock gathered across seasons, not all growing together in garden. All plants have plausible stems/containers, windows show vague street, no giant new palace outside. Empty work surface center suitable later one card and vase. No laptop/hacker equipment yet. Readable operating space amid flowers.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-a5be8684-3265-45c1-8668-cf6bedf4b1ea.png",
+      "current_project_path": "assets/scenes/花店/候选/01-坡道花店外景.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/候选/02-花店内部全景.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

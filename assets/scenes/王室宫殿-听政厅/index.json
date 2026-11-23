@@ -1,0 +1,31 @@
+{
+  "name": "王室宫殿-听政厅",
+  "mainImage": "室内机位/01-入口看向主位",
+  "images": [
+    {
+      "id": "室内机位/01-入口看向主位",
+      "file": "index.png",
+      "label": "入口看向主位",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-audience-front.json"
+    },
+    {
+      "id": "室内机位/02-主位看向入口",
+      "file": "views/02-主位看向入口.png",
+      "label": "主位看向入口",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-audience-reverse.json"
+    },
+    {
+      "id": "室内机位/03-临窗侧向全景",
+      "file": "views/03-临窗侧向全景.png",
+      "label": "临窗侧向全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/空间补全-audience-side.json"
+    }
+  ],
+  "history": []
+}

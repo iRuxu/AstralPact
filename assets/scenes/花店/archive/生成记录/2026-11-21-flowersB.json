@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 high-end feature-film CGI still, physically based delicate flowers and architecture, soft morning golden sunlight subtle cool fill, crisp natural details, NO people/animals, NO text watermark or collage. Close botanical display inside same flower shop, one coherent physical arrangement at side window on wooden tiered shelf, NOT collage. Show SIX distinct flowers in separate containers with clear unique forms: BACK LEFT tall HOLLYHOCK stalks carrying stacked pale pink and magenta funnel flowers; BACK RIGHT fragrant OSMANTHUS branches with tiny GOLDEN yellow four-petal clusters and glossy green leaves, NOT huge forsythia blossoms. FOREGROUND LEFT full CHRYSANTHEMUMS with many narrow curled petals in gold and pale lavender. MIDDLE lovely HIBISCUS MUTABILIS pale pink five-petal flowers with prominent long central staminal columns and broad lobed leaves. RIGHT RED CAMELLIA rounded layered waxy petals, shiny dark oval leaves. NEAR CENTER shallow pebble bowl with CHINESE NARCISSUS white six tepals and small yellow cups, upright strap leaves and visible bulbs. Modest pink ROSES and wispy white baby's breath frame lower edge, do not obscure six main species. Dew, ceramic vessels, golden morning, sharp flowers throughout, background gentle blur.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-31abb88b-368d-4be5-9f54-9de09b65632d.png",
+      "current_project_path": "assets/scenes/花店/候选/02-花店内部全景.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/archive/花材B桂花修订前/05-十二花材陈列B.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "过程版本，已被修订替代",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 high-end feature-film CGI still, physically based delicate flowers and architecture, soft morning golden sunlight subtle cool fill, crisp natural details, NO people/animals, NO text watermark or collage. Reverse angle of SAME florist interior, camera near back-center worktable looking toward FRONT arched open entrance. Reference1 fixes room and furniture, ref2 fixes front facade. Rectangular worn oak worktable low foreground with pruning scissors, neutral paper and empty vase, no card yet. Fridge cabinet now on camera RIGHT (was left entering), sink/tools on camera LEFT (was back right entering), front door centered middle distance, front window on LEFT (was right entering). Keep ivory oval room, gold arch frames, ceiling oval skylight and small glass pendant lights, wooden flower shelves, potted and cut flowers, open central passage. Through entrance see road and opposite ivory balustrade, turquoise SEA and soft sunrise beyond; do NOT show stock exchange directly through door because it lies uphill off to side. No giant duplicate star tower. Airy pink roses baby's breath and natural flowering branches around edges, logical same footprint, not new shop.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-31abb88b-368d-4be5-9f54-9de09b65632d.png",
+      "current_project_path": "assets/scenes/花店/候选/02-花店内部全景.png",
+      "role": "参考分工及优先级见完整提示词"
+    },
+    {
+      "order": 2,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-a5be8684-3265-45c1-8668-cf6bedf4b1ea.png",
+      "current_project_path": "assets/scenes/花店/候选/01-坡道花店外景.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/候选/03-工作台看向店门反打.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

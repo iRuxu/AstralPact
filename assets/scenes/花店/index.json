@@ -1,0 +1,58 @@
+{
+  "name": "花店",
+  "mainImage": "候选/01-坡道花店外景",
+  "images": [
+    {
+      "id": "候选/01-坡道花店外景",
+      "file": "index.png",
+      "label": "坡道花店外景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-21-flowerExterior.json"
+    },
+    {
+      "id": "候选/02-花店内部全景",
+      "file": "views/02-花店内部全景.png",
+      "label": "花店内部全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-21-flowerInterior.json"
+    },
+    {
+      "id": "候选/03-工作台看向店门反打",
+      "file": "views/03-工作台看向店门反打.png",
+      "label": "工作台看向店门反打",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-21-flowerReverse.json"
+    },
+    {
+      "id": "候选/04-十二花材陈列A",
+      "file": "views/04-十二花材陈列A.png",
+      "label": "十二花材陈列A",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-十二花材核对修订.json",
+      "promptEntry": [
+        "images",
+        0
+      ]
+    },
+    {
+      "id": "候选/05-十二花材陈列B",
+      "file": "views/05-十二花材陈列B.png",
+      "label": "十二花材陈列B",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-十二花材核对修订.json",
+      "promptEntry": [
+        "images",
+        1
+      ]
+    }
+  ],
+  "history": [],
+  "tags": [
+    "星沙城"
+  ]
+}

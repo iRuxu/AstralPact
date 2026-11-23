@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 cinematic environment still, high-end feature-film CGI, physically based textures, crisp natural details, soft morning sunlight, no humans or animal characters, no words signage captions or watermark. Street corner along winding slope below purple stock exchange on same island. Ground-level wider view providing stage for bull rideshare driver and horse delivery courier later, currently EMPTY. Beautiful white-gold flowing low-rise neighborhood, sea view beyond balustrade at left, purple exchange visible uphill in distance. A large freestanding dark glass financial display on right sidewalk with simple rising cyan amber line graphics NO words/numbers. Safe curbside pickup bay with ONE modest pale silver rideshare car, visible phone cradle through windshield, no taxi roof light. ONE parked practical delivery e-bike with plain yellow insulated box near storefront, no logos. Clear sidewalk in foreground for crowd, road leading uphill, approachable ordinary city life with fine cobbles, planted trees. No random space rockets or giant ring here, no police.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-35778444-bda0-4cbf-bdbc-a3cb051cc400.png",
+      "current_project_path": "assets/scenes/星契交易所/第二集候选/01-海岛日出与山顶交易所.png",
+      "role": "参考分工及优先级见完整提示词"
+    },
+    {
+      "order": 2,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/交易所坡道街区/01-街角行情屏与接单街区.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "用户已确认，最终采用版本",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README",
+  "adoption": {
+    "date": "2026-11-21",
+    "status": "用户明确确认为最终采用版本",
+    "scope": "01–04四张街区空景；用户原话：好的，就作为最终版本"
+  },
+  "original_output_path": "assets/scenes/交易所坡道街区/候选/01-街角行情屏与接单街区.png"
+}

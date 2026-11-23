@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE landscape 16:9 reverse camera view of EXACT SAME EMPTY royal audience room in image1, with image2 ONLY for original window tracery and luxurious sheer-curtain material. Same narrow intimate ivory-gold vaulted room, same floral carved wall reliefs, green and gold upholstered royal seat, one ring chandelier, continuous polished stone with circular gold floral floor medallion, lotus lamps and white flowering vase. REMOVE every character, no people/animals. NEW CAMERA immediately behind NORTH royal seat looking SOUTH to entrance: upper carved back of the SINGLE royal chair in lower CENTER foreground on same curved shallow platform, its front faces away from camera. SOUTH wall now BACKGROUND has one centered graceful black-gold double door inside ivory arch, restrained floral reliefs and lotus floor lanterns; this door is newly revealed modest continuation of same room. EAST window is now IMAGE LEFT with same embroidered gauze curtain, open balcony and distant bay BELOW. WEST solid ivory floral wall is IMAGE RIGHT. Armillary table and white flowering vase now IMAGE LEFT near foreground beside royal chair, not duplicated on right. Clear empty reception floor between camera/chair and entrance, no desk or council table or extra chairs. Existing ring chandelier hangs midroom overhead same position as image1. Keep exact materials, carving scale and PBR finish of image1; no redesign, no expanded cathedral, no endless extra windows. Soft warm lamps and cool blue-violet dusk window fill. Crisp natural feature-film CGI, restrained gold highlights, no smear, no labels, no collage or watermark.",
+  "references": [
+    "assets/scenes/王室宫殿-听政厅/室内机位/01-入口看向主位.png",
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/02-暖窗之内.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/王室宫殿-听政厅/室内机位/02-主位看向入口.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-dc434e22-3e41-41bd-8483-d76671a356c4.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "反打中主座背面在前景、临湾窗转到左侧、入口在远端，浑天仪与白花亦位于左前景。新门与墙饰为本轮补设计，纱帘和花卉局部形态有生成差异。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "666182ae8a041eff620c5dfac49719a74ce8a4e57f4059608742e3e71db8bb23"
+}

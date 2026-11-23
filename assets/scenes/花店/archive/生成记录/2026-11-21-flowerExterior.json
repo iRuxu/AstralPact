@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 cinematic environment still, high-end feature-film CGI, physically based textures, crisp natural details, soft morning sunlight, no humans or animal characters, no words signage captions or watermark. Ground-level closer street view of the EXACT flower shop in reference island scene. Preserve ivory curved facade and roof, blush pink awning over RIGHT window, gold narrow arched windows and central arched glazed entrance, simple small eight-point ornament above. Cozy independent florist, abundant flowering buckets and planters arranged but open door walkway. White-pink roses and baby's breath, peonies, flowering branches, green trailing plants. Sea-island uphill roadside, shop on LEFT side of frame, winding road climbs behind toward purple crystal exchange at upper RIGHT, building reference remains smaller in background. Ocean visible past balustrade on far side of road. Early golden sunlight, dreamy airy but detailed, same white-gold futuristic coastal city not French medieval village. Modest affordable warm interior visible behind glass. No cafe tables/food, no shop name invented.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-35778444-bda0-4cbf-bdbc-a3cb051cc400.png",
+      "current_project_path": "assets/scenes/星契交易所/第二集候选/01-海岛日出与山顶交易所.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/候选/01-坡道花店外景.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

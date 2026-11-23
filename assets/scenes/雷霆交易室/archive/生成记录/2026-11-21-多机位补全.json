@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "reference": [
+    {
+      "order": 1,
+      "path": "候选/01-交易桌与入口全景.png",
+      "role": "用户认可原版，锁建筑、布局、陈设、材质和日光"
+    }
+  ],
+  "status": "原01获用户认可，本次02–05新图待用户审阅",
+  "outputs": [
+    {
+      "file": "候选/02-交易席与入口方向.png",
+      "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic empty environment still, no collage, no people or animals. Reference image 1 is the approved Lei Ting trading office, authoritative for ALL architecture, furniture, prop design and daylight. Preserve this exact room, not a redesign. Dark teal inset shelves on back wall with gold eel sculpture, books and minerals; double dark wood brass-inlaid doors on right wall; arched ocean window on left wall; curved walnut trading desk with three monitors and ONE black ergonomic chair on camera-facing operator side; rug, teal sofa sitting area on original camera side. Maintain all relative positions. High-end feature-film CGI, physically based materials, crisp wood grain, brushed brass, soft coastal daylight, warm ceiling strips, natural contact shadows, restrained reflections, no plastic sheen or excessive blur. Abstract cyan/amber charts only, no readable text. Camera in the operator area beside the ergonomic chair, looking RIGHT toward the existing closed double entrance doors. Desk edge and edges/backs of monitor array in left foreground for spatial context; door with original brass lever is the main midground subject, dark teal shelves on left. Eye-level medium wide shot, 35mm. Do not move door onto shelf wall. No new furniture.",
+      "source": "/Users/iruxu/.codex/generated_images/01a1fe97-1eea-7752-90f4-760bf3a92b7f/exec-d3f6ce2f-3f85-44e7-9cd1-1973d74377dc.png",
+      "postprocessing": false,
+      "inspection": "桌窗柜门总体关系延续，陈设细节有生成偏差。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "候选/03-交易区宽景.png",
+      "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic empty environment still, no collage, no people or animals. Reference image 1 is the approved Lei Ting trading office, authoritative for ALL architecture, furniture, prop design and daylight. Preserve this exact room, not a redesign. Dark teal inset shelves on back wall with gold eel sculpture, books and minerals; double dark wood brass-inlaid doors on right wall; arched ocean window on left wall; curved walnut trading desk with three monitors and ONE black ergonomic chair on camera-facing operator side; rug, teal sofa sitting area on original camera side. Maintain all relative positions. High-end feature-film CGI, physically based materials, crisp wood grain, brushed brass, soft coastal daylight, warm ceiling strips, natural contact shadows, restrained reflections, no plastic sheen or excessive blur. Abstract cyan/amber charts only, no readable text. Camera immediately inside the RIGHT-wall doorway, looking diagonally LEFT toward the operator's black chair and curved walnut desk. Show chair in foreground three-quarter rear/side, the THREE chart display faces beyond it, coastal arched window behind desk to left, built-in dark teal shelf wall to right background. 28mm wide establishing shot, room layout exactly consistent. No extra chair or second desk.",
+      "source": "/Users/iruxu/.codex/generated_images/01a1fe97-1eea-7752-90f4-760bf3a92b7f/exec-da8ad756-40c6-4dfa-934a-d63359e00873.png",
+      "postprocessing": false,
+      "inspection": "实际生成更接近交易区宽景，未完全实现门内反打，按实际画面命名。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "候选/04-窗侧看向入口.png",
+      "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic empty environment still, no collage, no people or animals. Reference image 1 is the approved Lei Ting trading office, authoritative for ALL architecture, furniture, prop design and daylight. Preserve this exact room, not a redesign. Dark teal inset shelves on back wall with gold eel sculpture, books and minerals; double dark wood brass-inlaid doors on right wall; arched ocean window on left wall; curved walnut trading desk with three monitors and ONE black ergonomic chair on camera-facing operator side; rug, teal sofa sitting area on original camera side. Maintain all relative positions. High-end feature-film CGI, physically based materials, crisp wood grain, brushed brass, soft coastal daylight, warm ceiling strips, natural contact shadows, restrained reflections, no plastic sheen or excessive blur. Abstract cyan/amber charts only, no readable text. Camera close to the left coastal window, looking diagonally across the walnut desk toward the right-wall double entrance. Show the back or oblique edge of the existing three-monitor array in foreground, chair beyond desk on its original operator side, shelves along rear wall and closed entrance further right; teal sofa at far right edge on original camera side. 32mm eye-level lateral wide shot. Keep passage between operator seat and doorway open. IMPORTANT this is a substantially new SIDE VIEW from the WINDOW, NOT a recreation of the reference camera. Monitor BACKS face this camera, door on opposite side of room.",
+      "source": "/Users/iruxu/.codex/generated_images/01a1fe97-1eea-7752-90f4-760bf3a92b7f/exec-d4e5d46f-715f-4189-bfe9-bd3f64401c17.png",
+      "postprocessing": false,
+      "inspection": "已生成显示器背面与入口的侧向观察；陈设小物和桌灯位置存在生成漂移，不宜直接作为逐像素空间依据。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "候选/05-入口门把手近景.png",
+      "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic empty environment still, no collage, no people or animals. Reference image 1 is the approved Lei Ting trading office, authoritative for ALL architecture, furniture, prop design and daylight. Preserve this exact room, not a redesign. Dark teal inset shelves on back wall with gold eel sculpture, books and minerals; double dark wood brass-inlaid doors on right wall; arched ocean window on left wall; curved walnut trading desk with three monitors and ONE black ergonomic chair on camera-facing operator side; rug, teal sofa sitting area on original camera side. Maintain all relative positions. High-end feature-film CGI, physically based materials, crisp wood grain, brushed brass, soft coastal daylight, warm ceiling strips, natural contact shadows, restrained reflections, no plastic sheen or excessive blur. Abstract cyan/amber charts only, no readable text. Tight cinematic close shot of the approved right-wall dark wood double door's existing brass lever handle and its rectangular backplate, at hand height. Match original handle on LEFT leaf near central seam and curved thin brass door inlay, precise wood grain and brushed metal; warm wall sconce reflected softly. Interior room side camera, door CLOSED, no hand, no character, no extra lock or duplicated handle. 70mm, crisp handle and wood, subtle shallow depth only.",
+      "source": "/Users/iruxu/.codex/generated_images/01a1fe97-1eea-7752-90f4-760bf3a92b7f/exec-82c08802-7155-4429-93d4-daef88fd25bc.png",
+      "postprocessing": false,
+      "inspection": "门把手近景清晰；把手背板比例与原全景有差异，人物开门分镜应再以原图校准。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "adoption_update": {
+    "date": "2026-11-21",
+    "status": "用户明确认可01–05全部作为正式版采用",
+    "current_directory": "assets/scenes/雷霆交易室/室内机位/",
+    "historical_path_note": "原生成路径保留生成时事实；候选目录已整体移至室内机位。"
+  }
+}

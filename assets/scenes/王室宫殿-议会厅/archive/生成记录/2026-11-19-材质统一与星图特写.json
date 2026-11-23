@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "制作候选，待用户验收；原四机位未替换",
+  "model": "工具未暴露",
+  "postprocessing": "无",
+  "wide": {
+    "prompt": "Use case: style-transfer. ONE standalone 16:9 cinematic empty council interior candidate. Image 1 is the EDIT TARGET and authoritative for exact camera, room geometry, furniture placement and design. Images 2 and 3 are royal audience hall and study STYLE references only, not room layouts. Refine image 1 only slightly toward the same palace family: elegant ivory stone ribs with fine natural mineral grain, restrained champagne-gold carved filigree with realistic roughness rather than hard bright outlines, softly translucent muted celadon jade, finely grained dark timber, supple black leather with subtle pores, woven navy carpet. High-end feature-film CGI, physically based materials, crisp natural fine detail, warm soft lantern key and subtle blue dusk fill, controlled highlights and believable contact shadows. Preserve rectangular black-and-gold table and its star orbit inlay and near-end floral ornaments, exactly five chairs (head seat plus two on each long side, no near-end chair), left bay city windows, right alternating wide dark display bays and narrow jade panels with continuous arches, rear circular jade Taurus star chart flanked by two BLACK banners with golden EASTERN dragons, open circular filigree chandelier and slender hanging lights. Keep existing blue dusk waterfront vista and architecture. Unify carved floral detailing and softly layered materials with images 2/3 without adding study desk, throne platform, curtains, extra furniture or people. Rear star chart is an inset jade optical celestial panel: fixed fine gold rim, stable jade mineral base with sparse restrained glowing gold Taurus star points and thin connecting light lines, not sculpted bull, no zodiac glyph or words. Preserve original composition and identity of this room. No collage, no text, no watermark. Native detailed image.",
+    "references": [
+      "assets/scenes/议会厅/室内机位/01-正面视角.png",
+      "assets/scenes/王室宫殿-听政厅/室内机位/01-入口看向主位.png",
+      "assets/scenes/王室宫殿-理事书房/室内机位/01-理事书房全景.png"
+    ],
+    "reference_roles": [
+      "原图锁布局、机位与陈设",
+      "听政厅仅锁材质与建筑细节风格",
+      "书房仅锁材质与建筑细节风格"
+    ],
+    "output": "室内机位/风格统一候选/01-正面视角-材质统一候选.png",
+    "inspection": "五席、左窗右柜、黑龙旗、金牛星图保留；风格微调幅度较小，未宣称全机位统一完成。",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  "close": {
+    "prompt": "Use case: stylized-concept. Create ONE standalone cinematic 16:9 CLOSE DETAIL SHOT of the circular jade celestial chart on the rear wall of the exact council chamber in attached reference image 1. Image 1 is authoritative for fixed star pattern, material, gold rim, surrounding ivory wall and black dragon banners. Move camera straight forward at chart center height, frontal symmetrical view, almost orthographic lens, entire circular rim fits inside frame with modest margin above and below; circle fills about 80 percent image height, flanking inner edges of the black gold-dragon banners and ivory architectural ribs provide location context. Exclude table and chairs and chandelier from this high close view. This is an embedded flat jade magical optical display, not a mechanical astrolabe, no center ball, no animal relief. Preserve same Taurus constellation lines and bright points visible in reference, with softly luminous fine gold lines appearing within translucent smoky deep celadon jade, fine mineral veins and subtle cloudy depth. Fixed concentric finely carved champagne-gold rim with physically credible surface roughness and delicate floral carving harmonizing royal palace decor. Reveal exquisite jade grain and star-light depth, not harsh neon or a modern monitor. Render a stable Taurus state suitable as insert establishing that this surface will later cycle through twelve constellation states. Do NOT show multiple zodiac signs, multiple circles, transition double exposure, text, labels or glyphs. High-end feature-film CGI, physically based materials, soft warm side key motivated by sconces, cool subtle fill, controlled highlights, crisp natural detail, no bloom haze, no collage. This close shot is a new camera view of SAME wall, not redesign.",
+    "references": [
+      "室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+    ],
+    "reference_roles": [
+      "本轮候选锁星图、圆框、墙面及照明；尚未经用户确认"
+    ],
+    "dimensions": [
+      1672,
+      941
+    ],
+    "output": "局部特写/01-青玉星图-金牛座-候选.png",
+    "inspection": "完整圆框、玉石底与两面龙旗清楚；大体星图沿用，但小星团排列与圆框花饰较全景有所变化；不是像素级一致底板。星位未做天文精确核验。十二状态和动态未制作。"
+  }
+}

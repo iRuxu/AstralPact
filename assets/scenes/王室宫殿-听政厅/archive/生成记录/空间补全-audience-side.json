@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE standalone 16:9 EMPTY audience chamber SIDE VIEW, same room as image1, same room as image2's externally glimpsed royal reception. Image1 PRIMARY for complete new empty room layout/materials; image2 locks original royal chair/platform seen from window, flowing ivory-gold arch window and gauze curtains. Camera just inside EAST panoramic window looking WEST across empty open reception floor. NORTH royal seat on IMAGE RIGHT in profile facing LEFT into room, on same shallow curved platform, chair front faces south. WEST background is ivory floral-relief wall with lotus lamps, not another panoramic window; SOUTH entrance lies IMAGE LEFT background in an oblique side wall, not centered behind throne. Armillary side table and white flowering vase are near RIGHT foreground beside seat on window side, NO duplicates. Include slender window arch and gauzy curtain at near frame edge to motivate viewpoint, but do not obscure seat. One gold ring chandelier, same polished gold-flower medallion stone floor, same jade-green floral chair and flowing ivory ribs. Empty standing space for petitioning ministers occupies center/left, no desk no meeting table no extra seat no people/animals. Warm interior with cool dusk window fill, feature-film CGI, PBR distinct stone gold jade textiles, crisp natural detail, restrained reflections and bloom. Do not mirror throne orientation. No text, collage, watermark.",
+  "references": [
+    "assets/scenes/王室宫殿-听政厅/室内机位/01-入口看向主位.png",
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/02-暖窗之内.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/王室宫殿-听政厅/室内机位/03-临窗侧向全景.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-8a27a591-8e0b-4876-9be5-febf5b00c581.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查：主位在右、入口在左，临窗前景、浑天仪白花与汇报区清楚；入口开合、台阶与灯具数量仍有局部生成差异。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "3d20cae7cf43e763f1e4b64c3f5ae6cf94ceaa4957133316c53972bca4308649"
+}

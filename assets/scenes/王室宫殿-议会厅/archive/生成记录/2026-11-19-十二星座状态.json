@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-19",
+  "request": "制作十二星座静态状态，方便后续动画",
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "postprocessing": "无：原生输出，仅复制到项目",
+  "status": "十二张状态候选均已生成并目视检查，待用户验收；非动画成片，非精确天文星表复刻",
+  "reference_roles": [
+    "参考图1：同一张已修正圆框的CG星图特写，锁机位、圆框、青玉底、龙旗、墙面、照明",
+    "参考图2：对应星座IAU OAE星图，仅锁目标星座的绿色主连线与主星相对布局，不继承文字、坐标网格、背景及邻近星座"
+  ],
+  "master": "assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+  "sources": {
+    "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU and Sky & Telescope.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "overview": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+    "aries_page": "https://www.astro4edu.org/resources/diagram/4V79cV84bK15/",
+    "notes": "IAU正式定义星座边界，并未统一规定星座连线；本批参照该套图谱的常用连线作美术表现。源图从astro4edu.org下载，未直接使用返回502的旧IAU GIF链接。"
+  },
+  "states": [
+    {
+      "id": "01",
+      "name": "白羊座",
+      "en": "aries",
+      "shape": "A short bent chain of four main stars, following chart green Aries lines only.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/01-白羊座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 白羊座 / aries. A short bent chain of four main stars, following chart green Aries lines only.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/aries.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/aries-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/aries.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-d6cebd1d-0949-4b1a-8e68-e781d744b9be.png",
+      "inspection": "四星折线，圆框及机位保持；存在微小底纹生成差异。",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "7fb2381c85d15aab1707a89aa21faa136fa856cb86c2d7210dd60f4b1d73c34f"
+    },
+    {
+      "id": "02",
+      "name": "金牛座",
+      "en": "taurus",
+      "shape": "V-shaped Hyades face with Aldebaran, two long horns to Elnath and Zeta Tauri; Pleiades is a small irregular detached cluster, not an evenly spaced star wreath.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/02-金牛座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 金牛座 / taurus. V-shaped Hyades face with Aldebaran, two long horns to Elnath and Zeta Tauri; Pleiades is a small irregular detached cluster, not an evenly spaced star wreath.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/taurus.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/taurus-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/taurus.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-fd8e78fd-48f7-4f71-af30-2dd7eb2fb3e0.png",
+      "inspection": "金牛双角与分支及不规则昴星团；连线为美术简化，非精确天文投影。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "654f03a8b9ebe4ac168fa64becb516d38d6a96d462f2d174f9d1802d506e2a0b"
+    },
+    {
+      "id": "03",
+      "name": "双子座",
+      "en": "gemini",
+      "shape": "Two adjacent stick-like star chains headed by Castor and Pollux, connected shoulders and branching legs, as chart Gemini green figure.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/03-双子座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 双子座 / gemini. Two adjacent stick-like star chains headed by Castor and Pollux, connected shoulders and branching legs, as chart Gemini green figure.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/gemini.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/gemini-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/gemini.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-5a8fd2a9-bf59-42a8-9c4f-1b943ed7fdb4.png",
+      "inspection": "双亮星及双分支人体式主星链，接近参考主图。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "5ec1df87dde0839afd54a6f4e46c26ad628abbf0b81f11b9cc2de8aac946c8bf"
+    },
+    {
+      "id": "04",
+      "name": "巨蟹座",
+      "en": "cancer",
+      "shape": "Faint branching inverted-Y star network, following Cancer main figure, with subtle Beehive cluster near center.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/04-巨蟹座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 巨蟹座 / cancer. Faint branching inverted-Y star network, following Cancer main figure, with subtle Beehive cluster near center.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/cancer.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/cancer-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/cancer.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-038b6a60-76ee-4c3a-a55e-fa1988a09c2f.png",
+      "inspection": "倒Y分支与蜂巢星团；主图可辨识。",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "2105604655f6da6deda8ec6b601fede99e490badb6a0acaf5662549b34b82c62"
+    },
+    {
+      "id": "05",
+      "name": "狮子座",
+      "en": "leo",
+      "shape": "Distinct reversed-question-mark sickle headed by Regulus and a triangle-like hindquarter ending at Denebola.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/05-狮子座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 狮子座 / leo. Distinct reversed-question-mark sickle headed by Regulus and a triangle-like hindquarter ending at Denebola.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/leo.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/leo.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-d217890b-678e-4447-aa86-836d09eb07ca.png",
+      "inspection": "镰刀头部与后躯三角保持，主结构接近图谱。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "900b660b7cab57e92456f82b74c8be7ed3019cb458724ab67f61afb44863805a"
+    },
+    {
+      "id": "06",
+      "name": "处女座",
+      "en": "virgo",
+      "shape": "Long branching asymmetric reclining Y-shaped stellar figure, bright Spica on lower branch, matching Virgo chart.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/06-处女座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 处女座 / virgo. Long branching asymmetric reclining Y-shaped stellar figure, bright Spica on lower branch, matching Virgo chart.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/virgo.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/virgo-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/virgo.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-5d235508-b290-42ef-b86e-e195d1a6cd63.png",
+      "inspection": "横向分叉主体与下方角宿一亮星，主结构接近图谱。",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "sha256": "72d763a2432045515f7b8e5a3461bcb575dbe539b8035a4d1c0d1d16c985d525"
+    },
+    {
+      "id": "07",
+      "name": "天秤座",
+      "en": "libra",
+      "shape": "Asymmetric quadrilateral scale-like stellar figure and descending extensions, following Libra green lines.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/07-天秤座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 天秤座 / libra. Asymmetric quadrilateral scale-like stellar figure and descending extensions, following Libra green lines.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/libra.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/libra-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/libra.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-1614b884-1fa7-455d-bb0c-b2485a835de4.png",
+      "inspection": "三角主架与两侧下垂支线，按图谱主要连线简化。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "a4aee77f8c1e8181aaad8e461f90f2556ae152b7d40ecdfb2f0e2c224aabbbe6"
+    },
+    {
+      "id": "08",
+      "name": "天蝎座",
+      "en": "scorpius",
+      "shape": "Antares in long curved body with three short head branches and clearly hooked returning tail ending in close pair Shaula/Lesath.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/08-天蝎座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 天蝎座 / scorpius. Antares in long curved body with three short head branches and clearly hooked returning tail ending in close pair Shaula/Lesath.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/scorpius.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/scorpius.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-6b7c72d0-e6c4-4545-adcd-eb51b4051bbb.png",
+      "inspection": "长弯体、头部分叉和回钩尾明显；尾端双星保持。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "61a92671c92d063131fec6729b4c0bb1ca9d3f657799c4a7e3b6932b358431fa"
+    },
+    {
+      "id": "09",
+      "name": "射手座",
+      "en": "sagittarius",
+      "shape": "Recognizable Sagittarius teapot asterism with lid, handle and spout and adjoining main chart branches; only star nodes and straight segments, not a literal teapot drawing.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/09-射手座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 射手座 / sagittarius. Recognizable Sagittarius teapot asterism with lid, handle and spout and adjoining main chart branches; only star nodes and straight segments, not a literal teapot drawing.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/sagittarius.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/sagittarius.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-ebea6910-af92-4811-acba-7542c0663c1b.png",
+      "inspection": "修成集中茶壶式八主星结构，去掉分散枝线；为图谱参照美术简化，非星表精确坐标复刻。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "f1e4a63032cc344128c720c66d9431947edeaee15580a8d8eabb9e3d710991a9"
+    },
+    {
+      "id": "10",
+      "name": "摩羯座",
+      "en": "capricornus",
+      "shape": "Broad irregular flattened triangular/wedge-shaped main star loop of Capricornus, with connected intermediate star nodes, not goat outline.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/10-摩羯座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 摩羯座 / capricornus. Broad irregular flattened triangular/wedge-shaped main star loop of Capricornus, with connected intermediate star nodes, not goat outline.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/capricornus.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/capricornus-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/capricornus.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-a52014d0-d33e-4114-beba-83468b34a9e3.png",
+      "inspection": "宽楔形闭合星链，主结构清楚。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "5ec6a479bb3ce2243af27ea55ee5ed04b98bb3f03d80f5283de3a94ca6ce84ce"
+    },
+    {
+      "id": "11",
+      "name": "水瓶座",
+      "en": "aquarius",
+      "shape": "Small water-jar Y asterism and long zigzag pouring-water branches of Aquarius, following green star network.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/11-水瓶座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 水瓶座 / aquarius. Small water-jar Y asterism and long zigzag pouring-water branches of Aquarius, following green star network.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/aquarius.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/aquarius-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/aquarius.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-6d574e04-790c-4aac-a740-d2ff41a4a061.png",
+      "inspection": "水罐小星群与下垂多支水流，主图可辨识。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "a7603d5070694d93827926281399b565948e1c15008b0a1ebc1eee71eed236b4"
+    },
+    {
+      "id": "12",
+      "name": "双鱼座",
+      "en": "pisces",
+      "shape": "Two fish asterism loops connected by a long bent V cord meeting at Alrescha; unequal loops, following Pisces chart.",
+      "output": "assets/scenes/议会厅/局部特写/十二星座状态/12-双鱼座.png",
+      "prompt": "Use case: precise-object-edit. Deliver ONE independent landscape 16:9 cinematic animation STATE still. Image 1 is the edit target and immutable master for the complete room wall plate. Image 2 is an IAU OAE / IAU Sky & Telescope star chart, used ONLY for the target constellation main GREEN stick-figure star layout and relative bright-star positions, not its flat map style.\nChange ONLY luminous star points and connecting gold light segments INSIDE the jade circular disc of image 1, replacing ALL old Taurus lines and detached old cluster. TARGET: 双鱼座 / pisces. Two fish asterism loops connected by a long bent V cord meeting at Alrescha; unequal loops, following Pisces chart.\nReproduce the named constellation's recognizable star network from image 2; ignore adjacent constellations, chart boundary lines, grid, ecliptic blue line, annotations, labels and deep-sky markers. Fit entire figure comfortably within jade disc with margin, preserving relative main-star geometry, no arbitrary decorative lines. Only small gold stars of varying brightness, restrained star glints and delicate straight light connections at same luminance and thickness as master. Do not draw animals, humanoids, astrological glyphs, symbols, lettering, circles of zodiac signs or twelve panels.\nCRITICAL LOCK: retain image 1 exact camera, framing, full circular thin concentric gold rim with continuous tiny scroll filigree and NO floral medallions, exact same jade mineral veins/cloud pattern, two side BLACK golden Eastern dragon banners, ivory wall and arch ribs, lower lanterns, color grading and lighting. Do not zoom or change object scale. Star chart reference has NO authority over the background. This is a separate celestial display state on the SAME unmoving physical plate, no transition, no ghost old constellation. High-end feature-film CGI, physically based materials, crisp natural detail. No text, watermark, collage. Output highest native detail, same landscape framing as image 1.",
+      "reference_assets": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/pisces.png"
+      ],
+      "chart_source": "https://www.astro4edu.org/media/diagrams/multimedia/pisces-constellation-map_en.png",
+      "chart_copy": "assets/scenes/议会厅/archive/生成记录/十二星座图谱参考/pisces.png",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-3ba0d970-65e8-4dc5-89d0-438a4b07daf9.png",
+      "inspection": "两个不等星环与长V形连接绳清楚。",
+      "dimensions": [
+        1670,
+        941
+      ],
+      "sha256": "f882642df302d0dd47a36b3632340fc4a0861bd79bee39678f6b5c9559265934"
+    }
+  ],
+  "revision": {
+    "target": "09-射手座",
+    "original": {
+      "id": "09",
+      "path": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-1d344896-39dc-4abf-a06a-b1ef3ec2c592.png",
+      "inspection": "多分支射手星群；连线经过美术概括，茶壶识别度需复核，未作精确星位验收。"
+    },
+    "prompt": "Use case: precise-object-edit. Image 1 is immutable master council jade star display wall; image 2 is IAU OAE Sagittarius star chart for geometry ONLY. Create ONE landscape 16:9 state, camera and exact entire background locked to image 1, including jade veins, slender engraved concentric gold rim, dragon banners, wall and lanterns. Remove ALL old Taurus stars and lines. Display ONLY the well-known EIGHT-MAIN-STAR SAGITTARIUS TEAPOT ASTERISM in thin gold light and small star points. Recognizable connected teapot silhouette: trapezoid body of Kaus Media/Delta, Kaus Australis/Epsilon, Ascella/Zeta and Phi; triangular lid peaking at Kaus Borealis/Lambda; triangular projecting spout at Alnasl/Gamma; small loop-like handle through Nunki/Sigma and Tau. Use actual star asterism geometry from Sagittarius chart, no literal curved pot drawing. Single compact connected network, comfortably centered and fits inside disc, NO extra scattered branches or unrelated constellation. Only stars and straight line segments, no solid shapes, symbols, labels, words or figures. Same restrained gold luminous brightness and high-end physically based feature-film CGI as image 1. No other changes, no collage.",
+    "references": [
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/tmp/research/zodiac/sagittarius.png"
+    ],
+    "reason": "原稿分支分散，茶壶辨识度不足；重绘为集中八主星结构。"
+  },
+  "known_limits": [
+    "保持同一机位、薄金框和宫殿材质；独立生成仍有玉石纹理、金属细纹与星点尺度的微小差异，不能当作像素级固定底板直接整图叠化。",
+    "未生成透明星光分层、无星底板、过渡帧或视频。严格连续动画应固定一张底图，仅让星点/连线层变化。",
+    "星图是图谱参照的可辨识美术状态，个别支线、角度和相对距离有简化；未声称天文精确投影。",
+    "新金牛按图谱重新组织星群，和旧全景金牛方向及连线有差异；同一镜头动画使用本套状态，不与旧金牛静帧混用。",
+    "编号是素材索引，不固定剧情起始状态、周期或单态停留时长。"
+  ]
+}

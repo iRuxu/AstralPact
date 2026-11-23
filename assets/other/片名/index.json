@@ -1,0 +1,21 @@
+{
+  "name": "星契片名字标",
+  "mainImage": "overlay",
+  "images": [
+    {
+      "id": "overlay",
+      "file": "index.png",
+      "label": "透明叠加版",
+      "category": "graphic",
+      "status": "reference"
+    },
+    {
+      "id": "dreamina",
+      "file": "extend/星契-透明片名字标-即梦16x9.png",
+      "label": "即梦 16:9 版",
+      "category": "delivery",
+      "status": "reference"
+    }
+  ],
+  "history": []
+}

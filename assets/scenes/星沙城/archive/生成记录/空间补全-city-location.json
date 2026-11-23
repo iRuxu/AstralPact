@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE landscape 16:9 cinematic production establishing frame for Xingsha City, Hosum. IMAGE 1 city master locks overall exact camera, coastline, waterfall foreground at lower left, winding river estuary, arch bridge network, ivory-gold city architecture and single giant orbital-ring spire on main island at center-right. IMAGE 2 locks identity of ROYAL PALACE, a separate flowing ivory-gold cliff palace with pointed audience windows, long sloping ribs, tiered terraces and waterfalls. Preserve Image 1 almost entirely; ADD the royal palace to the forested coastal cliff at LEFT MIDDLE DISTANCE where highland meets bay, BEHIND the large foreground waterfall rather than replacing waterfall or river. Palace must be clearly readable at city scale, a compact stepped cluster along solid mountain ledges, substantially smaller on screen than ring landmark. Keep natural forest around it, terraced access road from inland river bank to palace base. Palace and giant ring tower are two separate landmarks on opposite sides of same bay, never merge them. Keep bay water, mountains and existing districts. Dusk baseline with pale sunset horizon, cool blue-violet atmosphere and warm palace windows, gentle low mist around cliff only, no thick cloud blocking city. High-end feature-film CGI, physically based ivory stone, fine gold metal detail, crisp natural water foliage and architecture, restrained highlights not neon, readable spatial depth. No characters, text, arrows, labels, collage or watermark. This image establishes the actual city location of palace while preserving existing city geography.",
+  "references": [
+    "assets/scenes/星沙城/09-花夏星-滨海都会.png",
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/01-光入宫城.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/星沙城/空间定位/01-星沙城与王室宫殿.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-46721a39-5700-4020-9b14-17340c5ca9a5.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查主体、构图、建筑与参考关系。空间补全为设计方案，不是测绘或三维重建。",
+  "actual_dimensions": [
+    1671,
+    941
+  ],
+  "aspect_ratio": 1.77577,
+  "sha256": "608fbb99b6f95aaa33397b9bd78c1a1fb554eeb61654f940127e735f3c5d7427"
+}

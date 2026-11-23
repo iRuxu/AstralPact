@@ -1,0 +1,12 @@
+{
+  "images": [
+    {
+      "id": "front",
+      "file": "index.png",
+      "label": "镭射正面概念",
+      "category": "angle",
+      "status": "reference",
+      "prompt": "测试"
+    }
+  ]
+}

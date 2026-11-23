@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "postprocessing": "无",
+  "status": "用户认可正面风格并要求扩展；本轮新增三机位及修正特写待验收",
+  "reference_path_base": "项目根目录；输出路径相对assets/scenes/议会厅",
+  "shots": [
+    {
+      "key": "02",
+      "input": "室内机位/02-窗外向内视角.png",
+      "output": "室内机位/风格统一候选/02-窗外向内视角-材质统一候选.png",
+      "shot": "Keep the exact exterior window-looking-in camera, foreground oval architectural window opening, star-chart wall on LEFT, broad alternating wood/jade display cabinet across CENTER, entrance door on RIGHT, five chairs, long table oriented horizontally. Match furnishings, table floral and orbit inlays and circular open chandelier to image 2, WITHOUT copying its front-facing camera.",
+      "prompt": "Use case: style-transfer. Edit image 1 as ONE independent 16:9 empty council chamber cinematic still. Image 1 authoritative for CAMERA, room geometry, object positions and composition. Image 2 is approved FRONT master of SAME room and authoritative for final materials, furnishing identities and ornament vocabulary. Keep the exact exterior window-looking-in camera, foreground oval architectural window opening, star-chart wall on LEFT, broad alternating wood/jade display cabinet across CENTER, entrance door on RIGHT, five chairs, long table oriented horizontally. Match furnishings, table floral and orbit inlays and circular open chandelier to image 2, WITHOUT copying its front-facing camera. Preserve room and five-seat layout. Where visible, star chart has the exact slender concentric gold rim of image 2: subtle continuous fine engraved leaf/scroll decoration, NO large protruding flower medallions at cardinal points, same Taurus star layout, stable jade base. Keep black gold Eastern dragon banners. Change only finish/lighting details toward image 2, no redesign or added props. High-end feature-film CGI, physically based materials, crisp natural fine detail, restrained champagne gold with roughness variation instead of hard luminous outlines, ivory mineral stone, muted translucent celadon jade, finely grained dark timber, supple black leather pores, woven navy carpet. Soft warm lantern key and subtle blue dusk fill, controlled highlights, natural contact shadows. No people, text, watermark, collage, toy plastic or painterly smears.",
+      "references": [
+        "assets/scenes/议会厅/室内机位/02-窗外向内视角.png",
+        "assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+      ],
+      "reference_roles": [
+        "原机位锁构图与空间",
+        "获用户认可的正面风格基准锁材质与细节"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "key": "03",
+      "input": "室内机位/03-垂直俯视视角.png",
+      "output": "室内机位/风格统一候选/03-垂直俯视视角-材质统一候选.png",
+      "shot": "Keep exact vertical overhead bird-eye composition of image 1, table length vertical in frame, master chair at TOP, two side chairs on each side, no bottom chair, windows LEFT, display cabinet RIGHT, entry BOTTOM, star chart on TOP wall. Retain perspective foreshortening of vertical walls. Match table floral pattern and star-orbit inlays, chairs and carpet to image 2 interpreted correctly from above. No chandelier blocking this overhead diagram-like cinematic camera.",
+      "prompt": "Use case: style-transfer. Edit image 1 as ONE independent 16:9 empty council chamber cinematic still. Image 1 authoritative for CAMERA, room geometry, object positions and composition. Image 2 is approved FRONT master of SAME room and authoritative for final materials, furnishing identities and ornament vocabulary. Keep exact vertical overhead bird-eye composition of image 1, table length vertical in frame, master chair at TOP, two side chairs on each side, no bottom chair, windows LEFT, display cabinet RIGHT, entry BOTTOM, star chart on TOP wall. Retain perspective foreshortening of vertical walls. Match table floral pattern and star-orbit inlays, chairs and carpet to image 2 interpreted correctly from above. No chandelier blocking this overhead diagram-like cinematic camera. Preserve room and five-seat layout. Where visible, star chart has the exact slender concentric gold rim of image 2: subtle continuous fine engraved leaf/scroll decoration, NO large protruding flower medallions at cardinal points, same Taurus star layout, stable jade base. Keep black gold Eastern dragon banners. Change only finish/lighting details toward image 2, no redesign or added props. High-end feature-film CGI, physically based materials, crisp natural fine detail, restrained champagne gold with roughness variation instead of hard luminous outlines, ivory mineral stone, muted translucent celadon jade, finely grained dark timber, supple black leather pores, woven navy carpet. Soft warm lantern key and subtle blue dusk fill, controlled highlights, natural contact shadows. No people, text, watermark, collage, toy plastic or painterly smears.",
+      "references": [
+        "assets/scenes/议会厅/室内机位/03-垂直俯视视角.png",
+        "assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+      ],
+      "reference_roles": [
+        "原机位锁构图与空间",
+        "获用户认可的正面风格基准锁材质与细节"
+      ],
+      "dimensions": [
+        1671,
+        941
+      ]
+    },
+    {
+      "key": "04",
+      "input": "室内机位/04-背面反打视角.png",
+      "output": "室内机位/风格统一候选/04-背面反打视角-材质统一候选.png",
+      "shot": "Keep exact reverse camera behind head chair, its black leather back foreground bottom center, four side seats, entrance double door background center, cabinet LEFT and windows RIGHT. Star chart wall is BEHIND camera and MUST NOT be added into view. Match exact table design and near-end floral inlay of image 2, respecting physical orientation: its decorated near entrance end is now FAR end in reverse view; maintain camera, table size and room layout from image 1. Match doorway and all existing architecture.",
+      "prompt": "Use case: style-transfer. Edit image 1 as ONE independent 16:9 empty council chamber cinematic still. Image 1 authoritative for CAMERA, room geometry, object positions and composition. Image 2 is approved FRONT master of SAME room and authoritative for final materials, furnishing identities and ornament vocabulary. Keep exact reverse camera behind head chair, its black leather back foreground bottom center, four side seats, entrance double door background center, cabinet LEFT and windows RIGHT. Star chart wall is BEHIND camera and MUST NOT be added into view. Match exact table design and near-end floral inlay of image 2, respecting physical orientation: its decorated near entrance end is now FAR end in reverse view; maintain camera, table size and room layout from image 1. Match doorway and all existing architecture. Preserve room and five-seat layout. Where visible, star chart has the exact slender concentric gold rim of image 2: subtle continuous fine engraved leaf/scroll decoration, NO large protruding flower medallions at cardinal points, same Taurus star layout, stable jade base. Keep black gold Eastern dragon banners. Change only finish/lighting details toward image 2, no redesign or added props. High-end feature-film CGI, physically based materials, crisp natural fine detail, restrained champagne gold with roughness variation instead of hard luminous outlines, ivory mineral stone, muted translucent celadon jade, finely grained dark timber, supple black leather pores, woven navy carpet. Soft warm lantern key and subtle blue dusk fill, controlled highlights, natural contact shadows. No people, text, watermark, collage, toy plastic or painterly smears.",
+      "references": [
+        "assets/scenes/议会厅/室内机位/04-背面反打视角.png",
+        "assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+      ],
+      "reference_roles": [
+        "原机位锁构图与空间",
+        "获用户认可的正面风格基准锁材质与细节"
+      ],
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "repairs": [
+    {
+      "target": "04",
+      "prompt": "Use case: precise-object-edit. Image 1 is edit target, a finished reverse view of council chamber. Image 2 is ORIGINAL exact same reverse composition. Restore only the two narrow wall ornaments FLANKING THE ENTRANCE DOOR to their original design from image 2: dark rigid inset decorative wall panels with delicate golden flower stems and blossoms, NO DRAGONS, NO hanging flags or rods. The two dragon flags belong to the OPPOSITE wall behind this camera and must not be copied here. Also restore the small carved floral crest on the foreground master-chair top rail as in image 2. Keep ALL other image 1 materials, light, architecture, door, furniture, camera, table, carpet and city exactly unchanged. High-end feature-film CGI, physically based materials, natural crisp detail. Single 16:9 image, no text.",
+      "references": [
+        "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-a5090d5e-fa7b-4f7e-9264-778a63817115.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/室内机位/04-背面反打视角.png"
+      ],
+      "reason": "初稿误将入口侧花卉墙饰改成龙旗，修回花卉；恢复前景主椅花冠。",
+      "final": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-76fa8150-4a5b-4f89-870c-fa41e4592cf5.png"
+    },
+    {
+      "target": "03",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET is a finished vertical overhead empty council room. Keep image 1 pixel composition, camera, furniture, five chairs, materials and lighting unchanged. Change ONLY the luminous constellation drawing inside the foreshortened jade oval on TOP wall. Image 2 is authoritative front view of the same circular panel: reproduce its complete Taurus branching line network and star points with appropriate strong vertical foreshortening into image 1 top-wall oval. There is a bright branching star toward lower-left of disc, two long rising horn branches to upper right, short descending branch to lower right, plus a sparse little star cluster upper left. Current image 1 has simplified this into two lines: restore complete network as physically foreshortened in this overhead viewpoint. Keep fixed jade disc, gold frame, flags and entire remainder unchanged. Single 16:9 high-end feature-film CGI, no text or collage.",
+      "references": [
+        "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-a1c86213-37e5-47e4-a887-7649bb259bdd.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+      ],
+      "reason": "初稿俯视星图连线简化，修回多分支结构。",
+      "final": "/Users/iruxu/.codex/generated_images/01a1f3c9-4937-72f0-906a-dc7929e1c824/exec-512842bb-0cd6-470c-b292-5e207c63f1cb.png"
+    }
+  ],
+  "close": {
+    "prompt": "Use case: precise-object-edit. ONE 16:9 cinematic detail shot. Image 1 is edit target: existing close view of jade star chart. Image 2 is APPROVED authoritative master front wide view for EXACT rim design. Preserve image 1 close camera, circular full disc, two side black dragon banners, wall, lanterns, materials, lighting. REPLACE ONLY the gold circular frame design to match image 2: slender concentric smooth gold bands and very fine continuous subtle engraved scroll border. REMOVE all four oversized applied floral medallions at top bottom left right. NO protruding flowers, rosettes or symmetrical added decorations. The frame in image 2 is simple fine rings, do not invent ornate flower carving. Match image 2 gold tone and proportional ring thickness to disc. Also match the sparse small cluster of Taurus stars in image 2, not a decorative circular wreath of evenly spaced stars; main constellation shape remains the same as image 2, same jade cloud formations where practical. This is the SAME actual wall seen closer, not new wall decor. High-end feature-film CGI, physically based jade and gold, natural crisp surface detail. No text, no watermark, no collage.",
+    "references": [
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/01-青玉星图-金牛座-候选.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/室内机位/风格统一候选/01-正面视角-材质统一候选.png"
+    ],
+    "reference_roles": [
+      "旧特写锁机位、玉石与照明",
+      "全景权威锁圆框粗细及纹饰"
+    ],
+    "output": "局部特写/01-青玉星图-金牛座-候选.png",
+    "dimensions": [
+      1671,
+      941
+    ],
+    "old_backup": "archive/2026-11-19-星图圆框修订前/01-青玉星图-金牛座-候选.png",
+    "inspection": "去除四方位大花饰，改为细窄同心金圈与连续细纹。完整圆盘与龙旗保留。"
+  },
+  "inspection": "三机位五席和窗柜门关系保留；反打不加入星图，入口花卉墙饰已恢复。生成图的星点、纹饰及柜内小物仍有细微差异，非精确3D投影或像素级匹配；十二状态和动画未制作。"
+}

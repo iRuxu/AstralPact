@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "本轮新生成候选，未获用户逐张验收",
+  "prompt": "Use case: stylized-concept. ONE empty royal AUDIENCE ROOM interior in high-end feature-film CGI, landscape 16:9. Reference image1 is PRIMARY approved audience room: preserve elegant ivory sweeping ribbed arches, fine gold open tracery, warm ring chandelier, queen's dark jade and gold carved chair on a low platform, small armillary side table, pale embroidered gauzy curtains, white flowering branches and blue-purple twilight beyond. REMOVE all queen, officials, animals, tails and silhouettes, retain their architecture and furniture. Image2 is only exterior wing identity and palace situation, not mandate to place city landmark in every window. Camera at SOUTH entrance looking NORTH toward centered solitary royal chair on low TWO broad shallow steps against NORTH decorative ivory/jade/gold wall, show complete floor, ceiling and throne platform, intimate dignified reception room, not huge basilica. A large bay-facing EAST wall pointed window on IMAGE RIGHT matches reference's externally visible audience window and flowing balcony. WEST wall IMAGE LEFT has ivory floral relief panels and two subdued floor lanterns, no treasury shelving. One airy gold ring chandelier centered above audience floor. Small black-gold armillary table at throne's EAST side near window on IMAGE RIGHT; white flowering vase nearby, curtains hang beside window without obscuring chair. Clear open central floor for a few ministers standing before royal seat, no desks, no meeting table, no rows of chairs. Fixed layout: NORTH royal seat, EAST panoramic balcony window, WEST floral wall, SOUTH double entrance behind camera. City is down below window, no giant tower at room height. Soft warm key and subtle cool dusk fill, PBR ivory stone fine metal jade heavy woven upholstery, natural crisp detail, controlled floor reflection, no plastic or neon gold outlines, no excessive blur. Single coherent image no text, label or collage. This is a new spatial expansion of approved window shot, not a redesign into the queen's study.",
+  "references": [
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/02-暖窗之内.png",
+    "assets/scenes/王室宫殿-听政厅/外景定位/02-宫殿三室位置总览.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/王室宫殿-听政厅/室内机位/01-入口看向主位.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-efd0dc9d-6347-496d-a67f-390e7d17a3d1.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "主位、右侧临湾窗、左侧花卉墙、浑天仪边桌和空置汇报区可辨，无人物。新增后墙装饰及窄侧窗属于本轮空间补设计；主位台阶实际为多级弧形平台，不据提示词硬称两级。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "e2a2487cffb03e4ebe2bce67ebe49f90ca2763d44d4318c06659be7af26c99e9"
+}

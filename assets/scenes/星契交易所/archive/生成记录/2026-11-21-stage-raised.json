@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "status": "用户于2026-11-21明确认可并选用，作为当前门前舞台与铜牛基座环境基准；原低台图仅供历史对比",
+  "prompt": "Use case: precise-object-edit. Produce ONE standalone landscape 16:9 cinematic environment image.\nImage 1 is the edit target and authoritative for composition, exact architecture, purple crystal exchange building, daylight, left bronze charging bull, right semicircular purple stage, golden star emblem backdrop, podium, plants and central entrance. Image 2 is ONLY a high-end feature-film CGI material/detail quality reference; do NOT import its character, room, ornaments or nighttime palette.\nModify only the elevation of stage and bull pedestal. Preserve the camera position and full building framing.\nRIGHT STAGE: rebuild the existing low platform into a clearly elevated ceremonial podium, approximately 1.5 metres above the audience plaza, with a substantial vertical purple stone front fascia and restrained gold trim. It must read as a high stage where a standing speaker is above the crowd's eye level. Keep the same stage footprint and right-side location. Lift the entire stage floor, lectern and arched star backdrop together so lectern stays on top and backdrop remains behind the floor. Add coherent access stairs at the outer right flank, with realistic continuous steps and discreet matching handrail; keep central entrance stairway and plaza passage unobstructed. Do not replace the tall stage fascia with only a broad shallow staircase.\nLEFT BULL: preserve identical bronze bull sculpture size, anatomy, charging pose and direction, all four hooves supported; raise it on a substantial approximately 1.1 metre tall oval stone plinth with restrained purple stone panels and gold edging, rather than the old thin slab. Lift sculpture with its pedestal. Complete sculpture, horns and pedestal remain fully in frame, do not enlarge or crop bull.\nMaintain visual balance between monumental bull and ceremonial stage; visible empty audience plaza in foreground. No people, no labels, no text, no collage. Preserve original sky, building silhouette, purple/gold palette and daylight. High-end feature-film CGI, physically based distinct bronze, polished stone and translucent purple crystal; crisp architectural detail, natural contact shadows, controlled highlights, no plastic, smeared texture or excessive bloom. This is a local architectural height revision, no redesign of the rest of the scene.",
+  "references": [
+    {
+      "path": "第二集候选/02-门前光之舞台.png",
+      "role": "修改目标，锁定建筑、机位、布局与日光"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅锁CG材质与细节，不引入人物或室内场景；路径相对项目根目录"
+    }
+  ],
+  "output": "第二集候选/02-门前光之舞台-抬高版.png",
+  "post_processing": "无",
+  "actual_dimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "inspection": "舞台台体明显加高，右侧连续阶梯与扶手；铜牛基座加高，保留冲锋姿态，中央入口通畅。高度为视觉设计，提示词米数非测绘结果。"
+}

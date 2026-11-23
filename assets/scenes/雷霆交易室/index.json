@@ -1,0 +1,63 @@
+{
+  "name": "雷霆交易室",
+  "mainImage": "室内机位/01-交易桌与入口全景",
+  "images": [
+    {
+      "id": "室内机位/01-交易桌与入口全景",
+      "file": "index.png",
+      "label": "交易桌与入口全景",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-eelroom.json"
+    },
+    {
+      "id": "室内机位/02-交易席与入口方向",
+      "file": "views/02-交易席与入口方向.png",
+      "label": "交易席与入口方向",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-多机位补全.json",
+      "promptEntry": [
+        "outputs",
+        0
+      ]
+    },
+    {
+      "id": "室内机位/03-交易区宽景",
+      "file": "views/03-交易区宽景.png",
+      "label": "交易区宽景",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-多机位补全.json",
+      "promptEntry": [
+        "outputs",
+        1
+      ]
+    },
+    {
+      "id": "室内机位/04-窗侧看向入口",
+      "file": "views/04-窗侧看向入口.png",
+      "label": "窗侧看向入口",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-多机位补全.json",
+      "promptEntry": [
+        "outputs",
+        2
+      ]
+    },
+    {
+      "id": "室内机位/05-入口门把手近景",
+      "file": "views/05-入口门把手近景.png",
+      "label": "入口门把手近景",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-多机位补全.json",
+      "promptEntry": [
+        "outputs",
+        3
+      ]
+    }
+  ],
+  "history": []
+}

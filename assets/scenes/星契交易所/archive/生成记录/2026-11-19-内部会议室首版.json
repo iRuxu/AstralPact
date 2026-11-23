@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 high-end feature-film CGI architectural interior still for AstralPact. Design an EMPTY private executive MEETING ROOM INSIDE the approved PURPLE CRYSTAL SECURITIES EXCHANGE.\nReference image 1 approved exchange exterior is authoritative for identity: violet amethyst crystalline shell, elegant flowing champagne-gold ribs, fine gold orbital patterns, iridescent eight-point star. This room must plausibly be inside one of that palace's upper side wings. Image 2 royal council interior is ONLY a rendering craftsmanship/material quality reference. Create a DISTINCT room; do not copy its green star chart, dragon banners, bookcases, five-throne arrangement or medieval vaulted ceiling.\nPurpose: intimate powerful financial strategy meeting for a crowned wolf leader, his subordinate wolves and a leopard institutional investor. NO characters in this establishing environment image. Functional luxurious executive boardroom, smaller than a royal assembly hall, seats close enough for dialogue. FIVE seats total: one slightly taller but practical executive armchair at the far short end for wolf king, two elegant compact chairs along EACH long side for three wolves and one leopard. Deep charcoal plum leather, slim bronze/gold frames, open under-seat/back clearances accommodating animal tails, floor support and real chair legs visible. Do not make five royal thrones. No chair at near short end.\nComposition: camera at room entrance facing the head of table, slightly off-axis to reveal table thickness, chair legs and side aisle. Broad elongated rounded-rectangular dark smoked violet stone meeting table, satin rather than mirror finish, subtle inlaid gold orbital line, no enormous star covering working surface. Table has two slender solid pedestals and adequate knee room, five understated writing folios and recessed inactive dark glass work panels; spacious aisles. Full room readable, tabletop does not fill whole image. No clutter.\nArchitecture: gently curved ivory structural ribs holding translucent deep amethyst wall panels, dark violet mineral layers, refined gold joints, warm architectural light. Right wall has tall faceted purple-tinted but clear windows overlooking the same coastal blue-hour bay, bridges and distant ivory city; no view of its own facade. Far wall behind head chair has restrained beautiful eight-point crystal star and thin gold orbit relief, wall-sized enough for identity but not a glowing portal. LEFT wall has one elegant inset wide dark financial display showing only subtle unlabeled abstract chart lines, no readable text or numbers, plus low dark wood cabinet with a few closed ledgers. Ceiling a low elegant curved coffered crystalline canopy, one suspended sculptural gold elliptical orbital light with small cut gemstones, no cathedral spire or excessive dangling crystals. Smoky violet carpet beneath table, stone perimeter, restrained gems integrated into architecture, local jewel glints. Luxury but usable, privately controlled financial power, not casino or public trading floor.\nHigh-end feature-film CGI, physically based materials, believable volume and clear joints, translucent amethyst with internal optical depth, distinct leather grain, satin wood, brushed warm gold, stone mineral veins; crisp natural detail and natural contact shadows. Soft warm key lights balanced with cool bay fill, readable shadows, controlled highlights/bloom. Predominantly violet and charcoal with gold and ivory accents, no all-purple color wash. No people, no animals, no statues, no dragon insignia, no throne dais, no green jade star chart, no labels, no watermark, no collage.",
+  "references": [
+    {
+      "path": "assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "role": "已认可交易所建筑身份、紫晶与八芒星轨道纹"
+    },
+    {
+      "path": "assets/scenes/议会厅/室内机位/01-正面视角.png",
+      "role": "仅CG材质完成度，不复制王室布局与符号"
+    }
+  ],
+  "output": "室内机位/01-内部会议室-入口看向主位-候选.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": "无",
+  "status": "用户于2026-11-19认可，当前会议室基准",
+  "inspection": "五席清楚，主位一席、两侧各两席；无人场景。紫晶顶与墙、金轨灯、左侧行情屏、右侧滨水窗景。已目视桌椅承托与空间；尚未进行人物落座适配。",
+  "spatial_status": "交易所上层侧翼为设计提案，精确楼层与朝向未确定",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

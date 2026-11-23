@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "status": "归档废稿：窗内轴线错误，不作为当前参考",
+  "prompt": "Use case: stylized-concept. ONE landscape 16:9 medium-wide exterior locator of royal COUNCIL wing. Image1 PRIMARY palace geography: council occupies LEFT lower projecting wing one occupied storey below upper central audience room, physically embedded into forested waterfall cliff. Image2 PRIMARY for existing council exterior window and framing, image3 locks existing interior identity and five-seat furniture. New camera floating outside bay-facing council windows, farther BACK than image2 to show full low council wing facade with THREE tall pointed ivory/gold bays and narrow terrace, supporting cliff and waterfalls below, covered gallery/stair climbing at frame RIGHT to partial UPPER audience wing. Preserve curve/lower projection of council wing in image1. Through CENTRAL bay see coherent single black-gold long council table and five dark green leather/gold chairs (one at north head, two along each long side), jade star map at north end, dark treasury/bookshelf wall opposite windows. These indoor details remain modestly visible not an oversized dollhouse cutaway. No queen or officials. Main architecture stays solid ivory curves, fine gold tracery, no medieval castle or detached parliament building. City arch bridges and dark bay far below at edge, mist wraps rock base without concealing supports. Dusk blue-violet atmosphere and soft warm interior, feature-film CGI, PBR stone gold leather glass foliage, controlled reflections and bloom, crisp natural detail. No new furnishings, no text, labels, collage or watermark. This is the lower palace wing's city-facing exterior, not a redesign of the already approved council room.",
+  "references": [
+    "assets/scenes/王室宫殿-听政厅/外景定位/02-宫殿三室位置总览.png",
+    "assets/scenes/议会厅/v2/02-窗外向内视角.png",
+    "assets/scenes/议会厅/v2/01-正面视角.png"
+  ],
+  "path_base": "项目根目录，按数组顺序实际附图",
+  "output": "assets/scenes/议会厅/archive/外景朝向修订前/01-议会厅临湾侧翼外景.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f399-a325-7c21-ab2a-88e65e31e41d/exec-27ce20cd-4794-4dbb-99c0-c7eae124bd65.png",
+  "postprocessing": "无，原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "初稿：山崖下层和廊道成立，但窗内把星图放到正后方，与既有西窗视角不一致；上层窗内带人物剪影。本稿归档不作为当前默认机位。",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "aspect_ratio": 1.776833,
+  "sha256": "bb5e537b91f9bd01884f6b8216f5a9f6feadfc8304c40eb3d5795a825e80de54"
+}

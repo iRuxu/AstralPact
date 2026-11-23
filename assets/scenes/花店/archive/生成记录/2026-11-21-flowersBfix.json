@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Precise local botanical correction to attached flower-shop image. Preserve entire image composition, vessels, lighting, other flowers and background. Change ONLY golden osmanthus at UPPER RIGHT: current yellow blooms are much too large and star-shaped. Replace with TRUE Osmanthus fragrans: dense tiny 2-4mm warm golden-yellow FOUR-LOBE flowers in many small rounded clusters nestled directly at leaf axils along woody branches, each flower much smaller than the glossy oval green leaves (leaves 5-10cm). It must look like fine golden flecks and small clusters among leaves, NOT forsythia or daisy or big five-petal stars. Maintain overall plant height and vase. Also middle pink Hibiscus mutabilis flower staminal columns should be moderate and shorter, pale pink hibiscus with broad lobed leaves, not very long exaggerated tropical red hibiscus tubes. Keep hollyhock, chrysanthemum, camellia, narcissus, roses and baby's breath unchanged. High-end CGI natural botanical material, no text.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-3e9f9f45-9c57-4407-abc5-d74748ae50c7.png",
+      "current_project_path": "assets/scenes/花店/archive/花材B桂花修订前/05-十二花材陈列B.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/候选/05-十二花材陈列B.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

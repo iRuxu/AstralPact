@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE standalone landscape 16:9 cinematic exterior FRONT VIEW concept of 星契交易所, the AstralPact securities exchange, a magnificent PURPLE CRYSTAL PALACE in the coastal island capital Stardust. First candidate, not a diagram.\nReference roles in attachment order: Image 1 star-contract card is PRIMARY for visual identity: deep indigo-violet translucent faceted material, iridescent rainbow refraction, eight-point crystalline star, fine champagne-gold orbital engraving. Translate this identity into actual monumental architecture, not a giant upright card. Image 2 city establishes coastal bay setting, curved ivory-and-gold futuristic Eastern-inspired architecture, elegant arches and bridges, turquoise sea and mountain backdrop. Its giant upright ring landmark is separate; do not copy or replace it. Image 3 royal palace establishes high-end feature-film CGI quality, physically believable structure, flowing arches and refined gold tracery; do not copy its hillside palace layout or white dominant palette.\nMain building: spectacular lavish purple amethyst crystal exchange palace, broad symmetric frontal facade, complete roof silhouette in frame, central lofty entrance hall, layered sweeping crystalline roof forms and tall violet faceted pylons with structurally legible champagne-gold ribs; rich transparent purple crystal walls with deep internal reflections, embedded cut gemstones sparkling at localized points, eight-point iridescent crystal star above main entrance and gold orbital motifs integrated into facade. Majority of palace reads PURPLE CRYSTAL, with restrained ivory structural accents. Prestigious civic financial institution, generous accessible entrance stairs and broad stone forecourt, convincing doors, floor levels and human-scale access. No text required.\nUSER ADDITION: At the entrance forecourt place ONE prominent bronze CHARGING BULL SCULPTURE in the spirit of the Wall Street bull: recognizable powerful muscular bull, lowered horned head, forward charging stance, four anatomically coherent legs planted on the paving, upward curling tail. It is a stationary bronze public sculpture, not a living animal. Place it slightly left of central axis in the near foreground so its full silhouette and horns are clear, photographed in three-quarter side view facing toward camera-right; it must be large enough to read yet must not obscure the palace main entrance. Warm bronze with polished rubbed highlights and darker patina, planted heavy hooves with contact shadows. No human statues or crowds.\nCamera: frontal axial architectural establishing view from across the plaza, modest low viewpoint, approximately 28–35mm architectural lens, straight verticals, palace occupies most of width, full roof and both wings visible with air above, sculpture and entrance both clear. Same seaside world as reference city; glimpses of bay and elegant city structures at lateral edges, not a new arbitrary mountain citadel. Blue-hour sky with gentle remaining warm light, readable translucent violet architecture, inviting warm golden interior light. Extreme richness through craftsmanship and gemstone refraction, NOT blown-out neon outlines.\nHigh-end feature-film 3D CGI, physically based materials, optical depth and subtle imperfections inside amethyst, crisp architectural joints, separate bronze/gold/stone/crystal responses, natural contact shadows, controlled jewel glints and restrained bloom, richly detailed but coherent and elegant. No gothic European church, no medieval castle, no casinos, no logos, no captions, no watermark, no collage, no smeared detail, no plastic toy finish.",
+  "references": [
+    {
+      "path": "assets/props/星契/星契卡-镭射正面概念.png",
+      "role": "紫晶幻彩、八芒星与金色轨道身份"
+    },
+    {
+      "path": "assets/scenes/星沙城/空间定位/01-星沙城与王室宫殿.png",
+      "role": "滨海城市环境及建筑语言；空间图本身为候选"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/01-光入宫城.png",
+      "role": "建筑CG材质、流线拱形与金色细工"
+    }
+  ],
+  "output": "外景机位/01-紫晶宫殿正面-候选.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": "无，原生输出复制",
+  "status": "用户于2026-11-19认可，当前外景基准；保留原文件名",
+  "inspection": "已目视检查：完整正面建筑、紫晶与八芒星识别清楚，铜牛位于左前方且未遮主入口。具体城市岛岸落点尚未确定；画面不作为精确空间定位。",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

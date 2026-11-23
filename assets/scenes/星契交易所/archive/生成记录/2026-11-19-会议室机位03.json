@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. ONE standalone landscape 16:9 cinematic CGI still, EMPTY SAME approved AstralPact exchange meeting room as reference image 1. Image 1 is authoritative for ALL furniture, dimensions, materials, lighting and layout; change CAMERA ONLY. No characters. Coordinate system for continuity (local, not geographic): north = amethyst star wall/head chair; south = entrance wall/empty short end; east = bay windows; west = dark wood cabinet and financial display. ONE rounded rectangular smoked violet stone table, two sculpted solid pedestal supports, gold orbital inlay, violet carpet with gold border. EXACTLY FIVE chairs: ONE taller head chair at north short end, TWO chairs west side, TWO chairs east side, NO south end chair. Five folios with dark inset work panels. Purple leather, slim gold chair frames. Gold elliptical gemstone chandelier, faceted violet crystal ceiling, ivory and warm gold ribs. North eight-point crystal star and thin gold orbits. West ONE wide financial display above low dark wood ledger cabinet. East tall arched faceted bay windows at blue hour, same distant coastal city. Do not relocate or mirror architecture to resemble original framing. Finely resolved high-end feature-film CGI, physically based amethyst, satin stone, leather grain, metal roughness, warm practical light and subtle blue fill, natural contact shadows and crisp detail, controlled bloom. No text, watermark, collage, new furniture, extra chairs, humans, animals, dragon flags or jade wall.\nCAMERA: at EAST window-side aisle, looking WEST across the LONG SIDE of the table, wide side-on interior composition. West financial display and low cabinet directly across background. NORTH head chair and star wall at image RIGHT; SOUTH entrance wall and double door at image LEFT. East windows BEHIND camera, not behind financial screen. Exactly five chairs, two near foreground side chairs seen mostly from back, two opposite chairs seen from front and one head chair on right end; avoid occlusion by modest elevated camera around 1.8m. Show entire table length, carpet and chair feet. No replacement room.",
+  "references": [
+    {
+      "order": 1,
+      "path": "assets/scenes/星契交易所/室内机位/01-内部会议室-入口看向主位-候选.png",
+      "role": "用户已认可内景；布局、家具、材质、灯光的唯一主参考"
+    }
+  ],
+  "output": "室内机位/03-内部会议室-临窗侧向全景-候选.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": "无，原生输出复制",
+  "status": "新机位待用户验收；不自动继承原图认可状态",
+  "inspection": "已目视五席，入口左、星徽主位右、行情屏居后，前景侧椅背对镜头。",
+  "limitations": "新机位的局部纹理、窗景、桌纹与比例有生成漂移，未进行精确三维重建或人物落座适配。",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

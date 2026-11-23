@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone cinematic environment still, landscape 16:9, high-end feature-film 3D CGI, physically based architecture and glass, fine natural textures, realistic foliage, soft warm daylight and subtle cool fill, restrained highlights, no plastic or painterly smears, no text watermark or collage, NO people/animals. New PRIVATE trading office for Lei Ting eel short-seller, within same sci-fi fantasy city but NOT the stock exchange meeting room. Reference only CGI material quality, do not copy violet palace or conference table. Wide view from corner: restrained dark teal smoked glass, brushed dark metal, warm wood work desk left-center, three trading monitors on desk showing abstract cyan/amber chart lines no legible numbers/words; ONE ergonomic chair with tail clearance, cables routed neatly, dark office doors on RIGHT wall clearly visible with brass lever handle for later visitor entry close-up. Floor clear from door to desk. Large left window overlooking white-gold coastal city in daytime, ocean visible. Sophisticated cold-finance atmosphere with enough soft daylight to read all details. No lightning special effects, no humans, no symbols implying actual company.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/室内机位/01-内部会议室-入口看向主位-候选.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/室内机位/01-内部会议室-入口看向主位-候选.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/雷霆交易室/候选/01-交易桌与入口全景.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README",
+  "adoption_update": {
+    "date": "2026-11-21",
+    "status": "用户明确认可01–05全部作为正式版采用",
+    "current_directory": "assets/scenes/雷霆交易室/室内机位/",
+    "historical_path_note": "原生成路径保留生成时事实；候选目录已整体移至室内机位。"
+  }
+}

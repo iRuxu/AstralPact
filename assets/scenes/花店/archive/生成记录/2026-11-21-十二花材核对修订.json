@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "source": "https://www.dpm.org.cn/lemmas/239577.html",
+  "status": "2026-11-21用户明确认可两张修订版，当前采用；后续分别安排两个花材陈列镜头",
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "postprocessing": false,
+  "images": [
+    {
+      "file": "04-十二花材陈列A.png",
+      "prompt": "Edit target image 1 only. Preserve original flower-shop composition, camera, vessels, architecture, morning light and detailed high-end feature-film CGI. Botanical accuracy correction for Chinese twelve monthly flowers, this image contains exactly first SIX species: red Prunus mume upper left, pale apricot blossom upper middle, pink peach blossom upper right, pink TREE PEONY lower left with compound divided leaves and woody stems, POMEGRANATE flowers center, LOTUS basin lower right. Correct pomegranate: orange scarlet crumpled petals emerging from thick fleshy red tubular calyx with 5-7 triangular pointed lobes, abundant fine yellow stamens, small opposite narrow oblong glossy leaves, no daisy-like flat flowers. Lotus leaves peltate circular unnotched, water droplets, seedpod, preserve basin. REMOVE foreground white roses and all baby's breath/daisy filler bouquets, replace that area with folded plain linen and visible wooden tabletop; remove unrelated background flower species, background can show green foliage and indistinct repeats of these six only. Preserve three distinct blossom branch groups and their existing positions; apricot pale near-white five petals and reddish calyx, peach pink narrow lanceolate leaves; do not mix species within one vessel. No labels, no characters, no collage. Natural fine petals, physically based ceramic and glass, crisp restrained detail.",
+      "input_order": [
+        {
+          "order": 1,
+          "path": "assets/scenes/花店/archive/十二花材核对修订前/04-十二花材陈列A.png",
+          "role": "编辑目标，锁构图、器皿、光线"
+        }
+      ],
+      "generated_file": "/Users/iruxu/.codex/generated_images/01a1fe9e-e478-7bd3-a192-6dd30f19d8b8/exec-f85cc97b-cc58-4803-a419-5c5149389848.png",
+      "inspection": "六组主体保留，去除前景玫瑰与配花；石榴补厚筒状花萼、牡丹补木质枝与分裂叶。背景仍为虚化艺术场景，非植物图鉴。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05-十二花材陈列B.png",
+      "prompt": "Precise botanical edit of attached flower shop still. Keep camera, shelf arrangement, six main vessels, lighting and CGI quality. Exactly SIX species for months 7-12: upper left HOLLYHOCK Alcea rosea with tall unbranched spikes, five broad petals, buds and rounded softly hairy lobed leaves; upper center WOODY COTTON ROSE Hibiscus mutabilis; upper right OSMANTHUS fragrans; lower left CHRYSANTHEMUM; lower center CHINESE NARCISSUS tazetta; lower right CAMELLIA japonica. Primary correction: replace upper central tropical hibiscus/fusang-like flowers and long projecting stamen tubes with authentic Hibiscus mutabilis: softly textured pale pink SEMI-DOUBLE flowers, broad overlapping petals making loose layered cups, short staminal column largely nestled within petals, broad matte green palmately 3-5 lobed leaves with toothed margins on woody branches. Remove the stray pink ROSE from within this central plant. Correct upper right osmanthus to broad elliptic leathery opposite leaves, subtly serrated margins, tiny four-lobed golden flowers in dense SMALL clusters at leaf axils, each flower tiny relative to leaf, not yellow strings or large stars. Retain recognizable camellia, chrysanthemum, narcissus, hollyhock. REMOVE all foreground pink rose bouquets and baby's breath, leave plain folded linen and clean wood counter in those areas; no extra species in background, just soft foliage. Keep all six primary plants in their established locations and containers, coherent flower-shop scene, no text or labels, no panels. High-end feature-film CGI, physically based materials, natural botanical detail, warm morning key and cool fill, no plastic, no excessive bloom.",
+      "input_order": [
+        {
+          "order": 1,
+          "path": "assets/scenes/花店/archive/十二花材核对修订前/05-十二花材陈列B.png",
+          "role": "编辑目标，锁构图、器皿、光线"
+        }
+      ],
+      "generated_file": "/Users/iruxu/.codex/generated_images/01a1fe9e-e478-7bd3-a192-6dd30f19d8b8/exec-8b493d98-5fe2-449c-9f32-9853c9d47dba.png",
+      "inspection": "木芙蓉改半重瓣、掌状裂叶与短花蕊；桂花改宽椭圆叶、叶腋细小花簇；去除玫瑰与配花。六组主体可辨，花形仍属CG表现。",
+      "actual_size": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE independent landscape 16:9 feature-film CGI environment still, fine physically based materials, soft cinematic daylight, crisp natural texture, restrained highlights, no characters, no captions text watermark or collage. Exact stock exchange exterior from attached reference, same frontal purple crystal palace, central eight-point star and gold orbits, SAME bronze bull on pedestal at LEFT foreground. Daytime, sunlit. Add temporary elegant event stage on RIGHT half of entrance plaza, a low semicircular violet platform, small gold framed eight-point light sculpture at back and professional soft white spotlights with subtle rays, slim podium/microphone at right edge for parrot host. Stage does not block central entrance or move bull. Keep clear broad audience standing area in foreground and central walkway up staircase. Elegant theatrical wealth-promotion event, not concert arena, no posters with words, no human figures. Existing architecture and geometry authoritative; extending right plaza for staging is permitted.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/星契交易所/第二集候选/02-门前光之舞台.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

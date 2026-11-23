@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone cinematic environment still, landscape 16:9, high-end feature-film 3D CGI, physically based architecture and glass, fine natural textures, realistic foliage, soft warm daylight and subtle cool fill, restrained highlights, no plastic or painterly smears, no text watermark or collage, NO people/animals. A new island geography proposal in Stardust star city: elevated oblique view at warm SUNRISE coming directly over ocean horizon. Foreground small lush hilly sea island surrounded turquoise bay, beautiful ivory-white gold flowing buildings dotted along hillside, an elegant winding pedestrian-and-vehicle road climbs to summit. At summit ONE purple crystal stock exchange faithfully based on reference 2: faceted violet arches, central eight-point star and thin gold orbit decoration; proportionate summit plaza and single bronze bull near front entrance. Small cozy flower shop with ivory arched facade, muted blush awning and abundant flower planters along road just BELOW summit, visible in middle foreground. Let path from shop to exchange read clearly, not separate detached world. Reference1 controls surrounding archipelago, bridges, distant ONE upright star ring tower on another island, mountain forest and flowing white-gold city language. Reference2 controls exchange identity only; do not put star ring on exchange. Building's hill placement is new, preserve exchange facade. Sunrise haze gentle, readable architecture, open ocean and morning reflection. No royal palace, no floating islands.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星沙城/09-花夏星-滨海都会.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星沙城/09-花夏星-滨海都会.png",
+      "role": "参考分工及优先级见完整提示词"
+    },
+    {
+      "order": 2,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/外景机位/01-紫晶宫殿正面-候选.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/星契交易所/第二集候选/01-海岛日出与山顶交易所.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

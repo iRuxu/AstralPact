@@ -1,0 +1,23 @@
+{
+  "name": "测试",
+  "tags": [
+    "test"
+  ],
+  "mainTrack": "5bc81b9e-01b4-4505-a048-91c92e4c7376",
+  "tracks": [
+    {
+      "id": "5bc81b9e-01b4-4505-a048-91c92e4c7376",
+      "file": "tracks/f2a160d4-ab41-4c7f-ba9e-3c692ed07590.mp3",
+      "label": "test1.mp3",
+      "category": "music",
+      "status": "reference",
+      "prompt": "",
+      "source": "",
+      "usage": "",
+      "loop": false
+    }
+  ],
+  "history": [],
+  "type": "effect",
+  "note": "remark"
+}

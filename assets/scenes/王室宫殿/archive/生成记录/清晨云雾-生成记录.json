@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置 image_gen",
+  "status": "新生成候选，待用户验收",
+  "prompt": "Use case: stylized-concept. Create ONE standalone landscape 16:9 cinematic environment keyframe, early morning mist around the royal palace of Xingsha City on Hosum. References in order: Image 1 approved 01 palace exterior is PRIMARY for actual cliffside palace architecture and terraced waterfalls; Image 2 approved 02 warm window locks exact elegant ivory gold flowing facade and large audience-hall window shape, not character content; Image 3 video frame at 0.8 seconds is ONLY for beautiful layered foreground cloud banks and palace emergence composition, do not copy its low-resolution softness; Image 4 city master locks coastal island city identity, ONE orbital-ring main tower far across bay, not palace identity. Preserve distinct royal cliff palace separate from the orbital tower district. Camera floating outside upper cliffside palace, wide three-quarter view like the video opening: elegant palace mass occupies RIGHT half, open coastal bay and distant island bridges on LEFT, low cloud flows across bottom third around lower terraces, thin wisps reveal cliff rock, forest and waterfalls so building is visibly grounded, never floating. Main audience window upper right retains recognizable curved pointed frame, warm interior glow but no discernible people required. Pale peach early sunrise with cool blue mist, no sunset/night starfield or meteors; sparse warm windows, natural ivory stone and fine gold tracery, intimate luminous clouds not opaque white blanket. Distant SINGLE ring-spire landmark very small across water, subordinate to palace. High-end feature-film CGI, physically based stone metal foliage water, crisp natural facade detail, soft volumetric dawn light, subtle warm key and cool fill, fine material roughness differences, restrained bloom, realistic atmosphere depth. Preserve continuous smooth ivory ribs and terraces, no tangled strips, no gold neon, no plastic or painterly smear. No text, diagram labels, collage or watermark. This is a NEW morning weather reference, not replacement of the existing dusk opening.",
+  "references": [
+    {
+      "path": "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/01-光入宫城.png",
+      "role": "宫殿外形与露台瀑布"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/02-暖窗之内.png",
+      "role": "听政暖窗与立面"
+    },
+    {
+      "path": "tmp/research/palace-opening/样片-00.8秒.png",
+      "role": "用户视频+1.mp4的0.8秒提帧；仅云雾分层构图"
+    },
+    {
+      "path": "assets/scenes/星沙城/09-花夏星-滨海都会.png",
+      "role": "城市身份与独立星环主塔"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "assets/scenes/王室宫殿-听政厅/01-王室宫殿-清晨云雾.png",
+  "actual_dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": "无；原生输出复制入项目",
+  "model": "工具未暴露",
+  "review": "已目视检查：沿崖建筑、暖窗、瀑布和前景云雾可辨；星环在远处独立出现。云雾较样片更薄；此图不是城市定位总图，不证明楼翼平面或城市地形精确匹配。清晨参考不自动替换暮色剧情。"
+}

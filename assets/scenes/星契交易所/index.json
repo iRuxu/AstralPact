@@ -1,0 +1,63 @@
+{
+  "name": "星契交易所",
+  "mainImage": "外景机位/01-紫晶宫殿正面-候选",
+  "images": [
+    {
+      "id": "外景机位/01-紫晶宫殿正面-候选",
+      "file": "index.png",
+      "label": "紫晶宫殿正面",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-正面外景首版.json"
+    },
+    {
+      "id": "室内机位/01-内部会议室-入口看向主位-候选",
+      "file": "views/01-内部会议室-入口看向主位-候选.png",
+      "label": "内部会议室-入口看向主位",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-19-内部会议室首版.json"
+    },
+    {
+      "id": "室内机位/02-内部会议室-主位看向入口-候选",
+      "file": "views/02-内部会议室-主位看向入口-候选.png",
+      "label": "内部会议室-主位看向入口",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-19-会议室机位02.json"
+    },
+    {
+      "id": "室内机位/03-内部会议室-临窗侧向全景-候选",
+      "file": "views/03-内部会议室-临窗侧向全景-候选.png",
+      "label": "内部会议室-临窗侧向全景",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-19-会议室机位03.json"
+    },
+    {
+      "id": "室内机位/04-内部会议室-俯视布局-候选",
+      "file": "views/04-内部会议室-俯视布局-候选.png",
+      "label": "内部会议室-俯视布局",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-19-会议室机位04.json"
+    },
+    {
+      "id": "第二集候选/01-海岛日出与山顶交易所",
+      "file": "views/01-海岛日出与山顶交易所.png",
+      "label": "海岛日出与山顶交易所",
+      "category": "view",
+      "status": "candidate",
+      "promptRecord": "archive/生成记录/2026-11-21-island.json"
+    },
+    {
+      "id": "第二集候选/02-门前光之舞台-抬高版",
+      "file": "views/02-门前光之舞台-抬高版.png",
+      "label": "门前光之舞台-抬高版",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-stage-raised.json"
+    }
+  ],
+  "history": []
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape 16:9 cinematic CGI environment still, no collage, no text/watermark, NO characters. High-end feature-film CGI, individually detailed petals, natural fine glass/cotton/wood surfaces, soft morning warm key and cool fill, precise natural detail, controlled bloom. Beautiful closer florist display at window inside referenced shop, one coherent physical layered shelf/table arrangement (NOT panels), intentionally show EXACT SIX different Chinese flower types with clear botanical silhouettes in separate vessels: left tall RED PLUM BLOSSOM woody bare branches, adjacent pale pink APRICOT BLOSSOM branches, right tall brighter PINK PEACH BLOSSOM branches with narrow leaves; foreground left full fluffy PINK PEONIES, center orange-red POMEGRANATE trumpet flowers with calyx and glossy leaves, foreground right a broad shallow ceramic water basin with PINK LOTUS, round floating lotus leaves and seedpod. Add a modest bouquet of white ROSES and fine white GYPSOPHILA baby's breath along near table edge. Branches distinct from peony blooms. Dew on petal edges, ivory curved windows and pale oak, golden morning reflections. Rich varied yet natural flowers, enough depth of field to inspect all six groups. No flower labels or people.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-a5be8684-3265-45c1-8668-cf6bedf4b1ea.png",
+      "current_project_path": "assets/scenes/花店/候选/01-坡道花店外景.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/scenes/花店/候选/04-十二花材陈列A.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

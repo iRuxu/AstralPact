@@ -1,0 +1,31 @@
+{
+  "name": "星契卡",
+  "tags": [
+    "实体道具"
+  ],
+  "mainImage": "front",
+  "images": [
+    {
+      "id": "front",
+      "file": "index.png",
+      "label": "镭射正面概念",
+      "category": "angle",
+      "status": "reference",
+      "prompt": ""
+    },
+    {
+      "id": "dreamina",
+      "file": "portraits/星契卡-镭射正面概念-即梦16x9.png",
+      "label": "即梦 16:9 版",
+      "category": "portrait",
+      "status": "reference"
+    }
+  ],
+  "history": [
+    {
+      "version": "2026-11-24-v001",
+      "note": "修改「镭射正面概念」生成词",
+      "archivedAt": "2026-11-23T16:19:59.177Z"
+    }
+  ]
+}

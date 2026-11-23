@@ -1,0 +1,51 @@
+{
+  "name": "交易所坡道街区",
+  "mainImage": "01-街角行情屏与接单街区",
+  "images": [
+    {
+      "id": "01-街角行情屏与接单街区",
+      "file": "index.png",
+      "label": "街角行情屏与接单街区",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-street.json"
+    },
+    {
+      "id": "02-行情屏前人行道中景",
+      "file": "views/02-行情屏前人行道中景.png",
+      "label": "行情屏前人行道中景",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-补充机位.json",
+      "promptEntry": [
+        "outputs",
+        0
+      ]
+    },
+    {
+      "id": "03-坡上回望海湾反打",
+      "file": "views/03-坡上回望海湾反打.png",
+      "label": "坡上回望海湾反打",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-补充机位.json",
+      "promptEntry": [
+        "outputs",
+        1
+      ]
+    },
+    {
+      "id": "04-临海侧横看接客位",
+      "file": "views/04-临海侧横看接客位.png",
+      "label": "临海侧横看接客位",
+      "category": "view",
+      "status": "adopted",
+      "promptRecord": "archive/生成记录/2026-11-21-补充机位.json",
+      "promptEntry": [
+        "outputs",
+        2
+      ]
+    }
+  ],
+  "history": []
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "references": [
+    {
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/交易所坡道街区/01-街角行情屏与接单街区.png",
+      "role": "街区建筑、道路、道具、清晨光线主参考",
+      "original_reference_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/交易所坡道街区/候选/01-街角行情屏与接单街区.png"
+    },
+    {
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅CG材质与完成度，不借角色或宫殿陈设"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "02-行情屏前人行道中景.png",
+      "prompt": "Use case: stylized-concept. ONE independent landscape 16:9 cinematic environment still, not collage. Image 1 is authoritative for this exact street architecture, geography, props and sunrise lighting; image 2 is ONLY rendering quality and physically based materials, do not include its character or palace furnishings. Same coastal sloped street below purple crystal exchange: uphill facing direction has sea balustrade on LEFT, white-gold shops with pink awnings on RIGHT, right-side sidewalk holds dark gold-framed financial display, yellow-box delivery e-bike next to shop, silver modest sedan parked nose DOWNHILL in marked bay, cafe on sea side uphill. Preserve street topology and these relationships when camera changes. Same warm sunrise, white-gold flowing architecture, pink flowers, green trees, textured cobbles. Empty environment, no people or animals. Financial screen cyan and amber rising line graphics without words or numbers. No real brand, no watermark or captions. High-end feature-film CGI, physically based stone metal glass and foliage, crisp natural detail, natural contact shadows, controlled highlights and bloom, no painterly smears or plastic toy surfaces. Camera on shop-side sidewalk a few meters downhill of the financial display, eye height 1.55m, medium-wide 35mm composition looking diagonally uphill. Display dominates right third but fully visible, e-bike with yellow box behind it toward left, shops and climbing street recede to upper left, purple exchange visible in background. A generous clear paved foreground directly in front of display for later crowd acting. Car is partially visible at far left roadside; ocean glimpses at left. A real closer camera setup, not crop of original.",
+      "status": "用户已确认，最终采用版本",
+      "postprocessing": false,
+      "model": "工具未暴露",
+      "seed": "工具未暴露",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "original_output_path": "候选/02-行情屏前人行道中景.png"
+    },
+    {
+      "file": "03-坡上回望海湾反打.png",
+      "prompt": "Use case: stylized-concept. ONE independent landscape 16:9 cinematic environment still, not collage. Image 1 is authoritative for this exact street architecture, geography, props and sunrise lighting; image 2 is ONLY rendering quality and physically based materials, do not include its character or palace furnishings. Same coastal sloped street below purple crystal exchange: uphill facing direction has sea balustrade on LEFT, white-gold shops with pink awnings on RIGHT, right-side sidewalk holds dark gold-framed financial display, yellow-box delivery e-bike next to shop, silver modest sedan parked nose DOWNHILL in marked bay, cafe on sea side uphill. Preserve street topology and these relationships when camera changes. Same warm sunrise, white-gold flowing architecture, pink flowers, green trees, textured cobbles. Empty environment, no people or animals. Financial screen cyan and amber rising line graphics without words or numbers. No real brand, no watermark or captions. High-end feature-film CGI, physically based stone metal glass and foliage, crisp natural detail, natural contact shadows, controlled highlights and bloom, no painterly smears or plastic toy surfaces. Reverse establishing wide shot from road-side sidewalk UPHILL of the original position looking DOWNHILL to ocean horizon, eye height 1.7m, 28mm. Thus white-gold shops and pink awnings now on LEFT, sea balustrade on RIGHT. Show silver sedan from REAR as it faces downhill, yellow pickup markings. Financial screen visible at an oblique angle on LEFT shop-side pavement, e-bike adjacent. Road curves down toward bay, sun lies toward sea. Purple exchange is BEHIND CAMERA and must NOT appear across ocean. Same physical street, reverse viewpoint, not mirror original.",
+      "status": "用户已确认，最终采用版本",
+      "postprocessing": false,
+      "model": "工具未暴露",
+      "seed": "工具未暴露",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "original_output_path": "候选/03-坡上回望海湾反打.png"
+    },
+    {
+      "file": "04-临海侧横看接客位.png",
+      "prompt": "Use case: stylized-concept. ONE independent landscape 16:9 cinematic environment still, not collage. Image 1 is authoritative for this exact street architecture, geography, props and sunrise lighting; image 2 is ONLY rendering quality and physically based materials, do not include its character or palace furnishings. Same coastal sloped street below purple crystal exchange: uphill facing direction has sea balustrade on LEFT, white-gold shops with pink awnings on RIGHT, right-side sidewalk holds dark gold-framed financial display, yellow-box delivery e-bike next to shop, silver modest sedan parked nose DOWNHILL in marked bay, cafe on sea side uphill. Preserve street topology and these relationships when camera changes. Same warm sunrise, white-gold flowing architecture, pink flowers, green trees, textured cobbles. Empty environment, no people or animals. Financial screen cyan and amber rising line graphics without words or numbers. No real brand, no watermark or captions. High-end feature-film CGI, physically based stone metal glass and foliage, crisp natural detail, natural contact shadows, controlled highlights and bloom, no painterly smears or plastic toy surfaces. Lateral wide shot from sea-side balustrade looking ACROSS road toward existing shop facade and financial screen, camera height 1.5m, 35mm. Sea behind camera, do not put ocean behind shop. Silver sedan in complete side three-quarter profile in foreground pickup bay with nose toward frame RIGHT (downhill), uphill is frame LEFT. Across road clear sidewalk, gold-framed financial display and nearby yellow-box delivery e-bike, pink awning shops. Make car 35 percent image width, leave sidewalk clear for later character performance. Purple exchange may be outside frame uphill left; do not invent another exchange. Exact same lovely architecture and sunrise.",
+      "status": "用户已确认，最终采用版本",
+      "postprocessing": false,
+      "model": "工具未暴露",
+      "seed": "工具未暴露",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "original_output_path": "候选/04-临海侧横看接客位.png"
+    }
+  ],
+  "inspection": "逐张目视检查：空景、白金街屋、行情屏、银车、配送电动车及清晨CG材质保留。02适合屏前表演；03回望海湾且车尾朝镜；04临海侧看车身。03、04咖啡座与部分街屋为模型补绘，未严格复原01布局；不可视作完整空间定稿。屏上可能含细小非语义刻度，正式行情后期替换。",
+  "adoption": {
+    "date": "2026-11-21",
+    "status": "用户明确确认为最终采用版本",
+    "scope": "01–04四张街区空景；用户原话：好的，就作为最终版本"
+  }
+}
