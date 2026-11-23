@@ -1,0 +1,52 @@
+{
+  "shot": "12",
+  "name": "会议室五狼落座",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/12-会议室五狼落座.png",
+  "actual_size": [
+    1670,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Establishing meeting-room shot from entrance looking at head chair, before dialogue begins. Reference1 AUTHORITATIVE room layout: EXACT FIVE CHAIRS at purple long table, ONE far-end head, TWO on left, TWO on right; purple crystal star wall behind head, gold rings overhead, screen and cabinet LEFT, bay windows RIGHT. Change twilight to same soft warm EARLY MORNING bay light, no night stars outside. Exactly FIVE distinct ADULT WOLVES seated naturally and silently, one per existing chair, no empty seat no extra chair/character: ref2 WOLF KING wearing only crown in room, silver mane gold-edged black long coat burgundy vest, far-end HEAD chair facing camera, composed hands on table. Ref3 CITIC broad MUSCULAR SCARRED wolf no crown, charcoal suit red tie small red-white RING/slash pin, LEFT FAR seat near king. Ref4 HUATAI slim ROUND-GLASSES clerk wolf, charcoal three-piece red tie small red-white angular pin, LEFT NEAR seat. Ref5 GALAXY tall lean wolf navy long coat BLUE tie star pin, RIGHT FAR seat near king. GUOTAI (fat-wolf identity to be refined in a second reference pass) short FAT wide-bellied wolf pinstripe suit burgundy tie blue-white pin, RIGHT NEAR seat, no lit cigar smoke. Side wolves turn heads toward king with naturally visible profiles/three-quarter faces; identity must not merge. Full grounded seated anatomy: hips on seats, bent knees, trouser-covered shins and BOTH shoes on floor wherever visible, not garments swallowing legs. Table occlusion physically correct, no amputations or floating torsos. Need no big arm waving, no dialogue/open mouths yet, no labels. Screen left shows nearly flat abstract line, not already rallying. Preserve material quality individual fur, woven wool, subtle crystal glow, no hard bright outlining or plastic characters. Five wolves total, crown ONLY king.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/室内机位/01-内部会议室-入口看向主位-候选.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 2,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 3,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/中信证券/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 4,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/华泰证券/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 5,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/银河证券/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ],
+  "revision_pass": {
+    "prompt": "Precise LOCAL identity refinement of RIGHT FOREGROUND seated FAT wolf ONLY in image1. Image2 is his authoritative approved GUOTAI fat-wolf character: very round broad grey furry cheeks, heavy thick neck, noticeably broad belly, small sly amused eyes/smile, black pinstripe three-piece suit with burgundy tie and pocket square, small blue/lightblue/white diagonal sail lapel pin on anatomical left chest. Match that face, fur and badge while preserving seated pose, both hands on table and full grounded trouser legs/both shoes of current image1. No cigar needed while hands rest on table. Do NOT change the other FOUR wolves: crowned king at far head, scarred muscular wolf far-left, glasses wolf near-left, blue-tie long-coat wolf far-right. Keep EXACT five seated wolves and same five chairs, room, furniture, light, window background, materials and camera. No extra character or crown. Fur and cloth refined natural feature-film CGI, no text.",
+    "refs": [
+      "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-6b2e74a0-510f-401f-ba62-1ddbbfc8772a.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/国泰海通/3D三视图.png"
+    ]
+  },
+  "prior_output": {
+    "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-6b2e74a0-510f-401f-ba62-1ddbbfc8772a.png"
+  }
+}

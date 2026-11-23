@@ -1,0 +1,17 @@
+{
+  "channel": "内置image_gen",
+  "prompt": "Edit this EXACT image locally in meaning, preserve camera, framing, Silverwing entirely unchanged, palace architecture furnishings windows city chart geometry light color all unchanged. ONLY correct Soul Eater/Cerberus HEAD ORIENTATION and attentive expression. He is the black three-headed dog screen right. The FLOATING CYAN MARKET CHART is to his SCREEN LEFT. All THREE muzzles and all THREE pairs of eyes must look LEFT towards that gold high plateau curve, not towards camera or screen right. Physically rotate the three heads at their necks into natural left-facing three-quarter / left profile views, with distinct staggered heights so all three heads and six ears remain individually readable; central taller head turns left roughly 55 degrees and tilts down slightly toward chart endpoint; leftmost head looks further left toward curve middle; rightmost head also turns left, its muzzle visibly points screen left and eyes track curve endpoint. Natural anatomical neck overlap, no twisted neck, no merged heads. Close all three mouths: listening attentively, central brow subtly narrowed evaluating, side heads alert, no panting or grin. Keep identity black fur amber eyes fine central forehead scar, broad studded collar square gold eight-point star tag. Preserve ONE dog body, exact four grounded legs, torso stance size and tail, keep all fur quality and sunlight. Do NOT turn torso, move dog or redraw other elements. High-end feature-film CGI identical rendering, resolved fur and organic neck muscles. No extra heads, no extra legs, no text, no crop. User priority is unmistakable LOOKING AT THE SCREEN ON THE LEFT with all three heads, while preserving everything else.",
+  "references": [
+    "/Users/iruxu/.codex/generated_images/01a1ffe4-af3a-7251-9224-c4d26f358c6e/exec-fe882e80-a8aa-4842-aa37-548126c73737.png"
+  ],
+  "output": "01-窗边银翼与噬魂.png",
+  "size": [
+    1672,
+    941
+  ],
+  "postprocessing": "无",
+  "model": "未暴露",
+  "status": "新修订待用户审阅",
+  "inspection": "三颗头均向画面左侧投影，闭口听取；保留银翼、窗景与四足站姿。头部转向带来颈毛轮廓变化，非像素级局部编辑。",
+  "feedback": "用户报告自己生成的视频呆滞无动作表情；未提供视频供直接检查。本轮修改参考图和提示词，未提交视频生成。"
+}

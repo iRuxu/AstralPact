@@ -1,0 +1,17 @@
+{
+  "shot": "05",
+  "name": "十二花材陈列B",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/05-十二花材陈列B.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "沿用已确认素材，未重新生成",
+  "postprocessing": false,
+  "status": "沿用用户已认可花材定稿",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "source": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/花店/候选/05-十二花材陈列B.png",
+  "sha256_matches_source": true,
+  "original_generation_record": "assets/scenes/花店/archive/生成记录/2026-11-21-十二花材核对修订.json"
+}

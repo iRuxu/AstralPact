@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-22",
+  "tool": "image_gen.imagegen built-in",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "post_processing": "无；原生图原样复制",
+  "status": "十张新稿待用户审阅，未生成视频",
+  "prompts": [
+    {
+      "file": "01-小狼多屏工位.png",
+      "prompt": "Create ONE independent cinematic storyboard keyframe, landscape 16:9. Reference image 1 locks the gray muscular scarred wolf identity, charcoal three-piece suit, burgundy tie, tiny red-white ring lapel pin. Reference image 2 is rendering-quality reference ONLY, no dragon identity, horns, jewelry or palace furniture. High-end feature-film CGI, physically based materials, individually resolved fur, crisp suit weave, distinct glass and metal response, soft daylight key and subtle cool screen fill. Establish a NEW separate trading workstation room within the purple-crystal exchange, NOT the previous meeting table: elegant restrained purple crystal structural accents, dark desk, SIX flat trading monitors in two rows of three on actual stands. Single wolf seated left foreground seen from rear three-quarter angle, enough profile to see wolf muzzle and right-eye scar; hands relaxed, looking toward center screen, no teaching gestures. Six screens clearly show separate market quote lists and rising price charts; main center screen price just stepping up from quiet market, warm red upward candles, subdued cyan data. Keyboard and mouse on desk, realistic wiring, no smartphone terminal. Camera medium-wide over shoulder, monitors readable as market displays, window daylight on right. No human figures, no crowns, no subtitles, no comic panels. One coherent room and one frame.",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/中信证券/3D三视图.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "file": "02-街头航天宣传.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference 1 fixes exact street layout and camera: ocean left, uphill purple crystal stock exchange center distance, white-gold shops and pink awnings right, parked silver car left facing downhill, yellow delivery bicycle on right sidewalk, existing gold-framed public market screen right foreground. Reference 2 ONLY sets CGI quality, do not copy dragon, horns or clothing. Recreate this street as a slightly wider establishing shot at daytime. Replace content INSIDE existing street display with commercial space travel poster: elegant silver spaceship heading toward glowing wormhole and a small remote blue Earth, framed as advertising on screen, not real spacecraft overhead. Large correctly spelled Chinese headline '三千年后的船票', tiny corner disclaimer '远期愿景'. Lower quarter shows a modest rising red price curve with heading '虫洞挖掘机'. Bright attractive ad, integrated panel, NOT fullscreen poster. A few distant ordinary anthropomorphic animal pedestrians only, foreground almost clear. Maintain car, bicycle, flowers, screen frame and street direction.",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/交易所坡道街区/01-街角行情屏与接单街区.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "file": "03-马去叫住牛来.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 fixes the golden bull driver identity and clothing ONLY: short gray curved horns, golden short fur, pale muzzle, broad sturdy body, navy open work jacket over pale blue polo, tiny orange car pin, brown work trousers, dangling waist car keys. Reference2 fixes tall slim brown horse courier identity ONLY: white forehead-to-nose stripe, black mane, yellow helmet ears protruding, mustard reflective delivery jacket, black gloves, black-edged yellow delivery backpack worn on straps, illuminated order receiver clipped to HIS LEFT FRONT WAIST. Reference3 fixes the street buildings, pink awnings, ocean left, road uphill and display right. Make a cinematic TWO SHOT knees-up on the right sidewalk near screen, bull on camera LEFT and horse on camera RIGHT. Bull holding smartphone low in one hand, turns amused toward horse; horse leans slightly toward bull, eyebrows lifted and mouth just opening to ask about the rising stock. Not cheering yet. Their body positions do not overlap. Screen at right edge partial, both can look between each other and upper right display. Early daytime light, parked silver car behind left. Fine animal faces, hands with believable anatomy, readable keys and receiver, no human hands or human pedestrians.",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/牛来-司机/3D三视图.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/马去-外卖员/3D三视图.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/交易所坡道街区/02-行情屏前人行道中景.png"
+      ]
+    },
+    {
+      "file": "02-街头航天宣传.png",
+      "revision": true,
+      "prompt": "Edit ONLY the text inside the existing street display. Keep entire cinematic street, exact framing, buildings, spaceship/wormhole/Earth advertising art, car and bicycle unchanged. Correct headline to exactly these seven Chinese characters: 三 千 年 后 的 船 票 — joined as 三千年后的船票. The first character MUST have THREE horizontal strokes, 三, not 二. Small corner text exactly 远期愿景. REMOVE the lower malformed stock-name label entirely, retain clean red rising chart below art with no stock-name text. No other alterations. Crisp physically based 3D movie render.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-eafb72e9-fd8f-467e-9142-f07378e3348d.png"
+      ]
+    },
+    {
+      "file": "04-牛来再买点.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 fixes bull-left horse-right, their identities, street side and sun direction. Reference2 fixes bull face and costume details. Create a distinct closer cinematic camera shot, waist-up three-quarter view of bull Niu Lai occupying left-center, GOLDEN BULL not deer. He looks down at smartphone held in his RIGHT hand, LEFT index finger poised just above phone ready to tap once, expression eager determination with a small grin. Horse on right leans closer looking down at same phone, still wearing helmet and delivery backpack, left-waist order receiver correctly attached. Bull short horns, navy jacket, pale-blue polo, orange car pin, waist keys clearly visible. Real anatomical furry fingers, not hooves or extra hands. Street and pink awnings softly visible behind, preserve screen-right gaze axis; crop public display entirely out of this close framing so no screen-content contradiction. No cheers yet, no speech text.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-90307a2e-32b3-4315-836e-aeafaea5f587.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/牛来-司机/3D三视图.png"
+      ]
+    },
+    {
+      "file": "03-马去叫住牛来.png",
+      "revision": true,
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Edit target reference1. Keep bull-left horse-right, faces, clothes, keys, horse receiver on left waist, delivery backpack and exact street camera. Change ONLY two things for continuity: (1) existing street display right must show the advertising content from reference2: silver spaceship, purple wormhole, remote Earth, headline 三千年后的船票 with tiny 远期愿景, lower red rising chart, not the two old cyan/yellow graphs. The frame may crop most headline naturally. (2) Bull holds smartphone in HIS LEFT hand (on viewer-right side of his torso), his RIGHT hand relaxed near waist. Horse still asking him with friendly amused expression and one palm open, no cheering. Everything else unchanged, no added characters.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-90307a2e-32b3-4315-836e-aeafaea5f587.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-c29b3dcd-be0f-4633-9362-95c4b52cec7e.png"
+      ]
+    },
+    {
+      "file": "05-屏前初聚人群.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 locks exact wide street geography and advertising display content, car left facing downhill, shops right, ocean left, purple exchange uphill. Reference2 locks two protagonists and clothes, reference3 and4 lock their full body proportions and legs. Create a wider shot with same reference1 camera, FIRST DAY early light. Golden bull Niu Lai and tall slim horse Ma Qu stand together on RIGHT sidewalk near display, bull to horse's left, bull holding phone in left hand low, horse wearing yellow delivery backpack and receiver at left front waist. Their WHOLE bodies have complete trousers, shoes, supported feet. SIX other anthropomorphic animal workers (deer, rabbit, sheep, raccoon, pig, otter) begin to gather, different relaxed curious poses, no cheering yet. Keep safe passage along sidewalk. Foreground characters large enough to recognize. Existing display retains spaceship/wormhole/Earth, headline 三千年后的船票, tiny 远期愿景, red rising graph. Crisp faces with natural laborers' clothes, no copied protagonists, no humans. Keep all architecture unchanged.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-c29b3dcd-be0f-4633-9362-95c4b52cec7e.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1a52f789-6fb4-4f96-9ff0-a712cdd6cd50.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/牛来-司机/3D三视图.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/马去-外卖员/3D三视图.png"
+      ]
+    },
+    {
+      "file": "06-次日行情再涨.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 is exact continuity scene and reference2 is exact original street. Make a DISTINCT NEXT-DAY keyframe with SAME reference1 wide camera and architectural positions, ocean LEFT, uphill exchange CENTER, advertising screen RIGHT. Change DAYTIME LIGHT clearly to bright late-morning neutral sun, sun high OUT OF FRAME, blue sky without sunset orange at horizon; short sideways shadows. Same gold frame, spaceship/wormhole/Earth poster headline 三千年后的船票 and tiny 远期愿景. Lower chart extends farther upward than prior day. About TWELVE varied anthropomorphic working animals gather on sidewalk with DIFFERENT positions than reference1, a few pointing at chart or showing phones, excited discussion but no uniform cheering yet. Bull and horse remain recognizable in right foreground, bull LEFT of horse, identical clothes, full trousers shoes feet, horse yellow backpack and left-waist receiver. Parked silver car and yellow bicycle retain locations, no traffic blocked. This is a hard-cut later day, do not morph bodies or add faded ghost copies.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-7247bf16-7b80-4596-94c0-b6c99015cc68.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-c29b3dcd-be0f-4633-9362-95c4b52cec7e.png"
+      ]
+    },
+    {
+      "file": "10-马去按掉接单器.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 fixes this later afternoon daylight, horse identity and worn yellow jacket, helmet, backpack, nearby animal crowd and street. Reference2 fixes body and LEFT FRONT WAIST device. Create distinct final keyframe, SINGLE horse Ma Qu medium shot from helmet top to upper thighs, camera at his LEFT FRONT three-quarter angle so face AND his LEFT-front waist receiver are clearly visible together. Horse stands to camera right looking intently UP toward OFFSCREEN upper RIGHT display, mouth CLOSED now after cheering, soft eager smile and absorbed eyes. His LEFT gloved hand is lowered to receiver, LEFT index fingertip just resting on its physical side button, not obscuring screen. RIGHT arm relaxed at other side. Receiver remains firmly clipped to HIS LEFT FRONT waistband, glowing cyan screen with simple notification icon only, no illegible message text. Yellow box still properly worn with shoulder straps and chest buckle, helmet ears intact. A sliver of bull navy sleeve on LEFT edge helps continuity, surrounding cheering animals softly behind. Sunlight warm from same upper left, crisp readable glove/button/device and facial profile, natural camera depth not overblur. No subtitles, no speech balloons. No moving device to right hip, no phone in hand, no human fingers.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1458dd4d-3ac4-403c-800f-d1907b90797d.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/马去-外卖员/3D三视图.png"
+      ]
+    },
+    {
+      "file": "07-数日后人潮上坡.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Reference1 and2 fix the EXACT wide street layout, road uphill from center foreground to purple exchange at top center, ocean left, white-gold shops right, advertising display right. Reference3 fixes warm afternoon lighting and protagonists on THIS LATER DAY. Make a distinct wide establishing shot SEVERAL DAYS LATER with high warm mid-afternoon sun out of frame, warm angled shadows but blue daytime sky. Crowd has increased: approximately twenty anthropomorphic working animals. In middle distance, SIX animals seen mostly from BEHIND run UPHILL on the sidewalk toward the purple exchange, clearly backs facing camera and feet striding uphill; some pass behind foreground group. Keep road clear of vehicle collisions. Golden bull and helmeted courier horse remain together near RIGHT display foreground, bull left of horse, full body complete legs shoes, horse backpack and receiver visible. Other near animals talk excitedly or point to the rising chart. Display retains SAME spaceship/wormhole/Earth advertising, headline 三千年后的船票 small 远期愿景, lower red graph now very high. No astronauts in street, no flying spaceships overhead, no human people. Architecture, parked silver car and delivery bike remain recognizable. Show real varied body poses, not uniform parade or repeated clones.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-7247bf16-7b80-4596-94c0-b6c99015cc68.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-c29b3dcd-be0f-4633-9362-95c4b52cec7e.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1458dd4d-3ac4-403c-800f-d1907b90797d.png"
+      ]
+    },
+    {
+      "file": "09-人群齐声欢呼.png",
+      "prompt": "ONE independent landscape 16:9 movie storyboard frame, high-end feature-film CGI, physically based materials, individually resolved fur, realistic woven work clothing, crisp natural detail, warm daylight key and subtle cool sky fill, distinct glass metal and stone. No panels, no collage, no humans, no subtitles or speech balloons. Create a DISTINCT WIDER ensemble reaction shot, same later-day warm afternoon light as reference1, same street, NOT a copy or crop. Reference1 locks foreground golden bull LEFT and taller horse RIGHT, identity and worn work clothes. Reference2 locks street space only, not its early morning light or calm mood. Camera medium-wide from knees upward, 35mm, bull and horse foreground right-center both gazing upper RIGHT offscreen public display. Behind and to left 10 ordinary anthropomorphic animal workers (fox, rabbit, deer, sheep, otter, raccoon, pig, cat, beaver, badger) cheer with joyful open mouths, some raise one fist or clap; varied organic staggered poses, not synchronized military formation. Bull still navy jacket pale-blue polo tiny orange pin, keys hanging and phone in LEFT hand lowered, RIGHT fist raised. Horse yellow helmet, black gloves, yellow delivery backpack fully strapped, order receiver clipped LEFT FRONT waist, hand raised now but not pressing button yet. All visible thighs and knees anatomically supported, no human figures. Pink awnings and flower pots right, purple exchange up the street, ocean left edge. The street DISPLAY is offscreen upper RIGHT, do not invent second screen. Crisp natural character faces, no speech balloons or subtitles.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1458dd4d-3ac4-403c-800f-d1907b90797d.png",
+        "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-7247bf16-7b80-4596-94c0-b6c99015cc68.png"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "file": "10-马去按掉接单器.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-07081a32-8937-4803-b33b-6958a62dc500.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "01-小狼多屏工位.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-83882227-02e1-4df7-bddb-8bdfafeef8ee.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "02-街头航天宣传.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-c29b3dcd-be0f-4633-9362-95c4b52cec7e.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "03-马去叫住牛来.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1a52f789-6fb4-4f96-9ff0-a712cdd6cd50.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "04-牛来再买点.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-a9dfcc65-9b27-43bf-a078-d2631b9fb6e1.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "05-屏前初聚人群.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-7247bf16-7b80-4596-94c0-b6c99015cc68.png",
+      "width": 1671,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "06-次日行情再涨.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-cdd42913-bb70-450c-8bc3-2955a939b072.png",
+      "width": 1670,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "08-牛马喊出愿望.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-1458dd4d-3ac4-403c-800f-d1907b90797d.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "07-数日后人潮上坡.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-9f83ac55-b1f4-44d6-b5d1-4fd8d1fe5617.png",
+      "width": 1670,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    },
+    {
+      "file": "09-人群齐声欢呼.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-5c628cba-000c-4f8e-b1dc-f6731b988ea0.png",
+      "width": 1672,
+      "height": 941,
+      "review": "已目视检查，待用户审阅"
+    }
+  ],
+  "checks": {
+    "identity": "已逐张目视检查牛来、马去、六屏工位与动物群像；钥匙、背箱和接单器保留",
+    "continuity": "03重绘统一左手持手机及宣传屏；04右手点按。06为隔日，牛来手机换手且马去另持手机，非同一动作连续镜头；正式视频不增加这些操作。",
+    "limits": "微小广告字形不稳定，图2等角落小字可能不完全准确，视频或后期需核对远期愿景。01包含工具生成的USD/现实代码式字样，仅作行情美术，非世界观设定；不突出，精确文字需另修。街屋花盆、车辆取景位置及群众配饰有细微漂移，非精确三维场景。"
+  }
+}

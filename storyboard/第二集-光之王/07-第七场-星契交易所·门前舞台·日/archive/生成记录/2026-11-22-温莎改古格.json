@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-22",
+  "channel": "built-in image_gen",
+  "status": "新稿待审阅",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "reference_order": [
+    "对应旧镜头（现归档于archive/2026-11-22-温莎改古格前/）",
+    "assets/characters/05-市场舆论/古格/特写/01-赤狐女巫正面-探索v1.png",
+    "assets/characters/05-市场舆论/古格/3D三视图.png"
+  ],
+  "prompts": {
+    "shot01": "Edit image1, ONE landscape16:9 high-end feature-film CGI storyboard. Replace ONLY the male green parrot standing at far RIGHT on stage with GUGE, the adult FEMALE red fox in images2 and3. Image2 authoritative face: amber eyes, cream muzzle, copper-red long wavy hair, fox ears; image3 full-body burgundy velvet cloak and deep red gold flame embroidered long gown, single red fox tail, modest oval ruby necklace in slim antique gold mounting. Same exact stage position, appropriate same height. Guge holds handheld microphone lowered at chest, composed confident female posture. Remove all parrot features, tuxedo, monocle, headset. Preserve everyone else, Qingqiu white fox in middle, Youzi green dress at left, audience, LEFT bull, stage, architecture, daylight, framing, material quality exactly. No added text or panels.",
+    "shot05": "Edit image1 into ONE independent landscape16:9 high-end feature-film CGI medium close shot. Replace parrot ENTIRELY with Guge, adult female RED FOX from image2 face and image3 full costume: amber eyes, cream muzzle, copper-red flowing wavy hair, two complete fox ears, burgundy velvet cloak, deep-red gown with antique-gold flame embroidery, small oval ruby and slim gold necklace. Guge holds the same handheld microphone close to her OPEN FOX MOUTH, other slim fur-covered hand reaches toward audience to deliver a compelling invitation. Elegant confident intense expression, slightly low audience angle. Keep same camera framing, purple stage gold star backdrop and daylight. Remove all parrot feathers, beak, monocle, headset, tuxedo and brooch. No human face. Anatomically coherent fox hands, no text, no collage. Preserve detailed cinematic materials and restrained lighting.",
+    "shot06": "Edit image1, ONE landscape16:9 high-end feature-film CGI storyboard. Replace ONLY far RIGHT male green parrot on raised stage with Guge adult female red fox from image2 identity, image3 full costume: amber eyes, cream muzzle, long copper-red wavy hair, fox ears, burgundy velvet cloak and deep red flame-embroidered floor length gown, small oval ruby necklace, single red fox tail. Same stage position, hand holding handheld microphone, other hand extended toward audience in invitation. Remove all parrot traits, tuxedo, monocle, headset. Preserve EXACT rest: white fox Qingqiu waving center, Youzi left, promotional portrait, crowd cheering, star cards, beams, LEFT bull, architecture, stage stairs and sunlight. No text added, no collage.",
+    "shot05_fix": "Edit this image ONLY by widening camera framing enough to show BOTH FOX EAR TIPS completely with clear 6% image-height space above the tallest tip and left fingertips fully inside frame. Keep Guge same exact red fox identity, expression, ruby size, red gold gown, microphone grip, extended hand, stage star backdrop, day lighting. Slightly wider waist-up framing rather than tight portrait, keep 16:9. Do not crop any ear or fingertip. High-end feature-film CGI crisp detail, no text."
+  },
+  "fix_reference": "archive/2026-11-22-温莎改古格前/05-古格首稿-耳尖裁切.png",
+  "unexposed": [
+    "model",
+    "seed",
+    "quality"
+  ]
+}

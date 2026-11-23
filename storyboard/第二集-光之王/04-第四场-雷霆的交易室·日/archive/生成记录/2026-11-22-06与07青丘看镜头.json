@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": false,
+  "user_request": "06与07都让青丘看向镜头，取代此前看雷霆的方向要求",
+  "visual_check": "两张均转为双眼可见、面向镜头；07维持修长头身比例。人物及环境有细微生成差异，待用户审阅。",
+  "frames": [
+    {
+      "file": "06-青丘门口侧影.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY Qing Qiu's head orientation and eyes in this doorway medium-close cinematic frame. User wants her LOOKING DIRECTLY INTO THE CAMERA LENS. Rotate her head from strict LEFT PROFILE to a FRONT-FACING FOX FACE looking at viewer: both golden eyes clearly visible, pupils directed into lens, fox nose centered between eyes, symmetrical visible muzzle with slight natural three-quarter turn at most 5-10 degrees. NOT looking screen left, NOT looking down, NOT looking at offscreen eel. Keep calm composed subtle knowing expression, original white-platinum FOX identity (never human face), long refined muzzle, tall fox ears, same pearl/gold coiffure and hanging jewelry reprojected naturally with head turn. Preserve anatomical head scale relative to shoulders, don't enlarge head. Body retains current doorway pose, lavender/champagne embroidered robe, pearls, tails and framing. Keep doorway, door opening angle, handle, background corridor, warm light and camera exactly same. Local natural neck rotation only, no whole body relocation or new gestures. High-end feature-film CGI, finely resolved fur, raised embroidery, PBR gold and pearl, same crisp detail. ONE 16:9 full frame, no text or collage.",
+      "reference_paths_in_order": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/archive/2026-11-22-06与07看镜头修订前/06-青丘门口侧影.png"
+      ],
+      "reference_note": "第一张路径按归档后位置列出；实际调用时为场次根目录同名旧图。07第二张为本次新06，仅锁脸部与朝向，不借近景尺度。",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ffc5-4324-77b0-a2df-b0cc91058002/exec-e280a4a7-f6de-4896-aeac-8c81beb08d2c.png",
+      "width": 1672,
+      "height": 941,
+      "status": "新稿待审阅"
+    },
+    {
+      "file": "07-雷霆回头.png",
+      "prompt": "Use case: precise-object-edit. Image1 is target FULL WIDE room shot, image2 is ONLY identity and HEAD ORIENTATION reference for Qing Qiu. Edit ONLY small standing white-platinum fox Qing Qiu at FAR RIGHT doorway in Image1. Turn her head toward camera so she looks DIRECTLY INTO LENS, matching image2 front-facing face and golden eyes. Both eyes clearly visible, pupils directed at viewer, fox nose centered, no downward or left-profile gaze. Keep small corrected mature head-to-body proportion from Image1: do NOT enlarge head or ears/coiffure, do NOT import close-up head scale. Same elegant fox face, pearl gold coiffure, calm expression, subtle neck turn; body, robe, hands, tails, height and feet stay exactly where they are. Image2 only specifies face and direction, not composition or scale. EVERYTHING else in Image1 unchanged: seated eel's head/pose/suit/legs/tail, chair, three monitors with exact FORCED LIQUIDATION and cyan upward graphs, desk, window city, door angle, cabinet and lighting, full 16:9 framing. Head turn only, no full-body relocation. PBR high-end feature-film CGI with refined fur silk pearl gold, same natural detail. No humans, no arrows, no text overlays.",
+      "reference_paths_in_order": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/archive/2026-11-22-06与07看镜头修订前/07-雷霆回头.png",
+        "/Users/iruxu/.codex/generated_images/01a1ffc5-4324-77b0-a2df-b0cc91058002/exec-e280a4a7-f6de-4896-aeac-8c81beb08d2c.png"
+      ],
+      "reference_note": "第一张路径按归档后位置列出；实际调用时为场次根目录同名旧图。07第二张为本次新06，仅锁脸部与朝向，不借近景尺度。",
+      "source": "/Users/iruxu/.codex/generated_images/01a1ffc5-4324-77b0-a2df-b0cc91058002/exec-d478a5fb-599c-4062-85bf-efdded5915ac.png",
+      "width": 1672,
+      "height": 941,
+      "status": "新稿待审阅"
+    }
+  ]
+}

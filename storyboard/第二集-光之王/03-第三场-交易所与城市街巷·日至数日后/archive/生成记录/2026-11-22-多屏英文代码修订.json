@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-22",
+  "tool": "image_gen.imagegen built-in",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "reference_images": [
+    {
+      "path": "01-小狼多屏工位.png",
+      "role": "唯一编辑目标；保持人物、设备、室内、构图，仅改六屏文字与表格"
+    }
+  ],
+  "mapping": {
+    "top_center": "ZGWX",
+    "bottom_center": "RMB / USD",
+    "top_left": [
+      "HTDZ 航天电子",
+      "HTDL 航天动力",
+      "HTFZ 航天发展",
+      "ZGWT 中国卫通",
+      "CJGF 超捷股份",
+      "LKFW 雷科防务"
+    ],
+    "bottom_left": [
+      "ZJKY 紫金矿业",
+      "HNBY 湖南白银",
+      "XYYX 兴业银锡",
+      "NSLY 南山铝业",
+      "SCHJ 四川黄金",
+      "BYYS 白银有色"
+    ],
+    "top_right": [
+      "LSGB 蓝色光标",
+      "YDTX 易点天下",
+      "KLWW 昆仑万维",
+      "SJZG 视觉中国",
+      "YLCM 引力传媒",
+      "TLJT 天龙集团"
+    ],
+    "bottom_right": [
+      "CXYL 创新医疗",
+      "SBNK 三博脑科",
+      "MHYL 美好医疗",
+      "APYL 爱朋医疗",
+      "XYYL 翔宇医疗",
+      "CYT 诚益通"
+    ]
+  },
+  "scope": "仅工位第一张图的六屏界面使用英文与代码，中文映射写入剧本；不改街头广告语言",
+  "output": {
+    "source": "/Users/iruxu/.codex/generated_images/01a1ff69-abad-71e1-866b-f326164dce9f/exec-88eaa44d-0b78-4134-8f43-f40c330029ba.png",
+    "post_processing": "无，原生图原样复制",
+    "review": "已逐项目视核对中间两标题与四角24个代码，均匹配；新图待用户审阅",
+    "width": 1672,
+    "height": 941
+  }
+}

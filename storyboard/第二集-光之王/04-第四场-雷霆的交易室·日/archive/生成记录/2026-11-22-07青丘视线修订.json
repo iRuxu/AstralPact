@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "prompt": "Use case: precise-object-edit. Correct ONLY the EYELINE and HEAD ORIENTATION of Qing Qiu the small female white-platinum fox standing FAR RIGHT doorway in supplied frame. Preserve her currently corrected SMALL head/ears/coiffure scale and slender adult body exactly. She must LOOK DIRECTLY AT Lei Ting, the SEATED eel in center foreground, specifically his eye/face near pixel (975,307) in this 1672x941 frame. Her eye is around (1440,235): gaze vector must run diagonally LEFT AND DOWN toward that face, NOT horizontally left toward window or distant monitors. Crucially account for DEPTH: the seated eel is diagonally in front of her, nearer camera and left; turn her head a little TOWARD CAMERA into subtle left-facing three-quarter profile (not strict flat side profile), then LOWER chin/muzzle about 9 degrees and aim pupils down-left so she is clearly addressing that seated man. Neck rotates naturally, keep fox muzzle and facial identity, gold eyes, calm knowing expression. Her nose/eye direction should visibly point toward eel's face rather than across room behind him. Preserve elegant smaller head/body ratio from source, preserve ornate headpiece pearls and ears attached correctly. No eye-line graphics, no arrows. Do NOT modify seated eel or his gaze, do NOT move fox from doorway or change feet, hands, robe, body, tails, ring, lighting, opening door, furniture, screens, sea city, camera or crop. Localized head rotation and pupils only, with minimal natural neck connection adjustment. Same high-end feature-film CGI physically based fur silk gold pearl textures and soft daylight. One full 16:9 frame.",
+  "reference_paths_in_order": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/07-雷霆回头.png"
+  ],
+  "actual_input_now_archived": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/archive/2026-11-22-青丘视线修订前/07-雷霆回头.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1ffc5-4324-77b0-a2df-b0cc91058002/exec-08ee612c-3244-40ff-87bc-e57970ee18fd.png",
+  "output": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/07-雷霆回头.png",
+  "width": 1672,
+  "height": 941,
+  "postprocessing": false,
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "视线新修订待用户审阅",
+  "visual_check": "头部从平侧面改为略向镜头一侧转的三分之二侧向，低头看向左前方坐姿雷霆；保留较小头身比例。眼神的精确落点仍以用户审阅和实际视频验收为准。"
+}

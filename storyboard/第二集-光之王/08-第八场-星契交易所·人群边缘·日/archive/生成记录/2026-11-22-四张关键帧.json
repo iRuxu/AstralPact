@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "status": "四张新稿待用户审阅；非已确认定稿",
+  "dimensions": "01、02、04为1672×941；03为1671×941；均原生输出，无后处理",
+  "references": {
+    "image01": [
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/第二集候选/01-金月小兔夹-3D三视图.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+    ],
+    "image02": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-325d1b0b-1e1a-4a59-aaa1-2180bc8687ef.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/第二集候选/01-金月小兔夹-3D三视图.png"
+    ],
+    "image03": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-325d1b0b-1e1a-4a59-aaa1-2180bc8687ef.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/props/星契/星契卡-镭射正面概念.png"
+    ],
+    "image04": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-325d1b0b-1e1a-4a59-aaa1-2180bc8687ef.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/第二集候选/01-金月小兔夹-3D三视图.png"
+    ]
+  },
+  "prompts": [
+    "Use case: illustration-story. ONE standalone cinematic storyboard still, 16:9 landscape. References: image 1 authoritative panda Xiong Daxiao identity, grey blue frog-button jacket, dark trousers, gold cratered moon toy on headband, white rabbit clip, speaker and vertical wooden 好人 tag on HIS LEFT HIP. Image 2 authoritative purple crystal exchange architecture, elevated stage on right, bull on left. Image 3 ONLY rendering finish, never dragon identity or costume. Shot 01: sunny daytime crowd edge, medium-wide eye-level three-quarter frontal view of panda at LEFT foreground, complete moon and rabbit, body down to knees and left-hip props visible. Panda gently extends right paw to stop several clothed ordinary anthropomorphic animal spectators moving diagonally away toward RIGHT background stage. Compassionate concerned expression, speaking just beginning, no anger. Dense celebratory crowd looks toward stage, ignores him; panda is outside crowd stream with breathing room to his left. Stage remains bright but small and mostly occluded by animal heads; no identifiable new stage character needed. High-end feature-film CGI, individually resolved fur, woven fabric, physically based roughness, clear natural daylight and soft cool fill, crisp detail. Natural animal paws, no humans. No subtitles, speech balloons, shot labels, watermarks or collage. No dark ominous grading. Keep toy-sized moon not giant planet.",
+    "Create ONE independent 16:9 cinematic storyboard frame 02, closer medium shot of panda from same front three-quarter side as image 1. Image 1 locks all staging daylight identity costume props and crowd direction, image 2 panda turnaround confirms anatomy. Continue exact moment: panda gently warning passersby, mouth mid speech, concern behind kind eyes, raised LEFT paw held in a soft calming gesture on screen right. Frame from above complete gold cratered moon and rabbit clip to waist including speaker and 好人 tag at his left hip. Panda on left half, passing clothed rabbit and fox shoulders on right edge keep moving toward stage to right rear, nobody stops or looks at him. Background purple exchange and bright high stage identifiable but softly out of focus, no new stage closeups. High-end feature-film CGI, fine individually resolved black white fur and coarse woven grey-blue jacket, PBR metals and natural daylight, crisp face, no plastic, no human hands, no subtitles or captions, no collage. Preserve left-hip speaker and toy size.",
+    "ONE standalone 16:9 film CGI storyboard still 03. Image 1 locks sunny scene layout and panda identity: panda left foreground, bright purple exchange center background, high stage right background, crowd flows right and away. Image 2 is actual holographic star-contract card design only. New action: a clothed ordinary raccoon spectator passes very close across foreground from left toward right, raises ONE SMALL palm-sized purple holographic eight-point-star contract card in its furry paw; because it is nearer camera the card briefly occludes panda's eyes and muzzle. Panda's complete gold moon and white rabbit clip remain visible ABOVE card and head silhouette; lower cheek and torso remain visible around occlusion. Card is hand-sized in world, never poster sized. A separate clothed rabbit turns its shoulders sideways to squeeze past panda's raised calming left paw on screen right, without contact. Nobody looks at panda. His left paw still raised but starting to relax. Preserve grey blue frog-button jacket, left-hip speaker and vertical 好人 wooden tag. Eye-level medium frame, same camera side. Focus sufficient to read occlusion and gestures, natural sharp fur cloth and metal, high-end feature-film physically based CGI. No humans, no human hands, no subtitles, collage, motion smear or dark lighting. Stage small distant mostly screened by crowd.",
+    "ONE standalone 16:9 cinematic storyboard frame 04 ending. Use image 1 for exact panda identity, scene camera geography and light. Same panda standing outside crowd at LEFT third, now BOTH paws fully lowered naturally at his sides, mouth CLOSED, restrained rueful concern, eyes following crowd to right, no crying or dramatic despair. Medium-wide frame from above complete gold cratered moon and white rabbit headband clip down to below knees. Grey-blue frog-button jacket, dark trousers, speaker and 好人 tag at HIS LEFT hip unchanged. Crowd of clothed anthropomorphic ordinary animals keeps flowing past him toward bright high stage on RIGHT background; foreground raccoon has passed and no card blocks his face now. Purple exchange center, bronze bull left background, elevated stage right, sunny clear daylight all remain. Same flowering branch upper left, paved plaza. Panda is still while crowd is lively, gold toy slightly tilted a few degrees at flexible base, never detached. Do not make moon itself emit magic. No new close stage characters. High-end feature-film CGI, individually resolved fur, rich woven fabric and PBR brass, natural crisp detail and readable daylight, restrained bloom. No humans, no text except 好人 tag, no subtitles, watermark, collage, fade, dark vignette or black ending."
+  ],
+  "inspection": "已目视四张。金月兔夹、左髋音响与吊牌可见；03为卡片遮挡眼鼻，04双爪放下。01实际抬左爪，后续提示沿用实际画面。02月球靠近上边缘但完整；跨图群众位置与人物比例有生成漂移，舞台为远景，未确认与第七场人物完全一致。静帧不能证明月球晃动或真实动作连续，需视频验收。"
+}

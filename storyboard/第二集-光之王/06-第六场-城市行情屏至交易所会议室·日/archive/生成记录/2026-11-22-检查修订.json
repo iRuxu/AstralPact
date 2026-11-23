@@ -1,0 +1,10 @@
+{
+  "channel": "built-in image_gen",
+  "fix8": {
+    "prompt": "Edit this image precise corrections. Preserve mature red fox woman identity face hair red dress, exact ruby size, assured expression screenleft gaze and hand on near-right empty chairback. Widen framing slightly at TOP so BOTH EAR TIPS fully visible with comfortable headroom, no cropping. Remove the cream bound book folder in bottom foreground completely: the paper proposal has NOT moved from leopard's place across table offscreen LEFT. Keep foreground table clear except existing dark slim leather blotter at farleft. No book or folder in front of fox, no duplicated proposal. Keep daylight bay window on right, purple starwall left and empty king chair farleft because king has stood to greet guest. One16:9 independent feature-film CGI no captions.",
+    "refs": [
+      "archive/首稿问题/08-耳尖裁切与方案移位.png"
+    ]
+  },
+  "status": "修订完成并目视检查；未获用户认可"
+}

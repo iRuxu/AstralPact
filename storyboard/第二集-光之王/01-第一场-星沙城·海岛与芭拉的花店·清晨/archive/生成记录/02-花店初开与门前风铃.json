@@ -1,0 +1,22 @@
+{
+  "shot": "02",
+  "name": "花店初开与门前风铃",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/02-花店初开与门前风铃.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Reference1 locks exact flower shop exterior and road orientation. New medium-wide view near open entrance, shop occupies left 2/3, uphill curved road and small purple exchange upper right background. Cream-white facade, golden arched glazing, blush awning on right window, flowering vines. A small delicate glass/metal WIND CHIME hangs clearly from entrance frame upper left, slightly tilted by breeze. Door already open, fresh flower buckets by threshold, warm morning entering. No humans/animals visible yet. Keep sun direction consistent with reference; do not invent shop name, no cafe.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/花店/候选/01-坡道花店外景.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ]
+}

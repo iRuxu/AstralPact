@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "model": "工具未暴露，不猜测",
+  "seed": "工具未暴露",
+  "postprocessing": "无；直接复制原始PNG",
+  "status": "助手已检查并修正主要背景问题，用户待审阅",
+  "reused": {
+    "source": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+    "output": "01-会议室五狼落座.png",
+    "dimensions": [
+      1670,
+      941
+    ]
+  },
+  "generations": [
+    {
+      "name": "02-狼王召集献计",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium close shot of crowned wolf king at far head chair, camera on table axis. Purple crystalline eight-point star wall behind. He separates clasped paws, opens one palm slightly toward his seated colleagues, alert calculating expression, beginning an inquiry. Only one character in crop.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-b4b19747-25f8-4b45-bd5c-9a74f072a7d2.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit this image locally only: keep the wolf king, exact face, crown, clothes, hand gesture, camera, all lighting and architecture unchanged. Replace ONLY the contents of the financial screen at left with a single quiet nearly horizontal thin lavender line on dark purple, like a dormant market, no candlesticks or crash. One landscape film still.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-b4b19747-25f8-4b45-bd5c-9a74f072a7d2.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-5b73b56c-e39f-4c4c-bb8c-0f99951aff3d.png",
+          "dimensions": [
+            1672,
+            941
+          ]
+        }
+      ],
+      "current_output": "02-狼王召集献计.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "03-华泰提议创新药",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium close shot of slim round-gold-glasses Huatai seated at near left side of table, looking toward head chair screen right. Gray three-piece, red tie, small red-white diamond lapel pin. Slightly lifts one forepaw in a restrained professional proposal gesture. Dark financial screen and cabinet on west wall behind him, table lower frame. No scars.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/华泰证券/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ccd4bc62-efda-4faf-b0e7-84735168b47f.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit this storyboard image: preserve the foreground bespectacled slim wolf exactly, including face, glasses, suit, lapel pin, raised paw, table and camera. REMOVE both background wolves completely; behind him continue the west wall dark wood cabinet and purple wall panels naturally, no chairs or people. On the existing west financial screen replace candlesticks by a single quiet nearly horizontal lavender line on dark purple. No other changes, same high-end CGI.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ccd4bc62-efda-4faf-b0e7-84735168b47f.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-cf4f37c0-f605-48b1-ac30-cc93833d4b96.png",
+          "dimensions": [
+            1671,
+            941
+          ]
+        }
+      ],
+      "current_output": "03-华泰提议创新药.png",
+      "current_dimensions": [
+        1671,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "04-银河提议新能源",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium close shot tall lean Galaxy seated far right table side, navy long tailored coat gold piping, blue tie and small orbital star pin. Looking toward king screen left, confident enthusiastic half smile, one open forepaw explaining a grand claim. Tall east arched windows and warm bay sunrise behind. No crown. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/银河证券/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-521bccf5-d250-4a1c-911f-1473408df18a.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit ONLY background architecture to correct camera continuity. Preserve this exact foreground wolf, face, expression, fur, body, suit, hands, lapel pin, table and chair, framing and high-end CGI quality. This wolf sits on EAST side of the table so behind him must be continuous tall gold-framed arched WINDOWS with the same warm morning bay view. REMOVE the entire financial screen and wood cabinet now behind him at left; continue the existing window wall naturally across that area. No financial display anywhere behind him, no new people. Keep light direction and all foreground details unchanged.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-521bccf5-d250-4a1c-911f-1473408df18a.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-93b6c18e-21e1-491b-ad52-9f74fe0dcdc4.png",
+          "dimensions": [
+            1672,
+            941
+          ]
+        }
+      ],
+      "current_output": "04-银河提议新能源.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "05-中信否定旧题材",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium close shot muscular scarred CITIC seated far left side near head of table. Broad shoulders, square muzzle, short gray fur, scar as identity sheet, charcoal plain three-piece burgundy tie, very small red-white circular diagonal slash lapel pin. Leaning back slightly with one brow raised, dismissive skeptical gaze toward opposite seated colleagues screen right, one paw makes restrained dismissive gesture. West financial screen softly behind. No glasses, no crown. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/中信证券/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-f8e42345-4c27-4318-9856-fc538a042edb.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [],
+      "current_output": "05-中信否定旧题材.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "06-国泰海通挪椅献策",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium wide three-quarter shot fat Guotai seated near right corner of table, chair advanced a small distance toward table, both sturdy feet firmly on carpet, chair legs and knees anatomically grounded. Lean forward with one paw lightly gripping chair arm, sly confident expression. Dark pinstripe three-piece burgundy tie/pocket square, tiny blue lightblue white sail pin. East warm arched windows behind; crop away other characters rather than inventing seats. Table left foreground. No cigar. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/国泰海通/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-034a02ca-72ba-41d9-af3d-2e3184c9861a.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit ONLY background architecture to correct camera continuity. Preserve this exact foreground wolf, face, expression, fur, body, suit, hands, lapel pin, table and chair, framing and high-end CGI quality. This wolf sits on EAST side of the table so behind him must be continuous tall gold-framed arched WINDOWS with the same warm morning bay view. REMOVE the entire financial screen and wood cabinet now behind him at left; continue the existing window wall naturally across that area. No financial display anywhere behind him, no new people. Keep light direction and all foreground details unchanged.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-034a02ca-72ba-41d9-af3d-2e3184c9861a.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-25824bf8-458f-4926-9e94-7a42eac7c571.png",
+          "dimensions": [
+            1671,
+            941
+          ]
+        }
+      ],
+      "current_output": "06-国泰海通挪椅献策.png",
+      "current_dimensions": [
+        1671,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "07-狼王追问怎么讲",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Tight three-quarter close shot crowned wolf king seated at far head chair, turns his eyes toward near-right fat colleague offscreen, slightly raised eyebrow, inquisitive controlled half smile. Both paws resting on table visible bottom. Purple crystalline star wall behind, different angle from frontal opening, entire crown within frame. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-e83cb35b-248e-46b8-90f7-ff867e420a2e.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [],
+      "current_output": "07-狼王追问怎么讲.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "08-国泰海通虫洞故事",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium close three-quarter fat Guotai wolf in near right chair, confidently looking screen left toward king, faint conspiratorial smile, raises open left forepaw chest height explaining wormhole travel, right forepaw on table. Pinstripe suit burgundy tie tiny blue-white sail pin exactly sheet. East arched sunrise windows behind. No cigar, no spaceships or fantasy montage. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/国泰海通/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-89d7d665-5db4-42ba-95ed-3ba23fdbd0ee.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit ONLY background architecture to correct camera continuity. Preserve this exact foreground wolf, face, expression, fur, body, suit, hands, lapel pin, table and chair, framing and high-end CGI quality. This wolf sits on EAST side of the table so behind him must be continuous tall gold-framed arched WINDOWS with the same warm morning bay view. REMOVE the entire financial screen and wood cabinet now behind him at left; continue the existing window wall naturally across that area. No financial display anywhere behind him, no new people. Keep light direction and all foreground details unchanged.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-89d7d665-5db4-42ba-95ed-3ba23fdbd0ee.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-a2614ea4-bf07-4ca4-94fc-d5d770f2411a.png",
+          "dimensions": [
+            1671,
+            941
+          ]
+        }
+      ],
+      "current_output": "08-国泰海通虫洞故事.png",
+      "current_dimensions": [
+        1671,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "09-华泰质疑虫洞",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Tighter reaction close shot slim bespectacled Huatai in near left chair turns toward fat colleague across table screen right, brows knit skeptically, mouth slightly parted questioning, paw half raised palm inward near tabletop. Same small redwhite diamond pin and gray suit/red tie. West dark financial screen behind. Clearly different expression and crop from initial proposal, no extra props. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/华泰证券/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-671cde58-d679-424c-b0db-96b5c2b2b5f6.png",
+        "dimensions": [
+          1672,
+          940
+        ]
+      },
+      "revisions": [],
+      "current_output": "09-华泰质疑虫洞.png",
+      "current_dimensions": [
+        1672,
+        940
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "10-国泰海通传家宝",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Close medium fat Guotai near-right chair leans forward a little more, amused knowing persuasive smile, palms turned gently upward near tabletop as if presenting a long-term promise. One eyebrow rises slightly, eyes to king screen left. Pinstripe threepiece burgundy tie small bluewhite sail pin, warm east windows softly behind. Different pose from wormhole pitch, no cigar, no card or rocket object. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/国泰海通/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ec3357ff-8524-457f-bc9b-e0f884b8fbd7.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [
+        {
+          "prompt": "Edit ONLY background architecture to correct camera continuity. Preserve this exact foreground wolf, face, expression, fur, body, suit, hands, lapel pin, table and chair, framing and high-end CGI quality. This wolf sits on EAST side of the table so behind him must be continuous tall gold-framed arched WINDOWS with the same warm morning bay view. REMOVE the entire financial screen and wood cabinet now behind him at left; continue the existing window wall naturally across that area. No financial display anywhere behind him, no new people. Keep light direction and all foreground details unchanged.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ec3357ff-8524-457f-bc9b-e0f884b8fbd7.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-7503e874-226e-484f-b0e6-21c76db4adc6.png",
+          "dimensions": [
+            1672,
+            941
+          ]
+        },
+        {
+          "prompt": "Tiny local background correction only. There are two suns. REMOVE the small sun visible through the leftmost windows and its corresponding bright vertical reflection on left bay water, replacing with matching cloud sky and normal water. Keep the single main sun at upper right behind wolf. Preserve exact wolf, hands, clothes, brooch, table, chair, camera and all remaining details.",
+          "references_in_order": [
+            "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-7503e874-226e-484f-b0e6-21c76db4adc6.png"
+          ],
+          "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-3735b292-1853-48bc-aa4c-2a9aeb3e19fa.png",
+          "dimensions": [
+            1672,
+            941
+          ]
+        }
+      ],
+      "current_output": "10-国泰海通传家宝.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    },
+    {
+      "name": "11-狼王看屏拍板",
+      "initial": {
+        "prompt": "Generate ONE independent landscape 16:9 cinematic storyboard still, not collage, no labels or subtitles. Reference 1 fixes the EXACT existing purple-crystal exchange boardroom layout, chair position, morning light, table and continuity; reference 2 fixes target wolf identity, proportions, fur, clothing and small physically attached lapel brooch. Do not copy three-view layout. High-end feature-film CGI, individually resolved layered fur, physically based wool cloth and metal, restrained reflections, soft warm key and subtle cool fill, crisp natural detail, expressive adult anthropomorphic wolves, no toy plastic or smeared texture. Keep characters seated. Financial market has NOT rallied. No humans, no invented logos, no crown on junior wolves. Medium three-quarter profile wolf king at head chair, camera from eastern side of table toward west. King turns head toward the existing dark wall financial screen at image left; screen shows a very subdued nearly flat thin line only, no text. King's one forepaw rests decisively flat on purple tabletop, thoughtful cold faint smile, crown full visible. Include some purple crystal star headwall at image right, maintain room geography. Single king no extra characters. CRITICAL: crop to ONLY the target wolf, absolutely no background wolves visible. Financial display if visible must contain ONLY a single quiet near-horizontal fine line, absolutely NO candlesticks, crash or steep downtrend. Do not move screens or windows.",
+        "references_in_order": [
+          "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-花店至星契交易所·清晨/04-会议室五狼落座.png",
+          "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/3D三视图.png"
+        ],
+        "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-9f8c0000-e5aa-4bbf-ae38-35bdd1d0d566.png",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      "revisions": [],
+      "current_output": "11-狼王看屏拍板.png",
+      "current_dimensions": [
+        1672,
+        941
+      ],
+      "acceptance": "待用户审阅"
+    }
+  ],
+  "archived": [
+    {
+      "name": "02-狼王召集献计",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-b4b19747-25f8-4b45-bd5c-9a74f072a7d2.png",
+      "archived": "archive/背景连续性修订前/02-狼王召集献计-exec-b4b19747-25f8-4b45-bd5c-9a74f072a7d2.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "03-华泰提议创新药",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ccd4bc62-efda-4faf-b0e7-84735168b47f.png",
+      "archived": "archive/背景连续性修订前/03-华泰提议创新药-exec-ccd4bc62-efda-4faf-b0e7-84735168b47f.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "04-银河提议新能源",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-521bccf5-d250-4a1c-911f-1473408df18a.png",
+      "archived": "archive/背景连续性修订前/04-银河提议新能源-exec-521bccf5-d250-4a1c-911f-1473408df18a.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "06-国泰海通挪椅献策",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-034a02ca-72ba-41d9-af3d-2e3184c9861a.png",
+      "archived": "archive/背景连续性修订前/06-国泰海通挪椅献策-exec-034a02ca-72ba-41d9-af3d-2e3184c9861a.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "08-国泰海通虫洞故事",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-89d7d665-5db4-42ba-95ed-3ba23fdbd0ee.png",
+      "archived": "archive/背景连续性修订前/08-国泰海通虫洞故事-exec-89d7d665-5db4-42ba-95ed-3ba23fdbd0ee.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "10-国泰海通传家宝",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-ec3357ff-8524-457f-bc9b-e0f884b8fbd7.png",
+      "archived": "archive/背景连续性修订前/10-国泰海通传家宝-exec-ec3357ff-8524-457f-bc9b-e0f884b8fbd7.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    },
+    {
+      "name": "10-国泰海通传家宝",
+      "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-7503e874-226e-484f-b0e6-21c76db4adc6.png",
+      "archived": "archive/背景连续性修订前/10-国泰海通传家宝-exec-7503e874-226e-484f-b0e6-21c76db4adc6.png",
+      "reason": "背景角色、行情内容或建筑连续性修正；不作当前参考"
+    }
+  ],
+  "known_limits": [
+    "座次及新图尚待用户审阅",
+    "独立绘制的近景窗格、柜体和桌面纹路不完全逐像素一致，视频以全景锁空间",
+    "96秒为动作和对白估时，非实配音结果"
+  ]
+}

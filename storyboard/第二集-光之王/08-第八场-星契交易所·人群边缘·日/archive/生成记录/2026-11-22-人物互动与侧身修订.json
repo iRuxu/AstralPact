@@ -1,0 +1,32 @@
+{
+  "channel": "内置image_gen",
+  "date": "2026-11-22",
+  "trigger": "用户反馈视频20.mp4人群行走不自然，熊大笑对空气说话。已抽查2、6、11、16秒画面；未逐帧审片。",
+  "status": "四张新图待用户审阅，静帧未证明视频步态已解决",
+  "prompts": [
+    "ONE standalone cinematic storyboard still 16:9, high-end feature-film CGI, physically based materials, individually resolved fur, crisp natural woven cloth and metal, sunny daylight with soft cool fill. Reference1 panda identity authoritative: middle aged rounded panda, gold cratered toy moon, rabbit clip, grey blue frog-button jacket, left hip brass speaker and 好人 tag. Reference2 locks exchange plaza and pink-waistcoat rabbit design ONLY, DO NOT copy panda frontal raised palm pose. NEW BLOCKING: eye level SIDE-ON medium two-shot. Panda on left in clear right-facing profile, torso and muzzle turned toward a white rabbit just one forearm length away on right foreground. Rabbit wears same pink embroidered waistcoat cream sleeves and wicker flower backpack, three-quarter face visible, body oriented diagonally toward distant stage on right, still in mid-step. Panda's eyes DIRECTLY look at rabbit's face, mouth gently speaking. His LEFT elbow naturally bent close to body, left paw reaches low at rabbit's elbow height, palm angled down toward path as gentle caution, NOT vertical stop-sign, NOT touching rabbit, NOT waving at camera. Rabbit looks past him toward stage, does not engage. Both heads entire including ears and moon, frame down to upper thighs shows left hip props. Clear plausible ground gap, proportions authoritative turnaround no elongated stretched torso. Most background spectators already stand watching stage, a narrow clear passage beside panda. Purple exchange and copper bull and right stage remain distant soft background. No humans, no subtitles, no collage, no extra paws.",
+    "ONE standalone 16:9 film CGI keyframe, next action of attached shot, same camera side, panda and rabbit identities costume props daylight architecture exactly retained. Make a slightly WIDER two-shot including BOTH characters' complete feet in ground contact, whole head toy and rabbit ears. Panda screen left in right-facing profile speaks directly to white rabbit screen center-right. Rabbit has rotated its shoulders slightly toward panda just enough to squeeze SIDEWAYS past his low calming LEFT paw without touching, rabbit glances sideways toward panda with distracted impatient expression while hips feet still oriented right toward stage. Rabbit rear foot planted and front foot taking one small step, believable bent knee and weight transfer; no running or floating. Wicker flower backpack stays on rabbit back. Panda left elbow bent low waist height, paw gently angled toward rabbit's elbow with visible gap, NOT vertical stop-sign; his eyes follow rabbit's face, mouth mid quiet warning, relaxed natural rounded body, torso not stretched. Crowd beyond stands watching stage, dense stationary spectators at right background leaving narrow foreground passage. Golden moon and white rabbit clip, left hip brass speaker and 好人 tag invariant. High-end feature-film CGI, fine fur, PBR fabric, clean natural daylight. No human anatomy, subtitles, collage, motion trails.",
+    "ONE standalone 16:9 cinematic keyframe. Image1 locks updated panda SIDE PROFILE torso and low natural bent left arm, rabbit and plaza daylight layout. Image2 locks holographic palm-sized contract design only. Camera same side medium-wide panda left looking RIGHT toward departing rabbit at far right edge, rabbit now turned back toward stage continues away. A single raccoon in purple waistcoat and red scarf passes foreground left-to-right, one furry paw raises palm-sized purple contract with eight point star toward stage, card briefly overlaps panda eyes and nose through perspective. Panda gold cratered moon and rabbit clip fully visible above card. IMPORTANT panda left elbow stays naturally BENT LOW, paw at waist about to fall, NOT elevated shoulder stop gesture. His body turned right, does not face audience. Brass speaker and 好人 tag on his LEFT hip. Raccoon is three-quarter BACK to camera looking toward stage, not posing front for audience, lower limbs plausible short walking step and grounded feet. Background spectators stand densely watching stage with subtly varied poses, narrow front passage. High-end feature-film CGI, fine fur cloth PBR, bright natural daylight. No humans, no speech text, no collage.",
+    "ONE standalone cinematic storyboard still 16:9. Same exact composition camera panda rabbit background spectators and daytime as reference. Ending after rabbit has walked a little farther into crowd at far right. Panda left in right-facing PROFILE, BOTH paws now down relaxed at sides, mouth CLOSED, chin and eyes following departing rabbit RIGHT and slightly away toward stage, NOT gazing upward into air or toward viewer. Expression quiet concern, shoulders slightly relaxed, natural rounded middle-aged proportions. Gold cratered moon toy and white rabbit clip fully in frame, brass speaker and wooden 好人 tag fixed on his LEFT hip. Medium-wide shot complete panda feet grounded. Rabbit pink waistcoat wicker flower backpack visible on right rear blending into standing spectators, no raccoon or card in front of panda now. Bright purple exchange and stage remain unchanged, most crowd standing and cheering. High-end feature-film CGI, natural fur woven fabric PBR metal, crisp daylight soft cool fill, restrained expression. No humans, text captions, collage or black fade."
+  ],
+  "references": {
+    "A": [
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/第二集候选/01-金月小兔夹-3D三视图.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/08-第八场-星契交易所·人群边缘·日/01-人潮边缘劝阻.png"
+    ],
+    "B": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-83a471b3-411c-488a-b7eb-bf1cf0925d51.png"
+    ],
+    "C": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-da29a73a-6016-4b2a-9a53-eb0569f8c9fb.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/assets/props/星契/星契卡-镭射正面概念.png"
+    ],
+    "D": [
+      "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-da29a73a-6016-4b2a-9a53-eb0569f8c9fb.png"
+    ]
+  },
+  "inspection": "已目视：改为侧身、视线朝兔子，低位弯肘；02a完整脚部短步姿态；03挡脸时低手，04双手放下目送。03卡片视觉偏大，后续视频仍须约束掌中卡片尺度；群众排布和背景细节存在漂移。01仅参考环境，不继承正面举掌姿态。",
+  "model": "未暴露",
+  "postprocessing": "无",
+  "dimensions": "四张新图均1672×941"
+}

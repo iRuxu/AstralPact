@@ -1,0 +1,27 @@
+{
+  "shot": "06",
+  "name": "芭拉背影插花",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/06-芭拉背影插花.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Image1 locks Bara's white rabbit identity, tall slim young adult proportions, waist-length white wavy hair, crown half braid tied with PINK ribbon, white puff-sleeve blouse and blush pink pinafore dress with colorful wildflower hem, cream flats. Image2 locks SAME florist room: central rear pale oak worktable, fridge left, sink back-right, morning key from right window. Camera from doorway behind Bara, MEDIUM-WIDE FULL BACK view, she stands on near side of worktable facing back wall. BOTH ears fully visible, long hair naturally on back, no face or eyes at all. She carefully lowers a small bouquet of blush roses, white daisies and baby's breath into a clear glass water-filled vase standing near center of table; both furry hands naturally around stems. Show flowers entering vase, physical grip and water level. Wicker basket on table to her anatomical right, prune shears lying flat beside basket. Full or 3/4 body to include pink dress and natural legs if visible. Exactly one character, no human skin, no laptop/hacker gear, no card in this frame. Preserve clear walkway and small ordinary business atmosphere.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/08-兔子一家/兔姐姐/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 2,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/花店/候选/02-花店内部全景.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ]
+}

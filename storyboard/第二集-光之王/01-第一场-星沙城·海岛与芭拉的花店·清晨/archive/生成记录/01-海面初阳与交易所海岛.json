@@ -1,0 +1,22 @@
+{
+  "shot": "01",
+  "name": "海面初阳与交易所海岛",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/01-海面初阳与交易所海岛.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Reference1 authoritative island geography and architecture. New ESTABLISHING wide shot from lower offshore viewpoint, foreground open turquoise sea with subtle golden ripples, rising warm sun at horizon left of island, hillside white-gold buildings and ONE purple crystal exchange at upper right summit, winding road connects smaller blush-awning flower shop lower slope. Preserve placement and skyline from reference, do not move main star ring into foreground; at most distant landmark left across bay. Readable flowershop despite small scale. No crowds, stage activity or magic light yet, no characters. Elegant quiet morning beginning, atmospheric but not foggy washed-out.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/星契交易所/第二集候选/01-海岛日出与山顶交易所.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ]
+}

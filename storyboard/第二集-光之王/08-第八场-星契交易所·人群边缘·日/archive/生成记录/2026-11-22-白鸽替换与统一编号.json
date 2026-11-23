@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "status": "新稿待审阅；未生成视频",
+  "current": [
+    "01-人群边缘与白鸽快递员.png",
+    "02-熊大笑劝白鸽慢些.png",
+    "03-白鸽侧身经过.png",
+    "04-浣熊举星契遮脸.png",
+    "05-熊大笑放手目送.png"
+  ],
+  "outputs": [
+    "exec-ce3ba428-0871-46d5-b530-24f8b65e4313.png",
+    "exec-92272056-21ab-475c-beae-93714ab65f9c.png",
+    "exec-0413ff9e-f06a-4f37-9df7-83a2d1b35c37.png",
+    "exec-e2b33730-e53a-4135-bac4-d7fe11f325d9.png",
+    "exec-f105b481-3ff2-4d3a-aba9-8983a6f3d39d.png"
+  ],
+  "prompts": [
+    "Edit image1 into ONE standalone 16:9 high-end feature-film CGI frame. Image1 authoritative scene composition panda identity costume moon toy rabbit HEAD CLIP (KEEP panda rabbit clip), left hip speaker 好人 tag, sunny purple crystal exchange bull and stage. Image2 ONLY courier equipment design: old white bike helmet chin strap, brick red reflective short vest, dark grey cargo trousers, red delivery backpack with small strapped carton, scanner on belt, feathered wings and scaly bird feet. IMPORTANT user specifically requests WHITE PIGEON, change ALL visible feather colors to ivory WHITE, not grey ref plumage; pigeon beak and bird anatomy no rabbit ears no fur no flower basket no pink costume. Courier natural adult worker proportions, expressive ordinary pigeon face. Fine individual feathers, fur, fabric PBR, clean daylight. Change only requested subject and necessary panda pose, retain surroundings. No captions collage human hands or watermark. Establishing medium-wide shot: replace main foreground pink-clothed rabbit with WHITE pigeon courier. Panda must turn torso and gaze right directly toward pigeon, left elbow bent LOW at waist, gently warning specific pigeon, NOT raised stop sign toward air. Pigeon is within one forearm length and moves toward stage. Other rabbit spectators can be replaced with ordinary non-rabbit animals.",
+    "Edit image1 into ONE standalone 16:9 high-end feature-film CGI frame. Image1 authoritative scene composition panda identity costume moon toy rabbit HEAD CLIP (KEEP panda rabbit clip), left hip speaker 好人 tag, sunny purple crystal exchange bull and stage. Image2 ONLY courier equipment design: old white bike helmet chin strap, brick red reflective short vest, dark grey cargo trousers, red delivery backpack with small strapped carton, scanner on belt, feathered wings and scaly bird feet. IMPORTANT user specifically requests WHITE PIGEON, change ALL visible feather colors to ivory WHITE, not grey ref plumage; pigeon beak and bird anatomy no rabbit ears no fur no flower basket no pink costume. Courier natural adult worker proportions, expressive ordinary pigeon face. Fine individual feathers, fur, fabric PBR, clean daylight. Change only requested subject and necessary panda pose, retain surroundings. No captions collage human hands or watermark. Preserve side-on two-shot, replace foreground rabbit entirely with WHITE pigeon courier. Panda speaks and looks directly at pigeon face; low bent left paw near courier elbow without touching. Pigeon looks toward stage, never at viewer. Panda must be gentle: open relaxed paw no pointing finger no hand on hip, no angry leaning. White courier matches image3 helmet red vest red box but keeps walking away rather than stopping to chat.",
+    "Edit image1 into ONE standalone 16:9 high-end feature-film CGI frame. Image1 authoritative scene composition panda identity costume moon toy rabbit HEAD CLIP (KEEP panda rabbit clip), left hip speaker 好人 tag, sunny purple crystal exchange bull and stage. Image2 ONLY courier equipment design: old white bike helmet chin strap, brick red reflective short vest, dark grey cargo trousers, red delivery backpack with small strapped carton, scanner on belt, feathered wings and scaly bird feet. IMPORTANT user specifically requests WHITE PIGEON, change ALL visible feather colors to ivory WHITE, not grey ref plumage; pigeon beak and bird anatomy no rabbit ears no fur no flower basket no pink costume. Courier natural adult worker proportions, expressive ordinary pigeon face. Fine individual feathers, fur, fabric PBR, clean daylight. Change only requested subject and necessary panda pose, retain surroundings. No captions collage human hands or watermark. Preserve complete feet full-body two-shot and panda low bent paw. Replace rabbit with WHITE pigeon courier taking small SIDEWAYS step toward right stage, head briefly glances panda while body continues forward, no stopping. Bird scaly toes grounded, wings not human hands. Use image3 to lock WHITE courier identity and matching red delivery backpack. IMPORTANT short small crowded step, feet near each other, BOTH claws near ground no exaggerated march or huge stride. Panda gentle open low paw no pointing.",
+    "Edit image1 into ONE standalone 16:9 high-end feature-film CGI frame. Image1 authoritative scene composition panda identity costume moon toy rabbit HEAD CLIP (KEEP panda rabbit clip), left hip speaker 好人 tag, sunny purple crystal exchange bull and stage. Image2 ONLY courier equipment design: old white bike helmet chin strap, brick red reflective short vest, dark grey cargo trousers, red delivery backpack with small strapped carton, scanner on belt, feathered wings and scaly bird feet. IMPORTANT user specifically requests WHITE PIGEON, change ALL visible feather colors to ivory WHITE, not grey ref plumage; pigeon beak and bird anatomy no rabbit ears no fur no flower basket no pink costume. Courier natural adult worker proportions, expressive ordinary pigeon face. Fine individual feathers, fur, fabric PBR, clean daylight. Change only requested subject and necessary panda pose, retain surroundings. No captions collage human hands or watermark. Preserve raccoon and card occluding panda, panda side-on with low left elbow. Replace departing rabbit at far right entirely with WHITE pigeon courier seen from rear walking toward spectators. Keep card palm sized, not giant, perspective causes occlusion. Image3 locks white courier identity red box helmet, do not retain any rabbit courier.",
+    "Edit image1 into ONE standalone 16:9 high-end feature-film CGI frame. Image1 authoritative scene composition panda identity costume moon toy rabbit HEAD CLIP (KEEP panda rabbit clip), left hip speaker 好人 tag, sunny purple crystal exchange bull and stage. Image2 ONLY courier equipment design: old white bike helmet chin strap, brick red reflective short vest, dark grey cargo trousers, red delivery backpack with small strapped carton, scanner on belt, feathered wings and scaly bird feet. IMPORTANT user specifically requests WHITE PIGEON, change ALL visible feather colors to ivory WHITE, not grey ref plumage; pigeon beak and bird anatomy no rabbit ears no fur no flower basket no pink costume. Courier natural adult worker proportions, expressive ordinary pigeon face. Fine individual feathers, fur, fabric PBR, clean daylight. Change only requested subject and necessary panda pose, retain surroundings. No captions collage human hands or watermark. Preserve panda profile closed mouth BOTH paws down looking RIGHT at departing courier. Replace rabbit at far right entirely with WHITE pigeon courier from rear entering audience. Keep complete panda body and grounded feet. Image3 locks WHITE courier red backpack identity."
+  ],
+  "firstFixPrompt": "Edit ONLY panda gesture and courier gaze of image1. Preserve composition identity white courier equipment architecture daylight and rendering exactly. Panda remains left facing courier but replace pointing finger with relaxed OPEN LEFT PAW fingers together low waist height, elbow bent; his other paw hangs naturally by side, NEVER hand on hip. Panda upright with slight forward inclination, gentle concerned expression NOT scolding. White courier on right stays mid small step toward right stage, BODY facing right, head looks toward stage rather than panda, not stopping conversation. Reduce step length to short normal step with one bird claw grounded and other close to ground. Keep gold moon and rabbit HEAD CLIP on panda. One standalone 16:9 high-end feature-film CGI frame no text no collage.",
+  "references": [
+    {
+      "target": "archive/白鸽替换与统一编号前/01-人潮边缘劝阻.png",
+      "equipment": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/鸽子-快递/3D三视图.png",
+      "extra": null
+    },
+    {
+      "target": "archive/白鸽替换与统一编号前/02-熊大笑出言提醒.png",
+      "equipment": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/鸽子-快递/3D三视图.png",
+      "extra": "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-92272056-21ab-475c-beae-93714ab65f9c.png"
+    },
+    {
+      "target": "archive/白鸽替换与统一编号前/02a-兔子侧身经过.png",
+      "equipment": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/鸽子-快递/3D三视图.png",
+      "extra": "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-92272056-21ab-475c-beae-93714ab65f9c.png"
+    },
+    {
+      "target": "archive/白鸽替换与统一编号前/03-星契挡脸与侧身挤过.png",
+      "equipment": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/鸽子-快递/3D三视图.png",
+      "extra": "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-92272056-21ab-475c-beae-93714ab65f9c.png"
+    },
+    {
+      "target": "archive/白鸽替换与统一编号前/04-放下手与金月结尾.png",
+      "equipment": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/鸽子-快递/3D三视图.png",
+      "extra": "/Users/iruxu/.codex/generated_images/01a20006-e35f-7e13-8b33-fa706859a3ec/exec-92272056-21ab-475c-beae-93714ab65f9c.png"
+    }
+  ],
+  "referenceCorrection": "02的第三参考实际为首轮白鸽01缓存out0；03、04、05的第三参考为白鸽02缓存out1。首图修订只附首轮白鸽01。",
+  "inspection": "已目视五张及首图修订；白羽毛、配送头盔、背箱；熊大笑低手侧身和放手；02步幅偏大，群众位置及设备局部有漂移。未作视频步态验证。",
+  "postprocessing": "无"
+}

@@ -1,0 +1,41 @@
+{
+  "shot": "08",
+  "name": "花篮与粉裙掠过花架",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/08-花篮与粉裙掠过花架.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Detail insert of Bara working at same florist oak table. Camera crops from her mid-torso to below knees so NO face in frame, pink pinafore skirt with tiny pastel wildflower embroidery, ivory puff-sleeve cuffs, white furry forearms and exactly two natural hands. One hand gently tucks white baby's breath into a small wicker basket of blush roses on tabletop, other steadies basket rim, physical contacts clear, no levitation. A side flower shelf brushes close to dress hem with hanging leaves, illustrating her turning to organize basket. Use reference1 costume/fur, ref2 shop light and furniture. Basket is NOT her headwear. Woven reeds and cotton threads crisp; no extra limbs, no human hands, no random objects. Last reference is the immediately preceding back-view frame, authoritative for worktable prop shapes, warm lighting, rounded water vase near center, wicker basket on its right and red-handled pruning shears. Keep same prop identity and approximate placement; camera change only. Stock card is revealed only in later close-up at near-left table corner previously hidden behind her body.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/08-兔子一家/兔姐姐/3D三视图.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 2,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/花店/候选/02-花店内部全景.png",
+      "role": "分工及优先级详见实际提示词"
+    },
+    {
+      "order": 3,
+      "path": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-52c33f31-ed17-4a3c-b2a4-c8c827a49e32.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ],
+  "revision_pass": {
+    "prompt": "Precise local edit: REMOVE ONLY the small beige rectangular FLOWER-ILLUSTRATED paper/card lying on the wooden tabletop. Replace its area seamlessly with same clean wood grain, no card or paper there. Preserve entire rabbit face/profile or body, pose, hands, fur, hair, skirt, basket, vase, flowers, shears, lighting, composition and background unchanged. Do not introduce any other card or new objects. Film CGI.",
+    "refs": [
+      "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-512c4de8-7aaf-4162-b882-47baec47bdaf.png"
+    ]
+  },
+  "prior_output": {
+    "source": "/Users/iruxu/.codex/generated_images/01a1feaa-009c-7882-8d49-d614ccb2528b/exec-512c4de8-7aaf-4162-b882-47baec47bdaf.png"
+  }
+}

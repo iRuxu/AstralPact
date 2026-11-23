@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-22",
+  "channel": "内置image_gen",
+  "prompt": "Use case: precise-object-edit. Edit ONLY Qing Qiu, the white-platinum female fox standing in doorway at FAR RIGHT of this supplied cinematic frame. Correct her oversized head-to-body proportion. Scale her ENTIRE anatomical head together with ears, coiffure, gold ornaments and hanging pearls down by approximately 18 percent as one coherent assembly, preserving exact facial identity, left-facing profile, eye direction, elegant expression and detailed jewelry. Reconnect naturally to a slightly longer graceful neck and slightly more elongated shoulder-to-waist torso, with shoulders subtly more balanced relative to head. Mature elegant slender adult proportions, not child/chibi. Maintain her overall standing height approximately by natural neck/torso adjustment, keep feet and hem on the EXACT same floor position and same depth at doorway. Preserve lavender/champagne embroidered robe design, sleeves, hands, large ring, multi tails and all materials. Do not just shrink her entire figure; specifically reduce head and headdress relative to body. Do not change fox identity into human. Everything outside fox must remain as close as possible to original: Lei Ting eel character and his turned head, pose, suit, hands, legs, tail, chair, desk and screens including exact FORCED LIQUIDATION label and cyan rising lines, sea window city, cabinet, lighting, perspective, door leaf opening angle, frame and handle. No camera movement or crop. One full-frame 16:9 image, high-end feature-film CGI physically based fine fur, silk embroidery, pearls and gold, crisp natural detail matching original. No new objects, no captions.",
+  "reference_paths_in_order": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/04-第四场-雷霆的交易室·日/07-雷霆回头.png"
+  ],
+  "reference_note": "实际输入为替换前07，现归档在archive/2026-11-22-青丘头身比例修订前/07-雷霆回头.png",
+  "source": "/Users/iruxu/.codex/generated_images/01a1ffc5-4324-77b0-a2df-b0cc91058002/exec-22029be2-a9d3-4aea-8a77-e784f0e0753b.png",
+  "output": "07-雷霆回头.png",
+  "width": 1672,
+  "height": 941,
+  "postprocessing": false,
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "新修订待用户审阅",
+  "visual_check": "青丘头脸、耳朵与盘发整体明显缩小，颈肩舒展；站位、衣饰、雷霆和房间构图总体保留。约18%为提示词目标，未进行精确像素比例测量。"
+}

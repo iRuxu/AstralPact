@@ -1,0 +1,95 @@
+{
+  "channel": "built-in image_gen",
+  "date": "2026-11-22",
+  "status": "新稿待用户审阅",
+  "native_dimensions": [
+    1672,
+    941
+  ],
+  "postprocessing": false,
+  "unexposed": [
+    "model",
+    "seed",
+    "quality"
+  ],
+  "references": [
+    "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+    "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+    "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+    "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+    "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+  ],
+  "shots": [
+    {
+      "shot": 1,
+      "prompt": "Use case: stylized-concept. ONE independent cinematic storyboard image, landscape 16:9, no collage, no subtitles or watermark. Reference roles: image1 locks exact purple crystal exchange exterior, LEFT bronze bull on raised plinth, RIGHT raised purple stage with stairs at far right and gold star orbital backdrop, central entrance unobstructed. Image2 locks Qingqiu white-gold female fox identity, multi tails, champagne lavender Chinese embroidered dress, pearls, elegant updo and conspicuous large clear diamond ring; Image3 locks Youzi female serpent spirit: human face, gold slit pupils, forehead snake mark, emerald scales, dark green updo snake pin, sheer lower-face veil, opaque dark green gold embroidered fitted outfit, two legs not serpent tail. Image4 locks Windsor male green parrot, black velvet tuxedo, monocle and headset; when present he also holds a handheld microphone. Image5 is rendering quality ONLY, never copy dragon identity or palace. High-end feature-film CGI, physically based materials, individually resolved fur/feathers, weighty woven fabric and raised gold embroidery, distinct pearl/metal/gem responses, crisp natural detail. Bright DAY, soft sunlight and controlled stage beams, subtle cool fill, no night scene, no plastic, no exaggerated bloom. Only anthropomorphic animals except the established serpent spirit Youzi, no human crowd. SHOT 01: Wide establishing shot from front plaza, same camera side and architecture as image1. The temporary raised stage at RIGHT is now active: Qingqiu has just walked into its central warm spotlight, small full figure smiling and starting to raise her ring hand. Youzi is at the left edge of the stage beside a freestanding promotional display, Windsor at right holding microphone lowered. An assembled crowd of deer, otters, hamsters, rabbits and other everyday dressed animals occupies foreground facing the raised stage, leave central entry access readable. Bronze bull LEFT unchanged. Stage remains recognizably high above audience eye level. Moderate lively attendance, clear silhouettes. No readable screen text required in this establishing shot.",
+      "references": [
+        "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+        "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+        "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "shot": 2,
+      "prompt": "Use case: stylized-concept. ONE independent cinematic storyboard image, landscape 16:9, no collage, no subtitles or watermark. Reference roles: image1 locks exact purple crystal exchange exterior, LEFT bronze bull on raised plinth, RIGHT raised purple stage with stairs at far right and gold star orbital backdrop, central entrance unobstructed. Image2 locks Qingqiu white-gold female fox identity, multi tails, champagne lavender Chinese embroidered dress, pearls, elegant updo and conspicuous large clear diamond ring; image3 locks her face and ring. Image4 locks Youzi female serpent spirit: human face, gold slit pupils, forehead snake mark, emerald scales, dark green updo snake pin, sheer lower-face veil, opaque dark green gold embroidered fitted outfit, two legs not serpent tail. Image5 locks Windsor male green parrot, black velvet tuxedo, monocle and headset; when present he also holds a handheld microphone. Image6 is rendering quality ONLY, never copy dragon identity or palace. High-end feature-film CGI, physically based materials, individually resolved fur/feathers, weighty woven fabric and raised gold embroidery, distinct pearl/metal/gem responses, crisp natural detail. Bright DAY, soft sunlight and controlled stage beams, subtle cool fill, no night scene, no plastic, no exaggerated bloom. Only anthropomorphic animals except the established serpent spirit Youzi, no human crowd. SHOT 02: Medium close cinematic portrait of Qingqiu on the stage, viewed slightly from below audience level, 3/4 front. Her full fox ears and ornate updo fit within frame. She smiles with composed celebrity confidence toward audience below camera, lifting her elegant LEFT hand in a genuine open waving gesture beside shoulder, the conspicuous large clear diamond ring visible and catching ONE restrained sharp glint. Her face is recognizably fox, not human, cream fur, golden eyes. Lavender gold embroidery and pearls resolved. Purple stage orbital gold star backdrop behind, daylight with a warm stage spotlight edging her fur, background architecture subdued. Waist-up, no crowd blocking hand, no microphone, no text. Preserve exact costume and large diamond.",
+      "references": [
+        "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+        "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+        "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "shot": 3,
+      "prompt": "Use case: stylized-concept. ONE independent cinematic storyboard image, landscape 16:9, no collage, no subtitles or watermark. Reference roles: image1 locks exact purple crystal exchange exterior, LEFT bronze bull on raised plinth, RIGHT raised purple stage with stairs at far right and gold star orbital backdrop, central entrance unobstructed. Image2 locks Qingqiu white-gold female fox identity, multi tails, champagne lavender Chinese embroidered dress, pearls, elegant updo and conspicuous large clear diamond ring; Image3 locks Youzi female serpent spirit: human face, gold slit pupils, forehead snake mark, emerald scales, dark green updo snake pin, sheer lower-face veil, opaque dark green gold embroidered fitted outfit, two legs not serpent tail. Image4 locks Windsor male green parrot, black velvet tuxedo, monocle and headset; when present he also holds a handheld microphone. Image5 is rendering quality ONLY, never copy dragon identity or palace. High-end feature-film CGI, physically based materials, individually resolved fur/feathers, weighty woven fabric and raised gold embroidery, distinct pearl/metal/gem responses, crisp natural detail. Bright DAY, soft sunlight and controlled stage beams, subtle cool fill, no night scene, no plastic, no exaggerated bloom. Only anthropomorphic animals except the established serpent spirit Youzi, no human crowd. SHOT 03: Medium shot from audience side at the LEFT side of the same raised stage, Youzi presenting a freestanding upright gold-framed publicity screen to the crowd. Her gold slit eyes lively and persuasive, mouth under translucent dark veil, one hand gestures toward screen, other open toward spectators. Preserve two-legged dark green outfit and snake hairpin. Screen shows a PHOTO portrait of Qingqiu in approved lavender gold costume, and only these exact large readable Chinese words: '青丘' and '收益 500,000 星币'. It is a physical promotional poster in the scene, not caption or narration. Portrait must look like reference fox, not dragon. Gold purple stage background, a sliver of Qingqiu herself can be visible far right but Youzi and publicity screen dominate. Raised stage front visible, a few animal audience heads at bottom edge, bright daytime. No other text.",
+      "references": [
+        "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+        "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+        "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "shot": 4,
+      "prompt": "Use case stylized-concept. ONE 16:9 independent cinematic storyboard still, high-end feature-film CGI, physically based cloth and individually resolved fur, soft bright daytime natural light, crisp detail, no captions, no collage. Image1 locks crowd clothing and plaza, not camera. Image2 locks actual SMALL palm-sized rectangular iridescent purple STAR CONTRACT card with eight-point star and fine golden orbital tracks; do not make it giant. Image3 rendering quality only, never copy dragon. SHOT04 reverse reaction from near the elevated stage looking down slightly at foreground crowd, no stage in this reverse angle. Three ordinary anthropomorphic adult animals in modest everyday clothing: a deer in tan linen vest at left, a brown otter in plain blue shirt middle, small hamster in rust simple jacket right. Their heads tilted UP toward OFFSCREEN stage above camera, expressions surprised and envious, not already chanting. Otter holds one small star contract card near chest with visible star face, hamster leans forward eagerly and gestures to urge a companion to move closer, deer eyes wide mouth slightly parted. More varied animals behind facing same direction. Full coherent fur-covered hands with believable grips, card not floating. Background open sunlit plaza and bay city railing beyond, keep geography consistent with view away from exchange. No humans, no jewelry-heavy noble costumes.",
+      "references": [
+        "storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/01-交易所门前明星登台.png",
+        "assets/props/星契/星契卡-镭射正面概念.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "shot": 5,
+      "prompt": "Use case: stylized-concept. ONE independent cinematic storyboard image, landscape 16:9, no collage, no subtitles or watermark. Reference roles: image1 locks exact purple crystal exchange exterior, LEFT bronze bull on raised plinth, RIGHT raised purple stage with stairs at far right and gold star orbital backdrop, central entrance unobstructed. Image2 locks Qingqiu white-gold female fox identity, multi tails, champagne lavender Chinese embroidered dress, pearls, elegant updo and conspicuous large clear diamond ring; Image3 locks Youzi female serpent spirit: human face, gold slit pupils, forehead snake mark, emerald scales, dark green updo snake pin, sheer lower-face veil, opaque dark green gold embroidered fitted outfit, two legs not serpent tail. Image4 locks Windsor male green parrot, black velvet tuxedo, monocle and headset; when present he also holds a handheld microphone. Image5 is rendering quality ONLY, never copy dragon identity or palace. High-end feature-film CGI, physically based materials, individually resolved fur/feathers, weighty woven fabric and raised gold embroidery, distinct pearl/metal/gem responses, crisp natural detail. Bright DAY, soft sunlight and controlled stage beams, subtle cool fill, no night scene, no plastic, no exaggerated bloom. Only anthropomorphic animals except the established serpent spirit Youzi, no human crowd. SHOT05: Medium close of Windsor on the RIGHT portion of elevated stage, slight audience low angle, 3/4 front, complete feather crest and monocle in frame. Male green parrot in approved black velvet tuxedo and white pleated shirt, golden LEFT monocle chain and small red brooch, headset preserved. Holds a black HANDHELD microphone close to open beak, other feather hand extended forward and UP inviting audience to step toward the light. Expression intensely persuasive and animated but elegant. Behind him only the purple and gold stage backdrop, gold orbital star partially in LEFT background, blue sky upper right. Camera is close enough that stage floor/front edge is NOT visible; no second stage behind him. Daylight and warm beam on feathers. No text, no caption. Body anatomy coherent, single hand grips mic.",
+      "references": [
+        "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+        "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+        "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    },
+    {
+      "shot": 6,
+      "prompt": "Use case: stylized-concept. ONE independent cinematic storyboard image, landscape 16:9, no collage, no subtitles or watermark. Reference roles: image1 locks exact purple crystal exchange exterior, LEFT bronze bull on raised plinth, RIGHT raised purple stage with stairs at far right and gold star orbital backdrop, central entrance unobstructed. Image2 locks Qingqiu white-gold female fox identity, multi tails, champagne lavender Chinese embroidered dress, pearls, elegant updo and conspicuous large clear diamond ring; Image3 locks Youzi female serpent spirit: human face, gold slit pupils, forehead snake mark, emerald scales, dark green updo snake pin, sheer lower-face veil, opaque dark green gold embroidered fitted outfit, two legs not serpent tail. Image4 locks Windsor male green parrot, black velvet tuxedo, monocle and headset; when present he also holds a handheld microphone. Image5 is rendering quality ONLY, never copy dragon identity or palace. High-end feature-film CGI, physically based materials, individually resolved fur/feathers, weighty woven fabric and raised gold embroidery, distinct pearl/metal/gem responses, crisp natural detail. Bright DAY, soft sunlight and controlled stage beams, subtle cool fill, no night scene, no plastic, no exaggerated bloom. Only anthropomorphic animals except the established serpent spirit Youzi, no human crowd. SHOT06: Climax wide shot from within crowd looking toward the SAME elevated right-hand stage and exchange front. Respect original geometry LEFT bronze bull and central doorway, RIGHT high stage with far-right stairs. Qingqiu clearly stands ON stage directly in front of its gold star orbit backdrop, smiling and waving her diamond ring hand to audience; Youzi beside gold-framed Qingqiu publicity screen on stage left, Windsor stage right holding microphone and inviting raised arm. Foreground a lively sea of ordinary animals raising fur-covered hands, some hold SMALL purple iridescent eight-point-star contract cards. Deer in tan vest, otter in blue shirt, hamster in rust jacket among them, other animals modest daily attire not all noble robes. Crowd moves eagerly closer and looks UP, feet remain on plaza below stage. Visible warm theatrical light beams sweep toward the raised hands, stay DAYLIGHT with blue sky, no night concert or smoke wall, restrained volumetric haze only near beams. Energetic smiling chanting faces in profile, layered depth, no panic or violence, no subtitles or floating slogans. All three leads small but recognizable. No invented new bull or extra stage.",
+      "references": [
+        "assets/scenes/星契交易所/第二集候选/02-门前光之舞台-抬高版.png",
+        "assets/characters/05-市场舆论/狐仙/3D三视图.png",
+        "assets/characters/02-资本猎手/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/05-市场舆论/鹦鹉/特写/01-宣讲者正面全身.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ]
+    }
+  ],
+  "revision02": {
+    "prompt": "Edit this single storyboard image, preserve Qingqiu's exact face, full ears and hair ornaments, smile, raised left hand with large diamond ring, costume, fur tails, lighting and framing. Fix ONLY stage spatial continuity: she is standing ON the raised platform, not in plaza in front of it. Replace background so gold orbital eight-point star and purple rear stage wall rise directly behind her at the SAME floor level. Remove the visible second platform front wall and stair flight behind her. Close portrait with background backdrop filling view, only a little exchange crystal architecture/blue sky near top, no stage floor or edge visible, no added props. High-end feature-film CGI same crisp detail, landscape16:9, no text.",
+    "references": [
+      "storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/archive/02舞台空间修订前/02-青丘举手钻戒闪光.png"
+    ],
+    "reason": "修正角色疑似站在台下的空间错觉"
+  }
+}

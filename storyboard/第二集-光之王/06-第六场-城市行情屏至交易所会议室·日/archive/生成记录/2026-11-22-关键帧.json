@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-22",
+  "channel": "built-in image_gen",
+  "status": "首稿已生成并检查，03/04/06/07/08另见检查修订记录；当前8图待用户审阅",
+  "postprocessing": "无",
+  "jobs": [
+    {
+      "file": "01-街头高位横盘.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage or subtitles. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference priorities exactly as specified. Image1 locks SAME street, screen housing and spaceship advertisement; Image2 ONLY locks graph SHAPE: rising from lower left then long horizontal plateau in high region. Medium wide daytime street screen on right filling half frame, its LOWER quotation area clearly shows this high flat-ended curve instead of steep rising arrow. A small group of ordinary clothed anthropomorphic deer otter hamster animals at left still quietly discussing spaceship. No cheering, no humans. Preserve purple exchange uphill, sea left. Match-cut compatible high plateau clear and legible. Advertisement Chinese 三千年后的船票, small 远期愿景 remains above.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/03-第三场-交易所与城市街巷·日至数日后/02-街头航天宣传.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/05-第五场-王室宫殿·议会厅窗边·日/02-银翼示意投影.png"
+      ]
+    },
+    {
+      "file": "02-第二轮会议全景.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 locks exact room architecture, crowned wolf and FOUR unique wolf identities and clothing. Image2 locks leopard identity and pinstripe suit. Entrance-axis wide shot, EXACTLY SIX people, FIVE chairs: crowned wolf king seated far center; muscular red-tie wolf seated left FAR; slim blue-tie wolf seated right FAR; leopard seated left NEAR replacing glasses wolf; right NEAR chair EMPTY for future female visitor. Glasses wolf now stands near back left side behind left seating, stocky pinstripe wolf stands side-rear right behind seating, distinct full legs feet grounded. No extra chairs, no other guests. King concerned glances toward leopard, others watching left wall graph, now high horizontal plateau. Bright DAY windows. A slim closed presentation folder beside leopard, not a laptop.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png"
+      ]
+    },
+    {
+      "file": "03-狼王担忧残局.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 authoritative crowned wolf king identity and purple crystal eightpointstar head wall, Image2 ONLY offscreen leopard conversation partner identity. Medium closeup threequarter king seated at far head facing screen LEFT toward near left leopard. Worried restrained brow, one palm turned up asking for solution. Whole crown ears in frame. Burgundy waistcoat black goldtrim jacket silver layered mane golden eyes. Purple star wall behind, daytime side fill from right. Table edge visible. No other character needed, no humans.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png"
+      ]
+    },
+    {
+      "file": "04-豹拉推来新方案.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 leopard identity costume primary; Image2 exact room. Medium shot leopard seated LEFT NEAR side, faces screen RIGHT toward far head wolf. Calm assured faint smile, one spotted clawed hand finishes placing a thin cream paper presentation dossier onto smoky purple table, other hand near edge. Diagram of three simple future technology concepts on page, no legible text, no hologram and no actual machines. West quotation wall and cabinet behind him, flat high plateau graph edge visible. No crown on leopard, preserve pinstripe threepiece ivory shirt burgundy tie gold watch chain. Not human hands.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png"
+      ]
+    },
+    {
+      "file": "05-狼王质疑可信度.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 exact king identity room. DISTINCT new tighter reaction closeup of crowned wolf king, seated far head turned screen LEFT toward leopard; slightly leans forward, eyebrows raised in disbelief, mouth slightly parted, palms lowered on table. Full ears crown safe margins, silver layered mane burgundy waistcoat and black goldtrim coat. Purple crystalline starwall behind. Clear different posture from palm-up pleading. No looking at camera.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png"
+      ]
+    },
+    {
+      "file": "06-豹拉示意门口.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 leopard primary identity, Image2 exact room. Medium shot seated near-left leopard, same westwall behind. He turns head toward entrance OFFSCREEN LEFT behind camera, one paw gently gestures that way, knowing small smile, asks who he invited. Paper dossier stays flat on table exactly in front of him. Keep hand anatomically animal. No guest visible yet, no new chairs. Same daylight.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png"
+      ]
+    },
+    {
+      "file": "07-古格开门入场.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 primary red fox woman identity, face, hair, exact approved necklace SCALE and costume. Image2 room architectural materials ONLY. Camera inside conference room looking toward SOUTH entrance, reverse orientation windows now LEFT screen wall RIGHT. Medium full shot single mature red fox lady stepping through open purplegold double doors, composed and confident. Long copper wavy hair, amber eyes, cream muzzle, wine velvet cloak deep red ancientgold embroidered dress. Approved oval ruby necklace catches a small natural light glint, DO NOT ENLARGE gemstone or collar. Both ears fully in frame, animal paws, single tail, grounded visible shoes under hem. No extra people, no humans, no magical glow.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/古格/特写/01-赤狐女巫正面-探索v1.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png"
+      ]
+    },
+    {
+      "file": "08-古格应下财富效应.png",
+      "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, no collage subtitles or watermark. High-end feature-film CGI, physically based materials, individually resolved fur and hair, weighty woven fabric, distinct gold metal velvet glass response, soft cinematic key subtle cool fill, crisp natural detail, controlled highlights no plastic no painterly smears. Reference roles and priorities as specified. Image1 fox woman identity and exact necklace scale. Image2 room orientation, Image3 leopard identity ONLY offscreen. Medium close threequarter red fox woman beside EMPTY RIGHT NEAR chair at east window side, window and bay behind her, facing screen LEFT toward leopard across table. She rests ONE animal paw on chairback, has glanced down at cream paper dossier on tabletop and raises eyes with assured subtle smile, lips beginning response. She has walked to seat but NOT sat yet. Maintain red velvet cloak embroidery and unchanged oval ruby scale. No crown, no extra jewelry, no human hands. Daylight beautiful but not sunset.",
+      "referenced_image_paths": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/古格/特写/01-赤狐女巫正面-探索v1.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/02-第二场-星契交易所·会议室·日/01-会议室五狼落座.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "shot": "03",
+  "name": "玫瑰花瓣与晨露",
+  "output": "storyboard/第二集-光之王/01-02-海岛花店至交易所/v1/03-玫瑰花瓣与晨露.png",
+  "actual_size": [
+    1672,
+    941
+  ],
+  "channel": "内置image_gen",
+  "postprocessing": false,
+  "status": "本轮新关键帧，待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "prompt": "ONE standalone landscape 16:9 cinematic storyboard still, high-end feature-film 3D CGI, physically based materials, individually resolved fur/hair where present, fine woven cloth, crisp natural details, soft warm sunrise key and subtle cool fill, natural contact shadows, restrained bloom, no plastic, no comic outlines, no text/subtitles/watermarks, no collage. Macro detail INSIDE referenced florist, early sunlight from right. One pale blush ROSE at foreground left, layered silky petals, a SINGLE water droplet hanging from curved bottom petal just before falling, tiny dew points and subtle veins. Airy white GYPSOPHILA baby's breath behind and a translucent green leaf at right backlit showing veins. Background softly recognizable ivory/gold florist window and warm oak, not a garden. Droplet optically clear with believable refraction, NOT a glowing orb. No character. Rose and baby's breath separate from already-approved twelve-flower display frames.",
+  "references_in_actual_order": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/花店/候选/02-花店内部全景.png",
+      "role": "分工及优先级详见实际提示词"
+    }
+  ]
+}

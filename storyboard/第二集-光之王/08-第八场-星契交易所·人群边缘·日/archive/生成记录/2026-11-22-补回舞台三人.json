@@ -1,0 +1,39 @@
+{
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "date": "2026-11-22",
+  "prompt": "Edit image1 ONLY its distant RIGHT BACKGROUND STAGE to restore continuity. Image1 remains authoritative for camera, all foreground panda courier/raccoon subjects, their exact faces poses scale costumes props, all spectators and building. DO NOT redesign or move foreground. Image2 authoritative for THREE performers and their left-to-right order ON elevated stage: LEFT Youzi in dark green gold dress beside framed publicity portrait, CENTER Qingqiu WHITE multi-tailed fox actress in pale pink gold dress waving, RIGHT Guge reddish fox woman in long deep red gold gown holding microphone. Insert these exact THREE recognizable small distant figures standing on existing right background stage PLATFORM, in natural correct perspective (roughly stage star emblem height, small not giants). Same left-center-right order. Keep original stage geometry architecture stairs star emblem and location in image1; don't transplant whole enlarged stage from image2. All three visible above audience heads, feet supported on platform, may be partly occluded naturally by foreground but no disappearing performers. Keep daylight depth and sharpness consistent, figure colors readable at distance, do not overblur stage into empty silhouettes. No new humans, no extra fourth performer. One standalone 16:9 high-end feature-film CGI, no captions watermark collage. Preserve panda gold moon and rabbit hairclip, white pigeon courier.",
+  "references": [
+    [
+      "archive/舞台三人补回前/01-人群边缘与白鸽快递员.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/06-光束扫向欢呼人群.png"
+    ],
+    [
+      "archive/舞台三人补回前/02-熊大笑劝白鸽慢些.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/06-光束扫向欢呼人群.png"
+    ],
+    [
+      "archive/舞台三人补回前/03-白鸽侧身经过.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/06-光束扫向欢呼人群.png"
+    ],
+    [
+      "archive/舞台三人补回前/04-浣熊举星契遮脸.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/06-光束扫向欢呼人群.png"
+    ],
+    [
+      "archive/舞台三人补回前/05-熊大笑放手目送.png",
+      "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第二集-光之王/07-第七场-星契交易所·门前舞台·日/06-光束扫向欢呼人群.png"
+    ]
+  ],
+  "referenceRoles": "图1锁现有前景与机位；图2锁悠姿、青丘、古格身份与左中右站位。相对路径以场次根目录为基准。",
+  "outputs": [
+    "exec-bf371340-8ac7-4848-b4f3-88eb95604078.png",
+    "exec-50923592-e0da-4ae1-84a6-0926dc0db4c3.png",
+    "exec-2c6a38a8-4787-42ac-be31-5e030f80cee2.png",
+    "exec-67906562-83be-4bb3-901b-c4e62f3cee03.png",
+    "exec-ac08f82c-117c-4027-a2f3-01489ad00cbe.png"
+  ],
+  "status": "五张新修订稿待用户审阅，未生成视频",
+  "inspection": "已目视五张均有悠姿左、青丘中、古格右。宣传牌、服装主色与台上位置可辨。前景保持原动作；舞台拱形、尺度和台面局部有生成漂移，并非像素级局部合成。各镜头远景脸部不能保证高精度。",
+  "postprocessing": "无"
+}
