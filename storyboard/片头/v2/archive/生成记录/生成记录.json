@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-19",
+  "tool": "内置 image_gen",
+  "status": "8张静态分镜候选已生成，未生成视频",
+  "prompts": [
+    {
+      "id": "01",
+      "prompt": "Use case: stylized-concept. Generate ONE standalone cinematic opening storyboard keyframe, landscape 16:9, high detail, premium fantasy animation. Reference image 1 defines the EXACT AstralPact card: deep indigo translucent rounded rectangle, thin ornate gold orbital engravings, central iridescent eight-point star. Reference image 2 defines the series title logo. A single upright card floats in near-black indigo space, gently tilted, a thin warm gold grazing light tracing its edge, restrained rainbow refraction. Sparse stars, large quiet dark margins. The title logo AstralPact with 星契 beneath appears in foreground across center, elegant silver iridescent lettering as reference 2, readable, card darkened behind it. Preserve exact card motif. Beautiful luminous luxury, no other text, no borders, no panels, no watermark. This is frame 01, card and title revealed."
+    },
+    {
+      "id": "02",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. The same single translucent indigo rounded rectangular card with ornate fine gold orbital lines and central eight-point iridescent star, as reference image, is dissolving inward into ONE gold-white light streak. Capture mid-transformation: a faint remaining half-outline of the card at left, delicate gold filaments converging at its star core, leading into a thin curved light trajectory receding toward upper-right deep space. Sparse starfield, quiet dark negative space, restrained bloom. No title, no text, no planets, no extra cards. Preserve eight-point star.",
+      "refs": [
+        "assets/props/01-星契卡-镭射正面概念.png"
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. Vast deep universe, monumental distant blue-violet nebula threaded with subtle dark gold dust, countless fine distant stars and sparse near stars, great layered negative space. One tiny gold-white traveling light with a short iridescent tail follows a graceful arc from lower left toward the distant nebula. The light is very small against the immense starfield, a feeling of searching and discovery, composed like an epic science-fantasy film establishing shot. No planets, no cards, no lettering, no spacecraft."
+    },
+    {
+      "id": "04",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. Wide distant nebula star map, NOT a UI. Countless pinprick stars in flowing blue-violet nebula and dark golden dust. Exactly THREE more prominent luminous star points arranged loose asymmetrical triangle: cool blue-white point upper left, pale lavender champagne point upper right, blue-green softly gold-rimmed point lower center. These are faraway small bright star points, NOT large planet globes. Add three tasteful finely typeset bilingual labels with hairline gold leader lines, Chinese ABOVE English, all equally sized, readable in dark clear spaces: upper left 美剑星 with Meridia beneath; upper right 瓯梦星 with Eumora beneath; lower center 花夏星 with Hosum beneath. Labels correct verbatim. A tiny gold-white traveler approaches lower-center Hosum from bottom left. Elegant quiet cinematic star map, no grids, no flags, no instrumentation."
+    },
+    {
+      "id": "05",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. Dramatic orbital approach toward Hosum, a huge blue-green habitable planet occupying the lower right two-thirds, curved thin luminous blue atmospheric rim, oceans and lush mountain continents visible under delicate white clouds. ONE small gold-white streak with short pearlescent tail travels from left foreground diagonally toward a coastal cloud opening on the planet, strong forward perspective, distant blue-violet nebula behind. Frame implies camera following the light into atmosphere. No card, no spaceships, no labels, no continents matching an exact Earth map."
+    },
+    {
+      "id": "06",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. Reference is the destination city's geography and style; depict a NEW upstream aerial camera position before arriving there. Sweeping forward view over forested mountain ridge in foreground, a tall cliff waterfall at left, winding river stretching through lush valley into a broad coastal delta and turquoise sea in distance. Twilight blue-lavender sky, warm gold sunset on river, thin drifting cloud beneath viewpoint. ONE tiny gold-white traveling light with short delicate tail follows the river toward the sea. The destination ivory island city and only one upright ring landmark are small and far on horizon. Emphasis vast mountains rivers and ocean, believable continuous terrain, NOT floating islands. No text.",
+      "refs": [
+        "assets/scenes/花夏星-滨海都会/09-花夏星-滨海都会.png"
+      ]
+    },
+    {
+      "id": "07",
+      "prompt": "Use case: stylized-concept. ONE standalone cinematic storyboard keyframe, landscape 16:9. Premium detailed fantasy animation consistent with AstralPact: deep indigo, blue-violet, restrained warm gold and pearlescent rainbow, elegant atmospheric depth. No panels, no border, no watermark. Reference image is the canonical city, maintain same recognizable architecture and geography. Create a NEW lower bay-level establishing viewpoint approaching the main island at blue-violet twilight, warm gold sunset on water. Turquoise open sea foreground, slim multi-arch bridges connecting lush islands, elegant ivory white and gold flowing buildings. Exactly ONE monumental UPRIGHT CIRCULAR RING paired with one tall slender central spire on the main island, matching reference silhouette, not Saturn rings and not duplicated landmarks. Forest mountains and cliff waterfalls recede to left. Tiny gold-white traveling light is arriving and fading above city waterfront. Broad majestic stable composition, city warm lights beginning to glow, beautiful restrained iridescence, no words.",
+      "refs": [
+        "assets/scenes/花夏星-滨海都会/09-花夏星-滨海都会.png"
+      ]
+    },
+    {
+      "id": "08",
+      "prompt": "Use case: stylized-concept. ONE 16:9 landscape minimalist film episode title card for AstralPact. Perfect flat pure black background. Exactly TWO lines of centered warm-white text, Chinese above English, elegantly balanced as a group at frame center. First line large refined Chinese Song/Ming serif lettering, EXACT text: 负和游戏 . Second line small refined serif type about one-third the Chinese letter height, gently spaced, EXACT text: Negative-Sum Game . Plenty of empty black space. No other text, no number, no logo, no stars, no ornament, no gradients, no border, no texture. Crisp impeccable readable lettering."
+    }
+  ],
+  "revision": {
+    "id": "04",
+    "prompt": "Edit this image with ONE targeted correction: remove the little spacecraft/sailing-ship-shaped solid object near the lower-left approach toward Hosum. Replace only that object with ONE tiny simple brilliant gold-white point of traveling light and a short fine pearlescent trailing streak, absolutely no solid vehicle, card, sails or wings. Preserve the nebula, all star positions, the three brightest star points, all thin leader lines, all existing bilingual labels and their typography and positioning EXACTLY. Chinese labels must read 美剑星, 瓯梦星, 花夏星; English Meridia, Eumora, Hosum. Do not add anything else. Preserve entire landscape 16:9 composition.",
+    "reason": "去除误生成的飞船形体，保持单一光束"
+  },
+  "output_directory": "关键帧",
+  "notes": [
+    "01、04、08为带字审阅版，视频制作建议分离文字层",
+    "05太空日照与06–07暮色需通过穿云及调色衔接"
+  ],
+  "updates": [
+    {
+      "date": "2026-11-19",
+      "tool": "内置 image_gen",
+      "operation": "正式英文名更新",
+      "names": {
+        "美剑星": "Asocan",
+        "瓯梦星": "Dreekii"
+      },
+      "prompt": "Edit the supplied star-map frame. Change ONLY two English labels, preserving the whole image and typography: upper-left Meridia must become Asocan (exact spelling A-s-o-c-a-n); upper-right Eumora must become Dreekii (exact spelling D-r-e-e-k-i-i). Preserve Chinese labels 美剑星 and 瓯梦星 above them. Preserve lower-center 花夏星 / Hosum unchanged. Keep all nebulae, stars, gold leader lines, gold serif lettering style, light trail, positions, dimensions and composition unchanged. No other changes, no new objects. Landscape cinematic keyframe.",
+      "output": "关键帧/04-星云三亮星-正式英文名.png",
+      "note": "原图与原始提示词保留供追溯；当前以此图为准。"
+    }
+  ],
+  "记录迁移说明": {
+    "原记录位置": "storyboard/片头/v2/生成记录.json",
+    "历史相对路径基准": "storyboard/片头/v2",
+    "说明": "生成时的素材refs/source保持历史原文；其中相对素材路径按原记录位置解析。"
+  }
+}
