@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "status": "三张新稿待用户审阅，未生成视频",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "shots": [
+    {
+      "prompt": "Create ONE new standalone 16:9 feature-film CGI storyboard still for 段落3 割肉 01噬魂解释, continuous scene after supplied image. Preserve exact composition spatial blocking and identities: three headed black dog on left standing on floor next to dragon king seated right, same jade constellation backdrop, window night city, black gold table. Change ACTING distinctly: central head turns a little more toward table and interlocutors, eyes subtly narrowed calm calculating, mouth modestly open mid-explanation, not a roar; left side head observes people to left with mouth closed, right side head observes king with mouth closed. All six ears visible with margin, central scar, collar square star pendant identical. Dragon king silently listens with restrained level gaze, mouth closed, hand stays table. Slightly tighter natural medium close shot but complete ear tips and king crown. High-end feature-film CGI physically based materials, individually resolved black fur and scales, raised gold-thread embroidery, distinct metal jade response, soft warm key subtle cool fill, natural fine detail, no plastic bloom orange overgrading, no new props, no text or collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png"
+      ],
+      "output": "01-噬魂解释.png",
+      "source": "exec-cc75e070-5cfd-42f5-8857-012571c4a75f.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "prompt": "ONE standalone landscape16:9 film CGI storyboard keyframe 段落3 02未央按住账本. Reference1 locks elephant identity navy textured threepiece suit gold circular spectacles valve brooch tusks wrinkles CLOSED black gold ledger under both hands. Reference2 locks adjacent seating same table edge, spider nearer to entry, elephant farther toward king. Camera across table focused elephant medium closeup dominant center/right, include small recognizable partial spider noblewoman at left frame edge in nearer plane (purple gold sleeve pearl bun edge and a folded back appendage) so no empty neighboring chair. Elephant's two grey hands firmly press CLOSED ledger on table, eyes have just lifted from book toward offscreen dog near king to screen RIGHT, chin slightly raised, quiet calculating attentive expression mouth closed. Do not move elephant opposite spider, no king beside elephant in closeup. Blue night window city behind left, ivory gold room same warm key and cool fill. High-end feature-film CGI physically based materials detailed skin wrinkles woven navy cloth natural folds distinct gold glasses and brooch response crisp natural detail controlled highlights. Keep whole elephant ears and hands with margin. No human hands, open book, new props, text, collage, excessive orange or plastic.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/03-未央特写.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/03-八爪追问.png"
+      ],
+      "output": "02-未央按住账本.png",
+      "source": "exec-60f43dcf-9494-4336-8aaf-3491b75f9e08.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "prompt": "ONE standalone 16:9 cinematic INSERT keyframe 段落3 03噬魂取纸. Reference1 ONLY for blank cream sheet, canine forepaw contact and black gold shallow document tray visual intent; correct its too high tabletop. Reference2 locks latest black fur/materials and room night warm cool balance. Tight low angle looking gently down onto a LOW knee-height black gold document tray placed beside the standing dog near king's main seat, clearly lower than the main council table; background upper right shows soft out-of-focus underside/edge of main blackgold table to establish lower height, ivory gold floor and blue night window light. Single anatomically correct BLACK FUR CANINE FORELEG enters from upper left naturally downward, paw pads/claws rest lightly on near edge of top BLANK cream sheet and have nudged it a short distance toward dog so edge curls slightly over tray's low lip. This is endpoint of small paw sliding action preparing to pass paper next segment; paper remains mostly supported by tray. Other three paws remain weight bearing offscreen, NO human fingers, no upright humanoid dog pose, no detached floating paw. No invented lanterns armillary sphere flowers. Crisp individual black fur, realistic canine toes and dark claws, paper fibers and slight bend/contact shadow, aged bronze trim and black tray subtle roughness, high-end feature-film CGI physically based materials soft warm key and cool fill no glare. One blank sheet clearly readable as empty, no text numbers watermark or collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v1/段落3-割肉/03-噬魂取纸.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png"
+      ],
+      "output": "03-噬魂取纸.png",
+      "source": "exec-05f4c1ee-7f61-4948-ab38-7eb3754eab4a.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "已目视检查：噬魂中央头开口两侧闭口，身边为主位龙王；未央双手按闭合账本、近侧八爪局部入镜；黑犬前爪接触空白纸，托盘实际位于地面低位。03只显示局部前爪，完整四足及递纸动作仍须视频验收。当前账本延续v2闭合状态，不沿用v1旧图打开状态；旧台词与分镜时间保留。"
+}

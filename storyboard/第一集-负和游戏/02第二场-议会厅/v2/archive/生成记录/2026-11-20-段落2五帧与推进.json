@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "四张新稿待用户审阅，02双人反应沿用，未生成视频",
+  "shots": [
+    {
+      "file": "01-噬魂讲计划.png",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png",
+        "/var/folders/hz/wsm91w2n3d5dwnh41mp7zrwm0000gn/T/codex-clipboard-ca0df84a-5a0c-4812-b856-c6bfd5657876.png"
+      ],
+      "prompt": "Image1 authoritative current dog identity scar amber eyes collar square star pendant and room materials. Image2 ONLY composition reference from old video, exclude all UI and obsolete room. New medium shot dog dominates central left 80%, three heads six ears full with margin, torso and some body visible standing floor near king. Central head calmly speaking slightly toward screen right, side mouths closed. Dragon king at far RIGHT edge show ONLY ONE black scaled hand resting on gold throne armrest and black gold embroidered sleeve plus sliver chair, NO face/head/full torso. Preserve same dog scale and floor position, no elephant. Subtle menace, self-assured. High-end feature-film CGI, fine individual black fur/scales, PBR leather and bronze, raised gold embroidery, soft warm key subtle cool blue fill, crisp natural detailed surfaces. ONE standalone landscape16:9 film frame, no UI text watermark player border collage. Keep current v2 room jade constellation disc, NOT old armillary sphere.",
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-e35aa62b-331e-4d14-b92e-4b2e26cc456b.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "03-噬魂推进起点.png",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png",
+        "/var/folders/hz/wsm91w2n3d5dwnh41mp7zrwm0000gn/T/codex-clipboard-3ef7c1ab-9574-4624-b4b8-e0780991bb7f.png"
+      ],
+      "prompt": "Image1 authoritative v2 dog identity/room. Image2 ONLY framing mood reference for later push-in. New frontal MEDIUM CLOSE starting frame of continuous dolly-in: all three heads six ear tips fully framed, chest and full collar pendant visible, heads occupy central 65% width, comfortable side margins. Center head looks just past lens toward council with small speaking mouth and calculating confident expression, side heads face outwards mouths CLOSED. No king face/torso, at most tiny sleeve edge on extreme right. Camera faces dog more frontally than original side angle, naturally aligned with council. Stable blue night window left warm ivory ribs and partial jade circle behind, no random new props. High-end feature-film CGI, fine individual black fur/scales, PBR leather and bronze, raised gold embroidery, soft warm key subtle cool blue fill, crisp natural detailed surfaces. ONE standalone landscape16:9 film frame, no UI text watermark player border collage. Keep current v2 room jade constellation disc, NOT old armillary sphere.",
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-9715df1b-c1d4-41f8-a94a-dd928afd49c6.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "04-噬魂压迫近景.png",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png",
+        "/var/folders/hz/wsm91w2n3d5dwnh41mp7zrwm0000gn/T/codex-clipboard-3ef7c1ab-9574-4624-b4b8-e0780991bb7f.png"
+      ],
+      "prompt": "Image1 authoritative dog identity and v2 room; Image2 authoritative TIGHT frontal framing pressure and gaze ONLY, exclude UI and obsolete rendering. END frame of slow cinematic dolly-in, same three-headed black dog: central scarred face large centered, eyes narrow with chilling confidence, mouth slightly open controlled speech, left/right heads flank symmetrically at edges mouths firmly CLOSED. Faces fill nearly whole width, three heads remain identifiable, central ears complete with small margin, outer ears may approach edge but not cut eyes/muzzles. Lower crop at upper collar, pendant mostly outside frame; king entirely outside frame. Real change camera distance, facial depth and background perspective, not flat digital crop. Layered detailed fur, dominant central amber gaze and looming presence, no roaring or rage. Background warm gold ribs and blue night window soft consistent, no armillary. High-end feature-film CGI, fine individual black fur/scales, PBR leather and bronze, raised gold embroidery, soft warm key subtle cool blue fill, crisp natural detailed surfaces. ONE standalone landscape16:9 film frame, no UI text watermark player border collage. Keep current v2 room jade constellation disc, NOT old armillary sphere.",
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-d603b38c-754c-43f1-a289-e9179f1839aa.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "05-八爪问钱呢.png",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-20-段落2八爪视线修正前/03-八爪问钱呢.png"
+      ],
+      "prompt": "Precise local edit of this image, preserve original close camera, body, both hands/diamond positions, elephant seated screen RIGHT, closed book and all room positions. Spider noblewoman HEAD turns toward ELEPHANT SIDE, SCREEN RIGHT, muzzle pointing right, principal eyes gaze right past elephant toward OFFSCREEN dog. Chin LEVEL or slightly raised, not looking down at table, inquisitive skeptical composed expression, small natural mouthparts opening. Keep same genuine multi-eye spider face mandibles pearl gold bun gown, two hands eight back appendages naturally occluded. Elephant stays silent. Do not flip whole scene. No dog or king visible. Maintain delicate detailed original material response and complete bun margin. High-end feature-film CGI, fine individual black fur/scales, PBR leather and bronze, raised gold embroidery, soft warm key subtle cool blue fill, crisp natural detailed surfaces. ONE standalone landscape16:9 film frame, no UI text watermark player border collage. Keep current v2 room jade constellation disc, NOT old armillary sphere.",
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-5a81d244-dab8-4f3a-9c7b-785d223df814.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "01龙王仅手衣袖、犬四足；03正面中近景六耳；04三头紧特写，中央耳尖被上边缘裁切，与用户视频近景取景相近，未称全耳完整；05头朝大象所在画面右侧，主要眼睛朝右抬起，噬魂不入镜。03与04为独立原生生成，细纹与背景非像素级一致，视频需保持同轴连续推进。"
+}

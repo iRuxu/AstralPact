@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "三张递纸版新稿待用户审阅；未生成视频",
+  "reason": "用户否定切未央手部的镜头语言，要求噬魂递纸给鳄王，重做关键帧。台词不变。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "ONE standalone16:9 film CGI keyframe01 of revised paper handoff. Image1 exact dog and king identity and high end texture, Image2 authoritative spatial blocking table. Keep medium shot dog LEFT king seated RIGHT head of table; dog at floor, not giant or seated on table. Dog central head speaks calmly and confidently toward offscreen crocodile right, side heads closed. Six ears scar amber eyes black fur collar square star pendant intact. Slightly lower/wider framing allows lower edge table: ONE blank cream rectangular sheet lies flat just in front of dog at reachable head-end table edge, his ONE black canine front paw resting lightly on near edge sheet ready to slide. No human fingers, other legs support him offscreen. King hand stays on table outside paper trajectory. No additional cards/paper. Same blue night window, ivorygold architecture jade star chart. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail no plastic glare text collage.",
+      "refs": [
+        "段落5-三七分成/01-噬魂三七分成.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-ea272c53-d685-43b4-953a-4c56e6ac18be.png",
+      "output": "段落5-三七分成/01-噬魂说明分成.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "Create ONE standalone16:9 cinematic medium group keyframe02 DOG HANDS ONE PAPER TO CROCODILE, full interaction not hand insert. Ref1 authoritative unchanged seating/table geometry: king far head CENTER, dog floor to king's right = SCREEN LEFT, crocodile seated right far = SCREEN RIGHT, wolf farther down right table may crop out. Ref2 exact dog identity and king face/robe. Ref3 exact crocodile face olive scales long snout gold spectacles brown embroidered coat and red pen. Camera from near table entrance zoomed to head-end grouping, frame dog three heads left, seated king center slightly behind, crocodile head torso at right, table foreground with natural perspective. ONE blank cream sheet slides flat over head-end table from dog at left toward crocodile right in FRONT of king hands. Dog reaches one ANATOMICAL black furry canine front paw to near-left edge sheet; crocodile extends LEFT scaled hand to receive far-right sheet edge; RIGHT hand retains red pen near open budget. Paper is midhandoff supported table all times. Keep reach plausible: hands/paw each touch respective near corners, no long human arm on dog, dog remains floor-supported not climbing table. King silent hands rested well behind paper path; NO elephant in crop. Dog central head slight speaking opening side mouths closed. Crocodile closed mouth attention on paper. Jade circular chart behind king blackgold flags left windows right cabinet. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail. NO duplicate sheet already in front crocodile, no card substitution, no text panels or floating objects.",
+      "refs": [
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "段落5-三七分成/01-噬魂三七分成.png",
+        "段落5-三七分成/02-鳄王拟名单与狼王反应.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-3bb78372-6088-4591-9399-8917db3d1a9b.png",
+      "output": "段落5-三七分成/02-噬魂递纸给鳄王.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone16:9 medium closeup new keyframe03 CROCODILE RECEIVED PAPER. Reference exact identity costume table seats lighting: crocodile left far wolf right near same long table edge, cabinet/jade panels behind. Repaint same quality but new action instant: crocodile LEFT hand draws ONE just received BLANK unbordered cream sheet into position beside open budget, thumb and fingers holding near left edge. RIGHT hand keeps red gold pen just above sheet, preparing to write. Head lowered modestly eyes on fresh sheet, mouth closed. Sheet not raised, table supported. Wolf beside him gives tiny relaxed brow expression as hears compensation, mouth closed two hands on closed gold-brown ledger. Paper plain single sheet, no other empty list paper. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail. No new symbols text, extra people, panels or severe DOF. Full crown ears and crocodile snout framed.",
+      "refs": [
+        "段落5-三七分成/02-鳄王拟名单与狼王反应.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-c0f87cf9-1a9c-436d-bd6f-22da12ee43ee.png",
+      "output": "段落5-三七分成/03-鳄王接纸拟名单.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    }
+  ],
+  "reference_basis": "输入路径相对制作前v2；旧段落5图片已归档archive/2026-11-20-段落5递纸重制前/。逐人落座08位置不变。",
+  "inspection": "逐张目视检查三头六耳、中央头开口两侧闭嘴、龙王主位、鳄王红笔与收纸动作、狼王邻席和闭合账册。02是递纸中间状态，03是接收后准备拟写，不是重复传递。纸在02带有细金边饰而01/03为素纸，属独立生成差异，视频统一素纸不随切镜出现边饰；02透视使犬前肢显得较长，视频需保持四足结构与合理伸爪范围；未交付三维或视频。"
+}

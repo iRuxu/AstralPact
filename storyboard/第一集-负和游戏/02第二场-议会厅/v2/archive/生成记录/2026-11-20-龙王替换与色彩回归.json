@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-20",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/06-八爪与狼王稍向主位靠拢.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-龙王主位.png"
+  ],
+  "prompt": "Precise identity replacement and color-matching edit. Image1 is the APPROVED ENSEMBLE layout. Image2 is authoritative BOTH for new Dragon King and ORIGINAL COLOR GRADE.\nKeep image1 EXACT camera, table geometry straight rectangular edges floral flat orbital inlay pedestal, ALL seating and body/hand/leg positions, furniture positions, species costumes of all sidecharacters and dog. No movement or added objects. Five seated people plus one threeheaded dog body remain.\nONLY replace central Dragon King with image2's exact seated king: this alternate face, refined charcoal scales black mane slender long neck gold branched antlers flat black imperial bead crown redjewel, exact blackgold cloud brocade cape sleeves belt and dark claws. Transfer king from image2 at natural existing head-seat scale and posture, head/crown shape and expression faithful to image2, preserving image1 seating space and both hands on far tabletop. Do not grow king or throne. Other faces unchanged.\nCRITICAL WHOLE FRAME COLOR RESTORATION: Match image2's softer restrained ORIGINAL grade instead of image1's accumulated highly saturated orangegold/blue. Reference corresponding stone ribs floor cabinetry jade disc and table highlights directly to image2: pale warm-neutral ivory/gray stone with preserved material texture, softly warm lamps localized to sources, more neutral readable black suits fur and table, subdued brushed GOLD rather than neon ORANGE. Jade green muted natural mineral tone, blue dusk window less electric, purple dress elegant deep plum not saturated magenta. Reduce orange colorcast and excessive global saturation to EXACT visual balance of image2, preserve gently warm key/coolblue fill. Control specular highlights and bloom, softer tonal rolloff. NOT grey desaturation filter, NOT sepia, no loss of color differentiation: match image2's actual warmth and understated palette. Maintain high-end featurefilm CGI detail individually resolved fur/scales chitin raised thread pearl leather stone metal. Do not brighten every surface or invent stronger light.\nAll geometry and existing sidecharacter placement must remain from image1. Far officials feet hidden, wolf two shoes stay as in image1. No table reshaping, no collage, no text watermark. Output ONE standalone landscape16:9 ensemble trial with image2 king and image2 color grade.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-19b569d1-1d19-419c-8b44-663bbc4bda8b.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，色彩匹配通过图像生成编辑完成",
+  "status": "更换龙王与色彩回归试稿，待用户审阅",
+  "comparison": "06整体橙金和蓝色较浓，石材偏橙；01龙王主位为本次整体色彩及主位人物基准。",
+  "visual_review": "已目视：龙王面部冠角与冕服朝01版本校准，石材橙色偏染和全图艳度收敛，保留柔暖灯光和冷色窗景；全体座次桌形整体延续。生成式替换存在细微人物及材质差异，非像素级复制或精确色度匹配。",
+  "width": 1670,
+  "height": 942,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/07-更换龙王与色彩回归.png"
+}

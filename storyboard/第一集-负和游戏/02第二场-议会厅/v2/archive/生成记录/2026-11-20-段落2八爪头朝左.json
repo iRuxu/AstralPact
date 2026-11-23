@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "prompt": "Precisely edit this ONE cinematic 16:9 frame. Change ONLY spider noblewoman HEAD orientation and gaze: rotate her head toward SCREEN LEFT, the viewer's LEFT, so her spider muzzle/mouthparts clearly point left and main eyes look at an OFFSCREEN dialogue partner beyond left frame. Show left-facing three-quarter face/profile, chin slightly raised to level, composed skeptical questioning expression, mouthparts slightly parted. Current muzzle points screen right; make it point the OPPOSITE direction LEFT. Keep neck naturally connected; preserve exact spider identity multiple glossy black eyes original mandibles, pearl gold braided bun and ornaments, no human face. Preserve camera framing, same close distance, body pose, both hands and diamond ring positions, clothes, eight back appendages, seated elephant on screen right and closed book, background and lighting exactly as reference. Do NOT mirror the whole image: elephant remains RIGHT, hands and jewelry stay in original positions. Do not widen shot, move seats or add subjects. No dog or dragon king visible anywhere. High-end feature-film CGI preserve original fine material detail raised gold embroidery pearl diamond and chitin response warm key cool fill. No text/collage.",
+  "refs": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-20-段落2八爪视线修正前/03-八爪问钱呢.png"
+  ],
+  "status": "新稿待用户审阅",
+  "actual_pixels": [
+    1672,
+    941
+  ],
+  "model": "未暴露",
+  "postprocessing": "无",
+  "inspection": "保持原近景与未央位置，八爪头部和主要眼睛已朝画面左侧，未增加噬魂或龙王。"
+}

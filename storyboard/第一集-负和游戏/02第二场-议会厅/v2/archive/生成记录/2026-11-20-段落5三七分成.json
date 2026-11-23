@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "五张新稿待用户审阅；未生成视频",
+  "decisions": "v1四句对白逐字保留，加入从段落4移来的拟名单原句；原30秒拆为14秒与25秒。三张星契延续段落4，名单纸仅归鳄王，未央不恢复纸张。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "Image1 authoritative exact black threeheaded dog identity, forehead scar six ears amber eyes collar square star pendant, room and seated dragon king beside at screen right. Make new segment5 frame01 medium closeup same camera. Central head looks toward offscreen crocodile screen right with a small calculating confident smile, speaking calmly; side heads CLOSED mouths, left head watchful, right head faint smirk. Only central mouth open. Dragon king silent hand on table, crown and costume as reference. Dog stays floor, not giant, no hands. Keep room jade star chart behind king blue window left. High-end feature-film CGI, physically based materials, individually resolved scales/hair, raised gold-thread embroidery, distinct jade/pearl/metal response, soft warm key and subtle cool fill, crisp natural detail. ONE standalone16:9 frame, no text or collage, no redesign.",
+      "refs": [
+        "段落3-割肉/01-噬魂解释.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-e07017ce-1e34-43cd-af6b-c940b896ebeb.png",
+      "output": "段落5-三七分成/01-噬魂三七分成.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "ONE standalone16:9 cinematic segment5 frame02 鳄王准备名单. Reference authoritative exact crocodile and wolf identities costumes chairs table cabinetry lighting and material. Preserve side-by-side seating crocodile screen left farther wolf right near. New action: crocodile mouth CLOSED looks screen LEFT toward offscreen speaker dog, small practical neutral acknowledgement, right hand holds RED pen just above ONE fresh blank cream list sheet beside open budget book, left hand rests on near edge sheet. Sheet blank not full of unreadable letters. Wolf silent composed slight relaxation, two hands on CLOSED ledger. Headgear ears intact, crocodile snout long. Table only lower foreground. Background same dark cabinets jade panels. High-end feature-film CGI physically based materials, individually resolved scales/hair, raised gold-thread embroidery, distinct jade/metal response, soft warm key subtle cool fill crisp natural detail, natural cloth weight. No text watermark panels or extra objects.",
+      "refs": [
+        "段落4-补发与赔偿/04-鳄王转眼看狼王.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-cb3104eb-a897-4e78-8577-a04a1a0f11be.png",
+      "output": "段落5-三七分成/02-鳄王准备名单.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone16:9 cinematic closeup segment5 frame03 未央划分星契. Reference1 authoritative tabletop angle, elephant grey wrinkled hands navy checked suit cuffs, OPEN ledger left, exactly THREE indigo translucent star contract cards fine gold orbital engravings iridescent central eightpoint star. Keep camera and cloth/props unchanged EXCEPT remove dog paw completely now withdrawn. Elephant hand nearest cards extends a single index finger touching tabletop just beside card edges, beginning a small tracing sweep indicating allocation, other hand remains on open ledger. Three cards remain same fan on tabletop to right of book, not separate piles and no additional cards, blank paper or writing. Crop elephant face out. Hands and cards natural scale. Crisp realistic skin folds fingernails, material response exact existing holographic cards restrained. High-end feature-film CGI physically based materials, raised gold detailing, soft warm key subtle cool fill natural contact shadow no plastic. No text numbers graphics or collage. This is physical gesture only, allocation numbers added in postproduction.",
+      "refs": [
+        "段落4-补发与赔偿/01-星契推到未央面前.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-dfcb7ba5-344b-497f-8f66-579b39e646ac.png",
+      "output": "段落5-三七分成/03-未央划分星契.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    },
+    {
+      "id": "04",
+      "prompt": "ONE standalone16:9 cinematic storyboard segment5 frame04 鳄王拟写名单. Reference authoritative exact crocodile wolf identities costumes table seating and room. Same side-by-side shot crocodile left farther wolf right near. New distinct action crocodile mouth CLOSED head lowered eyes down to ONE blank cream loose list sheet directly in front of him beside his open budget. Right hand red pen point touches sheet about to write, left hand holds sheet down; do not generate legible text. Wolf looks toward offscreen speaker to LEFT with visibly more relaxed brow and closed mouth, shoulders easing back a little, both hands resting on closed brown gold ledger. Not a smirk or speaking. Both face & shoulders intact and grounded seated. Background same wide dark cabinets narrow jade panels, no windows. High-end feature-film CGI physically based materials individually resolved scales/hair, raised gold-thread embroidery distinct jade metal response soft warm key subtle cool fill crisp natural detail. No subtitles, panels or added figures. Budget and sheet remain distinct objects.",
+      "refs": [
+        "段落4-补发与赔偿/04-鳄王转眼看狼王.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-cd6e6dd1-7304-4eec-af6e-042858358ef2.png",
+      "output": "段落5-三七分成/04-鳄王拟写名单.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "05",
+      "prompt": "ONE standalone16:9 film CGI storyboard frame05 噬魂收起笑意. Reference locks exact dog black three heads six ears amber eyes central forehead scar collar square star pendant, camera king beside screen right and room. Same medium closeup with slightly more breathing space all ears complete. Distinct later expression: central head lifts chin slightly, mouth speaking with smile entirely gone, brow sober calculating warning, gaze toward offscreen WOLF screen right near camera. Side heads closed mouths, left watchful gaze, right subtle smirk now fades. Neither yawning nor roaring. King remains silent at right with hand on table and embroidered robe red ruby beast belt crown, no giant dog size. Same night window left jade star chart behind king. High-end feature-film CGI physically based materials individually resolved fur/scales raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail no oversharpening no plastic. No hands on dog, no text collage or redesign.",
+      "refs": [
+        "段落3-割肉/01-噬魂解释.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-8bb46c0d-0b29-42a5-87db-dcedbe333f88.png",
+      "output": "段落5-三七分成/05-噬魂收起笑意.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    }
+  ],
+  "inspection": "已目视检查：01中央头讲话侧头闭嘴龙王相邻；02鳄王闭嘴准备名单狼王邻席；03三卡与象手、账本、已撤犬爪；04鳄王低头红笔触纸狼王闭嘴；05中央头收笑闭口是尾句落下后的终态，视频正文需正常说完整句再闭口。02/04名单纸边饰与柜内细节有独立生成差异，视频统一以02纸为准，不代表精确三维复现。"
+}

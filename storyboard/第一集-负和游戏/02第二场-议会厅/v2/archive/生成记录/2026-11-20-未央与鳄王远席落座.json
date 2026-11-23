@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-20",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/02-龙王与噬魂.png",
+    "assets/characters/03-内政与司法/大象/特写/03-未央特写.png",
+    "assets/characters/03-内政与司法/鳄王/特写/05-鳄王特写.png",
+    "assets/characters/03-内政与司法/大象/3D三视图.png",
+    "assets/characters/03-内政与司法/鳄王/3D三视图.png"
+  ],
+  "prompt": "Use case: precise-object-edit identity-preserve. Image1 is APPROVED base. Add ONLY TWO adults seated on the existing two FAR sidechairs nearest king. Preserve approved king and black threeheaded dog EXACT positions sizes identities poses, preserve dog not shrinking enlarging or relocating. Preserve EXACT camera, room, rectangular tabletop straight four-corner outline gold flat orbital/floral inlay jade pedestal, all chair geometries. Front TWO sidechairs MUST remain EMPTY, no other characters or shoes.\nAdd Weiyang elephant on screen LEFT FAR existing chair (the empty chair immediately near dog and king, NOT left foreground chair). Image2 authoritative elephant face wrinkles roundgold spectacles broad ears ivory tusks bluegray threepiece suit white shirt navy tie brass VALVE WHEEL lapel brooch goldchain pocket square. Image4 fullbody anatomy clothes. Natural compact adult seated scale to actual chair: hips supported at seat cushion height, knees bend under tabletop, two trouser legs and two shoes on floor if visible. Elephant normal adult body just sturdier not giant, head proportions natural and not bigger than king's whole torso. He faces inward to screen RIGHT toward king/table, upright poised mouth closed, trunk drapes naturally. Two anatomical hands on a CLOSED darkgold leather ledger FULLY supported on tabletop INSIDE left longedge near his seat, connected forearms gently resting on stone.\nAdd crocodile minister on screen RIGHT FAR existing chair (nearest king, NOT right foreground chair). Image3 authoritative olivegray longsnout scutes round gold glasses brown bureaucratic cloak coat four brass STAR WHEEL chest clasps white collar brown tie redpen. Image5 fullbody anatomy proper brown trousers black shoes and tail. Face inward screen LEFT toward king/table, natural adult seated scale comparable to elephant and king at that depth, hips on original cushion, thigh/knees under table, TWO trouser legs shoes only where naturally visible. Redpen in right hand above OPEN budgetledger, left hand on page, both arms naturally connected shoulders elbows cuffs wrists hands and forearms supported on horizontal tabletop INSIDE right straight longedge; ledger lies flat FULLY on black stone not outside rim or on lap. No random feet exposed in foreground.\nScale both newcomers to approved far chair heights and approved king's humanlike seated stature, not oversized closeup proportions. Both far-side faces at plausible seated eyelevel. Table must OCCLUDE lower bodies naturally: DO NOT force all feet visible through solid table or add feet beside empty foreground chairs. Keep original throne and two foreground chairs unchanged. Elephant may naturally occlude PART of dog torso but keep all three dog faces readable in gap at king's screen-left, dog remains in its correct floor position.\nOnly add these two characters and their small ledgers/pen at respective far seats; no table deformation camera shift or furniture movement. Maintain high-end feature-film CGI individually resolved wrinkles scales weighted wool leather fine goldthread metal, warmsoft key bluecool windowfill exact base lighting crisp natural materials restrained highlights. No text watermark collage. ONE landscape16:9 room still with king, dog, two far-seat officials and TWO empty near chairs.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-2216b2e1-6bc9-46d3-a940-03fb7b26f685.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "base_status": "02龙王与噬魂的适中体型版本获用户基本认可",
+  "status": "新增未央与鳄王落座，新稿待审阅",
+  "visual_review": "已目视：左远未央、右远鳄王，前排两席空；三头犬三头可见；新角色双手与账本位于桌面，未额外生成前排脚鞋；桌面长边仍连续。独立生成存在细微背景与椅位比例漂移，未视为严格像素锁定。",
+  "width": 1670,
+  "height": 941,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/03-加入未央与鳄王.png"
+}

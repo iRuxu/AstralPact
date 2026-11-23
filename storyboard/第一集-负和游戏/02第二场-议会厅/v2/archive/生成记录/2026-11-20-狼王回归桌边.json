@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Edit ONE standalone landscape16:9 cinematic frame. IMAGE1 PRIMARY exact current wolf identity face fur crown suit current cabinet/jade room, current adjacent crocodile and table/camera. IMAGE2 ONLY reference modest distance from table and subtle crossed knee silhouette, NOT identity room props or broad gesture. Keep image1 table spanning entire lower foreground, CLOSED ledger in same foreground and wolf seated right near beside crocodile left farther. Wolf chair remains CLOSE TO TABLE as image2, only a few centimeters eased back, back reclines slightly and torso stretches just a little. Cross one leg over other UNDER table; show at most subtle rise of crossed trouser knee behind near table edge as in image2. Crop everything below lap: NO feet, NO whole legs, NO wide aisle, NO fullbody shot, DO NOT move chair away from table. Both hands remain on armrests (no new raised gesture). Expression change: slight wicked smug smirk, ONE mouth corner lifted subtly, narrowed confident golden eyes with knowing amusement, low brows but not angry, small speaking opening, not broad cheerful grin. Natural restrained villainous satisfaction. Full crown ears comfortably visible. Preserve current CGI render high-end feature-film physically based materials individually resolved hair raised gold-thread edging distinct jade/metal response soft warm key subtle cool fill crisp natural detail. Do not copy image2 old lamp pen jar globe flowers cabinet redesign or humanlike hand pose. No text panels extra figures or furniture.",
+  "refs": [
+    "v2/archive/2026-11-20-狼王二郎腿补回前/02-狼王靠向椅背.png",
+    "v1/段落6-海外狩猎/02-狼王靠回椅背.png"
+  ],
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "新稿待用户审阅",
+  "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-555f6cdc-5041-43fd-9735-9491779a88ec.png",
+  "output": "段落6-海外狩猎/02-狼王靠向椅背.png",
+  "postprocessing": "无",
+  "inspection": "已目视检查桌沿前景、邻座鳄王、原柜与青玉背景、两手扶手、桌后交叠膝部、微眯眼嘴角扬起得意笑。完整腿脚不再要求入画。"
+}

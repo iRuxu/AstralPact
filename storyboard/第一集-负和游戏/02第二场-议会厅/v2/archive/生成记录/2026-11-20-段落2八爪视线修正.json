@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "prompt": "ONE standalone landscape16:9 cinematic storyboard REPLACEMENT shot to resolve dialogue spatial continuity. Image1 locks spider noblewoman and elephant exact identities costumes pearls diamond hands materials ONLY, NOT its downward gaze or camera. Image2 authoritative entire seat map. Build a relational diagonal medium shot looking from near entrance/right side across near-left spider toward far main seat. Spider occupies LEFT FOREGROUND shown in three-quarter SIDE/BACK profile, head turned clearly AWAY from camera toward UPPER RIGHT DISTANT end of table. Chin level or gently lifted, principal eye visibly gazes toward distant three-headed dog's central head, not downward toward tabletop or lower left. She asks a composed incisive question, small opening of spider mouthparts, hands stopped on table. Her pearl braided bun fully framed with margin, purple gold web gown diamond preserved. Elephant sits immediately farther along SAME left table edge, MIDDLE of image MIDGROUND, silent hands on closed book. At FAR end on screen RIGHT BACKGROUND, dragon king is visibly seated in main throne, black gold robes crown red ruby. The ONE three-headed black dog stands on FLOOR immediately to king's anatomical right (screen LEFT of king), visibly farther away than elephant and spider, with three heads recognizable, all mouths CLOSED listening. Spatial chain from lower left to upper right: spider NEAR -> elephant MID -> dog by king FAR. Dog MUST NOT be in lower left foreground or beside spider. Keep the black gold table receding clearly to king, unchanged five seat map; crop out right-side wolf/crocodile through camera framing rather than add empty seats. Left windows night blue city, far jade star chart behind king, no furniture redesign. Depth is clear yet far king/dog still identifiable (moderate depth of field, not heavy bokeh). Image1 exact spider face multi glossy eyes original mandibles not human; 8 back appendages with natural occlusion, two humanlike hands. High-end feature-film CGI physically based materials, raised gold thread, individual hair/scales, distinct jade pearl metal, soft warm key cool subtle fill, crisp natural detail. No text arrows labels collage. This is a NEW camera angle for actual line-of-sight, not cropping old front portrait.",
+  "refs": [
+    "段落2-压价/03-八爪问钱呢.png",
+    "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+  ],
+  "status": "新修订待用户审阅",
+  "model": "未暴露",
+  "postprocessing": "无",
+  "inspection": "八爪左前景侧脸朝画面右后方，未央同侧中景，噬魂在远处龙王右手侧地面，三头闭口；主体视线与桌面纵深共同交代对象。比原近景更宽以显式锁定关系，建筑细纹与尺度仍非精确三维复现。",
+  "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-d2f6c468-cdc4-44e6-94b1-21ac0b415078.png",
+  "actual_pixels": [
+    1672,
+    941
+  ]
+}

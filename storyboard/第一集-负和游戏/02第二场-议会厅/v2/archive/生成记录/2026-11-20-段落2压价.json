@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "shots": [
+    {
+      "file": "01-噬魂讲计划.png",
+      "refs": [
+        "段落1-献计/02-噬魂献计.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "prompt": "ONE standalone 16:9 cinematic keyframe of next dialogue. Image1 locks exact dog and adjacent seated dragon king identity, clothes, materials and seating; image2 locks room. Create a distinct new slightly three-quarter SIDE medium closeup of the three-headed black dog explaining a calculating plan to king. Turn central muzzle slightly toward king at screen right, small calm speaking mouth, confident narrowed amber eyes; side heads closed mouths subtly orient toward offscreen wolf/crocodile across table. Exactly three heads six fully visible ears one dog torso, scar on central forehead, studded collar square star pendant. King actually seated beside dog on image right listening silently, black gold robe red ruby beast buckle, jade star chart behind king. Dog stays floor beside main seat, not on chair/table. Preserve night blue windows left. New camera/pose must visibly differ from input, not a crop or duplicate. High-end feature-film CGI physically based materials, individually resolved fur/scales, raised gold embroidery, distinct metal jade response, soft warm key subtle cool fill crisp natural detail. No extra people, no elephant beside dog, no empty throne, no text/collage.",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-2aa8f6f4-d633-48b4-881a-f003cc4983dd.png"
+    },
+    {
+      "file": "02-狼王与鳄王反应.png",
+      "refs": [
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "特写/06-狼王特写.png",
+        "特写/05-鳄王特写.png"
+      ],
+      "prompt": "ONE standalone 16:9 cinematic two-person reaction medium shot. Image1 authoritative seating/room: wolf NEAR and crocodile FAR sit adjacent along SAME RIGHT long side of black gold table, behind them dark display cabinets alternating narrow jade panels. Camera across table obliquely toward right seats. Wolf dominant foreground screen RIGHT, crocodile screen LEFT slightly farther toward king. Image2 exact silver wolf identity crown dark gold-edge suit red waistcoat/tie, closed ledger beneath still hands. Image3 exact crocodile identity gold spectacles brown gold-trim cape suit white shirt dark red tie, open budget book and red pen resting on book; one crocodile finger/claw lightly touching underside of chin, other hand supported on table. Both mouths closed looking screen left toward dog near main seat, restrained calculating listening expressions. Fully connected anatomy, separate hands, keep crowns and ears fully framed. Preserve original costumes exact materials, no extra empty seats or new props, no switching their positions. High-end feature-film CGI PBR, individually resolved wolf fur crocodile scales, weighty woven fabric raised gold embroidery, natural contact shadows soft warm key cool subtle fill crisp detail restrained gold. Background cabinets not windows behind this right side. No text or collage.",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-27d9a921-e983-408a-8df5-fd6605c2f69f.png"
+    },
+    {
+      "file": "03-八爪问钱呢.png",
+      "refs": [
+        "段落1-献计/03-八爪追问.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "prompt": "ONE standalone 16:9 new cinematic close reaction/dialogue frame of spider noblewoman asking where money went. Image1 authoritative identity, approved CGI materials and adjacent elephant composition; image2 authoritative seats. Make a DISTINCT next performance: spider slightly leans upper body forward, chin lowered a little, eyes sharply raised toward offscreen dog screen right, subtly skeptical incisive questioning expression, spider mouthparts slightly parted; one ring-bearing hand has stopped with fingertips lightly planted on table, other hand naturally relaxed. Slightly closer camera but complete bun and jewelry, not merely cropped input. Purple grey genuine spider face multiple black eyes original mandibles, braided pearl gold bun, purple gold web gown pearls huge diamond, two humanlike hands and eight back appendages (lowest pair can be occluded). Elephant actually seated beside her farther toward king at screen right secondary plane, gold round spectacles navy suit valve brooch, closed ledger under hands, mouth closed. Same-side neighbors, not opposite each other. Left windows blue night city, warm gold ivory ribs. High-end feature-film CGI physically based materials raised embroidery distinct pearl diamond metal response natural chitin detail soft warm key cool fill crisp detail. No human face, no old furry male spider, no text/collage.",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-331c-7941-83f2-652c0274dd4d/exec-d2428c86-2e52-4388-af3d-ae7acdfb4c72.png"
+    }
+  ],
+  "inspection": "已目视检查三头口型与邻席龙王、狼王近鳄王远及账本状态、八爪前倾追问与邻席大象；03盘发顶端留白较少，背景细节非精确三维复现。新稿待用户审阅，未生成视频。"
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Precise spatial edit to this ONE approved 16:9 high-end feature-film CGI council still. Change ONLY positions of far elephant, far crocodile, and threeheaded dog.\nMove left-far elephant WITH his chair, closed ledger and hands farther along the LEFT LONG table edge toward central Dragon King: roughly 65–85 image pixels toward screen RIGHT and 30–45 pixels upward deeper into room, so less empty tabletop gap separates him from king. Keep sitting on same side not on far short edge. Natural modest perspective scaling to this deeper seat, no identity/body distortion.\nMove right-far crocodile WITH his chair, open ledger redpen and hands farther along RIGHT LONG edge toward king: roughly 75–95 pixels toward screen LEFT and 30–45 pixels upward deeper into room, maintaining symmetric depth with elephant. Correctly seated inward, forearms and ledgers flat INSIDE unchanged tabletop border, no floating elbows.\nMove ONE black threeheaded dog slightly SCREEN RIGHT closer alongside king's anatomical RIGHT side: roughly 55–70 pixels right, a small natural adjustment. Remain on floor at far-left corner beside king chair, all three faces distinct and readable in gap between elephant and king. Do not enlarge/shrink dog unnecessarily, retain approved size and identity. Allow physically correct occlusion from elephant but never merge bodies heads or collars.\nPreserve king EXACT original center position scale crown robe hands pose. Preserve foreground spider and wolf EXACT positions sizes poses costume hands and two wolf legs/shoes. Do not move their chairs or ledgers. Far elephant/croc legs and feet naturally hidden, no extra feet behind foreground characters.\nABSOLUTELY unchanged TABLE geometry: same original rectangle with straight continuous longedges, same front corners width length floral corners flat goldorbit inlay pedestal; move people along existing edges, NEVER change table shape or add wing notch to make room. Preserve camera framing room flags jade star map lamps cabinetry windows and lighting. Fill newly uncovered areas naturally after relocations.\nAll faces attire species anatomy must stay faithful. Warmsoft light bluecool fill fine realistic CGI fur scales chitin pearl embroidery leather, no plastic smear oversharpened glow text watermark collage. ONE standalone still.",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/04-加入八爪与狼王.png"
+  ],
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-64361630-9030-4944-94ce-acf740745fd9.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "靠近主位修订新稿待审阅",
+  "visual_review": "目视：未央及鳄王连椅向主位靠拢，噬魂向画面右侧移近龙王；近席八爪狼王与桌体整体保留，远席下肢继续遮挡；存在细微生成纹样差异。",
+  "width": 1670,
+  "height": 942,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/05-远席与噬魂靠近龙王.png"
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "quality": "未暴露",
+  "postprocessing": "无；原生输出复制到项目",
+  "status": "四张新关键帧待用户审阅；未生成视频",
+  "decision": "用户明确选择：沿用新版道具，把三张星契推到未央账本旁；取代v1空白纸，台词不改。账本沿用段落3摊开状态。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "ONE standalone landscape16:9 feature-film CGI closeup insert keyframe01 三张星契推到未央面前. Reference1 authoritative EXACT three star-contract cards: deep indigo semitransparent rounded rectangle, fine gold orbital lines, central faceted eight-point star refractive holographic iridescence; dog real black furry front paw not human hand. Reference2 authoritative elephant navy checked suit cuffs, grey wrinkled hands and OPEN account book two pages. Reference3 table and blocking: dog near king at head of table, elephant adjacent far left side. Close camera ABOVE tabletop oblique angle facing elephant torso, crop all heads out. Open elephant ledger fills lower-left/center, exactly THREE cards slightly overlapping flat on black gold table just to RIGHT of ledger, not on pages. Black furry dog paw enters from image RIGHT and rests against cards right edge after sliding them toward elephant; grey elephant near hand has just paused by cards left edge, other hand can rest on open book. Elephant torso upper-left cropped, no king hand needed. This is endpoint of slide, all cards supported flat by table, exactly three readable star motifs, no blank paper, no tray, no lamps or pen jars. Keep elegant table gold fine orbit inlay no central globe or extra objects. Crisp natural fur skin nails cloth and card etched lines. High-end feature-film CGI physically based materials, individually resolved hair, distinct metal/jade response where present, soft warm key subtle cool fill, restrained holographic shimmer not overexposure. No text numerals watermark collage. Dog paw anatomically canine with four toes, no human fingers.",
+      "refs": [
+        "段落3-割肉/03-噬魂拿出星契.png",
+        "段落3-割肉/02-未央按住账本.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-4d57-7d23-a882-42647b9998f4/exec-2703f746-79a2-42d0-b8b0-eb48a9e5b20e.png",
+      "output": "段落4-补发与赔偿/01-星契推到未央面前.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "ONE standalone16:9 film CGI keyframe02 未央看向鳄王. Image1 authoritative exact elephant identity expression current navy checked suit gold spectacles valve brooch curled inward trunk, open account book hands separately resting on two pages, balanced normal scale relative table. Image2 authoritative seating: elephant left FAR seat, spider left NEAR same side, crocodile across table on right far. Keep image1 camera from opposite side facing window wall, medium closeup chest head both hands/book, table only lower foreground, no long distorted table. Elephant turns EYES and head just slightly toward offscreen crocodile directly across table near camera, restrained neutral bureaucratic expression closed mouth, no sadness/frown. Looking almost toward camera with slight screen right offset, not toward same-side spider. Tiny slice purple spider shoulder/appendage at image LEFT edge same side, elephant is main focus, no other people visible. Background same tall windows blue night bay ivory/gold ribs. Do not invent paper or cards in this tight frame; lower table outside book can crop. High-end feature-film CGI physically based materials, individually resolved skin wrinkles, fine suit weave, raised gold-thread details only on existing elements, distinct jade/metal response, soft warm key subtle cool fill crisp natural detail. No text, no panels, no watermark, no unrequested props.",
+      "refs": [
+        "段落3-割肉/02-未央按住账本.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-4d57-7d23-a882-42647b9998f4/exec-67d02a33-6abe-4dfc-b8f3-05f4df2d981d.png",
+      "output": "段落4-补发与赔偿/02-未央看向鳄王.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone landscape16:9 film CGI storyboard still, segment4 frame03 鳄王追问. Image1 authoritative crocodile identity costume round gold spectacles long snout olive grey scales dark brown embroidered official coat red tie brass star clasps and red pen/open budget. Image2 authoritative same-side adjacent wolf identity and material quality. Image3 room seating: crocodile RIGHT FAR, wolf RIGHT NEAR, king far center. Camera from opposite left side table toward crocodile, medium closeup, crocodile dominant central/right in shot slightly leaning forward, looking screen LEFT toward offscreen dog next to king, mouth slightly open speaking cautiously pragmatically. Right hand holding red pen paused just above open budget, other hand supported on book. Cropped edge of wolf shoulder at screen RIGHT establishes same-side neighbor, not opposite. Background RIGHT cabinetry alternating wide dark shelves and narrow jade panels, no window behind crocodile. Preserve precise identity attire. High-end feature-film CGI, physically based materials, individually resolved scales, raised gold-thread embroidery, distinct jade metal response, soft warm key and subtle cool fill, crisp natural detail; no toy gloss or smeared textures. No text subtitles collage or extra characters. Head snout hands fully in frame.",
+      "refs": [
+        "特写/05-鳄王特写.png",
+        "段落2-压价/02-狼王与鳄王反应.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-4d57-7d23-a882-42647b9998f4/exec-eff6f892-44c1-4cfa-bd05-1ad000a185e5.png",
+      "output": "段落4-补发与赔偿/03-鳄王追问.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "04",
+      "prompt": "ONE standalone landscape16:9 cinematic storyboard keyframe04 鳄王转眼看狼王. Reference1 locks exact crocodile and wolf identity, wardrobe, shared long table edge, side-by-side seating, lighting and CGI quality. Reference2 crocodile detail and red pen. Reference3 room geometry: crocodile right far, wolf right near same side. Retain reference1 camera and composition, crocodile image LEFT slightly farther and wolf image RIGHT closer. Change action distinctly: crocodile lowers hand from chin, right hand holds red pen paused above open budget, left hand on pages; leans slightly forward and turns head and eyes screen RIGHT toward wolf immediately beside him, mouth narrowly open mid cautious practical question. Wolf keeps mouth closed, a calm restrained gaze slightly toward crocodile, both hands still on CLOSED ornate brown ledger. Gold crown and all wolf ears intact with margin. No dramatic gestures, no smiles or roaring. No windows behind them; background alternating wide dark cabinets narrow jade panels black gold dragon banner near far left as reference. High-end feature-film CGI physically based materials individually resolved scales/hair, raised gold-thread embroidery, distinct jade/metal response, soft warm key and subtle cool fill, crisp natural detail. Fine coat weave, no plastic, no oversaturation. No text watermark panels.",
+      "refs": [
+        "段落2-压价/02-狼王与鳄王反应.png",
+        "特写/05-鳄王特写.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f503-4d57-7d23-a882-42647b9998f4/exec-83628180-25e1-4c78-a2f2-32666586168b.png",
+      "output": "段落4-补发与赔偿/04-鳄王转眼看狼王.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "已目视检查四图：01三张卡片、犬爪、象手、摊开账本与桌面承托；02内卷象鼻、双手按两页与窗侧背景；03鳄王看向画左噬魂、红笔预算册、邻席狼王局部；04鳄王转向画右狼王，狼王闭嘴双手按闭合账册。独立生成导致桌面纹样和柜内细节有差异，非精确三维复现；02紧构图未带到账本旁星契，视频需保留画外位置。"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Edit ONE standalone 16:9 cinematic frame. Image1 edit target: preserve exact latest elephant identity, navy suit, gold glasses, valve brooch, closed ledger, both hands positions, adjacent spider at left edge, seat room lighting camera. Image2 ONLY authoritative for calm neutral impassive demeanor: he hides all inner feelings. CORRECT expression in image1: remove raised sad inner brows, remove knitted forehead, remove worried puppy eyes and slumped posture. Restore relaxed level brow line natural elephant forehead and level dignified head, neutral attentive eyes looking toward offscreen speaker screen right, closed mouth. Completely composed unreadable mature statesman, no visible sorrow fear worry anger smile or approval. Hands rest naturally on closed ledger no tense fingers. Capture eyes naturally open just before a very small ordinary blink; do NOT show permanent closed eyes or heavy sleepy lids. The blink will be animated later, not depicted through emotional eyebrows. Keep original high-end feature-film CGI quality physically based elephant wrinkles woven suit, gold glasses, warm soft key cool subtle window fill, crisp detail, no plastic, no text no collage. Reference2 must not replace the closed book with its old open book or copy old lamps/armillary scene.",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落3-割肉/02-未央按住账本.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v1/段落3-割肉/02-未央按住账本.png"
+  ],
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "status": "新02待用户审阅",
+  "postprocessing": "无",
+  "inspection": "已目视检查：移除上拱忧虑眉、恢复平直自然眉眼和端坐，双手自然按闭合账本，邻席八爪保留；静态为睁眼状态，轻微眨眼由视频提示词控制，不声称静帧已完成动画。",
+  "source": "exec-83d44602-e9be-4686-9cc7-2ac97976e3cc.png",
+  "actual_pixels": [
+    1671,
+    941
+  ]
+}

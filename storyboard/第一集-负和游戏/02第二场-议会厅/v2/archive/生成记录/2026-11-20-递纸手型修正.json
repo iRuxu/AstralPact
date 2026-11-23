@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "status": "手型修订新稿待用户审阅",
+  "reference_assets": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落5-三七分成/02-噬魂递纸给鳄王.png"
+  ],
+  "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-0c557c12-3149-4a8d-9a7a-d59f07d96b05.png",
+  "actual_pixels": [
+    1672,
+    941
+  ],
+  "postprocessing": "无",
+  "inspection": "已目视检查接纸手指形成夹持纸边动作，手腕与袖口连接；握笔手保持，纸角略有翘起。原图已归档，01及03未改。",
+  "prompt_record_note": "此字段为修订要求摘要，不声称完整实际提交原词；本次完整实际调用原词见聊天工具调用。",
+  "revision_summary": "Precisely edit ONLY crocodile hands in attached image. Keep composition, all characters, clothing, lighting, table, paper and book unchanged. Correct receiving hand anatomy: natural right hand emerging from extended sleeve at image left, thumb opposing the fingers, thumb above paper edge and fingers gently under edge, wrist attached naturally. Correct opposite pen-holding hand as natural left hand with proper opposing thumb and fingers gripping red pen. Preserve crocodile scales and claws. No duplicated same-handed anatomy or extra digits. High-end feature-film CGI. No text."
+}

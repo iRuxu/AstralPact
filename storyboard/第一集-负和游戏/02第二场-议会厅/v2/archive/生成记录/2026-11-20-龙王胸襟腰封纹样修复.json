@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-20",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/07-更换龙王与色彩回归.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-龙王主位.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png"
+  ],
+  "prompt": "Precise localized embroidery restoration. Image1 is edit target and MUST preserve current whole-frame restrained color grade, all character positions sizes faces poses, table geometry, architecture, camera and lighting. Only repair Dragon King's front garment detail in the SMALL central torso region between collar and table.\nImage2 original king-only seated reference is authoritative exact matching chest/waist ornament arrangement. Image3 original closeup provides fine goldthread and sculpted metal construction detail, NOT composition or larger head/body scale.\nRestore missing raised GOLD embroidered cloud/dragon motifs on front chest and center vertical placket, fine geometric gold edging and dark brocade microtexture; restore original ornate gold beast-face belt buckle at upper waist with clearly formed sculpted face relief and small RED gemstone/ornamental setting above, matching image2 rather than simplified generic smooth blobs. Both sides of buckle should have original layered dark belt bands with gold edging, redgold small beads and symmetrical hanging gold tassel ornaments as visible above table. Preserve exact relative hierarchy and position: chest embroidered placket leading down to central redgold ornament and ornate beastface buckle, hanging details below. Do not replace these with a new huge necklace gold breastplate jade medallion or random brooch. Keep deep dark fabric visible between raised embroidery, fine nuanced thread and brushed gold, NOT broad painted gold shapes or extra bright glow.\nKing's face horns crown shoulders sleeves dark claws posture and SCALE stay exactly image1, don't enlarge king to show pattern. Keep original whole-frame color, no resaturation warming or increased contrast. All five other characters (including threeheaded dog), books pen hands feet furniture star map unchanged. Tiny localized repair only, no room redesign table deformation or moving chairs. High-end feature-film CGI physically based crisp natural embroidery relief and metal detail at believable wide-shot scale. No text watermark collage, ONE landscape16:9 ensemble still.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-9c143718-61d4-4f2b-a9cd-a1c5562dd71c.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "龙王胸襟腰封纹样修订待审阅",
+  "visual_review": "目视：龙王中央胸襟金纹、红宝石及兽面腰扣和垂饰更清楚，沿用07色彩与座次；生成局部修复仍有细微服饰及纹样差异，不声称像素级复制。",
+  "width": 1670,
+  "height": 942,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png"
+}

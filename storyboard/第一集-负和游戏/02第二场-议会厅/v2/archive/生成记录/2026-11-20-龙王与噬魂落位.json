@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Use case: precise-object-edit / identity-preserve. Image1 is APPROVED BASE PLATE. Add ONLY Cerberus Shihun standing at Dragon King's anatomical RIGHT, which is VIEWER SCREEN LEFT of the king. Preserve the approved king unchanged in exact size face pose costume hands crown seat. Preserve exact wide camera and rectangular table outline, straight long edges, front edge gold inlay jade pedestal, ALL four empty sidechairs, room lights flags star map windows and cabinets. No zoom or camera move. Do not populate any other chair.\nImage2 authoritative exact threeheaded dog faces, fine black fur amber eyes central subtle forehead scar, leather collar round brass studs square brass star pendant. Image3 authoritative ONE shared dog body, THREE necks/heads SIX ears FOUR canine legs and tail, no humanoid torso or hands. Reproduce head identities and anatomy without copying roaring pose: all mouths closed, calmly alert waiting.\nPlacement: dog stands on actual FLOOR immediately at king's right side (screen LEFT), alongside head chair and close to table FAR-LEFT CORNER. Its three heads visible together in gap between king and left-far empty chair, not behind king or several steps back against wall. Large imposing adult guardian dog scale, not a puppy: shoulders roughly tabletop height, three heads above tabletop around seated king upperchest to lowerface height; ears do NOT exceed king crown. Combined three-head span approx king shoulder span or a little narrower. Keep enough physical floor space for one quadruped body. Lower body and legs may be naturally occluded by table; do not move table to reveal them. All four paws stay on floor and NEVER on tabletop/chair. Table's far-left edge is a rigid occlusion boundary in front of dog lower chest when appropriate, no transparency through stone. Dog head/chest beside king only, never floating cutout. Correct contact shadows and matched warm lamp key blue window fill.\nNo changes outside dog insertion area except natural dog shadows. Four existing side chairs remain entirely EMPTY with no shoes feet hands books. Preserve table dimensions and king's approved proportions exactly; no table notch bend wing extension. High-end feature-film CGI individually resolved blackfur dark material readable distinct leather brass, natural crisp detail matching king. ONE standalone landscape16:9 WIDE room still, no text watermark collage.",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-仅龙王落座.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/07-噬魂特写.png",
+    "assets/characters/02-资本猎手与市场舆论/噬魂/3D三视图.png"
+  ],
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-d898414d-8a7a-4ccd-97cd-857dc9d23cf8.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "新稿待用户审阅",
+  "base_status": "01-仅龙王落座.png已获用户认可；作为本轮唯一空间与龙王基准",
+  "visual_review": "已目视：噬魂在龙王右侧／画面左侧，三头六耳、一身轮廓与项圈可见，嘴闭合；下肢被桌椅遮挡，四足接地不完全可见。龙王、四侧席与桌体整体保留，细微底纹和比例有生成差异；新图大小及位置待用户审阅。",
+  "width": 1671,
+  "height": 941,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/02-龙王与噬魂.png"
+}

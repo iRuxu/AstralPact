@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Precise minimal spatial edit of this ONE 16:9 cinematic CGI council still. Move ONLY foreground spider and foreground wolf a LITTLE deeper along their existing long table sides toward king, not upward floating in air.\nLEFT NEAR spider WITH chair gown appendages hands shifts about35–45px toward screen RIGHT and25–35px UP in image. RIGHT NEAR wolf WITH chair coat legs shoes hands and closed ledger shifts about35–45px toward screen LEFT and25–35px UP. Maintain small clear gap to each far official, keep near pair still closer to camera than elephant/croc. Modest movement only, don't bunch all seats at king.\nBoth remain correctly seated hips on original cushion height feet floor, slight natural perspective adjustment only not huge resizing. Keep spider face pearls bun purple gold webgown diamond ring TWO hands EIGHT back appendages lowest pair may hide; wolf exact silvergray crown blackgold coat burgundyvest natural TWO trouser legs TWO grounded shoes. Their forearms connected and hands supported INSIDE tabletop outline, wolf ledger lies fully on actual table, moves along edge with his hands. No hovering, detached feet, random extra shoes. Gown drapes to floor and chair remains supported.\nALL other characters positions sizes poses IDENTICAL: king central, far elephant left, far crocodile right, threeheaded dog alongside king screenleft. Far legs remain naturally hidden.\nAbsolutely preserve original table rectangular shape length width perspective straight longedges frontedge floral goldcorners flat orbital inlay jade pedestal. Do NOT reshape table around new positions, no notch wing extension. Camera framing room architecture star map windows cabinets lamps remain unchanged. Fill revealed floor behind relocated chairs naturally.\nSame high-end feature-film CGI fine fur chitin scales weighted textiles raised goldthread pearls metal leather, soft warm key bluecool fill restrained specular. No identity change, no text watermark collage. ONE standalone landscape still.",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/05-远席与噬魂靠近龙王.png"
+  ],
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-6aa03929-153e-4ea8-a7c7-b905f378cbf6.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "近席稍向主位靠拢修订，待用户审阅",
+  "visual_review": "已目视：八爪狼王与座椅沿各自桌边略向画面上方／主位靠拢，狼王账册随位置调整；远席与主位整体保持，桌面长边连续，近席脚与衣摆有地面支撑。非像素级无损局部修改。",
+  "width": 1670,
+  "height": 942,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/06-八爪与狼王稍向主位靠拢.png"
+}

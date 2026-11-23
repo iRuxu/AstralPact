@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: compositing / identity-preserve. Create ONE landscape 16:9 cinematic storyboard still. Edit image 1, the empty council chamber wide frontal establishing shot: add ONLY the Dragon King seated in the existing far-end central head chair, facing the camera along the table centerline. CRITICAL preserve image 1's exact wide camera position, framing, architecture, perspective, long rectangular table geometry, all five chair locations and scale, black gold tabletop orbital inlay and front floral motifs, jade table base, left windows and dusk water city, right alternating wide wooden cabinets and narrow jade panels, back jade Taurus star chart, two black dragon banners, chandelier, rug and lighting. Do not zoom into the king or widen his chair. The four side chairs remain empty. No other characters or animals. Reference priority: Image 1 is authoritative edit target for the entire environment and composition. Image 2 authoritative for Dragon King facial identity, fine charcoal scales, individual black mane hairs, golden eyes, branched golden horns, tall flat black crown with gold bead curtains and red jewel, embroidered black gold imperial robes. Image 3 supports his composed symmetrical forward-facing seated posture and hands; do NOT copy its closeup camera, oversized throne or differing background star chart. Image 4 supports slender tall mature body proportions and costume construction only, not studio rendering. Seat him physically on the existing central chair cushion, pelvis supported at its actual height, torso naturally rising above the far tabletop, shoulders relaxed, crown and horns fully visible. Correct believable adult scale relative to the existing chairs, not giant or miniature. Both forearms naturally reach the far table edge and both clawed hands rest supported on the tabletop near the far edge, elbows bent, sleeves drape naturally; do not stretch arms toward foreground. Legs below tabletop realistically occluded by opaque table, never floating parts. Neutral restrained authoritative expression, mouth closed. Preserve detailed face at this wide distance. High-end feature-film CGI, physically based materials, individually resolved scales/hair, raised gold-thread embroidery, distinct jade/metal response, soft warm key and subtle cool window fill, crisp natural detail, natural contact and occlusion shadows. Match inserted king to room lighting. No plastic, no gold paint smears, no halos, no heavy blur, no new props, no text or watermark. Deliver a single full-room wide shot closely matching image 1.",
+  "references": [
+    {
+      "path": "assets/scenes/议会厅/室内机位/01-正面视角.png",
+      "role": "编辑底图，空间机位布局"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png",
+      "role": "身份与材质"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/01-龙王落座.png",
+      "role": "正面仪态，不采用近景机位"
+    },
+    {
+      "path": "assets/characters/01-龙族王室/龙王/3D三视图.png",
+      "role": "比例与衣装"
+    }
+  ],
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-龙王主位.png",
+  "status": "新稿待用户审阅",
+  "postprocessing": "无",
+  "actual_dimensions": "1672×941",
+  "inspection": "已目视检查：单独龙王远端主位、四席空置、冠角完整、双手在远端桌沿；桌体与房间布局延续。主位椅背轮廓因人物加入有生成变化，非像素级编辑。",
+  "model": "工具未暴露"
+}

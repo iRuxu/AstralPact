@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-20",
+  "refs": [
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-仅龙王落座.png",
+    "assets/characters/02-资本猎手与市场舆论/噬魂/3D三视图.png"
+  ],
+  "prompt": "Use case: precise-object-edit / identity-preserve. Image1 is APPROVED king-only council wide room base. Add ONLY ONE Cerberus from Image2, standing at king's anatomical RIGHT, screen LEFT near far-left table corner. DO NOT use any previous dog-in-room render. Image2 original 3D turnaround is authoritative body proportion, faces and fur.\nPreserve image1 exact king scale pose costume hands crown and head chair, rectangular table geometry inlay pedestal, four empty sidechairs, all room architecture lighting and camera. No zoom. All four sidechairs stay empty.\nCerberus is a substantial LARGE adult guardian dog of believable scale within this room, neither gigantic nor tiny. One coherent athletic quadruped torso, three distinct necks and heads, six ears, FOUR normal canine legs and one tail; thick layered black fur amber eyes central forehead scar black leather collar brass studs square brass star pendant. Calm alert CLOSED mouths (do not copy roaring turnaround expression). Central head forward, side heads subtly outward.\nPlace him on FLOOR immediately beside king viewer-left at far-left table corner in gap between headchair and left-far chair, near table not wall. His body extends backward into that gap, not across or into left-far chair. Judge real-world size from chair and table: withers about TABLE HEIGHT or slightly lower, head tops at roughly seated king's SHOULDER to lower NECK level, ear tips below king's face, much below crown/horns. Threeheads collectively about 65–75 percent of king's robed shoulder span, headgroup visually roughly the width of far sidechair back. This is a strong fullsize dog, not puppy; keep chest substantial and faces readable. Do not inflate dog's neck and chest until it rivals king height. Body and paws must fit room floor with believable weight.\nTable far-left edge naturally occludes front lower chest and some legs; hide paws behind solid table when geometrically correct instead of adding exposed random feet around empty chairs. Never paws on tabletop or seat, no biped stance. Do not deform table or move empty chairs to accommodate him. Tail modestly curved behind body, not towering above chair or protruding into foreground.\nMatch high-end feature-film CGI of king: individually resolved blackfur natural dark roughness distinct leather brushed brass, warmsoft lamp key coolblue leftwindow fill natural contactshadows. No floating cutout plastic smears glow text watermark collage. Output ONE standalone landscape16:9 wide room still, only this moderately scaled dog added.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-c87aec11-a120-4a05-a658-5dec426615a4.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "噬魂体型重生新稿，待用户审阅",
+  "input_rule": "仅用用户认可01龙王单独落座图与噬魂3D三视图；未附上一稿过大噬魂。上一稿位置正确、效果和大小未通过。",
+  "visual_review": "已目视：噬魂保持画面左侧龙王右侧位置；体型较上一稿收小，三头六耳与项圈可见，嘴闭合；下身被桌椅自然遮挡，未增添脚。桌体和龙王整体保持，尺寸与位置仍待用户审阅。",
+  "width": 1671,
+  "height": 941,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/02-龙王与噬魂.png",
+  "previous": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-20-噬魂体型偏大/02-龙王与噬魂.png"
+}

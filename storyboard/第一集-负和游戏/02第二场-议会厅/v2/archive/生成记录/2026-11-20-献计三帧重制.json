@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置 image_gen",
+  "status": "三张新稿待用户审阅；未生成视频",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无；原生输出复制入项目",
+  "sourceDialogue": "v1/段落1-献计/即梦提示词.md，台词逐字保留",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "Create ONE standalone cinematic storyboard keyframe 01, landscape 16:9. Reference 1 authoritative for exact council room, five seated characters identities, costumes, positions, poses and props. Repaint this establishing shot with pristine fine feature-film CGI detail. Preserve composition and all five seats: dragon king far center, elephant far left, spider noblewoman near left, crocodile far right, wolf near right, single black three-headed quadruped standing on floor beside king at image left. All mouths closed, quietly waiting. Preserve dragon king chest gold embroidery, red ruby and beast-face belt buckle. Same black gold long rectangular table, closed book under elephant hand, open budget under crocodile hand, wolf closed ledger, left windows blue nighttime coastal city, right alternating wide cabinets/narrow jade panels, jade circular star chart and black dragon banners behind king. Reference 2 ONLY for rendering quality: high-end feature-film CGI, physically based materials, individually resolved scales/hair, raised gold-thread embroidery, distinct jade/pearl/metal response, soft warm key and subtle cool fill, crisp natural detail. Do not borrow queen identity or clothing. Improve fine texture without changing action, furniture, proportions or seating. Natural restrained warm cool balance, no orange cast, no extra characters, no text, no collage. All visible limbs anatomically supported.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png"
+      ],
+      "output": "01-议会厅开场.png",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f4f2-24ba-7b72-8503-e03b04239c4a/exec-bc8cc90a-aec9-4c39-b054-d4af49b8c395.png"
+    },
+    {
+      "id": "02",
+      "prompt": "ONE standalone 16:9 cinematic keyframe 02: 噬魂献计. Reference 1 locks exact black three-headed dog face identities, central forehead scar, six ears, amber eyes, black fur, brown leather studded collar and square star pendant. Reference 2 locks CURRENT room and blocking: this dog stands on floor at dragon king right (image left), near elephant. Medium close shot, camera from table toward dog with a gentle three quarter angle so central head looks toward offscreen king to screen right; central head speaking calmly and confidently with a small natural mouth opening, not roaring. Left side head turns its closed muzzle slightly toward elephant; other side head has faint narrowed eyes and a closed mouth. Three heads one connected quadruped body, chest and collar visible, all six ear tips safely in frame. Dog remains floor-level, table corner may enter lower foreground without clipping neck. Background corresponding left window and blue night bay, a small section jade rear wall and black gold dragon banner, same restrained warm practical light and cool window fill. Rebuild crisp individual black fur strands with detail in shadows; high-end feature-film CGI physically based materials, subtle leather grain, distinct bronze response, detailed natural teeth, no plastic, no over-sharpening, no excessive bloom. No clothing, no human hands, no extra heads, no text, no collage. Preserve restrained menace of original dialogue, not aggression.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/07-噬魂特写.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ],
+      "output": "02-噬魂献计.png",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f4f2-24ba-7b72-8503-e03b04239c4a/exec-46606553-c91c-4ac3-a9ef-5c5d87821aee.png"
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone cinematic 16:9 storyboard frame 03 八爪追问. Reference 1 authoritative spider noblewoman identity and precise CGI materials: purple grey spider face with multiple glossy black eyes and original mouthparts, elaborate braided bun pearls gold flowers, purple gold web embroidery gown, pearl necklaces, two humanoid hands with long nails and large clear diamond ring, eight articulated back appendages total (lowest pair may be occluded). Reference 2 authoritative CURRENT room layout and seats: spider near left, elephant farther left toward king, dog near king. Reference 3 ONLY dramatic intent of shot: spider pauses and raises gaze toward offscreen dog, elephant hand pressing account book in foreground. DO NOT copy reference 3 obsolete furry male spider, spectacles, suit, armillary sphere, lantern-covered table or old architecture. New camera from close to elephant seat looking obliquely toward spider, medium close, spider fills central left, chin slightly lifted, subtle inquisitive eyes, composed questioning expression and mouthparts slightly parted. Elephant's cropped navy sleeve and grey hand rest firmly on a CLOSED dark account book in lower right foreground, book on same black gold table, not floating. Spider hands have just stopped moving naturally on table, diamond visible, no hand to chin. Maintain screen gaze toward dog offscreen to image right. Left windows reveal blue nocturnal coastal city, ivory gold architecture, restrained warm gold key/cool fill. Keep pearl hair ornaments fully in frame. High-end feature-film CGI physically based materials, raised gold-thread embroidery, distinct pearl/gold/diamond response, crisp face textures and separated braids, balanced warm cool color, gentle depth of field. No queen features, no human face, no goggles, no additional characters, no text, no collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/04-八爪特写.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v1/段落1-献计/03-八爪追问.png"
+      ],
+      "output": "03-八爪追问.png",
+      "actual_pixels": [
+        1672,
+        941
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f4f2-24ba-7b72-8503-e03b04239c4a/exec-5c7b3b47-5a67-4bb8-a993-eef4361164a4.png"
+    }
+  ],
+  "inspection": "已目视检查：01五席与三头犬位置、服装与道具；02中央头小幅开口、侧头闭口、六耳完整；03蜘蛛贵妇身份、多眼珠饰、钻戒与未央手按闭合账本。新稿不等于用户认可；03最低附肢遮挡，02未央局部入镜，跨镜房间细节非精确三维复现。"
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制项目",
+  "status": "四张新稿待用户审阅；未生成视频",
+  "decisions": "用户要求散会后空议会厅，三张星契留桌，随后窗外城市，暗示收割。原台词宴席照办保留，不增加散会或旁白。旧名单推回与停纸尾镜由新空厅结尾替代；散会是明确剪接的时间省略不做人物渐隐。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "ONE standalone16:9 cinematic filmCG keyframe01 king's final ruling. Image1 exact dragon king identity face long dark muzzle whiskers horns crown beads blackgold embroidered robe red ruby beast buckle, main chair and jade chart backdrop. Same medium closeup full crown horns margins. King sits calmly hands on blackgold table, gaze slightly downward past rather than reading offscreen list, expression detached mundane authority; mouth barely open mid short neutral order, not smiling not shouting. Everyone else offscreen, no list paper in king hands or on foreground, no new props. Maintain warm interior blue night window left blackgold dragon banners. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade pearl metal response soft warm key subtle cool fill crisp natural detail. No subtitle text labels panels or redesign.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f55a-be85-7a62-8c04-a89ed05c72e9/exec-42e7fec1-c3bd-4a4a-8c8d-6ebbc2319b8b.png",
+      "output": "段落7-宴席照办/01-龙王宴席照办.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "ONE standalone16:9 filmCG keyframe02 AFTER COUNCIL EMPTY ROOM. Ref1 locks EXACT room camera geometry furniture five chairs (king far center and two per long side), ivorygold ribs, long blackgold table orbit inlay, blue night bay left windows, alternating wide dark cabinets narrow jade right, jade star chart blackgold flags rear. Preserve room entire. Ref2 only locks design of exactly THREE indigo translucent star-contract cards rounded corners gold orbit etching central holographic eightpoint star, no people hands book copied. All six characters have LEFT, absolutely no beings ghosts servants silhouettes or body reflections. Five empty chairs with side chairs subtly withdrawn few inches enough to suggest just vacated, not thrown around. The THREE cards casually overlapping lie FLAT on tabletop at LEFT FAR former elephant place, beside its inner edge in upper-left quarter table. Cards ordinary hand sized, not oversized centerpiece, but visible colored star glints. Other personal books/papers removed, no mess, no extra objects. Quiet uncaring aftermath, warm room lights unchanged night not morning. High-end feature-film CGI physically based materials precise leather stone weave detail fine gold inlay distinct jade metal response soft warm key cool window fill crisp natural detail. No text numbers captions panels.",
+      "refs": [
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落4-补发与赔偿/01-星契推到未央面前.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f55a-be85-7a62-8c04-a89ed05c72e9/exec-28dfb3ad-2317-4796-b234-6d77da86d059.png",
+      "output": "段落7-宴席照办/02-散会后的空议会厅.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone16:9 cinematic keyframe03 forgotten star contracts toward window. Ref1 authoritative council room furniture five seats and architecture LEFT window wall overlooking blue night coastal city. Ref2 ONLY exact THREE card identity indigo semitransparent rounded rectangles finegold orbital etching faceted refractive eightpoint star. ALL characters have left no hands bodies servants or reflections. New camera near former elephant LEFT FAR place looking obliquely along TABLE toward LEFT WINDOWS, low medium-close environmental composition: exactly three cards lie flat overlapping on tabletop lower-right/center foreground at former elephant place beside table inner edge, no books or papers; part empty elephant blackgreen gold chair at far right can crop. Three cards clearly recognizable, same ordinary hand size, subtle iridescent glints, no glowing magic floating. Behind them left windows and coastal city visible, GOLD IVORY window ribs frame single distant upright star ring tower bay bridges blue night light. Keep table edge plane physically credible, only foreground table portion no invented extension. Empty quiet abandoned value, not product ad. Camera intention connects forgotten cards to outside city with natural depth focus. High-end feature-film CGI physically based materials distinct jade metal glass responses soft warm key subtle cool fill crisp natural detail controlled highlights moderate depth of field so window city recognizable. No text numerals watermarks panels.",
+      "refs": [
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落4-补发与赔偿/01-星契推到未央面前.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f55a-be85-7a62-8c04-a89ed05c72e9/exec-4e593123-6226-4bf0-90d6-c7234bdc3026.png",
+      "output": "段落7-宴席照办/03-无人收走的星契.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "04",
+      "prompt": "ONE standalone16:9 cinematic final establishing shot04 city outside palace at SAME NIGHT as council. Ref1 authoritative city identity landforms composition whitegold flowing island city SINGLE huge upright star ring with tall slim main tower, bay island clusters thin multiarch bridges, forest cliffs waterfalls river delta. Ref2 authoritative deep BLUE NIGHT lighting lit windows bridges warm reflection subdued mist, NOT twilight sunrise. Camera palace hillside vantage toward city bay, medium wide enough to see inhabited lower districts along waterfront and bridges plus single star ring far center-right, same terrain layout as ref1. No interior table or window frame, explicit exterior cut from council window toward city. Warm inhabited windows ordinary calm activity implied by sparse small traffic lights, no identifiable humans or new species. Serene unaware prosperity with subtle ominous stillness, never depict literal harvesting weapons catastrophe red charts or labels. No new towers ring duplicates. High-end feature-film CGI physically based architecture glass metal stone water specular roughness natural mist crisp fine urban texture controlled night highlights, rich readable blue shadow and warm practical lights. No text panels watermark no daytime.",
+      "refs": [
+        "assets/scenes/星沙城/09-花夏星-滨海都会.png",
+        "assets/scenes/星沙城/时间/03-深夜.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f55a-be85-7a62-8c04-a89ed05c72e9/exec-f6af45de-92a8-40aa-9f41-c566b7bacbcb.png",
+      "output": "段落7-宴席照办/04-窗外星沙城夜景.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "revision02": {
+    "prompt": "Precise local edit ONLY position of THREE little cards. Preserve ALL room pixels/composition/furniture/lights/materials camera as reference. Current cards are wrongly beside LEFT NEAR chair. Move this exact three-card fan UP ALONG LEFT TABLE EDGE to LEFT FAR chair place, near tabletop far-left corner directly opposite far-left chair and nearer king head, ABOVE main central circular orbit on table in picture. Target fan center about x620 y535 in this 1672x941 picture (current center about x600 y640). Cards on tabletop between far left chair and main table center, scale slightly smaller for perspective. Remove old fan completely restoring black marble fine gold lines underneath. Exactly three ordinary hand-sized cards lying flat, nowhere else. Everything remains empty no people no new books. No other edits text or collage.",
+    "refs": [
+      "/Users/iruxu/.codex/generated_images/01a1f55a-be85-7a62-8c04-a89ed05c72e9/exec-40629ebd-aa86-4814-bcd0-f5d79ecb127e.png"
+    ]
+  },
+  "inspection": "已目视检查：01龙王身份冠角服饰；02五椅无人、三卡在左远席附近，初稿误在近席已返修；03三卡无人无手，窗景可见；04单组星环、海湾桥群与深夜城市。独立机位的桌花纹、窗外城市与远景地貌仍有生成差异，非精确三维；03临窗卡片透视较大由近摄形成，视频保持实体手掌大小。室内窗外保留旧图暖地平线而04为深夜，视频须统一同一蓝夜不变晨。"
+}

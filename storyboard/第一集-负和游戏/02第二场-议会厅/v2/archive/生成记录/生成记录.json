@@ -1,0 +1,111 @@
+{
+  "status": "六张特写已获用户认可；落座全景已基于认可的新版无人场景再次统一，待评价",
+  "tool": "内置image_gen",
+  "scope": "1张落座全景+6张人物特写；未制作剧情动作分镜或视频",
+  "records": [
+    {
+      "name": "01-议会落座全景.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-aef02e89-7f67-416d-8fd9-47edc6886a1e.png",
+      "prompt": "Create ONE finished cinematic landscape16:9 council seated ensemble by precisely integrating Image1's cast and seating with Image2's NEW APPROVED empty room refinement. Image1 authoritative seated STAGING and ALL6 character identities; Image2 authoritative CURRENT architecture furniture surfaces palette lighting and material finesse; Images3 wolf4 spider5 king authoritative faces costumes detailed filmCG. Preserve camera near entrance full longtable and complete near seats, no radical redesign. Fivechairs: king farcenter head, elephant leftfar, spider leftnear, crocodile rightfar, wolf rightnear. Exactlythreeheaded BLACK dog stands FLOOR near king LEFT, one shared fourlegged body no chair/table standing. Explicitly PRESERVE anatomically complete WOLF seated lowerbody from Image1: BOTH thighs, knees, shins, ankles and TWO whole black formal shoes planted on floor visible at lower RIGHT; separate black tailored trouser legs and split coat tails no fused robe missing limbs or crossed chair legs. Wolf refined silvergray layered mane small crown burgundy waistcoat darkredtie goldtrim blacksuit as Image3. Spider exact MANYEYED authentic purplegray spiderface mandible contours NOT human not hairy monster, intricate darkbun pearl hair chains earrings necklace purplegold WEB embroidery gown, diamond ring, SIX back appendages plus TWO hands, dignified seated and slim graceful torso as Image4. King charcoalblack Eastern dragon longmuzzle blackmanewhiskers goldbranched horns black flat beadcurtain crown RED crownjewel blackgold dragon embroidery exact Image5 NO jade chest pendant. Elephant large gray skin trunk tusks roundgoldglasses slateblue suit brass valvewheelbrooch. Crocodile olivegray longmuzzle roundgoldglasses deepbrown officialcloaks finegold starclasps. KEEP approved room Image2 refined neutralwarm ivory stone ribs and micrograin, gently brushed gold warm reflections, blackgreen grainleather seats, darkwood alternating wide cabinet bays narrow greenjade panels RIGHT, open ring goldchandelier, jade Taurus linechart TWO blackgold dragonflags at back, LEFT blueviolet coastalcity windows, blackstone table with finegold startrack/floralINLAY and jade pedestal, finely woven darkbluegold carpet. Soft warm motivated lamps with gentle falloff natural contactshadows and coolblue windowfill, bright readable elegant room not dim gray orange overglow or plastic. Bring refined portrait film realism to each character especially natural eyes faces fur skin fabric folds and fine goldthreads; make people physically seated and lit by SAME ROOM, no pasted cutout look. Control excessive floor/table mirrors, neon gold edging and bloom; match approved room's rich but calm material hierarchy and crisp texture. Keep full visible crowns heads and relevant appendages, space around feet. Room structure remains coherent, fivechairs all correctly occupied plus1floor dog. No extra cast humans queen text watermarks panels. Regenerate clean fine detail, not just sharpening.",
+      "refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/第二场-议会厅/v2/01-议会落座全景.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/v2/01-正面视角.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/第二场-议会厅/v2/06-狼王特写.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/第二场-议会厅/v2/04-八爪特写.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/第二场-议会厅/v2/02-龙王特写.png"
+      ],
+      "initial_prompt": "ONE landscape16:9 finished cinematic CG storyboard still, council seated establishing shot. Image1 AUTHORITATIVE exact ROOM architecture camera furniture: preserve identical blackgold rectangular longtable five chairs, green jade circular Taurus STAR CHART on back wall (NOT armillary or gold sphere), two blackgold dragon flags, OPEN circular chandelier, windows LEFT and alternating wide dark cabinet bays/narrow jade panels RIGHT. Image2 is CURRENT spider noblewoman design; Image3 crowned wolf design; Image4 black threeheaded dog design; Image5 ONLY rendering quality and lighting, NOT queen identity. King elephant and crocodile follow precise written designs below. Place EXACTLY five seated individuals: king far CENTER at head; elephant LEFT FAR; spider LEFT NEAR; crocodile RIGHT FAR; wolf RIGHT NEAR. Threeheaded dog one shared quadruped body stands on FLOOR next to king on camera LEFT, does NOT occupy seat or stand on table. No queen, humans or extra figures. Characters facing discussion with threequarter readable faces, respectful attentive still pose. Elephant gray skin trunk tusks roundgold glasses slateblue business suit brass valve brooch. Spider FEMALE elegant mature aristocrat, dark purplegray genuine spider face MULTIPLE blackgold eyes original mandible contours, ornate dark bun pearl hairjewels, deep purple raised gold web embroidery gown shawl pearl necklaces, TWO humanlike hands with big clear diamond ring plus SIX back spider appendages naturally arranged to sides of chair, NOT a hairy tarantula head, NOT human face. Croc olivegray long muzzle roundgold glasses brown goldtrim official coat. Wolf silvergray mane small crown blackgold suit burgundy waistcoat/tie. King charcoal Eastern dragon thin long muzzle gold branching antlers black mane long whiskers tall black imperial flat-top bead crown blackgold dragon robes. Dog exactly THREE black dog heads shared neck mass torso four legs brass padlock collar. Physically based exquisite film CGI, individually resolved hair scales and skin wrinkles, heavy woven fabrics raised goldthreads pearls jade metals have different surface response. Match Image5 refined dimensional beauty, soft warmgold key coolblue window fill clear dark faces controlled highlights no orange haze or plastic cartoon. Preserve full crowns ears heads and enough body to verify seating. No labels text panels watermark.",
+      "initial_refs": [
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/v2/01-正面视角.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/03-内政与司法/蜘蛛-八爪.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手与市场舆论/狼王-独立三视图.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手与市场舆论/三头犬-汪汪队-写实3D高清-黑色校正版.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941,
+      "previous_version_note": "旧图及过程见archive/01新版场景统一前与01新版场景统一.md"
+    },
+    {
+      "name": "02-龙王特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-60bfeb2e-3ecb-44fe-aa83-353b5281a30b.png",
+      "prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. Seated at head of table, frontal slight threequarter waistup royal portrait. Exact charcoal Eastern dragon long elegant muzzle, gold branched antlers, black mane beard whiskers, GOLD eyes, black flat-top imperial crown with bead curtains, heavy blackgold embroidered dragon robes as Image1. Both dragon hands relaxed on table edge, imposing mature intelligence calm stern authority. Background circular jade TAURUS thin-line starchart goldrim and two distant blackgold flags. Crown antlers whiskers fully within frame. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "refs": [
+        "assets/characters/01-龙族王室/龙-龙王-写实3D探索.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    },
+    {
+      "name": "03-未央特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-dc79aa96-147c-46fe-acda-cfda491bcc8b.png",
+      "prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. Seated at LEFT FAR council seat, medium closeup head ears upperbody two hands on closed dark ledger at table edge, subtly faces screen RIGHT toward head of table. Exact gray elephant adult broad ears long trunk curved ivory tusks ROUND GOLD glasses slateblue threepiece business suit white shirt navy tie brass VALVE WHEEL brooch on lapel, pocket square. Wise serious reserved accountant. Delicate natural skin wrinkles, woven wool weave. Trunk naturally down not extra limb. Background blurred LEFT window sea city ivory ribs, consistent left-window light. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "refs": [
+        "assets/characters/03-内政与司法/大象-未央.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    },
+    {
+      "name": "04-八爪特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-6dc408e6-e5fd-4cc4-a6fc-2e9787364076.png",
+      "prompt": "Use case identity-preserve. ONE standalone landscape16:9 cinematic film CG still, elegant SPIDER NOBLEWOMAN Bachua seated at LEFT NEAR seat of same council room, medium closeup face shoulders waist and TWO hands resting at blackgold table edge, threequarter body turned slightly toward screen RIGHT toward king. Image1 authoritative exact character identity anatomy attire: dark purplegray genuine SPIDER FACE multiple glossy blackgold eyes and distinct original mandible contours, NOT human nose lips chin and NOT hairy tarantula; sophisticated mature graceful dignity. Ornate dark sculpted bun pearl chains gold floral hairpieces, pearl earrings necklaces, rich deep plum gown gold raised WEB embroidery shawl and magnificent clear faceted diamond ring on one hand, ring clearly visible. TWO humanlike arms/hands plus exactly SIX jointed spider appendages connected to BACK, 3 per side, fold gracefully around chair; do not grow extra hands. Keep visible head and hair complete with margin, dignified slim upright torso. Image2 room reference background LEFT windows blue coastal city consistent, warmgold white flowing ribs and blackgold chair, shallow blur. Image3 ONLY high-end dimensional CGI quality soft warm key coolblue fill precise strands pearls embroidery nuanced chitin roughness, do NOT copy queen horns muzzle white scales or gown. Beauty with inhuman spider identity, no smile grotesque teeth or horror gore. Camera at seated eye level, subject face clear and poised listening, no dialogue text labels collage watermark.",
+      "refs": [
+        "assets/characters/03-内政与司法/蜘蛛-八爪.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    },
+    {
+      "name": "05-鳄王特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-812852a3-21a7-4e7e-92af-0b928303a150.png",
+      "prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. Seated RIGHT FAR, threequarter closeup head chest and hands by budgetbook redpen on blackgold table, faces screen LEFT toward king. Exact olivegray CROCODILE long snout small visible teeth ROUND GOLD spectacles, rich dark BROWN bureaucratic coat matching original gold fine edging and round brass star clasps, brown suit and tie underneath white collar. Calculating composed older official, no roaring. Detailed scute roughness, fine fabric and goldthread. Background blurred RIGHT cabinetry alternating dark wood wide bays jade narrow panels. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "refs": [
+        "assets/characters/03-内政与司法/鳄鱼-鳄王.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    },
+    {
+      "name": "06-狼王特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-47fc4a34-d916-4455-9249-d76cf5f437c4.png",
+      "prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. Seated RIGHT NEAR, threequarter medium closeup head chest and hands resting on closed trading ledger at blackgold table, faces screen LEFT to king. Exact crowned SILVERGRAY wolf with long layered graywhite mane cheek fur, upright wolf ears golden eyes thin dark eye contour small antiquegold crown red gemstones, black goldtrim tailored longcoat burgundy waistcoat darkred tie white shirt smallgold lapel pin. Confident worldly slightly sardonic expression lips closed, mature slim upright body not bulky. Background blurred RIGHT darkgold cabinetry and narrow jade panels. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "refs": [
+        "assets/characters/02-资本猎手与市场舆论/狼王-独立三视图.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    },
+    {
+      "name": "07-噬魂三头犬特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-d92ccbc8-b552-4a09-adbf-32d4fe6ab2fd.png",
+      "prompt": "Precise composition edit of this exact threeheaded black dog closeup. Keep ALL character identity, THREE heads expressions scars black layered fur brass padlock collar and sophisticated warmgold coolblue film CGI unchanged. Camera PULL BACK modestly about 15 percent, giving generous clean headroom above ALL SIX EAR TIPS, particularly two central ears currently cut at top edge. Entire six ears and all three heads MUST fit fully with background margin. Show more shared upper chest, background same whitegold council room and partial chair at left. No duplicate heads, extra limbs text panels watermark. Landscape16:9 one finished cinematic still.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-093ed5c1-3586-4bdb-b57e-c339e820782d.png"
+      ],
+      "initial_prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. LOW eye-level medium closeup of threeheaded BLACK canine council adviser standing on FLOOR near king, not seated human, no table standing. Frame all THREE distinct complete dog heads, shared shoulders upper chest and broad brass-stud dark collar with square brass padlock star motif, no body duplication. Center head slightly higher and forward is SHIHUN protagonist with controlled confident conspiratorial expression mouth nearly closed small teeth, side heads vigilant and sly, not all roaring. Black fur truly black yet individually layered readable, dark noses yellowgold eyes subtle sidehead scars match reference. Background blurred nearby gold-edged king chair leg and whitegold council architecture, camera at canine heads eye height. No suit human torso arms or hands. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "initial_refs": [
+        "assets/characters/02-资本猎手与市场舆论/三头犬-汪汪队-写实3D高清-黑色校正版.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    }
+  ],
+  "记录迁移说明": {
+    "原记录位置": "storyboard/第一集-负和游戏/第二场-议会厅/v2/生成记录.json",
+    "历史相对路径基准": "storyboard/第一集-负和游戏/第二场-议会厅/v2",
+    "说明": "生成时的素材refs/source保持历史原文；其中相对素材路径按原记录位置解析。"
+  }
+}

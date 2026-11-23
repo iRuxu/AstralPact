@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "postprocessing": "无",
+  "status": "新稿待用户审阅",
+  "attempts": [
+    {
+      "prompt": "Edit Image1 ONLY changing its environment to current council room shown Image2 and spatial seating Image3. ONE standalone 16:9 cinematic frame. HIGHEST PRIORITY preserve Image1 elephant EXACTLY: same face identity, expression neutral impassive, natural heavy eyelids, gaze to screen right, no big round surprised eyes, no raised sad brows; same head angle, trunk gently CURLED INWARD at its tip at chest height, tusks, ear shapes, same upright relaxed seated torso and proportions, navy grey patterned suit tie gold spectacles valve brooch, same arm angles and BOTH HANDS PLACEMENT resting on TWO PAGES of OPEN ACCOUNT LEDGER exactly as Image1. Keep Image1 medium shot framing elephant at LEFT/CENTER, full ears hands and OPEN book visible, not tight face crop. Do NOT copy recent v2 elephant face. Image2 is authoritative ONLY room architecture: ivory flowing structural ribs, left blue night coastal bay windows, dark rectangular black gold orbital table, teal jade constellation disk with fine gold star lines, black gold dragon banners; replace Image1 old armillary globe with current flat jade constellation disk if visible at right background. Remove old tabletop mushroom desk lamp, pen cup, jade jar, floor flower vase, old window grids; preserve elephant and ledger. Image3 locks seat location left FAR along same table long side, spider left NEAR can be outside crop on camera-near left; do not invent empty neighboring seat. Use composition favoring elephant to preserve Image1 with background rebuilt from current room, same chair may become current dark green gold chair. Absolutely keep original calm old face proportions and small natural eyes, inward curled trunk, body stance hands and OPEN book, these are explicitly user selected even though Image3 book closed. This frame is later moment with ledger open, no need close it. High-end feature-film CGI physically based materials individually detailed skin fine cloth raised trim distinct metal jade soft warm key subtle cool window fill crisp natural detail restrained highlights. No added expression, no new people, no collage text watermark.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v1/段落3-割肉/02-未央按住账本.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png"
+      ]
+    },
+    null
+  ],
+  "reason": "用户明确锁v1原图表情姿态，仅换v2场景；保留摊开账本两手分按，优先于此前闭合账本。",
+  "inspection": "已目视检查：旧版平静小眼、内卷象鼻、原头部角度、端坐及两手按摊开账本保留；环境换为当前拱窗、青玉星图与长桌，背景补龙王及近侧三头犬。独立重绘空间比例仍存在差异，新稿待用户审阅。",
+  "source": "exec-fd65a8cb-01be-454c-9767-2b4b4d2b99e4.png",
+  "actual_pixels": [
+    1671,
+    941
+  ]
+}

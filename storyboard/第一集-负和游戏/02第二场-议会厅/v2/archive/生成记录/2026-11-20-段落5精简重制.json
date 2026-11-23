@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "status": "三张重制新稿待用户审阅；未生成视频",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "reason": "用户精简台词，要求重新生成关键帧与提示词；遗忘部分留下一段，本段从两段改26秒单段。旧五帧全部归档不静默删除。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "Rebuild ONE standalone16:9 cinematic storyboard still for revised concise division speech. Image1 locks identity blocking and rendering: exactly three black dog heads one quadruped body, six ears scar amber eyes leather star pendant; king seated to screen right blackgold robe ruby belt and crown, hand on table; night window left jade star chart behind king. Keep SAME camera, scale and seating. Refine new restrained expression: central head looks toward offscreen crocodile with calm confident low brow, mouth slightly open mid explanation, less broad grin than reference. Left side head closed mouth watches council, right side head closed mouth small knowing narrowed eyes. No sombre warning or melancholy. Clear natural black fur strands scales cloth embroidery. High-end feature-film CGI physically based materials individually resolved hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail no oversharpening or orange cast. All six ears comfortably framed. No extra hands characters text or collage.",
+      "refs": [
+        "01-噬魂三七分成.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-162edb2c-2129-4f64-9bb0-ea453e340636.png",
+      "output": "段落5-三七分成/01-噬魂三七分成.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "Rebuild ONE standalone16:9 cinematic keyframe for concise allocation scene. Image1 locks exact crocodile and wolf face costume seating table room/material. Crocodile left farther wolf right closer SAME long table edge. New action blends listening and beginning list: crocodile lowers chin slightly, eyes down toward cream blank list sheet, right hand red pen poised just above sheet, left hand presses paper corner. Long snout and spectacles anatomically correct, mouth fully closed listening. Wolf silently gazes toward offscreen dog left, relaxed brow subtle satisfaction not grin, both hands on closed ornate ledger. Open budget remains LEFT of separate blank list sheet, same size perspective, sheet flat table supported no legible writing. Keep current blackgold table, alternating wide dark cabinets narrow jade panels, quiet warm/cool night lighting. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail no plastic. All ears crown fully in frame, no new props, text or collage.",
+      "refs": [
+        "02-鳄王准备名单.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-b99af38a-c203-4757-aa12-03d45527178e.png",
+      "output": "段落5-三七分成/02-鳄王拟名单与狼王反应.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "Rebuild ONE standalone16:9 closeup insert of allocation gesture, Image1 authoritative exact elephant hand anatomy navy checked suit cuffs, open account book left, exactly THREE indigo holographic star-contract cards overlapping at right on blackgold table. Same camera composition natural scale. New action instant: index finger relaxed extended now touches TABLE at near lower edge of middle card, tracing a short controlled allocation indication without moving cards. Other hand stays on open ledger. Grey wrinkled hands, natural nails, no extra fingers. Preserve all three card bodies and central refractive eightpoint stars fine gold orbital lines restrained iridescent shimmer. No actual split piles, blank paper or dog paw. High-end feature-film CGI physically based materials distinct metal/leather response, crisp fine skin detail cloth weave precise engravings, soft warm key subtle cool fill. No digits, labels, subtitle, collage, overexposure. Cards flat supported by table.",
+      "refs": [
+        "03-未央划分星契.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f534-00f3-75a0-8cd0-07f635e3d991/exec-ffb69a18-4f5f-41b1-9ca5-06cb8eff59db.png",
+      "output": "段落5-三七分成/03-未央示意三七分配.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "reference_path_basis": "本次引用路径相对制作前v2/段落5-三七分成；输入图现已随旧版本归档至v2/archive/2026-11-20-段落5精简重制前/，历史实际输入名称保留。",
+  "inspection": "已目视检查：01三头六耳中央开口侧头闭口龙王相邻；02鳄王红笔、预算册与独立名单纸，狼王闭嘴双手按账册，同侧座次；03三张星契、象手与摊开账本，指尖触中卡下缘，未发生换纸或长出犬爪。新静帧不证明视频口型或星座动画已生成。"
+}

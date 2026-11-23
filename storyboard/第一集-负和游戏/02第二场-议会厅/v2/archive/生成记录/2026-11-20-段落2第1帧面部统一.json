@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "prompt": "Precisely edit IMAGE1, preserve its approved CAMERA COMPOSITION, room, table foreground, king cropped torso embroidered sleeve and scaled hand on table, dog overall scale chest location collar pendant and six ear positions. Change ONLY the three dog heads' identity/face anatomy and intimidating expression to match IMAGE2 authoritative FINAL character design. Image1 dog has become soft round petlike puppy with gentle lifted inner eyebrows and large rounded eyes; REPLACE these with Image2's sinister fierce mature three-headed black predator: heavily lowered angular V-shaped brow ridges pressing over narrow amber eyes, deep concentrated furrows between brows, sharper angular forehead cheek and muzzle planes, long pointed ears, strong squared muzzle and dark nose, dense structured black cheek ruff, central forehead diagonal thin scar EXACT Image2 (not long pink slash running down cheek). Three heads maintain individual personalities: central head cold menacing calculating self-assurance, small speaking mouth with visible sharp canine teeth, NOT roar; side heads eyes narrowed hostile watchfulness, mouths firmly closed. Preserve original slight threequarter angle toward king on right, do not copy Image2 frontal camera or change framing. Six ears fully within frame. Preserve detailed black fur material from Image2, not smoothed round teddy/dog mascot. No dog relocation, no new props, no text/collage. High-end feature-film CGI PBR individual resolved fur, soft warm key cool window fill, natural crisp microdetail. All non-dog-face regions remain unchanged.",
+  "refs": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/01-噬魂讲计划.png",
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落2-压价/03-噬魂推进起点.png"
+  ],
+  "actual_pixels": [
+    1672,
+    941
+  ],
+  "model": "未暴露",
+  "postprocessing": "无",
+  "status": "新稿待用户审阅",
+  "inspection": "对照03收紧三头眉眼、重建棱角与中央额部斜疤，中央头说话侧头闭口，保留01机位桌沿及龙王手袖；独立图细纹非像素级一致。"
+}

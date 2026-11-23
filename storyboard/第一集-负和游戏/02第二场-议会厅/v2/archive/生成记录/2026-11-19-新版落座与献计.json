@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "新稿待用户审阅；非用户已确认",
+  "postprocessing": "无；复制原生文件",
+  "entries": [
+    {
+      "name": "01-龙王落座",
+      "prompt": "Create ONE standalone 16:9 high-end feature-film CGI seated council portrait of the Dragon King. Image1 locks exact dark dragon facial identity, gold branching horns, complete flat crown, black gold embroidered robes and natural detailed scales/hair. Image2 is authoritative UPDATED room architecture/materials; image3 locks thin round jade star-map frame and current Taurus constellation. Rebuild the portrait in updated room, frontal seated eye-level medium closeup with both claw hands at blackgold table, poised silent listening, generous crown/horn margins. Head seat directly before jade map, two black dragon banners flank map, left windows blue coastal dusk, warm lamps subtle cool fill. Physically based distinct stone jade gold fabric leather, raised thread relief, crisp natural detail, restrained highlights no plastic glow. Map is a luminous changeable star display not carved fixed crest; only stars/lines can animate later, fixed jade and frame. No text watermark collage or extra characters.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "assets/scenes/议会厅/局部特写/十二星座状态/02-金牛座.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-be71decb-2357-46b7-946e-cfa6ef395c8d.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/01-龙王落座.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "02-未央落座",
+      "prompt": "ONE independent landscape 16:9 high-end feature-film CGI council seated portrait, no collage. Image1 authoritative approved character facial identity costume materials. Image2 authoritative UPDATED council architecture and spatial plan (from entry left windows right cabinets king far, 5 seats), do not inherit obsolete background from image1. gray elephant Weiyang in slate blue suit gold round glasses brass valve-wheel lapel brooch, closed dark ledger under TWO hands; seated LEFT FAR next to king, looking screen RIGHT. Background behind him must be LEFT tall blue city windows, not jade map behind his head. Medium closeup complete headgear ears and hands with comfortable margins, blackgold table edge foreground, natural upright proportions. Warm soft lamp key cool blue LEFT window fill, physically based materials individually resolved fur/scales and raised gold-thread embroidery where present, distinct pearl metal leather jade, restrained highlights crisp natural fine detail, no plastic, no overbloom. Correct camera background for stated seat; no arbitrary extra banner or star map behind side seats. No words watermark extra characters.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/03-未央特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-f1950872-b5d0-4c8b-960a-cef1ba1b69e9.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/02-未央落座.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "03-八爪落座",
+      "prompt": "ONE independent landscape 16:9 high-end feature-film CGI council seated portrait, no collage. Image1 authoritative approved character facial identity costume materials. Image2 authoritative UPDATED council architecture and spatial plan (from entry left windows right cabinets king far, 5 seats), do not inherit obsolete background from image1. Image3 authoritative EIGHT back appendages anatomy, lowest pair can occlude. spider noblewoman Bachua exact genuine multi-eye mandible spider face, plum gold web gown pearls bun huge diamond ring, TWO hands plus EIGHT back spider appendages four each side, lowest pair can be naturally occluded. Seated LEFT NEAR looking screen RIGHT toward king; LEFT tall city windows behind her. Silent poised listening. Medium closeup complete headgear ears and hands with comfortable margins, blackgold table edge foreground, natural upright proportions. Warm soft lamp key cool blue LEFT window fill, physically based materials individually resolved fur/scales and raised gold-thread embroidery where present, distinct pearl metal leather jade, restrained highlights crisp natural fine detail, no plastic, no overbloom. Correct camera background for stated seat; no arbitrary extra banner or star map behind side seats. No words watermark extra characters.",
+      "refs": [
+        "assets/characters/03-内政与司法/蜘蛛/特写/04-八爪特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "assets/characters/03-内政与司法/蜘蛛/3D三视图.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-4cb2a6d2-2330-4962-9845-0502b9206225.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/03-八爪落座.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "04-鳄王落座",
+      "prompt": "ONE independent landscape 16:9 high-end feature-film CGI council seated portrait, no collage. Image1 authoritative approved character facial identity costume materials. Image2 authoritative UPDATED council architecture and spatial plan (from entry left windows right cabinets king far, 5 seats), do not inherit obsolete background from image1. olivegray crocodile finance minister exact round gold glasses brown coat brass star clasps white collar brown tie. Red pen poised over open budget ledger. Seated RIGHT FAR looking screen LEFT toward king; behind him ONLY right-side cabinets alternating wide dark display bays and narrow jade panels, not a window. Medium closeup complete headgear ears and hands with comfortable margins, blackgold table edge foreground, natural upright proportions. Warm soft lamp key cool blue LEFT window fill, physically based materials individually resolved fur/scales and raised gold-thread embroidery where present, distinct pearl metal leather jade, restrained highlights crisp natural fine detail, no plastic, no overbloom. Correct camera background for stated seat; no arbitrary extra banner or star map behind side seats. No words watermark extra characters.",
+      "refs": [
+        "assets/characters/03-内政与司法/鳄王/特写/05-鳄王特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-2aa4af8b-b6bc-404b-972e-2cff157f3f41.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/04-鳄王落座.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "05-狼王落座",
+      "prompt": "ONE independent landscape 16:9 high-end feature-film CGI council seated portrait, no collage. Image1 authoritative approved character facial identity costume materials. Image2 authoritative UPDATED council architecture and spatial plan (from entry left windows right cabinets king far, 5 seats), do not inherit obsolete background from image1. silvergray wolf king exact gold redgem small crown complete ears, black gold edged longcoat burgundy vest tie white collar and goldchain, TWO hands on closed ledger. Seated RIGHT NEAR looking screen LEFT toward king, behind him ONLY right-side cabinets alternating wide dark display bays narrow jade panels, not window. Medium closeup complete headgear ears and hands with comfortable margins, blackgold table edge foreground, natural upright proportions. Warm soft lamp key cool blue LEFT window fill, physically based materials individually resolved fur/scales and raised gold-thread embroidery where present, distinct pearl metal leather jade, restrained highlights crisp natural fine detail, no plastic, no overbloom. Correct camera background for stated seat; no arbitrary extra banner or star map behind side seats. No words watermark extra characters.",
+      "refs": [
+        "assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-4c46dc1b-6fa9-4a2c-97de-7f81d1f3255f.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/05-狼王落座.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "06-噬魂候议",
+      "prompt": "ONE independent landscape 16:9 high-end feature-film CGI council seated portrait, no collage. Image1 authoritative approved character facial identity costume materials. Image2 authoritative UPDATED council architecture and spatial plan (from entry left windows right cabinets king far, 5 seats), do not inherit obsolete background from image1. black Cerberus Shihun ONE quadruped body THREE heads SIX ears, amber eyes central forehead fine scar, ONE leather brass stud collar square star tag. Stands on FLOOR close to king left side, no seat no table standing no human hands. Medium closeup three complete heads chest with all ear tips ample margins, all mouths closed poised awaiting audience, side heads alert and sly. Background king-side wall jade star map and left window motivated by correct corner. Medium closeup complete headgear ears and hands with comfortable margins, blackgold table edge foreground, natural upright proportions. Warm soft lamp key cool blue LEFT window fill, physically based materials individually resolved fur/scales and raised gold-thread embroidery where present, distinct pearl metal leather jade, restrained highlights crisp natural fine detail, no plastic, no overbloom. Correct camera background for stated seat; no arbitrary extra banner or star map behind side seats. No words watermark extra characters.",
+      "refs": [
+        "assets/characters/02-资本猎手与市场舆论/噬魂/特写/01-噬魂议会厅特写.png",
+        "assets/scenes/议会厅/室内机位/01-正面视角.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-ac2621aa-5f45-43cc-9b61-f58ac1bfa96f.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/落座特写-新版场景/06-噬魂候议.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：身份、头饰、服装、手部与可见肢体基本完整；新稿待用户审阅。独立生成背景比例非精确三维复现。"
+    },
+    {
+      "name": "03-八爪追问",
+      "prompt": "ONE standalone 16:9 cinematic dialogue storyboard still, image1 locks exact spider noblewoman identity CGI materials pearl bun purple gold webrobe giant diamondring TWO hands plus EIGHT back appendages (lower pair may hide). Image2 ONLY gray elephant hand slateblue cuff and closed ledger identity for foreground. Image3 UPDATED room layout left windows right cabinets king north. NEW distinct questioning performance, NOT duplicate of listening portrait. Camera from table interior looking toward Bachua at left-near seat, medium closeup she subtly raises chin and turns her eyes toward OFFSCREEN far king-side Cerberus at screen RIGHT, multi-eye attentive questioning expression mandible subtly articulating original speech, left hand paused just above table and right diamondring hand rests. In near lower RIGHT foreground ONLY a softly out of focus gray elephant hand in slateblue cuff pressing a CLOSED dark leather ledger, no elephant head/body crowding. Keep seat relations with left-far elephant. Behind Bachua is LEFT SIDE blue dusk window wall and ivory ribs, no arbitrary right cabinet relocated behind her. Face full bun appendages tips comfortable margins no cropped head. High-end feature-film CGI fine chitin textures delicate pearls hair strands raised gold-thread relief, warm soft key and cool left-window fill, restrained gold highlight crisp natural details. No text words watermark collage, no human face or extra hands. This is moment she calmly questions Shihun; dialogue text must not appear.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-4cb2a6d2-2330-4962-9845-0502b9206225.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/03-未央特写.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/室内机位/01-正面视角.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-4b6ef5f0-c339-409e-88a4-76987def691f.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/03-八爪追问.png",
+      "width": 1672,
+      "height": 941,
+      "status": "新稿待用户审阅"
+    },
+    {
+      "name": "02-噬魂献计",
+      "prompt": "Create ONE NEW independent cinematic dialogue keyframe 16:9 high-end feature-film CGI. Image1 authoritative exact black threeheaded Cerberus identity unified body fur amber eyes collar star tag and room corner continuity. Image2 locks accurate current Taurus star positions on jade map where visible, only stars lines change not jade or goldframe. Camera moves closer to chest-and-three-heads medium closeup at low eye-level, complete SIX ears with generous margin, chest below collar lower frame, no cropped eartips. The dog is on floor next to king NOT standing on table. Central head Shihun alone opens mouth naturally mid-speech, eyes look up toward king offscreen screen RIGHT with controlled confident calculating poise, no roar or snarl, side heads firmly CLOSED mouths; left head glances toward elephant offscreen LEFT, other head narrows eyes slyly. Distinct action and composition from silent standing ref, no new limbs/hands/clothes. Soft warm cinematic key cool window fill, individually resolved black fur and fine nose roughness, textured leather brushed brass square star tag readable object no words, natural crisp detail restrained highlights no plastic halo. Background soft left blue coastal dusk window and king-side jade map with subtly luminous fine lines, faithful interior architecture. No text subtitles collage watermark extra characters.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-ac2621aa-5f45-43cc-9b61-f58ac1bfa96f.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/十二星座状态/02-金牛座.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-3f835ebd-e443-49f1-a0b8-4fc580aa02a5.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/02-噬魂献计.png",
+      "width": 1672,
+      "height": 941,
+      "status": "新稿待用户审阅"
+    },
+    {
+      "name": "01-议会厅开场-初稿",
+      "prompt": "Create ONE independent 16:9 high-end feature-film CGI council opening ensemble. Image1 locks exact UPDATED ivory room architecture, left tall windows blue coastal dusk right dark display cabinets alternating narrow jade panels, blackgold long table flat orbit floral inlay FIVE chairs open ring chandelier fixed jade star map and black dragon banners. Images2-5 respectively lock exact king dark dragon identity, elephant Weiyang, spider Bachua EIGHT back appendages, silverwolf king. Exactly FIVE seated members and ONE threeheaded dog on floor. From entry looking toward king: dark dragon gold antlers flat black gold bead crown blackgold imperial robes seated at head; gray elephant gold roundglasses slateblue suit brass VALVE WHEEL brooch LEFT FAR both hands on closed ledger; genuine smooth spider noblewoman multieye mandible purple gold webgown pearl bun diamondring TWO hands plus EIGHT back appendages LEFT NEAR, lower pair may occlude; RIGHT FAR olivegray longsnout crocodile round goldglasses brown coat brass star clasps redpen open budgetbook; RIGHT NEAR silvergray wolf ruby gold crown blackcoat burgundy waistcoat tie goldchain two hands on closed ledger. ONE black fourfooted threeheaded dog six ears amber eyes leather brass stud collar square star tag stands on floor viewer LEFT of king between king and elephant, no seat no table standing. Eye-level 35mm establishing camera slightly above table to read seat layout and floor supporting every figure. All silent poised listening, no exaggerated smile or mouths open. Seated hips knees trousered calves and complete floor-supported shoes where visible especially wolf, naturally draped spider dress no floating or swallowed legs. Distinct physically based stone jade leather metal scales fur raised goldthread, crisp natural facial detail, soft warm key cool LEFT window fill restrained highlights no glowing gold outlines no plastic or painted smear. Table has no globe or armillary; keep current flat inlay. No extra people chairs human servants text watermark collage. Keep large readable characters balanced within authentic room.",
+      "refs": [
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/03-未央特写.png",
+        "assets/characters/03-内政与司法/蜘蛛/3D三视图.png",
+        "assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-5fd648c4-61fc-400a-be01-4469ceb7236a.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-19-开场初稿/01-议会厅开场-初稿.png",
+      "width": 1672,
+      "height": 941,
+      "status": "过程稿；将以角色与星图校正版为当前入口"
+    },
+    {
+      "name": "01-议会厅开场",
+      "prompt": "Edit image1 retain exact ensemble composition updated council architecture all FIVE seating positions, blackgold table, anatomically supported legs shoes and silent poses. Only refine the following: image2 authoritative RIGHT FAR crocodile identity and brown bureaucratic coat with paired brass STAR WHEEL clasps across chest, keep his own face long snout round glasses skin roughness redpen open ledger exact, no generic royal cape. Image3 authoritative the ONE black threeheaded dog at rear-left of king, refine three faces SIX ears fine black fur amber eyes leather brass studs square star tag; preserve its existing single quadruped body and floor position and realistic scale. Image4 authoritative constellation line orientation and points on rear jade round disc, replace old lines with this current Taurus arrangement by perspective, preserve round thin gold rim jade texture black banners wall and illumination. Do not change king elephant spider or wolf identity outfit or pose. Maintain spider EIGHT back appendages with two hands, bottom pair can hide. Crisp high-end feature-film CGI resolved scales fur embroidery pearls, soft warm key cool window fill restrained metal no toy plastic no painted smear. Output ONE standalone 16:9 still, no text watermark collage.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-5fd648c4-61fc-400a-be01-4469ceb7236a.png",
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-2aa4af8b-b6bc-404b-972e-2cff157f3f41.png",
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-ac2621aa-5f45-43cc-9b61-f58ac1bfa96f.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/局部特写/十二星座状态/02-金牛座.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-7f4e2862-7941-42e5-9868-55e324f832ef.png",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/01-议会厅开场.png",
+      "width": 1672,
+      "height": 941,
+      "visual_review": "已目视：五席座次、四足三头犬地面位置、鳄王扣饰、狼王双裤腿及鞋、八爪贵妇面部与服饰保留；当前新稿待用户审阅。星位为美术近似，非精确动画底板。"
+    }
+  ],
+  "known_limitations": [
+    "独立生成背景透视与星点存在差异，不能视为像素级固定底板。正式视频按提示词附金牛及双子状态校准；严格一致时使用统一星图动画层。",
+    "本轮新稿未获用户确认，未提交视频生成。",
+    "开场先用五张参考生成基础图，再附鳄王、三头犬及现行金牛状态校正；过程图保留归档。"
+  ]
+}

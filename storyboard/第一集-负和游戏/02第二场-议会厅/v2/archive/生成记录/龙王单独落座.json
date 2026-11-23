@@ -1,0 +1,19 @@
+{
+  "prompt": "Use case: compositing / identity-preserve. Edit IMAGE1 EMPTY COUNCIL ROOM by adding ONLY ONE DRAGON KING seated on the existing far center head chair. This is a WIDE ROOM VIEW, NOT a portrait closeup.\nImage1 is the authoritative base plate for exact camera, framing, table silhouette length width perspective, five chairs, floor, windows cabinets jade star map flags chandelier lighting. Preserve that room exactly outside the small insertion area at the center head chair. Keep FOUR side chairs EMPTY. Do not add any other character, dog, ledger, loose shoe, servant or extra prop.\nImages2 and3 are authoritative SAME Dragon King identity and fine CGI finish: charcoal individually resolved scales golden eyes black layered mane and beard thin long whiskers branching gold antlers FLAT rectangular black crown gold edging redgem hanging gold bead strands. Blackgold imperial brocade broad shoulder cape raised dragon cloud embroidery wide sleeves ornate redgold beastface belt clasp. Image4 locks natural tall slender body proportions and attire structure, not standing pose.\nSeat the king INSIDE the existing far center chair of image1, hips resting on original cushion behind table at normal seat height. He is an ordinary tall adult in this room not a giant, no enlargement of chair. Keep his shoulder span and overall seated scale comfortably within the head chair's existing width with naturally slightly overhanging sleeves. Original chair back should still read around shoulders. Scale a real seated body to original chair: not pasted portrait head/shoulders occupying whole far end. Face is smaller at room depth. Both forearms rest naturally at far tabletop edge, two anatomical dark dragon claw hands lightly on black stone surface. Upper torso upright calm regal mouth closed. Lower body legs feet tail naturally hidden behind long table/pedestal, do not invent exposed feet around empty side chairs. Horns crown complete in shot; gaze forward slightly downward toward empty table. Preserve long elegant neck natural adult head/body proportions, avoid giant head or compressed torso.\nABSOLUTELY preserve single straight rectangular tabletop of image1: left longedge, right longedge, short front edge, corners floral inlay flat golden orbital lines jade pedestal unchanged. Preserve original four empty side chair positions and sizes; no nudging chairs toward camera no increased table width no notch extension bent edge or perspective change. No zoom crop pan, original wide frame.\nHigh-end feature-film CGI physically based fine scales hair raised gold-thread embroidery jade leather metal, soft warm motivated key subtle blue window fill matching base. Crisp natural detail restrained highlights no plastic smears glow. ONE standalone landscape16:9 room still, only king added. No text no watermark no collage.",
+  "refs": [
+    "assets/scenes/议会厅/室内机位/01-正面视角.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png",
+    "storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/01-龙王落座.png",
+    "assets/characters/01-龙族王室/龙王/3D三视图.png"
+  ],
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-859e5d62-6ee1-4273-8a01-c70a55fb75b6.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "龙王单独落座新稿，待用户审阅；不添加其他角色",
+  "visual_review": "已目视：仅主位龙王，四侧席为空；桌面长边、前边与底座保留原稿形态；冠角完整、双爪在桌面远沿，未在侧席添加脚或鞋。生成仍存在细微纹理差异，非像素级锁定底板。",
+  "width": 1671,
+  "height": 941,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/01-仅龙王落座.png"
+}

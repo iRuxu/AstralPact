@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-20",
+  "refs": [
+    "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-13282fa7-ab76-43ab-b8ab-50b6790a4f55.png",
+    "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/03-内政与司法/蜘蛛/特写/04-八爪特写.png",
+    "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png",
+    "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/03-内政与司法/蜘蛛/3D三视图.png",
+    "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手与市场舆论/狼王/3D三视图.png"
+  ],
+  "prompt": "Use case precise-object-edit / identity-preserve. Image1 is USER SELECTED APPROVED BASE PLATE. Add ONLY TWO characters in the TWO empty foreground sidechairs: spider Bachua LEFT NEAR, wolf king RIGHT NEAR. Preserve the existing king, appropriately-sized Cerberus, elephant LEFT FAR and crocodile RIGHT FAR EXACTLY with their current poses sizes positions. Far officials' legs/shoes remain naturally HIDDEN, do not force feet into foreground.\nDo NOT change image1 camera framing, chair scale/seatheight, rectangular table four-corner silhouette straight continuous left/right longedges frontedge, gold floral corners flat orbital inlay jade pedestal, room architecture jade constellation, flags light. Keep solid tabletop geometry identical and use it as occluder, no notch bend wings extension or enlarging table.\nImage2 authoritative exact spider face identity/materials: smooth genuine purplegray spider multieyes original mandible contours NOT human face, refined pearl-decorated bun jewelry, deepplum raised gold WEB embroidered gown shawl, huge faceted diamond ring. Image4 authoritative EIGHT back jointed spider appendages four per side PLUS TWO humanlike arms/hands; lower pair may hide naturally. Put her on existing LEFT NEAR seat, slim graceful adult upright torso turned inward screen RIGHT toward king/table. Hips supported by original cushion, adult scale proportional to original furniture, head slightly larger by perspective than far elephant but not huge. Two hands rest lightly on ACTUAL tabletop INSIDE its left border, proper forearm/wrist connections. Gown naturally drapes over thighs and near floor. Appendages fold around chair without piercing tabletop or other characters, no eight extra hands. Head bun complete within frame.\nImage3 authoritative exact silvergray wolf face identity fur amber eyes goldruby crown blackgold tailored longcoat burgundy waistcoat tie white collar goldchain lapelpin. Image5 fullbody anatomy proper TWO trouser legs TWO black dress shoes and tail. Put him on existing RIGHT NEAR seat facing inward screen LEFT toward king/table, NOT front-facing cinema-seat pose. Hips on seat, thighs extending LEFT INWARD beneath tabletop overhang knees bend90degrees, two calves descend and TWO shoes naturally contact floor. Coat tails at sides/back NOT substitute for trousers, no random extra feet. It is fine for tabletop/pedestal/chair to naturally conceal part of legs, don't make all feet frontally visible. Only wolf's own pair may appear near his own chair, no feet belonging to far crocodile in that foreground gap.\nBoth wolf forearms reach inward LEFT onto actual tabletop, TWO well formed hands rest on CLOSED ledger ENTIRELY ON blackstone inside right gold border not on lap or outside rim. Relax shoulders and elbows, connected anatomical wrists. Furniture must stay fixed and poses adapt to it. Both foreground newcomers same natural adult chair scale and plausible seated eyeheight, slightly larger than far officials due perspective. Preserve everyone's identity, no changes to far-official closed/open ledgers or existing dog.\nFinal FIVE seated individuals plus ONE threeheaded quadruped dog body. Silent attentive closed mouths, warmsoft palace key and coolblue windowfill, high-end feature-film CGI crisp natural fine fur chitin scales fabric relief pearls leather metal, restrained highlights no plastic smears. No text watermark collage. ONE landscape16:9 group wide still.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-3a47cfcf-efd9-48be-bc41-8a5e69ed70ae.png",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "status": "新增八爪与狼王新稿，待用户审阅",
+  "base_status": "用户明确选择exec-13282fa7（03候选C）继续；远处未央、鳄王无需正面露鞋",
+  "visual_review": "已目视：近左八爪、近右狼王，五席齐全；八爪脸及珍珠盘发紫金礼服和附肢可见，狼王双手压桌面账册、可见双裤腿及两鞋；远席未额外露鞋；桌体长边连续。生成画面仍存在细微建筑纹样及人物比例漂移。",
+  "width": 1670,
+  "height": 941,
+  "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/04-加入八爪与狼王.png"
+}

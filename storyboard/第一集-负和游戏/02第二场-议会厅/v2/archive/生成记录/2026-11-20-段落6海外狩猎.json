@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制项目",
+  "status": "四张新稿待用户审阅；未生成视频",
+  "decisions": "新增用户指定三五年遗忘提醒在狼王答复前。旧狼王四句对白逐字保留。前段账册已闭合，本段不再重复合账或擅自打开，改收手靠背。组织22秒与18秒两段，四帧全用。",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "ONE standalone16:9 cinematic keyframe segment6 01噬魂提醒. Reference1 authoritative exact black threeheaded dog six ears scar amber eyes collar pendant, king right seated same room. New moment AFTER paper handed away: paper has gone to crocodile offscreen, REMOVE PAPER from table here, dog FRONT PAWS withdrawn below table, only chest above near table edge. Keep dog on floor at king side not huge. Central head looks toward offscreen wolf screen right, slightly lifted chin, smile gone, sober calculating expression mouth slightly open mid controlled warning. Side heads CLOSED mouths watchful. King remains silent robe ruby belt crown precise. Warm room blue night jade star chart rear. High-end feature-film CGI physically based materials individually resolved scales/hair raised gold-thread embroidery distinct jade/metal response soft warm key subtle cool fill crisp natural detail. No text collage extra objects or human hands on dog.",
+      "refs": [
+        "段落5-三七分成/01-噬魂说明分成.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-2a3dfabe-b3c0-42e0-8cee-3b275bff9e23.png",
+      "output": "段落6-海外狩猎/01-噬魂提醒三五年.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "prompt": "ONE standalone16:9 cinematic medium keyframe segment6 02狼王靠向椅背. Image1 authoritative wolf exact silvergrey mane gold eyes long muzzle gold ruby crown blackgold suit burgundy vest tie pin chain, CGI materials. Image2 authoritative CURRENT room right-near seat, crocodile same-side left-far and cabinet background, CLOSED brown ornate exchange ledger on table. Camera across table toward wolf seated in right NEAR chair, threequarter eye level facing screen LEFT offscreen dog/king. Wolf leans back into gold darkgreen chair, hands resting chair armrests now removed from ledger, mouth slightly open relaxed smug conversational smile, one eyebrow subtly raised. CLOSED ledger stays table lower foreground untouched, no closing action. Cropped crocodile shoulder at left edge slightly farther, no extra chair/window behind wolf. Cabinet alternating wide dark shelves narrow jade panels, warm soft light coolblue fill. No table lamp/pen cup from image1. Waist/chest/head and both hands visible, crown all ears safe margins. High-end feature-film CGI physically based materials individually resolved hair raised gold-thread trim distinct jade/metal response crisp natural detail no plastic no bloom no text collage.",
+      "refs": [
+        "特写/06-狼王特写.png",
+        "段落5-三七分成/03-鳄王接纸拟名单.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-f8777273-495f-412b-a32a-62daa2eca3bf.png",
+      "output": "段落6-海外狩猎/02-狼王靠向椅背.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "prompt": "ONE standalone16:9 cinematic closeup segment6 03狼王谈海外狩猎. Image1 exact wolf face and materials silvergrey individual mane hair golden eyes gold ruby crown blackgold suit burgundy vest tie gold pin. Image2 current RIGHT NEAR seat background cabinetry dark shelves alternating narrow jade, crocodile farther along same side may fully crop out. Closeup same eyelevel threequarter view facing LEFT as image1, now reclining shoulder line relaxed, mouth small speaking opening, amused confident holiday-planning expression slightly tilted head. Composition head chest, full crown ears comfortable margins, not hands/table insert. Clear crisp eyes snout fine fur and suit detail; camera is gentle push-in endpoint from medium shot, same angle no reverse. No left window/lamp from image1, no blue glow whole background. High-end feature-film CGI physically based materials individually resolved hair raised gold-thread edging distinct jade metal response soft warm key subtle cool fill crisp natural detail controlled highlights no plastic or painterly. No text panels extra hands or redesign.",
+      "refs": [
+        "特写/06-狼王特写.png",
+        "段落5-三七分成/03-鳄王接纸拟名单.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-b62a2397-f4d6-43c6-aa4a-503599cdc8e5.png",
+      "output": "段落6-海外狩猎/03-狼王谈海外狩猎.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "04",
+      "prompt": "ONE standalone16:9 cinematic closeup segment6 04狼王话音落下. Reference1 exact wolf silvergrey fur mane amber eyes crown ruby blackgold suit burgundy tie, image2 current cabinet background right near seat. Medium close portrait upper chest head same threequarter camera across table as reference1, wolf reclining relaxed. Mouth fully CLOSED after speech, small knowing smile barely remains, eyes shift a little farther screen LEFT toward king main seat, chin slightly raised. Pose/expression visibly differs from speaking holiday frame: closed lips eyes more attentive to king, less head tilt, still unhurried. Crown ear tips fully framed with margin. Gold darkgreen chair supports shoulders, cabinet alternating dark wide bays narrow jade panels blurred; no lamp/pen jar/window copied from image1. High-end feature-film CGI physically based materials individually resolved hair fine cloth gold trim distinct jade/metal response soft warm key subtle cool fill crisp natural detail. No text collage extra figures hands. Final visible reaction to bridge next king ruling.",
+      "refs": [
+        "特写/06-狼王特写.png",
+        "段落5-三七分成/03-鳄王接纸拟名单.png"
+      ],
+      "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-8ed8e5d2-de23-472a-8ecf-19c7555a1d4c.png",
+      "output": "段落6-海外狩猎/04-狼王话音落下.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "已逐张目视检查：01三头六耳、侧头闭嘴中央讲话、撤纸撤爪龙王相邻；02靠背双手扶手、账册闭合、鳄王邻席；03较近讲话与04闭口反应有区别，冠耳未裁切但03顶部留白较窄。各镜柜格与摆件存在独立生成差异，推进时须保持同一背景轴线，不称精确三维复现。"
+}

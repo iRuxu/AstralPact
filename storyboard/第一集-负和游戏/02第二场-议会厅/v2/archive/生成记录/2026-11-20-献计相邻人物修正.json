@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "reason": "用户指出相邻人物错误；噬魂应邻龙王、八爪应邻大象。原特写人物质量获用户肯定，噬魂旧背景空椅不符落座关系。",
+  "status": "两张修订新稿待用户审阅",
+  "postprocessing": "无",
+  "model": "未暴露",
+  "shots": [
+    {
+      "prompt": "Edit/rebuild ONE standalone landscape 16:9 cinematic closeup keyframe. Image1 is the approved dog closeup: preserve exact three black dog heads, six fully framed ears, central forehead scar, amber eyes, fur detail, collar star pendant and central speaking expression. Image2 is authoritative spatial blocking. Dog stands on floor immediately to seated dragon king's right, image LEFT of king. Image3 only locks dragon king face costume crown identity. Correct image1's empty chair at screen RIGHT: show the DRAGON KING actually SEATED in that neighboring main chair, visibly beside and a little behind dog. Dog dominates left 65% foreground, king occupies right 35% secondary plane, recognizable crowned head, black dragon face, black gold embroidered chest with red ruby, one hand resting on table, torso fully connected to chair; king may crop at right frame but enough face and torso visible. NO elephant in this shot. Keep room projection of image2: king backed by jade circular star chart, dragon banner left side and blue night windows farther left. Do not move dog to elephant seat, do not add another empty chair. Medium closeup from table-facing main-end area, dog three heads at left, king beside at right; scale dog to match seated king, not a giant beast. Only central dog mouth slightly open for confident restrained speech, side mouths closed. Retain image1 elegant high-end feature-film CGI, physically based materials, individually resolved dark fur, precise scales, raised gold-thread embroidery, distinct metal jade response, soft warm key subtle cool window fill. No redesign, no orange saturation, no text, no collage. Highest native detail.",
+      "refs": [
+        "特写/07-噬魂特写.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "特写/02-龙王特写.png"
+      ],
+      "source": "exec-4443d205-c31a-4973-af72-6e78fa5d7d47.png",
+      "output": "02-噬魂献计.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "prompt": "Edit/rebuild ONE standalone landscape16:9 cinematic medium closeup keyframe 八爪追问. Image1 approved spider noblewoman closeup is primary identity/material/camera reference. Preserve exact face, glossy multiple black eyes, spider mouthparts, pearl gold braided bun, purple gold gown embroidery, pearls, large clear diamond ring, two hands resting on table, eight back appendages (lowest pair can be occluded). Image2 authoritative seat relation: spider is left NEAR seat, elephant is left FAR seat immediately beside spider toward king. Image3 elephant exact identity navy three-piece suit gold round spectacles valve brooch grey skin and tusks. Correct image1's empty chair at right: show ELEPHANT actually SEATED at adjacent farther seat at image RIGHT and slightly behind spider, his head and upper torso visibly connected to chair, one or both hands pressing his CLOSED ledger on tabletop. This is a clear adjacent two-person composition, NOT elephant opposite spider, NOT elephant detached hand in extreme foreground. Spider dominant 65-70% at left foreground, elephant secondary 30-35% at right middle ground, both sit along SAME long table edge receding toward image RIGHT. Camera from across table, similar angle to image1, eye level, no rearrangement of seats. Spider has stopped hand movement and slightly raises chin with composed inquisitive expression, looks diagonally screen right toward dog offscreen near king; elephant remains silent listening also toward king. Left windows blue nighttime coastal city, warm ivory gold ribs and same table. Remove empty-chair implication, no additional people. Keep original approved refined high-end feature-film CGI physically based materials, raised gold thread, distinct pearl and diamond response, intricate braids, grey elephant wrinkles, soft warm key subtle cool fill, natural crisp detail. No human face, goggles on spider, new costume, text, collage or overly orange light. Complete bun with margin.",
+      "refs": [
+        "特写/04-八爪特写.png",
+        "逐人落座/08-补回龙王胸襟与腰封纹样.png",
+        "特写/03-未央特写.png"
+      ],
+      "source": "exec-d32dc4b8-970b-40a5-97a3-e4ab4e1a759d.png",
+      "output": "03-八爪追问.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "已目视检查：噬魂三头六耳、中央头开口两侧闭口，右侧为坐在主位的龙王；八爪右侧同桌长边为大象，双手压闭合账本，均有完整头胸连接座椅。原特写目录保留作为认可造型参考，本次修复交付在段落1；独立生成背景细节非精确三维复现。"
+}

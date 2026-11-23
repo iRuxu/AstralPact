@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-20",
+  "prompt": "Edit reference into ONE standalone16:9 film CGI medium-wide seated wolf shot showing his CROSS LEGGED POSE 二郎腿 clearly. Preserve exact wolf face mane crown burgundy vest tie black gold suit chair and cabinetry lighting. Camera slightly wider and toward the aisle on wolf's outside, table recedes at image LEFT only and must NOT obscure lap legs or shoes. Wolf remains seated at same right near chair, leaned comfortably back, hands on two armrests, RIGHT thigh crossed OVER LEFT thigh at KNEE (classic knee-over-knee leg crossing, NOT ankle on knee figure-four). Right lower leg hangs naturally diagonally, right polished black shoe fully visible suspended; left lower leg connects to its thigh and left black shoe planted floor. Show complete head crown to BOTH shoes, knees crossing clearly, natural anatomy two thighs two shins two shoes, dark suit trousers distinct from coat hem, chair supports hips. Closed ornate ledger on table left, cropped crocodile shoulder farther at left optional no need full person. Relaxed self-satisfied speaking mouth small opening looks screen LEFT toward dog/king. No standing, giant feet, missing limbs, table through legs, feet on table. High-end feature-film CGI physically based materials individually resolved hair fine cloth gold-thread trim distinct metal/leather/jade response soft warm key subtle cool fill crisp natural detail. No text collage or extra legs.",
+  "refs": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落6-海外狩猎/02-狼王靠向椅背.png"
+  ],
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "status": "二郎腿修订新稿待用户审阅",
+  "postprocessing": "无",
+  "inspection": "已目视检查靠背、双手扶手、膝盖交叠、一鞋悬空另一鞋落地、两条裤腿与鞋完整、闭合账册。为露出腿部取景放宽到座椅侧前方；背景摆件与桌角有生成差异，非精确三维。",
+  "source_file": "/Users/iruxu/.codex/generated_images/01a1f54c-a790-71a2-9d6e-380f6298cab1/exec-c2ee974f-cfff-4a35-89ec-54b988ba16a3.png",
+  "output": "段落6-海外狩猎/02-狼王靠向椅背.png",
+  "actual_pixels": [
+    1672,
+    941
+  ]
+}

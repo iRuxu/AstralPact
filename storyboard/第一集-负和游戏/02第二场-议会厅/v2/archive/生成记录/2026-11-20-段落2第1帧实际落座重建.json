@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "prompt": "Generate ONE new 16:9 close cinematic shot FROM THIS EXACT seated council scene. This is the sole authoritative source for room, furniture, character scale, blocking, table and lighting. Reposition CAMERA only to frame three-headed dog at its ACTUAL position between elephant and dragon king, no relocating figures or props. Camera from table-facing direction near king's end, tighter lens so dog head/chest dominates left-center; dog still stands on floor where seen, lower body hidden behind existing black gold TABLE edge in foreground. Dragon king remains seated beside dog screen RIGHT: show only his black scaled hand STILL RESTING ON TABLETOP as in source and richly gold embroidered black sleeve at right edge, with small lower torso allowed, but head/face OUTSIDE frame. Do not move king hand to chair armrest. Preserve table relative height: dog lower chest obscured by table, king hand supported on table, NOT expose floor full dog legs. Frame all three heads six ears with margin, central scar head small mouth opening calmly speaking slightly to king at right, side heads closed mouths. Dog size proportionate to source, not giant. Background is correct source's rear wall jade circular star chart cropped on right behind king, one black gold dragon banner and white gold rib, LEFT window blue coastal city as source; other occupied seats outside tight frame, no empty new chairs. Foreground ONLY original flat black gold tabletop with existing thin gold star-orbit linework, NO lanterns, jars, inkpots, tea sets, pedestal, or new props. Preserve current dog black fur amber eyes studded brown collar square gold star pendant. High-end feature-film CGI physically based materials, individually resolved layered fur, distinct jade/metal/leather, raised gold-thread embroidery, soft warm key subtle cool fill crisp natural detail. Do not recreate old video composition architecture or full-body staging. No text UI watermark collage.",
+  "refs": [
+    "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/逐人落座/08-补回龙王胸襟与腰封纹样.png"
+  ],
+  "actual_pixels": [
+    1672,
+    941
+  ],
+  "model": "未暴露",
+  "postprocessing": "无",
+  "status": "新01待用户审阅；用户已认可后四帧，未改",
+  "inspection": "仅附08实际落座全景重建；噬魂胸以下被原黑金桌沿遮挡，龙王手支撑于桌面，脸出框，未加灯罐等旧版道具；三头六耳可见、中央头开口、两侧闭口。独立生成，伤疤形状与近景有差异。"
+}

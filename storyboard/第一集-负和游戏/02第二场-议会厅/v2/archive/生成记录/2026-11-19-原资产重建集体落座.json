@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置 image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "新稿待用户审阅",
+  "postprocessing": "无",
+  "request": "直接基于原议会厅空场景与用户指定七张人物特写重新生成整体落座图，不使用此前错误集体图。",
+  "workflow": "单次最多5张参考；先附正面空场景及四张侧席人物原特写建立新底稿，再附新底稿、原空场景、噬魂及两张龙王原特写校准主位。全部指定人物原图均实际作为输入。俯视图仅目视核对，未附生成。",
+  "entries": [
+    {
+      "prompt": "Create ONE standalone landscape16:9 high-end feature-film CGI council ensemble from these SOURCE references. Image1 is the exact empty-room BASE PLATE. Images2,3,4,5 are authoritative identities and wardrobe of spider Bachua, crocodile minister, elephant Weiyang, silverwolf king respectively. Use only these original source references, no earlier ensemble.\nPopulate the FIVE existing chairs of image1. KEEP EXACT BASE CAMERA AND ALL FURNITURE GEOMETRY. The blackgold table is a SINGLE rectangular slab with straight unbroken symmetric long edges, four corners only with small original rounding, unchanged length width and floral gold flat orbital inlay, unchanged jade pedestal. Do not reshape, extend, clip, notch, bend or add wings to tabletop. Preserve original chair positions and floor/cabinet/window/chandelier geometry.\nSeat spider image2 in LEFT NEAR chair: exact genuine smooth purple-gray multieye mandible spider face sophisticated bun pearls purple gold webgown giant diamond ring two hands EIGHT back appendages four each side, lower pair may hide. Elephant image4 in LEFT FAR chair: gray wrinkles broad ears ivory tusks goldround spectacles slateblue suit brass VALVE WHEEL brooch. Crocodile image3 in RIGHT FAR chair: exact olivegray longsnout glasses brown bureaucratic coat gold starwheel clasps, open budget ledger and redpen. Wolf image5 in RIGHT NEAR chair: exact silvergray layered mane amber eyes ruby gold crown blackgold coat burgundy waistcoat tie whitecollar goldchain. Their hips fit the existing seat cushions, body axes turn INWARD toward table (wolf facing left rather than forward at camera), knees under table long-edge overhang, two legs and shoes grounded where visible. Coat skirts cannot replace legs. Hands anatomically connected to forearms, reach inward onto the ACTUAL tabletop within gold border; ledgers entirely supported on black stone inside outer edge, not on lap or outside it. These poses must adapt to existing table, never adapt table to poses.\nAt far head chair put regal dark Chinese dragon king in blackgold robe goldantlers flat black crown with beaded curtain. At king viewer-left side near far-left TABLE CORNER, ONE black fourfooted threeheaded Cerberus with amber eyes six ears brass stud leather collar square star pendant stands on FLOOR, chest adjacent table corner, lower paws naturally occluded by tabletop; not far back by wall, not on table or chair.\nFive seated individuals plus one dog body. Everyone silent poised listening. Preserve source faces exact; no extra people. Fine CGI resolved fur/scales chitin cloth embroidery pearls leather, soft warm key cool leftwindow blue dusk fill, restrained highlights. Keep emptyroom jade circular star map blackgold flags left coastal windows right display cabinets and open ring chandelier. Natural crisp texture no plastic gold outlines smearing. Full ears crown and feet within frame. No text watermark collage.",
+      "refs": [
+        "assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "assets/characters/03-内政与司法/蜘蛛/特写/04-八爪特写.png",
+        "assets/characters/03-内政与司法/鳄王/特写/05-鳄王特写.png",
+        "assets/characters/03-内政与司法/大象/特写/03-未央特写.png",
+        "assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-6f79c968-2e3e-4156-b42f-d374660e3567.png",
+      "status": "本轮新生成过程稿",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-19-原资产重建/02-新底稿.png",
+      "width": 1671,
+      "height": 941
+    },
+    {
+      "prompt": "ONE standalone 16:9 high-end feature-film CGI group seated council still.\nImage1 is NEWLY rebuilt ensemble working base. Preserve EXACT camera table straight rectangular geometry four-corner silhouette gold border flat inlay jade pedestal and all FOUR side characters, poses hands legs books and chair positions. Image2 original EMPTY ROOM is authoritative furniture geometry and architecture, reinforce same table not modify it. Only replace central king and threeheaded dog identities from the direct original references.\nImages4 and5 are BOTH authoritative for SAME Dragon King. Replace image1's incorrect narrow generic dragon with THIS exact mature charismatic black-scaled Chinese dragon: broad imposing dark layered mane and beard, golden eyes, branching gold antlers, flat rectangular black imperial crown gold edge RED GEM center and hanging gold bead strands. Exact blackgold wide-shoulder cape and wide-sleeved brocade with raised dragon/cloud embroidery and ornate beastface central belt ornament, NOT simple black tunic Vneck, NOT extra high cube crown. King sits in existing far centered head chair, natural tall poised proportions to match other adults, both black dragon claw hands relaxed on table far edge. Preserve table edge and background; fit his torso to existing head-seat location. Full crown horns in frame.\nImage3 authoritative Cerberus: same ONE black quadruped dog body THREE heads SIX ears amber eyes fine central forehead scar leather studded collar square brass star tag; exact faces and dense natural black fur. All THREE mouths CLOSED silent listening (ignore open-mouth source performance). Dog on floor immediately beside king viewer-left shoulder and far-left table corner, head/chest near table edge, lower body naturally occluded by unchanged table, no chair no paws on table. Keep dog scale large enough heads clear but king remains primary.\nSide characters unchanged exact: left-near spider noblewoman pearl bun deep-purple gold web gown multieye mandible face two hands eight back appendages lowest pair can hide; left-far gray elephant gold spectacles bluegray suit valve brooch; right-far crocodile goldglasses brown coat redpen open ledger; right-near crowned silverwolf blackcoat burgundy vest closed ledger two natural trouser legs shoes. Keep their relaxed connected arms and hands actually supported on flat tabletop inside border. Five seated persons plus ONE threeheaded dog body.\nNatural physically based fine fur scales weighted fabric raised gold embroidery distinct jade pearl leather brushed gold, softwarm key bluecool fill restrained highlights. Match direct source CGI refinement. SINGLE unbroken rectangular tabletop absolutely no notches side wings bowed edges extension or reshaping. No other modifications no text watermark collage.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-6f79c968-2e3e-4156-b42f-d374660e3567.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/scenes/议会厅/室内机位/01-正面视角.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手与市场舆论/噬魂/特写/01-噬魂议会厅特写.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/02-龙王特写.png",
+        "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/02第二场-议会厅/v2/特写/01-龙王落座.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-2ef933d2-b915-4e33-85d8-3ef713c71182.png",
+      "status": "本轮待审阅集体落座图",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/01-议会厅开场.png",
+      "width": 1670,
+      "height": 941
+    }
+  ],
+  "visual_review": "目视检查：桌面恢复对称规则矩形，左右长边连续；五席座次及噬魂近主位地面位置保留；右侧账本在桌面上，狼王双裤腿与双鞋可见。角色按原特写校准。独立生成不能保证背景纹样及比例像素级一致。",
+  "previous": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-19-原资产重建/01-重建前废稿.png"
+}

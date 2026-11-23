@@ -1,0 +1,34 @@
+{
+  "previous": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-19-长桌与手脚修订/01-修订前.png",
+  "request": "桌子稍长；修正狼王双腿和鳄王、狼王双手；仅修改整体落座图",
+  "entries": [
+    {
+      "prompt": "Edit this ONE council ensemble still, preserve all six identities outfits seated order, Cerberus close beside king, room architecture lighting jade star map and refined 3D CGI style.\nRequested precise corrections:\n1. Make the rectangular conference table visibly a little LONGER in its front-to-back dimension (about 20 percent), not wider. Increase longitudinal spacing between the two side-seat rows to let elbows and legs fit comfortably. Retain centered symmetrical straight long edges and same width, flat orbital/floral gold inlay and jade pedestal. Frame slightly wider or adjust camera gently to fit complete furniture and feet naturally. Foreground short edge remains unoccupied.\n2. Rebuild BOTH right-side participants' forearms hands and contact with tabletop. Current wolf ledger floats outside right edge and crocodile forearms don't align with table. Place crocodile OPEN ledger FULLY ON TOP of table, a hand-width INSIDE the right long edge, never overhanging. Crocodile shoulders relaxed upper arms beside torso, elbows naturally bent around ninety degrees, forearms extend inward across right edge onto horizontal tabletop; right hand naturally holds red pen over page, left hand flat on the book. All arms connect continuously shoulder elbow wrist hand, fingers anatomically clear, no fusing with table, no dangling arms.\nPlace wolf CLOSED ledger FULLY ON TOP of table INSIDE the right long edge, NOT over his lap and NOT cantilevered outside the table. Both wolf forearms extend inward from his seated torso and rest on actual table surface, two distinct properly formed wolf hands resting gently side-by-side on closed ledger; wrists continuous under white cuffs. Chair drawn sufficiently close to table for this natural reach.\n3. Rebuild WOLF seated lower body: exactly TWO hips/thighs/knees/calves/black dress shoes, both thighs project inward UNDER right tabletop overhang toward table center, knees naturally bent at 90 degrees, calves descend beneath knees, feet planted on floor in anatomically matching direction. The foreground wolf's feet must emerge in the FLOOR GAP UNDER the tabletop and IN FRONT of his chair, not dangling outside table facing camera like a forward-facing cinema seat. Pelvis supported by chair; black trouser legs clearly separate, coat tails fall to SIDES and BACK of hips without replacing thighs. Do not add the crocodile's foot to wolf: crocodile legs farther back at his own chair, naturally mostly occluded by table, no extra shoe cluster. Keep table edge occluding upper thighs naturally, visible calves and TWO wolf shoes convincingly supported on floor.\nUse correct spatial perspective: both right-side characters seated at two different depths along the SAME right long edge and turn body inward toward table LEFT, not toward camera. Crocodile across from elephant, wolf across from spider. Preserve faces and attire exactly, wolf crown silverfur burgundy vest, crocodile glasses brown coat brass clasps. Preserve all left-side characters and central king except minor proportional seat shifts required by longer table. ONE threeheaded dog one body floor next to king remains close to table.\nHigh-end feature-film CGI precise naturally resolved fur/scales textile relief leather jade gold, warm soft key cool fill restrained highlights, no plastic or smear. ONE standalone landscape16:9 still, full crowns and feet comfortable margins. No text watermark collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/01-议会厅开场.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-5b56e26e-00a3-452b-8c02-e09d3eb23d51.png",
+      "status": "过程稿：桌子纵深与狼王双腿改善，账本仍有悬于桌沿外问题，继续修订",
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/archive/2026-11-19-长桌与手脚修订/02-长桌与双腿过程稿.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "内置 image_gen",
+      "model": "未暴露",
+      "seed": "未暴露",
+      "postprocessing": "无",
+      "status": "新修订待用户审阅",
+      "prompt": "Precise object and anatomy correction to this ONE 16:9 CGI ensemble. Preserve the improved longer table, ALL faces outfits headgear positions room dog and especially wolf's now TWO correct legs and feet. Change ONLY right-side arms hands and ledger placements.\nThe TWO ledgers are still incorrectly floating OUTSIDE the sloping right edge. Reconstruct both characters reaching LEFT INWARD so every book and hand lies over the BLACK STONE TABLE surface, not over trousers, chair arms or empty air.\nUse approximate image coordinates for clarity (image 1672 by941): wolf closed ledger should be CENTERED at x=1035,y=650, fully inside table, its entire right edge no farther right than x=1120. Wolf's TWO hands rest there at x=1030 and1080,y=630, BOTH arms extend diagonally LEFT from shoulder through bent elbows resting along tabletop edge, natural continuous forearms to cuffs wrists hands. His torso remains at x1400, so move his chair/body slightly inward toward table by about70px if needed to avoid overstretching. No hands on lap. No short detached stumps. Both hands distinct with anatomical fingers.\nCrocodile open ledger should be CENTERED at x=980,y=555 with entire right edge no farther right thanx1060. His redpen hand above page atx960,y535, other hand resting on page atx1020,y550. His elbows and forearms reach LEFT inward onto table, not parallel to table outside it. Keep shoulders relaxed body correctly seated. Correct natural perspective and matching contact shadows beneath ledgers and wrists on black stone.\nThese are object PLACEMENTS, do not print coordinates text. All books sit FLAT fully supported on the continuous tabletop inside gold outline, NOT balanced on outside rim. Keep one unbroken straight right long edge, no additional platform extensions to support books. Preserve everything else especially longer table and two wolf legs. High-end refined feature-film CGI crisp materials same lighting no text watermark collage.",
+      "refs": [
+        "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-5b56e26e-00a3-452b-8c02-e09d3eb23d51.png"
+      ],
+      "source": "/Users/iruxu/.codex/generated_images/01a1f43c-af99-7c60-9531-ce5331d354be/exec-2e1ff10b-4eeb-4be5-9547-621c2c1f237b.png",
+      "visual_review": "目视：桌面纵深较修订前增加；狼王双裤腿与双鞋分开且落地；鳄王与狼王账本移至桌面内，两人的前臂、手腕及手部与账本衔接。仍为独立生成的美术透视，非精确三维模型。",
+      "width": 1672,
+      "height": 941,
+      "output": "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落1-献计/01-议会厅开场.png"
+    }
+  ]
+}

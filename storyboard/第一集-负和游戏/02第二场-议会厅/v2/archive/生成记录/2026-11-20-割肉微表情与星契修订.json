@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-20",
+  "channel": "内置image_gen",
+  "status": "三张修订稿待用户审阅，未生成视频",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无",
+  "user_changes": "侧头闭嘴微表情、取纸改拿出几张星契、未央不愿做空祖国的忧虑",
+  "shots": [
+    {
+      "prompt": "Edit ONE standalone 16:9 cinematic frame using this exact image as target. Preserve dog three-head anatomy, six ears, black fur, identity, collar star pendant, dragon king seated at right, room and camera composition. Change head ACTING: central head calmly speaking with small mouth opening and composed calculating eyes; left side head inclines slightly with a raised inner brow and sideways amber glance, closed lips tight like quietly appraising weakness; right side head subtly narrows upper eyelids and lifts one side of CLOSED mouth into a restrained knowing smirk, chin a little lifted. Side heads must visibly show different nuanced expressions instead of blank or identical looks, mouths stay fully closed, no bared teeth on sides, no exaggerated cartoon comedy. Central scar remains on central head; do not transfer it to side head. King silently listening unchanged. High-end feature-film CGI physically based materials individually resolved fur/scales raised gold-thread embroidery distinct jade metal soft warm key cool fill crisp natural detail. Preserve complete ear tips and king crown, no new props, no text, no collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落3-割肉/01-噬魂解释.png"
+      ],
+      "source": "exec-47916a15-cab3-45b2-aa95-71387d4809a9.png",
+      "output": "01-噬魂解释.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    },
+    {
+      "prompt": "Edit ONE standalone landscape16:9 cinematic frame preserving this EXACT elephant identity navy suit spectacles valve brooch tusks ears closed ledger both hands and adjacent spider at left, exact camera room lighting. MAIN CHANGE is visibly WORRIED expression, not neutral or confident: inner eyebrows lift and draw together forming gentle forehead tension, slightly lowered upper eyelids, soft troubled eyes fixed toward offscreen speaker screen right, lower eyelids taut, head tilts subtly down although eyes look up; shoulders a little weighted. Grey hands press the closed book with slight finger tension, not anger. This elephant feels restrained moral reluctance and sorrow about shorting his own homeland; he is worried for the country, quietly conflicted and unwilling, concealing feelings at royal council. Mouth closed, no tears, no theatrical grief, no smirk or triumphant gaze. Expression must visibly differ from reference, believable mature dignified elephant facial anatomy. Do not change species clothes proportions props seat or add symbols. High-end feature-film CGI physically based skin fine wrinkles woven navy fabric gold glasses precise natural detail same soft warm key subtle cool fill, no text no collage.",
+      "refs": [
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落3-割肉/02-未央按住账本.png"
+      ],
+      "source": "exec-b5902cbf-d837-459b-81ab-639d97e1f4ad.png",
+      "output": "02-未央按住账本.png",
+      "actual_pixels": [
+        1671,
+        941
+      ]
+    },
+    {
+      "prompt": "Create ONE standalone landscape16:9 cinematic action INSERT keyframe: 噬魂拿出几张星契. Image1 authoritative star-contract card design: palm sized thin rounded rectangular semi-transparent deep indigo cards, delicate gold orbital engraved lines, central iridescent refractive EIGHT pointed star, restrained holographic rainbow sheen. Exactly THREE separate cards overlapping in a small loose fan, not paper certificates, no writing. Image2 authoritative exact black-fur three-headed dog's foreleg material and current council blackgold table warm cool lighting. Shot is tight closeup of one natural BLACK CANINE FOREPAW bringing out and presenting three cards onto the near EDGE of the blackgold council table beside king. The cards are now partly supported by tabletop, loose fan visibly separated; paw pads gently press their lower corners, canine claws naturally curve over card edges, not human fingers and not opposable thumb. Foreleg visibly connects down out of lower left frame, dog remains standing floor-level on other three paws outside crop. Table edge in lower half, card faces angled toward camera in center with all three eightpointed stars at least partly visible. Small out-of-focus gold embroidered sleeve and black-scaled resting hand of seated dragon king in upper right background establish proximity; king hand does NOT hold cards. NO tray, no blank paper, no sheet bending, no floor litter, no extra props or arms. Story moment: he has just directly produced several star-contract cards and laid them out as demonstration after speaking. Physically believable rigid thin cards and paw contact shadows, sharp black fur strands, physically based iridescent card response, high-end feature-film CGI soft warm key subtle blue fill crisp natural detail controlled highlights. No floating cards no magical beam no collage no watermark or text.",
+      "refs": [
+        "assets/props/星契/星契卡-镭射正面概念.png",
+        "storyboard/第一集-负和游戏/02第二场-议会厅/v2/段落3-割肉/01-噬魂解释.png"
+      ],
+      "source": "exec-ca89fcaf-a95d-49cf-bcc3-9e8ccde85573.png",
+      "output": "03-噬魂拿出星契.png",
+      "actual_pixels": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "inspection": "已目视检查：侧头左偏头侧目、右眯眼嘴角上扬，均闭嘴；未央眉心上提收拢、眼神沉重、双手按闭合账本；03三张深靛镭射八芒星星契、下缘接触桌面、犬爪压持，无空白纸和托盘。03局部镜头无法证明全身支撑或拿出来源，实际动作须视频验收。",
+  "continuity": "段落3结尾不再准备递纸，后续段落4旧版推纸动作需在制作时重接，不擅改原对白。"
+}
