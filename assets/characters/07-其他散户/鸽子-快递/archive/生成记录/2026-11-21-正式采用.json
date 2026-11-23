@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-21",
+  "status": "用户明确确认为哒哒正式形象",
+  "approval": "可以，就用这版，作为哒哒的正式形象，整理一下角色素材和文档。",
+  "adopted_image": "3D三视图.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无，仅重命名与归档",
+  "source_record": "2026-11-21-眉毛修订.json",
+  "path_base": "角色目录 assets/characters/07-其他散户/哒哒/",
+  "path_mapping": {
+    "3D三视图-快递员提案.png": "3D三视图.png",
+    "鸽子.png": "archive/原始手绘设定/鸽子.png"
+  },
+  "historical_records": "保留各次实际提示词、附图顺序及当时状态；本记录与README为当前采用状态依据。",
+  "missing": [
+    "对应正式新版的二维原画三视图",
+    "独立特写",
+    "音色参考",
+    "3D模型"
+  ]
+}

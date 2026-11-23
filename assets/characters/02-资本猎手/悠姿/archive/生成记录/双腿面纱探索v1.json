@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE standalone full-body front-facing cinematic 3D character exploration portrait of Youzi / 悠姿, an unmistakably adult woman age about 30-40, an elegant anthropomorphic snake sorceress representing speculative hot-money traders in AstralPact. Image 1 is the old character reference: preserve dark emerald-black elaborate updo, snake-shaped antique gold hairpin, jade drops, narrow golden slit-pupil eyes, subtle snake forehead mark, jade-green scale accents and gold serpent armlet. Explicitly REDESIGN the old snake-tail lower body into TWO HUMANLIKE LEGS, pelvis, knees, calves, ankles and two grounded feet; no serpent lower body, no tail, no coiled snake base. Image 2 is ONLY a reference for high-end feature-film CGI materials, fine scales, embroidery and lighting; do not copy dragon face, horns, pearls or royal costume.\nDesign: beautiful mature adult feminine face, mostly humanoid with subtle elegant ophidian facial planes, slender neck, refined small scales along temples, shoulders and outer arms; pale jade-ivory skin with softly iridescent emerald scales, not human photograph, not a reptile monster. Large full bust, visibly voluptuous hourglass proportions, narrow waist and graceful fuller hips, long legs. Sensual sophisticated couture presentation. A thin translucent dark emerald veil attached near temples covers nose and mouth, eyes entirely unobstructed, delicate gold chain edge. Rich black-green hair in high updo with long curved sidelocks, snake hairpin from old design, NO living snakes for hair.\nCostume is a luxurious deep emerald and black silk evening gown with a structured opaque fitted bodice, elegant low neckline framing full cleavage, fully covered breasts, fine antique gold snake-scale embroidery, gold waist clasp. Long draped skirt with a tasteful side slit revealing one articulated leg down to a delicate gold-and-jade heeled shoe; other foot also visible beneath hem, TWO legs clearly understood. Light translucent fabric ONLY for face veil and trailing shoulder drape; bodice opaque. Keep serpent armlet and jade earrings, elegant hand pose one hand at waist and other relaxed, no props. No nude anatomy.\nFull figure head to toe, upright pose nearly frontal with subtle relaxed hip shift, entire hairpin and both shoes in frame, plenty of margin, vertical 2:3 composition, neutral dark desaturated teal studio background, floor contact shadow. Camera at mid torso, no exaggerated foreshortening. Confident calculating gaze, restrained dangerous glamour, not innocent or cute.\nHigh-end feature-film CGI, physically based materials, individually resolved hair, delicate raised scales with differentiated roughness, silk weave and raised gold-thread embroidery, jade subtle translucency, aged gold metallic response. Soft warm key and subtle cool fill, crisp natural detail, readable face and clothing, no oversharpening, no plastic toy, no painterly texture. One single image, NOT a three-view sheet, no collage, no text or watermark.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手与市场舆论/悠姿/蛇妖.png",
+      "role": "第一张：旧身份、墨绿发髻、金蛇饰件与玉饰；明确替换蛇尾"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "第二张：仅CG材质和光照"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "特写/01-双腿面纱全身-探索v1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无",
+  "status": "新探索待用户审阅",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "inspection": "全身、双脚及头饰完整，面纱、蛇形臂环与鳞片可辨。一腿经开衩露出，另一腿大部分被裙遮挡，双脚落地；未核验被遮挡腿部全部结构。"
+}

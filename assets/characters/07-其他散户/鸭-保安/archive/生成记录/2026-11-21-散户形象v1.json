@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "status": "新稿待用户审阅；非用户已确认版本",
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "prompt": "Use case: stylized-concept. AstralPact animal-world character design. Create ONE landscape 3:2 character turnaround sheet of the SAME character: left front view, center side view, right back view, equal scale, aligned feet, complete head feet tail and wings with generous space. Plain warm light gray beige studio backdrop, natural contact shadow. Image 1 is ONLY rendering quality reference: high-end feature-film 3D CGI, physically based materials, crisp natural detail, soft key and subtle cool fill; do NOT copy dragon identity, horns, jewelry or royal clothes. Image 2 ONLY reference for series anthropomorphic working-person proportions, practical worn clothing and three-view presentation; do NOT copy pigeon species, helmet or courier backpack. Mature dignified everyday worker, expressive animal face, not baby/chibi, not caricature of stupidity or misery. Fine individual fur/feathers where appropriate, woven cloth, believable seams and restrained material highlights. All three angles consistent anatomy clothing accessories. No text, labels, logos, watermark, scenery, extra characters. Middle-aged male anthropomorphic white duck, broad orange duck bill, slightly tired but calm attentive dark eyes, stocky upright adult proportions. Navy blue security guard jacket and matching trousers, plain peaked security cap no insignia text, shoulder radio, black utility belt with keys and small flashlight, black practical shoes fitted to webbed feet, articulated feathered wing-hands resting at sides. Subtle wear at cuffs. No weapon, no military medals, no police emblem. Short duck tail visible.",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅锁电影CG渲染与材质，不继承王室身份"
+    },
+    {
+      "order": 2,
+      "path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/哒哒/3D三视图.png",
+      "role": "仅锁劳动者拟人比例和三视图呈现，不继承鸽子身份"
+    }
+  ],
+  "output": "assets/characters/07-其他散户/鸭-保安/3D三视图-候选v1.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无",
+  "source": "/Users/iruxu/.codex/generated_images/01a1fe78-25ae-78e0-9217-f21207e4b532/exec-caf7cd71-9cc8-44b5-8fcb-594e5e48fd43.png",
+  "inspection": "已目视检查全身、职业服装与三视角。新造型待用户审阅。"
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-21",
+  "authorization": "用户：不错，非常好，同时更新一下原画！！",
+  "cg_status": "电影致敬v2获认可并正式采用",
+  "original_status": "已同步，新原画待用户审阅",
+  "prompt": "Use case: stylized-concept. Update a 2D hand-drawn character turnaround sheet, landscape 3:2. Reference image 1 is the APPROVED NEW identity and must be followed exactly for golden yellow short fur, rounded head with NO dark hair tuft, short gray horns, half-lidded knowing friendly eyes, thin brown eyebrows, full cream muzzle and lips, adult sturdy body proportions, driver clothes and accessories. Reference image 2 is ONLY for the 2D original-art medium: clean expressive ink contours, restrained textured colored-pencil fills, subtle hand-drawn hatching and warm off-white paper background, NOT CGI. Replace its obsolete head with the approved image 1 design consistently in front, left profile and back. Preserve image 1's pale blue polo, open navy work jacket, orange car pin on character left chest, dark khaki cargo pants, belt keys, dark driving shoes, golden bull tail with brown tuft, hands in pockets, separate phone and car mount on far left. Three complete full-body views, matching scale and neatly spaced, all horns ears shoes and tail included. Faithful production character model sheet, no new costume or props, no typography, no watermark. Do not carry over the old brown shaggy hair or old long tan horns. High quality genuinely 2D drawn original concept art, not a filter applied to 3D.",
+  "channel": "内置image_gen",
+  "references": [
+    "3D三视图-电影致敬候选v2.png（生成时名称，现为3D三视图.png，锁身份）",
+    "原画三视图.png（生成时旧版，现归archive/电影致敬修订前v1/，仅锁二维画风）"
+  ],
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "output": "原画三视图.png",
+  "review": "已检查头部三角度、服装、尾巴、双腿鞋与裁切；双手插袋未验收完整手指",
+  "model": "工具未暴露"
+}

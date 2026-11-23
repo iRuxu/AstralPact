@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Precisely edit this existing pigeon courier three-view character sheet. ONLY make the eyebrows more clearly visible on the FRONT and PROFILE faces: add modestly thicker, slightly darker charcoal-gray feather eyebrows with clean readable silhouettes and fine individual short feather texture directly above the eyes. Clearly recognizable eyebrows, naturally integrated into pigeon plumage, not painted lines or human hair. Keep them relaxed and approximately level with a very gentle natural curve. Preserve the CURRENT ordinary calm neutral expression and exactly the same eyes, pupils, eyelid openness and gaze. Do not incline brows angrily inward; do not raise inner ends into sad/worried arches. No scowl, pity, timidness, aggression, exaggerated bushiness, smiling, or humanization. All changes limited to eyebrow feathers. Preserve identity, beak, head size, helmet, body, iridescent feathers, outfit, backpack, accessories, bird wings and claws, pose, three-view layout, framing, lighting, background and high-end film CGI material detail. Rear view unchanged. Landscape 3:2.",
+  "references": [
+    {
+      "path": "archive/眉毛加深前/3D三视图-快递员提案.png",
+      "role": "唯一编辑目标，生成时使用归档前原路径"
+    }
+  ],
+  "output": "3D三视图-快递员提案.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无",
+  "review": "已目视检查：正侧面眉部深灰羽毛更清楚，保留自然表情与服装装备；生成式编辑有细微变化。",
+  "status": "本次眉毛修订待用户验收",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

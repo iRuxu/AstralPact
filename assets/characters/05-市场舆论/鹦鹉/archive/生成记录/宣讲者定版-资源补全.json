@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制",
+  "path_base": "项目根目录",
+  "approval": "用户明确选第三版黑天鹅绒作为本次宣讲者形象；头巾大耳罩版留后续集数候选。本次三视图和近景新生成待审阅。",
+  "reference": "assets/characters/02-资本猎手与市场舆论/英伦/特写/01-宣讲者正面全身.png",
+  "outputs": [
+    {
+      "file": "3D三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "ONE landscape 3:2 full-body character model sheet, FRONT, true SIDE, BACK at equal scale and evenly spaced. The attached USER APPROVED third design is authoritative for exact Yinglun 英伦 male adult green parrot presenter identity and costume. Preserve smooth groomed emerald feathers, swept-back feather crest, amber half-lidded calculating eyes, natural dark hooked beak, single antique-gold MONOCLE over character LEFT eye (viewer right in front), delicate chain to character left chest pocket, compact headset on character left side with tiny red light and boom mic beside beak. No large twin headphones, no turban, no glasses with two lenses.\nExact outfit: BLACK VELVET tailored dinner jacket, distinct BLACK SATIN shawl lapels, ivory pleated dress shirt with small dark studs, BLACK BOWTIE, small oval ruby and gold pin on character left lapel, white folded pocket square, dark tailored trousers and polished black Oxford shoes. NO royal embellishments or added props. Feather hands relaxed slightly away from body for readable anatomy. Full long layered green tail emerges below jacket at pelvis behind legs, never from shoulder. Preserve adult slender proportions, normal pelvis, knees, calves and feet supported on floor, complete crest, fingers, tail and shoes inside margins. Back view logically resolves jacket vent around tail and matching hem; no changes of species or costume.\nHigh-end feature-film 3D CGI, physically based materials, separately resolved feather barbs, velvet pile, satin sheen, wool weave, gold and ruby responses, soft warm key and cool fill, readable dark cloth, crisp natural fine detail. Neutral warm grey studio backdrop, orthographic-like coherent views, no dramatic perspective, no plastic, no flat drawing, no text, watermark or decorative panels.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/英伦/特写/01-宣讲者正面全身.png"
+      ],
+      "roles": [
+        "唯一参考锁已认可身份、服装及CG材质"
+      ]
+    },
+    {
+      "file": "原画三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "ONE genuine TWO-DIMENSIONAL HAND-DRAWN character production sheet, landscape 3:2, three full body equal-scale views FRONT, SIDE, BACK. Image 1 is user approved definitive Yinglun green parrot gentleman presenter, image 2 locks full-body multi-view garment construction. EXACT identity and accessories: adult male green parrot, dark hooked beak, amber shrewd eyes, sleek swept-back feather crown; ONE single gold monocle at character left eye, fine chain to left chest pocket, compact red-light headset with boom mic at character left side. Black velvet dinner jacket with satin shawl lapels, ivory pleated dress shirt dark studs, black bowtie, small oval ruby lapel pin, white pocket square, dark trousers, polished black Oxfords, long layered green tail through rear jacket vent. No turban, no large twin headphones, no two-lens glasses. Elegant slim adult build, feather hands at sides slightly away, complete fingers, tail, both pant legs and shoes within margins. Precise ink outlines, hand-colored gouache and pencil with restrained designed shadows, subtle pale ivory paper background, clean readable seams and feather layering. This is flat hand-drawn concept art not a rendered photo and not merely a texture filter over CGI. Keep visually distinct matte velvet and satin as drawn values. No words, watermark or decorative frames.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/英伦/特写/01-宣讲者正面全身.png",
+        "assets/characters/02-资本猎手与市场舆论/英伦/3D三视图.png"
+      ],
+      "roles": [
+        "第一张锁身份及衣装",
+        "第二张锁多视角背面结构"
+      ]
+    },
+    {
+      "file": "特写/02-宣讲者四分之三近景.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "prompt": "ONE independent cinematic character close-up, landscape 16:9, head and upper torso of EXACT attached approved Yinglun adult male green parrot presenter. Authoritative reference for face, feather crest, beak, eye expression and outfit. Gentle three-quarter angle, restrained knowing confidence, half-lidded amber eyes toward viewer, real dark hooked beak nearly closed. Preserve swept-back fine emerald crown feathers, ONE round gold monocle over character LEFT eye, chain to LEFT chest pocket, compact red-light headset and boom mic on same character left side. Black velvet dinner jacket, black satin shawl lapels, white pleated shirt, black bowtie, small oval ruby-gold left lapel pin, white pocket square. Complete entire crest and headset inside frame with generous top margin. Warm grey studio backdrop, high-end feature-film 3D CGI with individually resolved layered feather barbs, natural beak roughness, distinct velvet nap and satin reflectance, fine gold chain, subtle ruby refraction, soft warm key and cool fill, crisp natural detail, readable dark cloth. No turban, no oversized twin headphones, no second spectacle lens, no text, watermark or collage.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/英伦/特写/01-宣讲者正面全身.png"
+      ],
+      "roles": [
+        "唯一附图锁已认可面部、单片镜和耳麦"
+      ]
+    }
+  ],
+  "inspection": "头顶羽冠、尾尖、双裤腿与鞋完整；双脚有地面承托。单片镜、耳麦、胸针在角色左侧保持一致；镜框有跨鼻支架，只有一片镜片，不解释为双镜片眼镜。近景头顶和耳麦完整。手指、细链和羽毛排列有生成差异，未进行模型级拓扑核验。",
+  "path_changes": [
+    [
+      "鹦鹉.png",
+      "archive/后续候选-头巾大耳罩/鹦鹉.png"
+    ],
+    [
+      "特写/01-英伦绅士主播全身-探索v1.png",
+      "archive/未采用英伦探索/01-英伦绅士主播全身-探索v1.png"
+    ],
+    [
+      "特写/精致方向探索/A-深蓝双排扣.png",
+      "archive/未采用英伦探索/A-深蓝双排扣.png"
+    ],
+    [
+      "特写/精致方向探索/B-象牙白沙龙.png",
+      "archive/未采用英伦探索/B-象牙白沙龙.png"
+    ],
+    [
+      "特写/精致方向探索/C-黑天鹅绒晚宴.png",
+      "特写/01-宣讲者正面全身.png"
+    ]
+  ],
+  "history": "历史JSON中的路径是执行时项目根目录相对位置，不改写旧提示词；现址由path_changes映射。"
+}

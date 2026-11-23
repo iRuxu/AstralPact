@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Precise LOCAL EDIT on attached three-view muscular scarred wolf CGI sheet. Change ONLY the tiny lapel badge in front and side views. Preserve the approved character face scar body poses grey fur suit tie tail hands legs shoes lighting background and framing entirely. REMOVE the literal typographic capital M. Replace it with a tasteful small realistic ABSTRACT CORPORATE LAPEL PIN: two staggered angular folded ribbons / broken chevrons, one deep RED enamel segment and one ivory WHITE enamel segment, with subtle brushed silver metal edges. Together the zigzag peaks and negative spaces very loosely suggest an M-like rhythm, but it must NOT be a readable letter, NOT typography, NOT a collegiate initial, NOT an alphabet charm. Make the two pieces asymmetrical and offset, interrupted by a narrow gap, resembling a compact folded origami mountain/financial emblem. No serif strokes or baseline or outline tracing a letter. Same modest size as a natural business lapel pin, flush attached to anatomical left lapel, coherent perspective in side view, no badge on back. Restrained physical metal reflections and enamel response matching real corporate jewelry. Keep all other pixels and composition as close as possible, high-end feature-film CGI, no text anywhere.",
+  "reference": "执行时3D三视图.png，现归档archive/抽象徽章修订前/3D三视图-字母M.png；仅编辑领针",
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "人物获认可，新抽象徽章待审阅",
+  "inspection": "正侧面改为错位红白几何折线，非字母；其余构图人物目视保持",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

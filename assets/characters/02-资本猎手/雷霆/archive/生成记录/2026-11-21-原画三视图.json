@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: style-transfer. Create ONE landscape 3:2 hand-drawn 2D character concept turnaround sheet for 雷霆 (Lei Ting). Image 1 is the sole authoritative reference for EXACT identity, species, proportions, costume, colors, accessories and front/side/back arrangement. Translate the approved CGI design into polished traditional hand-drawn original character art, NOT another CGI render or filtered photo. Fine expressive ink/pencil linework, carefully painted muted watercolor/gouache shading, restrained pale warm paper background. Three full-body views of the SAME tall slender adult male anthropomorphic eel: FRONT left, SIDE middle, BACK right, matching height and baseline. Preserve elongated rounded eel head, long neck, olive charcoal smooth SCALELESS skin, pale throat, focused dark eyes, subtle self-assured expression. Preserve dark tailored three-piece suit, white shirt and pocket square, silver tie, silver lightning lapel pin, vest chain, wristwatch, trousers and black dress shoes. Two complete arms and hands, two complete legs and shoes, ONE long muscular eel tail naturally attached behind pelvis and curling sideways, fully visible in each view. Accurate consistent anatomy and costume across angles. No redesign, no crocodile or snake conversion, no scales, horns, external ears, electricity effects, extra props or characters. Keep generous margins and tails separated from adjacent figures; no cropping. No text, labels, logos or watermark. This is original 2D design documentation based on an approved 3D reference.",
+  "references": [
+    {
+      "order": 1,
+      "path": "assets/characters/02-资本猎手/雷霆/3D三视图.png",
+      "role": "唯一身份、比例、服装、配饰与三视图布局参考；改绘为二维手绘表现"
+    }
+  ],
+  "output": "assets/characters/02-资本猎手/雷霆/原画三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "补制完成，待用户审阅；原CG认可状态不变",
+  "inspection": "已目视正侧背三视角，头、手、双腿、鞋与单条长尾完整；西装、银领带、闪电领针、腕表与链饰沿用参考。未发现需先修正的明显问题。"
+}

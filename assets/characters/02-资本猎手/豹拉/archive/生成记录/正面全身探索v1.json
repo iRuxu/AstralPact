@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE standalone full-body frontal 3D character portrait of BAOLA / 豹拉, the institutional-capital representative in animal financial fable AstralPact. Image 1 is authoritative for EXACT original character species, masculine adult identity, leopard head proportions, coat pattern, slim strong adult frame, suit and accessories. Image 2 is ONLY feature-film CGI quality/material and lighting reference, never copy dragon horns, hair, royal ornaments or female costume.\nSubject: adult male anthropomorphic LEOPARD, mature roughly 40s direction, golden tawny short fur with natural black rosettes, white muzzle and chin, small rounded feline ears, natural black nose and whiskers, sharp amber eyes. Maintain a true elegant leopard head, NOT a human face, NOT a tiger or cheetah. Hands and tail carry matching leopard markings. Tall composed athletic but not bulky, understated financial executive. Calm assessing gaze, relaxed closed mouth, a slight reserved knowing expression rather than a villain grin.\nExact wardrobe from original: tailored black/charcoal fine PINSTRIPE THREE-PIECE SUIT, matching buttoned waistcoat and trousers, ivory white shirt, muted burgundy long necktie, small folded ivory pocket square, a single tasteful gold pocket-watch chain across waistcoat, black leather oxford shoes. Fine suit tailoring, structured shoulders, balanced lapels, clean cuff edges. Fur rosettes and fabric pinstripes are separate material patterns, never print leopard spots on suit. Both hands naturally in trouser pockets like original, not missing arms. Long leopard tail emerges anatomically from lower back, hangs behind legs and curves gently to viewer-right, whole tip visible without coiling like a snake.\nComposition: full figure nearly straight front, head level, shoulders square, one foot slightly relaxed, dignified upright posture. Complete ears, head, tail, both trouser legs and both shoes fully in frame with margin. Vertical 2:3 studio portrait, neutral warm grey backdrop and believable floor contact shadows. No extra props, no chair, no stock graphics, no cigar, no weapon, no medals or corporate logo.\nStyle: high-end feature-film CGI, physically based materials, individually resolved short layered fur, delicate whiskers, natural muzzle microtexture, crisp fine wool weave and pinstripes, restrained silk tie sheen, distinct aged gold chain and smooth polished leather. Soft warm key with subtle cool fill, readable dark fabric and facial planes, natural crisp detail, controlled highlights. No plastic toy, no anime outlines, no flat painting, no excessive bloom, no oversharpening, no collage. One independent image, no text or watermark.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手与市场舆论/豹拉/豹子.png",
+      "role": "第一张，原画锁物种、造型、比例、服装与姿态"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "第二张，仅电影CG材质和光照"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "特写/01-豹拉正面全身-探索v1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无，原生输出复制",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "新探索待用户审阅",
+  "inspection": "完整豹耳、尾尖、双裤腿与鞋入画。保留三件套、酒红领带、怀表链与插袋姿态；手爪大部被裤袋遮住，不据此核验全部手指。"
+}

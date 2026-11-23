@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "prompt": "Make a precise LOCAL EDIT to the attached 3-view CGI character sheet. Change ONLY the facial features on the LEFT FRONT-FACING figure, within the face below the hairline. Preserve the ENTIRE middle side-profile figure and right back figure unchanged; preserve front figure body, height, head silhouette, ears, hair braid, clothing, hands, pose, shoes, basket, background and lighting. User explicitly APPROVED body, side face and back. The front face should be prettier, delicate, softer, more femininely humanoid in facial feature arrangement while retaining white fine fur and long rabbit ears. Reduce animal muzzle: flatten the protruding paired round whisker pads into smooth gentle narrow cheeks, remove pronounced Y-shaped split upper lip and projecting animal mouth. Make nose a tiny delicate softly pink nose with a subtle bridge, not a large rabbit triangle. Give a small naturally shaped closed mouth with subtle pale rose lips, elegant gentle smile, no teeth. Remove long prominent whiskers or reduce to barely visible fine short strands. Keep warm brown almond-shaped eyes near current size, refined eyelids, gentle brows, balanced attractive face, graceful jaw and chin. Not a human skin face pasted on: preserve fine white facial fur, consistent CGI shading and natural transition to furry neck. Avoid exaggerated Disney animal expression, puffy muzzle, large nose, oversized eyes. Keep SAME sheet dimensions/layout, precise film CGI fur and fabric, no other alterations, no text.",
+  "channel": "内置image_gen",
+  "reference": "3D三视图.png修订前版本，已备份archive/正脸柔化前/3D三视图.png",
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "身材侧脸背面获用户认可；新正脸待审阅",
+  "inspection": "正脸口鼻和胡须收敛；目视其余设计与构图保持，未声称逐像素一致",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

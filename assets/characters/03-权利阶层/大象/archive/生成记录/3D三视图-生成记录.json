@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-19",
+  "status": "新稿待用户审阅",
+  "tool": "内置image_gen",
+  "model": "未暴露",
+  "size": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "reference_order": [
+    "特写/03-未央特写.png",
+    "原画三视图.png"
+  ],
+  "reference_roles": [
+    "特写锁脸部身份、物种、材质与光照",
+    "原画锁全身比例、服装结构及道具"
+  ],
+  "prompt": "Use case: stylized-concept / identity-preserve. Produce ONE premium cinematic 3D CGI character turnaround sheet, landscape 3:2. Exactly three full-body views of the SAME character side by side: straight FRONT, strict LEFT PROFILE facing left, BACK. Match heights and ground baseline. Complete headwear, feet and all appendages inside generous margins. Neutral warm grey seamless studio backdrop, subtle grounded shadows, no text, no borders, no environment furniture.\nReference 1 closeup is PRIMARY for current facial identity, species, eyes, grooming, material precision and rendering. Reference 2 original is authoritative for full-body proportions, exact costume construction, colors, props and front/profile/back structure, but NOT its linework, paper grain or flat shading. Newly render all details in high-end feature-film CGI with physically based materials, visible fabric weave, raised embroidery, anatomically plausible volume and clean contact shadows. Soft warm key and subtle cool fill, restrained highlights, crisp natural detail across all three figures, no depth of field blur. No redesign, plastic toy, painterly smears, oversharpening or added accessories.\nSubject: Wei Yang, mature MALE ELEPHANT central bank representative. EXACT face from closeup: broad ears with fine edge creases, long trunk with tip curled gently inward, two natural ivory tusks, wise calm eyes and small delicate GOLD ROUND spectacles sitting correctly on upper trunk, dense skin wrinkles and subtle pores, sparse short bristles. Warm grey elephant skin, NOT plastic grey. Broad heavyset dignified upright physique, thick arms and neck, ample torso, original proportions. Preserve blue-grey/navy wool long suit coat, matching waistcoat and trousers, white shirt, dark navy silk tie, white pocket square, GOLD buttons, gold pocket watch chain, round BRASS VALVE-WHEEL pin on left breast. The distinctive valve pin MUST remain a real wheel with spokes not a flower, money coin or bank logo. Closed dark leather gold-edged document ledger tucked under one arm in profile as original, other hand relaxed or behind; front can keep arms behind back as original. Tail small elephant tail visible at coat rear opening with small dark tuft. Clearly TWO complete trouser legs, ankles, TWO black leather shoes with grounded soles; no coat replacing legs or fused lower body. Front/profile/back ears, tusks, trunk, pin and coat design consistent. Distinct wrinkled elephant skin, woven wool fibers and seams, smooth ivory tusks, fine metal spectacle rims, brushed brass wheel, leather book cover and shoes. Maintain humane expressive maturity and original broad proportions, not a slim youthful figure, no crown or added jewelry.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f34e-1af8-7eb2-8822-b61b2f912fa2/exec-7ff5eb13-4016-4de0-b4ae-9789dfd3f4fe.png",
+  "visual_check": "目视检查正面、左侧面、背面完整；可见裤腿、鞋与地面承托，保留特写面部和原画服装道具。",
+  "known_limit": "细小纹样及视角间结构可能有生成差异，非精确建模结构图。",
+  "记录迁移说明": {
+    "原记录位置": "assets/characters/03-内政与司法/大象/3D三视图-生成记录.json",
+    "历史相对路径基准": "assets/characters/03-内政与司法/大象",
+    "说明": "生成时的素材refs/source保持历史原文；其中相对素材路径按原记录位置解析。"
+  }
+}

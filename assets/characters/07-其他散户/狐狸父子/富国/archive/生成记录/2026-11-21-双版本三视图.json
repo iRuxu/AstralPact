@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "design_approval": "用户明确认可父子形象提案-v5；本次独立三视图为据此补制的新图，待用户审阅",
+  "model": "工具未暴露，不推测",
+  "outputs": [
+    {
+      "file": "3D三视图.png",
+      "prompt": "Use case: stylized-concept. Make ONE standalone landscape 3:2 character turnaround sheet, THREE full-body views of the SAME SINGLE character arranged left FRONT, middle LEFT SIDE PROFILE, right BACK, equal scale aligned feet, generous spacing, entire ears tails shoes visible. Neutral warm grey studio background. Image 1 is the approved identity, costume, proportions and feature-film CGI material reference. Only extract the specified character, exclude the other fox. Preserve exact design. High-end feature-film 3D CGI, physically based materials, individually resolved fur, fine woven cloth and restrained metal reflections, soft warm key subtle cool fill, natural contact shadows. No labels, text, panels, watermark or extra people. Consistent anatomical left/right accessories, clothing and identity across views; single tail emerges naturally from lower back. Character: FUGUO, the LEFT mature male fox in reference, grey-brown fur cream muzzle, grizzled temples, sharp long fox face, narrow piercing amber eyes, angular low brows, sly calculating closed-mouth smirk, lowered gold-rim glasses, experienced cunning affluent old fox. Exact espresso brown patterned three-piece suit, ivory shirt, burgundy tie with gold tie bar, white pocket square and SMALL SILVER LIGHTNING BOLT badge on anatomical LEFT lapel. Gold wristwatch on left wrist. Polished oxblood Oxford shoes. Slim brown leather document case held under right arm in all views, opposite watch. Both complete legs, fur-covered paws. No dyed hair, piercings, gold necklace or streetwear. Tail grey-brown with cream tip. No redesign.",
+      "references": [
+        {
+          "path": "assets/characters/07-其他散户/狐狸父子/父子形象提案-v5.png",
+          "role": "已认可身份、服装、比例与CG表现；仅取目标角色"
+        }
+      ],
+      "pixels": [
+        1536,
+        1024
+      ],
+      "postprocessing": "无"
+    },
+    {
+      "file": "原画三视图.png",
+      "prompt": "Use case: style-transfer. Create ONE independent 2D HAND-DRAWN COLORED CHARACTER DESIGN TURNAROUND based faithfully on supplied approved-design 3D turnaround. Preserve the exact three full-body views, identity, anatomy, proportions, pose, all clothing, colors, accessory locations and single tail. Left FRONT, middle SIDE, right BACK, aligned equal size with complete ears shoes tails, landscape 3:2. Render as refined professional animation concept ORIGINAL ART: clean expressive thin ink/pencil contours, controlled hand-painted color fills and subtle illustrative shadow planes, fine drawn fur tufts and fabric fold lines, light warm ivory plain paper background. Clearly a two-dimensional drawn character model sheet, NOT a 3D render or CGI filter. No extra portraits, labels, lettering, watermark or props. Preserve ALL identity and costume details described below, don't simplify away badges, piercings, colors or rips. Character: FUGUO, the LEFT mature male fox in reference, grey-brown fur cream muzzle, grizzled temples, sharp long fox face, narrow piercing amber eyes, angular low brows, sly calculating closed-mouth smirk, lowered gold-rim glasses, experienced cunning affluent old fox. Exact espresso brown patterned three-piece suit, ivory shirt, burgundy tie with gold tie bar, white pocket square and SMALL SILVER LIGHTNING BOLT badge on anatomical LEFT lapel. Gold wristwatch on left wrist. Polished oxblood Oxford shoes. Slim brown leather document case held under right arm in all views, opposite watch. Both complete legs, fur-covered paws. No dyed hair, piercings, gold necklace or streetwear. Tail grey-brown with cream tip. No redesign. The supplied single-character sheet is authoritative: exclude other characters.",
+      "references": [
+        {
+          "path": "assets/characters/07-其他散户/富国/3D三视图.png",
+          "role": "锁定本角色三视图的身份、服装与配饰；转二维手绘"
+        }
+      ],
+      "pixels": [
+        1536,
+        1024
+      ],
+      "postprocessing": "无"
+    }
+  ],
+  "inspection": "正侧背全身、耳尾和鞋完整；保留老辣眉眼与左领闪电章，侧面朝右而非提示词要求左侧面，为实际返回机位；细小配饰侧背视角按遮挡可见。"
+}

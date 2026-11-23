@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "source_thread": "01a1fe67-47d2-7c73-97af-58f5be0812bb",
+  "reference_badge": "参考图/红白双峰一体徽章-用户已认可.png",
+  "passes": [
+    {
+      "prompt": "Precise LOCAL jewelry edit to IMAGE1 approved muscular scarred wolf three-view sheet. Preserve all wolf anatomy identity scar body pose fur suit collar tie hands tail trousers shoes lighting background composition. Change ONLY small lapel badge in front and side. IMAGE2 is the USER-APPROVED FINAL EMBLEM, authoritative exact silhouette and color structure. Reproduce that design faithfully in miniature as a natural lapel pin: compact broad double-peak mountain/abstract M ridge, RED upper wide angular band directly fused edge-to-edge to WHITE lower wide angular band along full shared zigzag seam, NO gap, dark gunmetal small sidewalls and subtle machined bevel, no circle shield or backplate, NOT typographic M. Match exact image2 twin peaks and deep V valley, substantial broad faces, do not reinterpret as zigzag/lightning or single thin stroke. Crucial SCALE: a discreet 15mm-wide suit pin, about width of one jacket button, no more than ONE FIFTH of lapel width at its broadest; keep small, NOT giant emblem pasted on. Pin should be flush to anatomical LEFT upper lapel, modest real depth and subtle contact shadow, red enamel subdued under same warm room light, white ivory with matching shadow not bright painted sticker. Reference2 product studio highlights and black background must NOT be pasted onto scene; recompute metal reflections and occlusion in image1 lighting. Front and side use same motif with proper perspective. Nothing on back. It must look like an actual tiny enameled metal pin attached to fabric. High-end feature-film CGI, no text or watermark.",
+      "references": [
+        "执行时当前环形领针三视图（现archive/双峰一体徽章修订前/3D三视图-环形领针.png）",
+        "用户已认可独立双峰徽章"
+      ],
+      "result": "正面替换，侧面残留圆形，存archive/双峰一体徽章修订前/过程-侧面未替换.png"
+    },
+    {
+      "prompt": "LOCAL EDIT ONLY the lapel pin of the MIDDLE SIDE-PROFILE WOLF in image1. Front wolf pin already has correct small red-white double mountain peak design, keep FRONT and BACK entirely unchanged. Middle wolf currently still has WRONG CIRCULAR ring pin: REMOVE circular pin fully. Replace with same miniature red-white fused two-peak angular mountain badge as front and reference2: upper RED broad M-ridge band directly joined to lower WHITE band along zigzag seam, two pointed peaks deep V, no black gap, tiny dark gunmetal thickness. Perspective foreshortened to lie flush on middle wolf's left lapel fabric, subtly angled with collar, realistic enameled metal, natural contact shadow, same small size as front pin, not oversized. No circle, no oval, no slash. Both front and middle MUST now show matching red-white double peak angular pins. Preserve ALL other facial scar identity, body, suit textures, proportions, pose, tail, lighting, shoes, background. Reference2 locks badge shape only. No text.",
+      "references": [
+        "第一轮结果",
+        "同一独立徽章定稿"
+      ],
+      "result": "正侧面统一双峰一体徽章"
+    }
+  ],
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "人物与独立徽章已认可；应用新稿待审阅",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

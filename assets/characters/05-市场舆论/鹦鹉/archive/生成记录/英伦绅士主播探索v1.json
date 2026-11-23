@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. ONE standalone full-body frontal cinematic 3D character design for AstralPact animal financial fable. Character 英伦 / Yinglun, an adult male anthropomorphic GREEN PARROT financial livestream presenter and mouthpiece who charmingly lures ordinary investors into the market on behalf of vested interests. A polished self-serving opportunist masked by impeccable manners. Show appealing cultivated public charm with subtly calculating eyes, not a grotesque obvious villain.\nReference roles: Image 1 ONLY locks green parrot species, curved dark hooked beak, layered cheek feathers, avian head and feathered hand anatomy, long green tail and broadcaster headset. COMPLETE WARDROBE REDESIGN: remove saffron turban and red stand-collar suit entirely. Image 2 ONLY feature-film CGI material and lighting quality, never copy dragon horns, crown, hair or royal ornaments.\nAdult male middle-aged sophisticated proportions, medium build upright posture, rich emerald and olive layered plumage with a small naturally groomed swept-back crown tuft (feathers not human hair), expressive amber eyes, subtle smile articulated through eyes and slightly open real parrot beak. Elegant thin antique-gold round spectacle frames correctly fitted to bird head, no human lips or teeth.\nBritish gentleman country-city sartorial style: impeccably tailored deep warm brown subtle Glen-check tweed jacket, forest-green wool waistcoat with small brass buttons, ivory collared shirt, neatly tied burgundy silk cravat/ascot at neck (not a giant bow), modest folded cream pocket square, charcoal tailored trousers and polished dark brown brogue shoes. Expensive tasteful tailoring, not royal, not circus. Discreet modern broadcast earpiece over one ear feather area with a slender boom microphone ending beside beak and a tiny red ON AIR indicator on earpiece (light only, no words), integrated plausibly without clashing with glasses.\nPerformance: one articulated feathered hand extends palm up toward viewer as if warmly inviting audience to join, other hand lightly adjusts jacket lapel, relaxed persuasive public-speaking pose. Avoid claws aggressively reaching. Natural avian fingers, coherent wings-as-arms with feathered wrists and suit sleeves. One long green feather tail visible behind trousers, tip fully in frame. Full head, glasses, hands, both trouser legs and shoes entirely visible with generous margins. Vertical 2:3 neutral warm grey studio backdrop and grounding shadows.\nHigh-end feature-film CGI, physically based materials, individually resolved overlapping feather barbs, layered cheek plumage, natural beak keratin roughness, fine tweed weave and subtle woven checks, matte green waistcoat, silk ascot sheen, distinct brushed gold and polished leather, soft warm key and subtle cool fill. Crisp natural detail and elegant stylized anatomical design, not photoreal human, not flat illustration, no plastic toy, no oversharpening, no royal ornaments, no turban, no extra props, no money or stock charts, no text, no watermark, no collage.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手与市场舆论/英伦/鹦鹉.png",
+      "role": "第一张只锁绿羽、弯喙、尾羽、耳麦；明确替换头巾与红礼服"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "第二张只锁电影CG材质与光照"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "特写/01-英伦绅士主播全身-探索v1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "探索稿，待审阅",
+  "inspection": "羽冠、眼镜、耳麦、伸手、尾羽及双腿双鞋入画；格纹外套与马甲材质可分辨。伸手为拟人羽手，并非真实鸟翼解剖。"
+}

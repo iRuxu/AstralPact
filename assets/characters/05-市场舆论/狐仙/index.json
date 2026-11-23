@@ -1,0 +1,9 @@
+{
+  "name": "狐仙",
+  "prompts": {
+    "image3d": "Localized edit ONLY to diamond ring in Image 1 CGI fox turnaround. Image 2 original drawing is authority ONLY for ring design and size. Restore the original LARGE clear brilliant solitaire diamond ring in EVERY visible raised-hand view (front/profile/back). Match original stone width about 2 to 2.5 finger widths, raised faceted clear round brilliant stone in delicate gold prong setting; conspicuous luxurious diamond with crisp white refraction, not tiny jewelry, not opaque pearl. Keep same finger, exact hand pose, gold nails, anatomy. Preserve ALL other image content exactly: face, golden eyes, ears, updo, ornaments, pearl chains, lavender gold gown, embroidery, tails, three-view framing, lighting and background. Do not redesign body or costume. Landscape 3:2 original composition, high-end CGI. No text. Change ring only."
+  },
+  "assetPrompts": {
+    "portraits/01-青丘侧颜.png": "Localized edit ONLY to ring on raised hand in Image 1 fox closeup. Image 2 original drawing is ONLY ring design/size reference. Replace tiny diamond with original LARGE clear solitaire brilliant diamond, about 2 to 2.5 times width of finger, substantial elevated faceted round stone in gold prong setting and fine gold band. Match original lavish scale relative to finger. Crisp realistic transparent diamond facets, not pearl or flower. Same finger and hand pose, maintain gold nails and correct fingers. Preserve exact rest of Image1: beautiful fox face, eyes, ears, muzzle, expression, hair, all accessories, gown embroidery, tails, lighting, background, framing and native detail. One landscape 16:9 portrait, no text, no other changes."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE landscape 3:2 full-body turnaround of SAME character: left FRONT, middle SIDE, right BACK. Equal scale and baseline, all ears/horns/tails/hands/legs/shoes fully visible. Neutral standing, warm grey plain studio, no labels, no text except explicitly requested. Optimize first reference tall lean dark grey adult male wolf, navy tailored long coat, matching vest trousers, blue tie, amber eyes. Confident calculating, distinct from other wolves. Small blue-silver orbit/star chest badge inspired by Galaxy securities visual motif, no letters, on left lapel. Reference 1 locks design, reference 2 ONLY CGI quality, no crown. One tail, coherent coat and visible trousers shoes. High-end feature-film 3D CGI, physically based materials, individually resolved fur or appropriate skin, woven cloth, crisp natural detail, soft warm key subtle cool fill, no plastic, no 2D outlines, no watermark.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/小狼-银河证券.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/小狼-银河证券.png",
+      "role": "参考分工及优先级见完整提示词"
+    },
+    {
+      "order": 2,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/特写/06-狼王特写.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/特写/06-狼王特写.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/characters/02-资本猎手/狼队/archive/第二集临时徽章/02-星徽长衣狼-3D三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "过程版本，已被修订替代",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

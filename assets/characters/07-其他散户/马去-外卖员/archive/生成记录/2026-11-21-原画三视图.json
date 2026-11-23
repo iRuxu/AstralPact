@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE landscape 3:2 original 2D hand-drawn character design turnaround sheet for 马去 Ma Qu, an anthropomorphic adult male horse food-delivery / express courier. Reference image 1 is authoritative for identity, proportions, costume, colors and accessories ONLY; convert its CGI rendering into polished hand-drawn original concept art, clean confident fine linework, restrained painted color and readable material indications on plain ivory background, NOT a 3D render. Three full-body orthographic views left FRONT, middle LEFT SIDE (facing left), right BACK, equal scale and aligned feet, generous space and uncropped ears, helmet, tail and boots. Preserve tall lean adult working build, long chestnut horse face with white forehead-to-nose blaze, black shaggy mane, long black horse tail, upright horse ears naturally clear of yellow cycling helmet, ochre yellow zippered delivery jacket with grey reflective bands, dark charcoal cargo trousers, dark work gloves, lace-up durable work boots. Yellow insulated square delivery backpack, black edging, grey reflective stripe, coherent straps and chest buckle across views. Small lit order-receiver clipped at character's LEFT front waist (viewer right in front view), separate adjacent plain belt pouch; the left side view should reveal that same device. Friendly hardworking slightly tired hopeful face. Preserve equine muzzle, do not humanize face. Both legs, hands and footwear fully drawn in every view, tail exits naturally above trousers seat, no extra tails or limbs. Backpack must remain a backpack, not become loose box. Neutral standing with relaxed arms. No typography, labels, logos or watermarks. This is specifically a 2D original design sheet requested by user.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/马去/第二集候选/01-外卖快递员-3D三视图.png",
+      "current_project_path": "assets/characters/07-其他散户/马去/3D三视图.png",
+      "role": "锁定身份、比例、服装、颜色及配饰；CG转换为二维手绘"
+    }
+  ],
+  "output": "assets/characters/07-其他散户/马去/原画三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "新原画待审阅；对应CG用户已明确采用",
+  "inspection": "已目视正侧背三角度；耳、头盔、马吻、鬃毛、背箱、腰设备、双手、双腿、鞋及尾部完整。屏幕图形为示意，细小扣件不作为生产结构图。"
+}

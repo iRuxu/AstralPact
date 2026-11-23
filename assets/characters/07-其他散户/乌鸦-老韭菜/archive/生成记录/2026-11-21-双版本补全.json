@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "status": "以用户认可v2为造型依据；两张新三视图待用户审阅",
+  "outputs": [
+    {
+      "file": "原画三视图.png",
+      "prompt": "Use case: stylized-concept. Create a single landscape 3:2 CHARACTER TURNAROUND SHEET showing the SAME mature anthropomorphic CROW in THREE full-body views, left STRICT FRONT (beak points directly toward viewer, symmetrical shoulders), middle LEFT SIDE PROFILE, right STRICT BACK. Same scale aligned feet, entire chive leaves head beak hands tail shoes visible with generous margins. Image 1 is the approved authoritative identity and clothing reference. Preserve long black crow beak, layered blue-black feathers, narrow intelligent amber eyes, mature patient expression, small tuft of about five GREEN FLAT GARLIC CHIVE LEAVES on crown. Exact maintained charcoal olive knee-length coat with simple shoulder tabs and sleeve cuff straps, muted oxblood scarf, oatmeal knit sweater ivory shirt, charcoal straight trousers brown leather lace-up shoes. Small SILVER LIGHTNING BOLT pin on anatomical LEFT lapel, plain steel watch on LEFT wrist only; not mirrored. Two arms relaxed naturally at sides, avian dark scaled hands, two complete legs, short black feather tail emerging naturally under rear coat hem; NO extra wings. Match reference proportions and dignified modest affluence. Back coat simple center seam with short rear half belt, no new jewelry. No text labels panels watermark or extra characters. Style: precise refined TWO-DIMENSIONAL HAND-DRAWN original character design, clean fine ink contour lines, controlled cel color separation with subtle volume shading, fine feather hatching and restrained paper texture, clear flat local colors. NOT CGI, not 3D render. Warm ivory paper background. Preserve reference identity exactly; change presentation into professional illustrated turnaround.",
+      "references": [
+        "形象提案-v2.png（生成时位于角色根目录，现为特写/01-韭菜叶全身-v2.png）"
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "3D三视图.png",
+      "prompt": "Use case: stylized-concept. Create a single landscape 3:2 CHARACTER TURNAROUND SHEET showing the SAME mature anthropomorphic CROW in THREE full-body views, left STRICT FRONT (beak points directly toward viewer, symmetrical shoulders), middle LEFT SIDE PROFILE, right STRICT BACK. Same scale aligned feet, entire chive leaves head beak hands tail shoes visible with generous margins. Image 1 is the approved authoritative identity and clothing reference. Preserve long black crow beak, layered blue-black feathers, narrow intelligent amber eyes, mature patient expression, small tuft of about five GREEN FLAT GARLIC CHIVE LEAVES on crown. Exact maintained charcoal olive knee-length coat with simple shoulder tabs and sleeve cuff straps, muted oxblood scarf, oatmeal knit sweater ivory shirt, charcoal straight trousers brown leather lace-up shoes. Small SILVER LIGHTNING BOLT pin on anatomical LEFT lapel, plain steel watch on LEFT wrist only; not mirrored. Two arms relaxed naturally at sides, avian dark scaled hands, two complete legs, short black feather tail emerging naturally under rear coat hem; NO extra wings. Match reference proportions and dignified modest affluence. Back coat simple center seam with short rear half belt, no new jewelry. No text labels panels watermark or extra characters. Style: high-end feature-film CGI, physically based materials, individually resolved feather barbs with subtle blue-black sheen, woven coat wool, cashmere scarf and knit sweater clearly different, restrained leather and silver reflections, natural contact shadows, soft warm key subtle cool fill. Neutral warm grey studio background. Preserve exact approved identity. Image 2 provides the consistent front/side/back layout and back coat construction ONLY; image 1 remains authoritative for identity and CGI material quality. No drawn outlines paper texture or cel shading.",
+      "references": [
+        "形象提案-v2.png（同上；锁身份与CG材质）",
+        "本轮原画三视图原生生成文件（锁视图及背部结构）"
+      ],
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "postprocessing": "无；原生输出复制到角色目录",
+  "inspection": "已目视检查：正、侧、背全身完整，韭菜叶、长喙黑羽、围巾、左翻领徽章、左腕手表、双手双腿鞋及尾羽可见且对应。背部半腰带属本轮补全细节，尚未单独获用户确认。",
+  "model": "工具未暴露，不推测"
+}

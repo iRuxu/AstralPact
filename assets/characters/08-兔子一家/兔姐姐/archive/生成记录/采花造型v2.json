@@ -1,0 +1,16 @@
+{
+  "prompt": "Edit the referenced white rabbit older sister into a fresh youthful flower-picking character proposal for AstralPact. ONE full-body portrait cinematic image, complete long ears and both feet in frame. Preserve WHITE fur, rabbit face and muzzle, pink nose, warm expressive brown eyes, elegant anthropomorphic rabbit anatomy and high-end feature-film 3D CGI quality. Make her feel more girlish, lively, innocent and light, a young maiden rather than a mature office worker. Change hairstyle from mature bun to soft white loose hair with a simple half-up braid and small pale green ribbon. Replace entire old blue cardigan/blouse/long dark skirt/bag costume with a fresh spring outfit: ivory short puff-sleeve blouse beneath a delicate light sage-green pinafore dress, softly gathered skirt ending below knees, subtle tiny daisy embroidery along hem, comfortable cream flat shoes. Simple ordinary-family clothes, no ornate jewelry. She is picking wildflowers in a sunlit spring meadow: gently lean and reach with one furred hand to pick a small daisy growing beside her while carrying a small woven wicker basket containing a modest handful of white daisies and soft yellow wildflowers in the other hand. Look gently toward the flower with a happy curious soft smile. Readable natural hands and physical flower stems, basket held convincingly. White cotton-tail may peek naturally if angle permits. Pastel green meadow and tiny flowers with soft distant foliage, morning sunlight, airy natural atmosphere. Character remains dominant, no busy scenery, no other characters. Physically based fur and cotton/linen weave, individually resolved fur, soft warm key and subtle cool fill, crisp natural detail, restrained highlights, no plastic toy look, no 2D outlines, no text/watermark, no collage. Preserve species rather than turning into human girl with rabbit ears.",
+  "channel": "内置image_gen",
+  "date": "2026-11-21",
+  "reference": "原特写/01-白兔姐姐全身-探索v1.png，现位于archive/初版针织开衫/，用于白兔身份与CG风格",
+  "output": "特写/02-白兔姐姐采花-探索v2.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "postprocessing": false,
+  "status": "待用户审阅",
+  "inspection": "耳、手、脚、花篮完整，采花动作可读；背面结构未验证",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

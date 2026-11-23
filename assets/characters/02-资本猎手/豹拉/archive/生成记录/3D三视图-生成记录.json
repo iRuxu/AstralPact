@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: identity-preserve. Create ONE landscape 3:2 high-end feature-film CGI CHARACTER TURNAROUND SHEET for BAOLA / 豹拉. Exactly three complete full-body views arranged left to right FRONT, strict LEFT-FACING SIDE PROFILE, BACK, same character scale, head height and floor baseline, generous margins, no labels or borders. Image 1 is USER-APPROVED PRIMARY authority for exact CGI facial identity, realistic leopard head, golden eyes, golden tawny rosette fur, white muzzle, rounded ears, mature masculine slim strong tall proportions, precise suit tailoring, accessories and material quality. Image 2 is only supporting authority for side/back garment construction, tail anatomy and three-view arrangement; do NOT copy its drawing style or override Image 1's identity and rendered proportions. Preserve black/charcoal fine pinstripe THREE-PIECE suit, buttoned matching waistcoat, ivory shirt, burgundy necktie, ivory pocket square on character's left chest, gold pocket-watch chain across front waistcoat, black oxford shoes. Same dignified straight posture, BOTH hands naturally inside trouser pockets in all three angles, anatomically complete arms and wrists, do not invent exposed hands. Full ears, feet, both trouser legs and one complete long leopard tail per view. Tail emerges naturally at base of spine through rear clothing, hangs behind legs and curves gently without coils; side/back views clearly show its attachment and full tip. Correct rear suit structure, no tie or watch chain printed on back. Retain natural leopard face, not human, tiger or cheetah; no mane, crown, extra jewelry or props. Neutral warm grey seamless studio background, believable contact shadows beneath shoes. High-end feature-film CGI, physically based materials, individually resolved short fur and whiskers, crisp wool weave and fine vertical pinstripes, restrained silk tie sheen, distinct aged gold and polished leather response. Soft warm key and subtle cool fill, readable dark fabric, controlled highlights, all three full figures sharply resolved, no excessive depth blur. This is a coherent three-view model reference sheet, not narrative panels. No text, watermark, collage borders, plastic toy, drawing outlines, paper texture, painterly smears, extra limbs, missing legs, cropped tail or shoes. Match Image 1 faithfully rather than redesigning.",
+  "path_base": "项目根目录",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手/豹拉/特写/01-豹拉正面全身-探索v1.png",
+      "role": "图1：用户指定3D参考，锁脸部身份、比例、服装、材质和光照"
+    },
+    {
+      "path": "assets/characters/02-资本猎手/豹拉/原画三视图.png",
+      "role": "图2：补足侧背衣装结构、尾部和三视图排列，不覆盖图1CG身份"
+    }
+  ],
+  "output": "assets/characters/02-资本猎手/豹拉/3D三视图.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制",
+  "status": "用户已指定正面CG为3D参考；本次新三视图待用户审阅",
+  "inspection": "已目视正面、向左侧面、背面身份与服装一致，三角度豹耳、裤腿、鞋和尾尖完整，尾部从后腰下方垂落；双手插袋，不能核验全部手指。侧面双腿重叠，远侧腿与鞋可见部分轮廓，非分腿解剖展示。",
+  "source_cache": "/Users/iruxu/.codex/generated_images/01a1feb4-8194-74f2-99dc-d836bc65636b/exec-419c8901-9b6e-48b2-83b1-9803edc88313.png"
+}

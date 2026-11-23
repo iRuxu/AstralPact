@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-19",
+  "tool": "内置image_gen",
+  "record": {
+    "name": "特写/01-青丘侧颜.png",
+    "size": [
+      1672,
+      941
+    ],
+    "prompt": "Use case: identity-preserve. Create ONE standalone cinematic character portrait, landscape 16:9, of the EXACT female platinum FOX SPIRIT Qing Qiu from the attached CGI turnaround. The attachment is authoritative for identity, face, golden eyes, long elegant fox muzzle, black nose, upright tall fox ears, cheek fur, sculpted ivory updo, gold floral comb and hairpieces, pearl chains with lavender drops, necklace, lavender/champagne gold embroidered robe, small diamond ring and gold nails. A beautiful refined mature celebrity, calm self-assured closed-mouth subtle warmth, three-quarter view facing screen LEFT. Medium closeup head to waist, full tall ears and gold comb uncropped with generous top margin. One raised graceful hand near shoulder with SMALL clear diamond ring, stone no wider than finger. Clearly show delicately separated ivory face fur and cheek strands, amber eyes and lashes, no human face. Soft warm key and subtle cool fill, neutral softly defocused warm-grey studio background, ivory fluffy tail forms only softly visible low behind shoulders, no stage or microphone, no story scene or palace furniture.\nHigh-end feature-film CGI, physically based fine hair/fur, soft natural shadows, raised gold thread and visible silk weave, distinct luminous pearls, translucent lavender gems and brushed gold, crisp face and ornaments, restrained depth of field. Keep exact character rather than redesigning her. No dragon horns/scales, no human model, no excessive bloom, no giant diamond, no collage, text or watermark. One complete independent portrait, not a crop from the turnaround.",
+    "reference_order": [
+      "assets/characters/02-资本猎手与市场舆论/狐仙/3D三视图.png"
+    ],
+    "source": "/Users/iruxu/.codex/generated_images/01a1f34e-1af8-7eb2-8822-b61b2f912fa2/exec-da160bfe-704e-4968-b3de-bf373026e108.png",
+    "visual_check": "独立侧颜近景，耳尖和发饰完整，小钻戒可见；返回视角更接近侧面而非预期四分之三，按实际命名为侧颜。"
+  }
+}

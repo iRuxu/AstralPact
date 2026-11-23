@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "status": "待用户审阅的新稿",
+  "prompt": "Use case: stylized-concept. ONE cohesive full-body character concept portrait showing an anthropomorphic FOX FATHER AND HIS UNIVERSITY-AGE SON standing side by side in the same neutral warm grey studio space, landscape 3:2. Not a collage, no panels, no text. Image 1 is ONLY the rendering quality reference: high-end feature-film CGI, physically based materials, individually resolved layered fur, weighty woven cloth, soft warm key and subtle cool fill, crisp natural details. Do NOT copy dragon anatomy horns jewelry royal costume palace or gold palette.\nBoth are fully animal-faced male foxes with long fox muzzles, black noses, alert pointed ears, expressive amber eyes, articulated fur-covered paw hands, single bushy tails visible, believable adult upright anatomy, complete legs and footwear with contact shadows, no cropped ears or feet. Family resemblance in eye shape muzzle and grey-brown fur, cream muzzle and throat, darker ear tips. Ordinary comfortable middle-class family, dignified and intelligent, not aristocrats, not poverty caricatures.\nFather on left: about 50-55, handsome mature grey-brown fox with grizzled temples cheek fur and brow, subtle age lines, medium lean build and upright posture, reserved assessing expression with stern brows but underlying warmth, thin understated rectangular reading glasses, neatly groomed short head fur. Wears practical dark brown casual blazer over oatmeal fine-knit sweater and pale collared shirt, charcoal straight trousers, plain brown leather shoes, simple watch. One hand rests at side holding a worn leather work folio, other relaxed. No tie or luxury jewelry.\nSon on right: 20-22 UNIVERSITY STUDENT, tall slender young adult, almost father's height, NOT a child or chibi. Slightly warmer grey-brown fur and tousled short forelock, clean youthful angular muzzle, bright clever eyes, subtle self-assured half smile with raised chin, youthful impatience without villainy. Navy lightweight campus jacket open over off-white T-shirt, muted olive straight trousers, clean everyday sneakers, canvas backpack on one shoulder, one paw loosely holding smartphone at waist with screen facing inward. Confident relaxed stance. No financial symbols, no readable phone screen.\nFocus on readable distinct faces, familial resemblance, age differences, tailored everyday clothing and natural fur. Restrained appealing stylization with sophisticated cinematic proportions, not photoreal wild animals, not plastic toys, not flat illustration. Enough space between figures so silhouettes and tails are distinct.",
+  "references": [
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅锁CG材质、细节和灯光，不借用身份服装场景"
+    }
+  ],
+  "output": "父子形象提案-v1.png",
+  "width": 1536,
+  "height": 1024,
+  "postprocessing": "无，原生输出复制",
+  "inspection": "父子全身、单尾、鞋与地面完整；年龄服装可区分；父亲表情偏温和，属于形象展示，非训斥剧情镜头。未获用户确认。"
+}

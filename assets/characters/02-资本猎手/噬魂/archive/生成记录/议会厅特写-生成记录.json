@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-19",
+  "tool": "内置image_gen",
+  "model": "未暴露",
+  "status": "用户已认可，当前采用",
+  "size": [
+    1672,
+    941
+  ],
+  "prompt": "Use case: identity-preserve / stylized-concept. ONE standalone landscape16:9 cinematic council-chamber character closeup of SHI HUN, the central speaking head of the EXACT BLACK THREE-HEADED DOG in reference 1. \nREFERENCE ROLES: Image 1 authoritative creature identity, anatomy, BLACK fur, three head shapes and relative positions, central thin forehead scar, amber eyes, upright pointed canine ears, one shared broad leather collar with round brass studs and hanging square brass tag with engraved star. Image 2 authoritative current council room architecture and floor-standing setting, ivory arched ribs/gold fittings, left-side windows with blue violet twilight coastal city, dark green jade rear wall and gold dragon banner. Image 3 ONLY high-end feature-film CGI finish, individually resolved fur, soft warm key and cool window fill, subtle physical material response, NOT wolf identity, white mane, suit or crown.\nShot: medium closeup of ALL THREE heads and shared upper chest, camera at the dog's head height, gentle three-quarter frontal view, central head dominant slightly taller and forward, other two distinct heads fully readable flanking it. Entire six ears, noses and collar pendant in frame with comfortable margins. One shared quadruped body CONTINUES below crop, standing on FLOOR near the king's left side, not seated in a chair, not on tabletop. Position near north/head end of council table; an out-of-focus sliver of empty headchair at far screen RIGHT and a blurred jade panel/gold dragon banner behind, window visible farther screen LEFT. Table edge if visible is soft distant background at side, never crossing or concealing the creature's faces. No other character needed.\nPerformance: central head Shi Hun is cunning, self-assured and intent, brow slightly knit, amber eyes directed slightly upward toward king offscreen RIGHT, mouth slightly open mid-address revealing natural teeth, NOT a huge mindless roaring gape. Preserve thin scar across central forehead. Screen-left head watches room alertly, lips closed; screen-right head has subtle sinister closed-mouth smirk. Three moods coordinated, not cloned faces. No flames, glowing eyes, drool or horror gore.\nHigh-end feature-film CGI, believable dimensional canine anatomy, BLACK layered fur with individually resolved strands and charcoal highlights, subtle warm edge and coolblue fill keep black fur dark but readable, NO grey-white mane or brown recolor. Matte black nose with tiny pores, moist restrained eye reflections, natural teeth and gums, worn dark leather collar grain/seams, brushed brass studs and star tag distinct physical materials. Fine natural crisp detail in all three faces, shallow depth ONLY background. Warm luxurious readable chamber consistent with other character closeups, restrained bloom and highlights, no glowing gold strips or plastic. No humanoid hands, clothing, extra heads, extra ears, separate dog bodies, throne pose, panels, text, watermark. Highest native detail.",
+  "reference_order": [
+    "3D三视图.png",
+    "assets/scenes/议会厅/v2/01-正面视角.png",
+    "assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png"
+  ],
+  "reference_roles": [
+    "身份、三头犬结构、黑毛与项圈",
+    "议会厅空间和光源",
+    "仅CG毛发材质与完成度"
+  ],
+  "correction": {
+    "prompt": "Edit the attached portrait only to repair FRAMING: both central dog's tall ear tips currently nearly touch or are cropped at the upper edge. Pull camera back slightly / add generous headroom so ALL SIX ears including tallest central tips are entirely visible with about 5 percent frame height empty background above highest ear. Maintain landscape16:9. Preserve exact three black dog heads, all face identities and expressions, central scar, single body and collar brass star tag, rich black fur detail, same council room, window city and light. Do not add new heads or ears or change collar. Keep central head dominant, central mouth slightly open, side mouths closed. No other character, text or borders. High-end feature film CGI same crisp fur/material quality.",
+    "reference": "../议会厅留白修订前/议会厅特写.png",
+    "reason": "初稿中央耳尖贴边／裁切，拉远留出头顶余量"
+  },
+  "source": "/Users/iruxu/.codex/generated_images/01a1f34e-1af8-7eb2-8822-b61b2f912fa2/exec-432cda2b-2ab8-4a3e-a0cf-02f3e6953c09.png",
+  "visual_check": "三颗头六只耳完整、黑毛可读，中央微张口、两侧闭口，单一项圈和星纹吊牌；下身不在近景内，四足身份由三视图锁定。"
+}

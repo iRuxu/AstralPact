@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "status": "修订新稿待用户审阅",
+  "channel": "内置image_gen",
+  "prompt": "Use case: identity-preserve. Edit the supplied character turnaround. Image 1 is the edit target, authoritative for existing identity, face, species, palette and clothes except explicitly requested changes. Image 2 only anchors high-end feature-film CGI material quality and soft lighting; do not inherit dragon features or royal clothes. ONE landscape 3:2 three-view sheet: front left, side center, rear right. Consistent same character full body, all extremities visible, neutral beige studio backdrop and contact shadows. Preserve crisp fur/fabric details, physically based materials, natural subdued highlights. No text labels logos watermark. Change ONLY limb anatomy and corresponding overall sleeves and tool placement. This bee must have exactly TWO ARMS, TWO HANDS, TWO LEGS total in each view. Remove the extra middle pair of arms and sleeves completely. Keep one pair of shoulder arms naturally lowered at sides with existing dark protective gloves. Secure existing multimeter and insulated screwdriver in the tool belt instead of having extra hands hold them. Reconstruct intact torso and work shirt with exactly two sleeves. Preserve existing face identity, antennae, goggles, black-gold fuzz, navy overalls with orange seams, work boots, striped bee abdomen, translucent wings, expression, proportions and all other design details. No hidden or vestigial extra arms.",
+  "references": [
+    {
+      "order": 1,
+      "original_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/蜜蜂-技术工/3D三视图-候选v1.png",
+      "role": "编辑目标，锁身份与保留设计",
+      "note": "第一张生成时位于根目录，生成后已归档至archive/修订前v1/"
+    },
+    {
+      "order": 2,
+      "original_path": "/Users/iruxu/Desktop/2kog/AstralPact/storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅锁CG材质与光线",
+      "note": ""
+    }
+  ],
+  "output": "assets/characters/07-其他散户/蜜蜂-技术工/3D三视图-候选v2.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "source": "/Users/iruxu/.codex/generated_images/01a1fe78-25ae-78e0-9217-f21207e4b532/exec-a3d966f6-eb4a-424e-a864-12a585faecbd.png",
+  "postprocessing": "无",
+  "inspection": "已目视检查三视角、全身与双臂双腿。按用户要求改为双臂双腿，保留既有面部、服装、配色和物种附肢。",
+  "model": "工具未暴露"
+}

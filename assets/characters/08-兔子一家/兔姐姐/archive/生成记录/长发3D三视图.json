@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "prompt": "Create a high-end feature-film 3D CGI character turnaround sheet, landscape 3:2, exactly THREE full-body views of the SAME white rabbit young woman: left straight FRONT, center exact SIDE PROFILE facing left, right straight BACK. Uniform scale, feet on same baseline, generous spacing, complete ears, hair, hands, tail and shoes. Plain warm light grey studio backdrop, soft contact shadows, no text or labels. Reference image is authoritative for identity, face, white fur, long pink-inner ears, brown eyes, pink rabbit nose, youthful feminine proportions, costume and refined CGI materials. Preserve her charming girlish gentle expression. USER EMPHASIS: distinctly LONG white hair, flowing down to waist, with the beautiful braided crown/half-up braid across the back and small sage green ribbon from reference; loose gently wavy hair below braid, clearly show this long hairstyle from side and back. No bun, no short hair, do not hide long hair. Same ivory short puff sleeve blouse, pale sage green pinafore dress with brown strap buttons, fitted waist, below-knee gathered skirt, delicate daisies embroidered around hem, cream ribbon flat shoes. White furry rabbit hands, no human skin. Small round white rabbit tail visible naturally behind dress, not multiple tails. Relaxed neutral standing posture in all views with arms slightly away from body, no meadow, no bending. Small wicker basket of white daisies held in SAME anatomical left hand in each view, basket lowered beside thigh and must not obscure torso/legs; right hand relaxed. Back pinafore straps and waist construction should be physically coherent, not random new outfit. Long hair may cover upper back clothing naturally. Physically based materials, individually resolved fur and hair, fine cotton linen weave, soft warm key and subtle cool fill, natural crisp details. Not a toy, not chibi, no 2D linework, no paper texture, no additional characters, no royal accessories, no watermark. This is a turnaround reference image not a physical 3D model.",
+  "channel": "内置image_gen",
+  "reference": "特写/02-白兔姐姐采花-探索v2.png，锁身份衣装与CG材质",
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "长发与编发方向获认可，新视角待审阅",
+  "inspection": "耳手腿鞋及尾部完整；背面花篮持手与正面不一致，后续需统一；部分背带被长发遮挡",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

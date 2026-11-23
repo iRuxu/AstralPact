@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: stylized-concept. ONE standalone full-body concept portrait of an anthropomorphic mature male CROW, experienced independent retail investor, patient opportunistic bottom buyer after market capitulation. He has accumulated money but lives modestly, buys quality durable clothes, no flashy luxury. Not a short seller. Image 1 reference is ONLY for the exact small SILVER LIGHTNING BOLT lapel badge shape and mature animal-world CGI coherence; do NOT copy eel anatomy or three-piece suit. Image 2 is ONLY for high-end feature-film CGI rendering, nuanced materials and cinematic detail, do NOT copy dragon identity horns jewelry embroidery or palace.\nSingle crow with unmistakable BLACK FEATHERED BIRD HEAD, long robust black crow beak, intelligent narrow dark amber eyes, slight hooded lids and restrained knowing expression, mature subtly weathered eye area, neatly groomed layered head feathers with faint blue-black iridescence, no human hair or human face, no vulture bald head. Lean mature adult humanoid body with slightly forward attentive head carriage, relaxed patient grounded stance, birdlike dark scaled articulated hands with small tidy claws, TWO arms and TWO complete legs, short black crow tail naturally behind coat, no extra wings.\nOutfit: beautifully maintained dark charcoal-olive wool gabardine knee-length trench coat worn open, simple tailored construction, discreet fine stitching, no rips patches stains or exaggerated distress. Muted deep oxblood red cashmere scarf neatly tucked loosely at neck, oatmeal fine gauge knit sweater over ivory collared shirt, charcoal straight tailored trousers and clean well-cared-for dark brown leather lace-up shoes. Small plain brushed steel wristwatch, no gemstones chains cane cigar hat or gold accessories. On anatomical LEFT lapel clearly visible small SILVER lightning bolt pin identical to reference 1. Quality and thrift coexist. Both hands visible: one loosely rests over the other at lower waist, natural avian fingers clearly separated. No props, no money or trading screens. Full beak crown tail feet visible, ample margins.\nNeutral warm grey studio seamless background with natural contact shadows. Portrait 2:3 composition, ONE character ONE view slight front three-quarter. High-end feature-film CGI, physically based materials, individually resolved layered feather barbs, crisp woven wool cashmere leather and brushed metal with distinct roughness, soft warm key subtle cool fill, dark feathers readable, restrained highlights. Elegant art direction, believable volume. Avoid cute baby proportions, villain caricature, threatening sneer, beggar, shabby clothes, royal luxury, plastic toy surfaces, flat comic outlines, painterly smears, text labels watermark collage.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手/雷霆/3D三视图.png",
+      "role": "同款银色闪电徽章；不借用鳗鱼身份与西装"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "电影CG材质与完成度；不借用龙族身份、宫殿与服装"
+    }
+  ],
+  "output": "形象提案-v1.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无；原生输出直接复制",
+  "status": "新稿待用户审阅",
+  "inspection": "已目视检查：全身、鸟喙、黑羽、双手、双腿与鞋完整，银色闪电徽章可见；衣着整洁克制。",
+  "unknown": "模型、seed等未暴露，不推测"
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: identity-preserve. Create a redesigned character turnaround for 璐璐 (Lulu), a young adult male anthropomorphic deer representing an ordinary salaried office worker in AstralPact.\nInput image 1 is the edit target and authoritative for deer identity: preserve the recognizable kind narrow deer face, brown fur, pale muzzle and throat, large ears, branching natural antlers, tousled brown forelock, slender adult proportions, short deer tail, cloven hooves and animal hands. Redesign clothing and accessories as described. Image 2 is ONLY a reference for high-end feature-film CGI material quality and lighting, NEVER borrow dragon anatomy, horns, jewelry, palace decor or royal costume.\nOutput one landscape 3:2 character turnaround sheet with three consistent full-body views, front, left profile, rear, evenly spaced on plain light warm-gray studio backdrop. Full antlers and hooves visible with margins. Same character, outfit and accessories across all views.\nDesign: approachable ordinary young office employee, earnest gentle expression, subtle everyday tiredness but alert and dignified. Neat light dusty-blue cotton button-down shirt with sleeves casually rolled to forearms, simple muted navy tie slightly loosened, charcoal straight office trousers with clean intact hems above visible deer hooves, plain inexpensive dark belt. A small understated ID badge on a short clip at shirt pocket, no readable text, one plain pen. Simple dark charcoal canvas crossbody laptop messenger bag with restrained hardware and mild realistic use, intact and practical, no patches, no bulging papers. Modest slim wristwatch. Hands relaxed naturally at sides, clear animal digits. Long slender neck and adult body, not baby or chibi. Short tail emerges naturally through a tailored rear opening. Clothing looks affordable, cared-for and comfortable, not luxury, not ragged.\nHigh-end feature-film 3D CGI, art-directed animal character with believable volume, individually resolved fine layered fur, woven cotton and canvas grain, soft cloth folds, subtle material roughness, natural antler texture and contact shadows. Soft neutral-warm studio key and subtle cool fill. Crisp natural details. Match image 2's rendering sophistication while using ordinary clothing. No drawing outlines, paper texture, cel shading, plastic toy surface, gold trim, royal accessories, ripped trousers, patches, human face, human bare hands, human feet, extra limbs, text or watermark. This is a coherent production character turnaround, not a collage of scenes.",
+  "references": [
+    {
+      "path": "鹿.png",
+      "role": "鹿的身份、比例与动物结构"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅CG材质与完成度，路径相对项目根目录"
+    }
+  ],
+  "output": "3D三视图.png",
+  "status": "用户已确认，正式采用版本",
+  "postprocessing": "无",
+  "model": "工具未暴露",
+  "review": "已目视检查三视角、鹿角、蹄、尾部及服装；手部采用覆毛拟人手。用户已认可整体形象。",
+  "actual_dimensions": {
+    "width": 1536,
+    "height": 1024
+  },
+  "user_approval": {
+    "date": "2026-11-21",
+    "quote": "可以，就用这个形象，作为璐璐的正式版本，更新相关设定和记录。",
+    "scope": "当前3D三视图整体形象与办公通勤装造型"
+  }
+}

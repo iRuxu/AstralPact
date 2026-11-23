@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制",
+  "path_base": "项目根目录",
+  "approval": "原版形象用户已认可；本次粉色夹子修订及红蓝领带皮肤待审阅",
+  "outputs": [
+    {
+      "file": "特写/01-大笑师傅正面全身-探索v1.png",
+      "prompt": "Edit attached approved image of 熊大笑 panda. Preserve EXACT character face, expression, body proportions, outfit, pose, globe, radio, tag 好人, framing, background, lighting and high-end 3D CGI detail. Make ONE targeted addition: a clearly visible medium-sized PINK BOW HAIR CLIP beside the globe base on viewer-right, between globe and right ear, physically clipping the thin brown headband / globe support to the fur. Show folded pink satin bow loops AND the small clasp underneath so it reads as a fastening clip holding the globe support, not a floating decoration. Bow wide enough to recognize immediately but smaller than globe, must not cover globe or ear. Keep all original details unchanged, no necktie for this original outfit version. Single full-body vertical portrait, no text except exact existing 好人 on the waist tag, no watermark.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/熊大笑/archive/粉色夹子修订前/01-大笑师傅正面全身-探索v1.png"
+      ],
+      "roles": [
+        "唯一附图；已认可原版，锁身份与全身，局部加粉色夹子"
+      ],
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "特写/红领带/01-正面全身.png",
+      "prompt": "Create ONE full body wardrobe skin variant of the EXACT panda character in attached reference. Preserve exact face, warm concerned smile, black-white fur, stout adult proportions, pose, head globe and conspicuous PINK BOW CLIP beside globe visibly clipping support band, waist radio and separate wooden tag with correctly readable vertical Chinese “好人”, trousers, shoes, camera, background and lighting. Wardrobe change ONLY: a smart modest charcoal grey suit jacket worn OPEN with lapels over an ivory WHITE POINT-COLLAR SHIRT and a clearly visible rich RED long NECKTIE (regular tie knot at throat, broad red blade down center chest to waist). Not a bowtie, not a red scarf, not a tie placed over closed mandarin collar. Plain restrained suit, no extra pins or props; belt radio and tag stay outward and unobstructed. Panda hands relaxed near belly, not hiding red necktie. Maintain fine woven cloth, detailed fur, physically based high-end feature-film 3D CGI, neutral warm grey studio, head-to-toe including whole globe, bow and both shoes, vertical 2:3. No text except 好人, no watermark, no collage.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/熊大笑/特写/01-大笑师傅正面全身-探索v1.png"
+      ],
+      "roles": [
+        "唯一附图；锁人物、地球粉色夹子及腰间道具，换西装衬衫红领带"
+      ],
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "特写/蓝领带/01-正面全身.png",
+      "prompt": "Edit the attached image with ONE SINGLE CHANGE ONLY: change the RED NECKTIE into a rich clear BLUE NECKTIE (medium royal blue silk, same weave, knot, dimensions, folds, highlights and position). Preserve absolutely everything else: exact panda identity, concerned warm smile, facial features, fur, pose, charcoal suit, ivory shirt, trousers, globe on head and visible pink bow fastening clip, brown belt, vintage waist radio, separate wooden tag reading exact Chinese 好人, hands, shoes, camera framing, background and cinematic 3D lighting. This is the matching blue color wardrobe skin, not a redesign. One full-body vertical image, no watermark, no extra lettering, no collage.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/熊大笑/特写/红领带/01-正面全身.png"
+      ],
+      "roles": [
+        "唯一附图；仅将领带红改蓝"
+      ],
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "inspection": "三张完整全身，地球、双耳、鞋入画。粉色蝴蝶结与金色小夹扣均清晰位于地球底座旁；收音机、好人两字保留。两套皮肤为灰西装白衬衫，红蓝长领带可辨；局部毛发及织纹存在轻微生成差异。",
+  "archive": "旧无夹子原图备份于archive/粉色夹子修订前/；首次生成记录保留历史事实。",
+  "subsequent_approval": {
+    "date": "2026-11-19",
+    "user_reply": "可以，全部保存吧",
+    "status": "三套图（盘扣服粉色夹子修订、红领带、蓝领带）全部确认采用并保存；保留生成时原审批状态作为历史"
+  }
+}

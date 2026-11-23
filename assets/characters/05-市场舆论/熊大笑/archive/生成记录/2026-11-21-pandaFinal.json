@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Precise accessory continuity fix on this panda three-view CGI sheet. Preserve face fur costume golden cratered moon, little white rabbit hair clip and full body all views. Only correct the portable speaker on the RIGHTMOST REAR VIEW: it is incorrectly hanging in middle of his lower back. Move that same ONE speaker to the panda's ANATOMICAL LEFT HIP (viewer LEFT side of rear view), partly visible at left body silhouette, attached to brown belt with two small loops, consistent with speaker seen on viewer RIGHT in FRONT view and camera-facing hip in SIDE view. Center back belt should be plain leather, no square speaker box there. Do not add second speaker. Keep wood tag 好人 correctly shown front/side. No changes to front and side figures. No other alterations, same 1536x1024 framing, feature-film CGI.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-6e00085d-37a7-458d-8cd4-4b1e7bc74c68.png",
+      "current_project_path": "assets/characters/05-市场舆论/熊大笑/archive/第二集音响位置修订前/01-金月小兔夹-3D三视图.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/characters/05-市场舆论/熊大笑/第二集候选/01-金月小兔夹-3D三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "候选，待用户逐项审阅",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

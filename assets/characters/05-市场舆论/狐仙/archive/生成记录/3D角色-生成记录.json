@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "tool": "内置image_gen",
+  "status": "三视图与独立侧颜均为新稿待用户审阅",
+  "model": "未暴露",
+  "records": [
+    {
+      "name": "3D三视图.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "reference_order": [
+        "assets/characters/02-资本猎手与市场舆论/狐仙/原画三视图.png",
+        "assets/characters/01-龙族王室/龙后/特写/07-龙后抬眼询问.png"
+      ],
+      "reference_roles": [
+        "狐仙身份、服装、多尾、全身比例；按既有规范缩小钻戒",
+        "仅借电影CG材质与光照，不借龙族身份"
+      ],
+      "prompt": "Use case: identity-preserve / stylized-concept. Create ONE premium feature-film 3D CGI character turnaround sheet of QING QIU, the elegant female FOX SPIRIT celebrity. Exactly three full-body views left to right FRONT, strict LEFT PROFILE facing left, BACK. Landscape 3:2, same scale, same ground baseline, full ears hair ornaments hands feet and all fluffy tails visible with margins. Neutral warm grey seamless studio, subtle contact shadows, no text, borders or props.\nReference 1 original fox turnaround is AUTHORITATIVE for exact FOX species identity, beautiful narrow elegant fox muzzle and black nose, long upright pointed ears, golden amber almond-shaped eyes with refined dark eyelids, pale platinum/ivory fur, gracefully swept cheek fur, elaborate ivory-blond updo, gold floral filigree crown comb, floral side hair ornaments and dangling pearl chains with pale lavender drop jewels. Preserve mature feminine attractiveness, confident graceful star presence, sophisticated slender upright body, poised raised hand near shoulder as original and other hand relaxed. Genuine beautiful fox face, NOT a human woman's face with ears. Reference 2 Dragon Queen closeup is ONLY for high-end CGI fidelity, individually resolved fine hair/fur, soft warm key and subtle cool fill, textile thread relief and distinct pearl/stone/metal response. NEVER borrow dragon muzzle, scales, horns, jade colors, dragon identity or crown.\nMatch original wardrobe exactly: champagne ivory silk long gown with raised gold peony/floral embroidery, lavender outer wide sleeves and cape with fine gold borders, pale purple layered underskirt, dark gold embroidered waist sash, oval lavender gemstone waist clasp and matching pendant, softly lustrous pearl shoulder swags and hanging bead/tassel ornaments, original long golden fingernails, delicate ivory furred fox feet with neat gold claws at hem. Preserve multi-tail identity and luxurious full fluffy ivory tail fan with layered independently readable long curved tails rooted anatomically at sacrum, coherent between views. Keep original arrangement rather than inventing extra tails to fill space, no tails from shoulders. Tails remain clear of neighboring figures. Match side and back bun and pearl chains faithfully. IMPORTANT existing project ring rule: replace the oversized diamond in drawing with a SMALL delicate clear diamond ring on the raised hand, stone width no greater than that finger's width, visible facets and fine gold setting, NOT a huge stone, not absent.\nHigh-end feature-film CGI, physically based materials, individually resolved fine ivory fur and hair strands with layered natural flow, fine silk weave and weight, distinctly raised gold-thread embroidery, carved gold filigree with brushed roughness, translucent lavender gems, soft lustrous pearls, tiny brilliant diamond. No flat gold paint, no plastic figurine, no cel shading, no drawn outlines, no paper grain, no smearing, no blown-out white fur, no excessive bloom or depth of field. All three whole figures sharp with crisp natural detail. Preserve reference composition and identity while rebuilding rendering. No microphone, stage equipment, royal dragon accessories or additional people. Highest native detail.",
+      "visual_check": "三角度完整，保留狐狸脸、多尾、盘发和淡紫金服饰；小钻戒可见。尾部重叠，未独立核定总数，微小纹样有生成差异。",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f34e-1af8-7eb2-8822-b61b2f912fa2/exec-61d7cfc9-026e-437f-a27e-2495c26c0c41.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "说明": "摘录已有议会厅v2记录；refs与source为生成当时路径，可能已移动，不作为当前文件入口。",
+  "原始记录": "storyboard/第一集-负和游戏/第二场-议会厅/v2/archive/生成记录/生成记录.json",
+  "tool": "内置image_gen",
+  "records": [
+    {
+      "name": "06-狼王特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-47fc4a34-d916-4455-9249-d76cf5f437c4.png",
+      "prompt": "Use case identity-preserve. ONE landscape16:9 finished cinematic film CG storyboard character closeup, no panels. Image1 AUTHORITATIVE character identity costume and anatomy, if drawing convert rendering only retaining exact design; Image2 same council room geometry and background; Image3 ONLY refined CGI style material detail and lighting, NEVER copy queen species face horns jewelry or white dress. Seated RIGHT NEAR, threequarter medium closeup head chest and hands resting on closed trading ledger at blackgold table, faces screen LEFT to king. Exact crowned SILVERGRAY wolf with long layered graywhite mane cheek fur, upright wolf ears golden eyes thin dark eye contour small antiquegold crown red gemstones, black goldtrim tailored longcoat burgundy waistcoat darkred tie white shirt smallgold lapel pin. Confident worldly slightly sardonic expression lips closed, mature slim upright body not bulky. Background blurred RIGHT darkgold cabinetry and narrow jade panels. High-end feature-film 3D CGI, natural dimensional face anatomy, finely resolved scales fur or wrinkles appropriate to species, convincing cloth weight and folds, raised embroidery only where costume includes it, distinct metal leather pearlstone surfaces. Soft warm key motivated by palace lamps, subtle coolblue window fill, readable facial planes and dark clothing, restrained specular and controlled bloom. Crisp natural fine detail match approved queen closeups, not illustration paper grain celshading plastic videogame or painterly smear. Calm seated council listening portrait, shallow background depth but full face and identifying details sharp. Headgear ears horns fully within comfortable margins. NO text subtitles watermark extra characters or collage.",
+      "refs": [
+        "assets/characters/02-资本猎手与市场舆论/狼王-独立三视图.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    }
+  ],
+  "记录迁移说明": {
+    "原记录位置": "assets/characters/02-资本猎手与市场舆论/狼王/archive/特写历史生成记录.json",
+    "历史相对路径基准": "assets/characters/02-资本猎手与市场舆论/狼王/archive",
+    "说明": "生成时的素材refs/source保持历史原文；其中相对素材路径按原记录位置解析。"
+  }
+}

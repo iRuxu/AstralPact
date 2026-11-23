@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "postprocessing": false,
+  "status": "两版既有形象获认可；本次新增原画待用户审阅",
+  "outputs": [
+    {
+      "path": "地球蝴蝶结版/原画三视图.png",
+      "prompt": "Use case: stylized-concept. Create ONE landscape 3:2 traditional 2D hand-drawn character concept art turnaround sheet, FRONT on left, LEFT SIDE in middle facing left, BACK on right, same scale and ground line, entire head accessory and feet visible. Clean delicate ink and pencil linework with refined painted color shading on plain warm ivory background. This is explicitly 2D 原画, NOT CGI or photoreal render. Reference image is authoritative for panda identity, face, middle-aged round stocky proportions, grey-blue frog-button cloth jacket, dark trousers, black cloth shoes, leather belt, black/white fur and all specified accessories. Gentle slightly worried smile, relaxed arms down. Preserve anatomy and costume across views. Accessories on anatomical LEFT hip (viewer RIGHT in front, viewer LEFT in back). Only one waist device; rear center belt plain. Wood tag shows 好人 vertically in front and side. No labels, watermark or added props. VERSION ONE: precisely preserve blue-green EARTH globe with gold meridian stand and headband, PINK BOW clip beside globe, rectangular vintage RADIO with antenna, tuning dial and speaker grille, wood 好人 tag. No moon or rabbit. Reproduce same design from attached image in 2D with consistent orthographic construction.",
+      "references": [
+        {
+          "order": 1,
+          "path": "特写/01-大笑师傅正面全身-探索v1.png",
+          "role": "第一版身份、服装、比例及配饰"
+        }
+      ]
+    },
+    {
+      "path": "第二集候选/原画三视图.png",
+      "prompt": "Use case: stylized-concept. Create ONE landscape 3:2 traditional 2D hand-drawn character concept art turnaround sheet, FRONT on left, LEFT SIDE in middle facing left, BACK on right, same scale and ground line, entire head accessory and feet visible. Clean delicate ink and pencil linework with refined painted color shading on plain warm ivory background. This is explicitly 2D 原画, NOT CGI or photoreal render. Reference image is authoritative for panda identity, face, middle-aged round stocky proportions, grey-blue frog-button cloth jacket, dark trousers, black cloth shoes, leather belt, black/white fur and all specified accessories. Gentle slightly worried smile, relaxed arms down. Preserve anatomy and costume across views. Accessories on anatomical LEFT hip (viewer RIGHT in front, viewer LEFT in back). Only one waist device; rear center belt plain. Wood tag shows 好人 vertically in front and side. No labels, watermark or added props. VERSION TWO: precisely preserve small GOLDEN cratered MOON sphere on low gold base and brown headband, small WHITE RABBIT hair clip with pink inner ears beside base, compact square vintage portable LOUDSPEAKER with round grille and top knobs on LEFT hip, wood 好人 tag. No Earth, no bow, no antenna, no radio tuning display. Reference is authoritative for every accessory. Reproduce this same design in 2D.",
+      "references": [
+        {
+          "order": 1,
+          "path": "第二集候选/01-金月小兔夹-3D三视图.png",
+          "role": "第二版身份、服装、比例及配饰"
+        }
+      ]
+    }
+  ],
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "inspection": "已目视正侧背全身、头饰与双脚完整；腰间设备位于角色左髋，吊牌好人可辨；各角度细小纹理仍有生成差异。"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE original front-facing 3D cinematic character concept portrait for AstralPact animal fable. Image 1 is ONLY reference for elegant anthropomorphic fox anatomy and high-end fur/material rendering, NOT its identity, outfit or jewelry. Image 2 is ONLY the feature-film CGI quality and dimensional lighting reference, do not copy dragon horns or royal ornaments.\nNew character: an adult female anthropomorphic RED FOX witch, original reinterpretation inspired by Melisandre the Red Priestess from Game of Thrones. Mature alluring, solemn, quietly intense and prophetic, sophisticated rather than cute. Slender elongated elegant proportions, copper russet fox fur, refined fox muzzle, tall fox ears fully visible, subtle cream on muzzle, amber eyes looking directly at camera. Long flowing deep copper-red hair parted centrally around fox ears, no crown. This is a separate character from the white fox celebrity reference.\nCostume: deep oxblood and crimson medieval priestess gown, weighty silk and velvet, fitted graceful bodice, long sleeves and restrained antique gold flame embroidery, red mantle resting on shoulders. The KEY signature is a VERY LARGE oval faceted blood-red RUBY at the BASE OF HER NECK in an antique gold choker, approximately 5 cm tall, immediately eye-catching, complex deep internal red refraction, subtle emberlike core but physically dimensional gemstone, not a flat glowing red disc. Ruby clearly visible and unobstructed by hair. No diamonds, no pearl chains, no Chinese royal headdress.\nComposition: single character facing perfectly forward, symmetrical shoulders, portrait vertical 2:3, head to upper thighs with both hands gracefully resting together near waist, anatomically coherent furry hands. Entire ear tips and hair in frame. Muted dark warm neutral backdrop with very faint defocused firelight, no objects competing with character. Calm composed expression with slight unsettling confidence.\nHigh-end feature-film CGI, physically based materials, individually resolved fur and hair, fine velvet nap, silk weave, raised gold-thread embroidery, distinct aged gold and transparent ruby response. Soft warm key and subtle cool fill, crisp natural detail, rich restrained red palette, clear facial planes and readable dark cloth. Not live action actress likeness. No human face, no human ears, no dragon parts, no text, no watermark, no collage, no toy plastic, no overblown glow.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手与市场舆论/狐仙/特写/01-青丘侧颜.png",
+      "role": "拟人狐结构与毛发材质，不借身份服装"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "电影CG材质与立体光照"
+    }
+  ],
+  "reference_path_base": "项目根目录",
+  "output": "特写/01-赤狐女巫正面-探索v1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无，原生输出复制",
+  "status": "探索稿，待用户审阅；赤狐物种为本次设计提案",
+  "inspection": "正面半身，红发、酒红祭司衣与大红宝石清晰；双手交叠，未展示完整下肢；耳尖接近画面上边缘。",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

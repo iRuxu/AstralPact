@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Edit the attached original hand-drawn three-view green parrot character sheet. Make ONLY this localized change consistently in ALL THREE views: replace the small earpiece headset with LARGE OVER-EAR HEADPHONES consisting of TWO PROMINENT ROUND CIRCULAR EAR CUPS, one on EACH SIDE of the head, big padded circular discs approximately the diameter of the visible eye-to-beak cheek region. Dark charcoal padded cushions, warm dark bronze circular outer shells and small red indicator light, a coherent curved headband connecting both ear cups around/over the saffron turban. Front view MUST clearly show both large symmetric round ear cups protruding at both sides of head, not just a single small earpiece; side view shows one large round cup and sensible headband, back view shows both cups and connecting band. Retain a thin boom microphone ending near the beak, attached to one ear cup. Do not turn them into earmuffs without mic.\nPreserve EVERYTHING else from original: same exact green parrot face, hooked beak, expression, saffron golden-orange wrapped turban and fan-shaped top, coral-red stand-collar outfit, gold buttons and pocket square, feathered hands, long tail, trousers and brown shoes, poses and proportions in each view, front/side/back arrangement, beige paper background, hand-drawn contour lines and restrained colored illustration style. This is a precise edit of original TWO-DIMENSIONAL character art, NOT a 3D conversion, NOT British suit redesign. Entire three figures head-to-toe unchanged and fully inside image, landscape 3:2, no text or watermark.",
+  "references": [
+    {
+      "path": "assets/characters/02-资本猎手与市场舆论/英伦/archive/大圆耳罩修订前/鹦鹉.png",
+      "role": "唯一附图，原画本体；只改耳机，原输入位置为英伦/鹦鹉.png"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "鹦鹉.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "按用户最新要求回到原画头巾红礼服方向；耳机修订新图待审阅",
+  "inspection": "正背面两侧大耳罩清晰，侧面可见单侧大圆耳罩；头带、麦杆、红灯齐全，三视图头顶和双脚完整。局部纹理可能随生成轻微变化。"
+}

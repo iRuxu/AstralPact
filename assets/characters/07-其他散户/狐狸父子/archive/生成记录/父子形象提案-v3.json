@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: identity-preserve. Targeted edit of supplied CGI fox father-and-son full-body portrait. Change ONLY the LEFT FATHER'S face and head expression/design enough to read unmistakably as a wily, calculating, battle-hardened old fox, an experienced shrewd businessman. The current father is too gentle and kindly. Make a strong visible change: much narrower hooded amber eyes with piercing appraising sideways gaze; low angular brows with one eyebrow slightly raised; sharper pronounced cheek planes and leaner angular cheek silhouette; more defined creases at outer eyes and muzzle; long sharp fox muzzle; lips closed with a small asymmetrical knowing smirk, one corner lifted, an expression of someone quietly weighing others' weaknesses and already planning three moves ahead. Chin very slightly lowered, eyes looking out over lowered thin gold spectacles, controlled cold confidence and faint disdain. Mature grey temples and groomed fur, sophisticated and affluent. Cunning and slippery, NOT kindly, warm, innocent, startled, angry snarling, open-mouth grin or grotesque villain. No scars or fangs added. Retain same fox species, grey-brown/cream palette, age 50-55, visible animal face, ears and broad family resemblance.\nEXACTLY preserve father's elegant espresso three-piece suit, burgundy tie, tie pin, pocket square, gold watch, leather document case, full body pose, shoes, tail and framing. EXACTLY preserve the entire RIGHT SON including his distinctive tousled hairstyle, face, expression, streetwear, phone, paws, pose, tail and sneakers. Preserve neutral studio background, lighting, high-end feature-film CGI, individually resolved fur and physically based cloth/leather, full bodies complete ears feet tails, landscape 3:2 composition. No text, logos or watermark.",
+  "references": [
+    {
+      "path": "assets/characters/07-其他散户/狐狸父子/父子形象提案-v2.png",
+      "role": "编辑目标；父亲改老辣奸诈的眉眼面部，保留贵气服装；儿子保持"
+    }
+  ],
+  "output": "父子形象提案-v3.png",
+  "width": 1536,
+  "height": 1024,
+  "postprocessing": "无",
+  "status": "待用户审阅",
+  "inspection": "父亲眼睛收窄、眉峰明显、下颌压低、眼镜下移，嘴角带算计笑意，面部更尖锐。服装与儿子基本延续。"
+}

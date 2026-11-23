@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "prompt": "Revise the referenced white rabbit older sister turnaround into a noticeably TALLER, more mature, refined and beautiful young ADULT woman. Exactly three full-body views on one landscape 3:2 sheet: front, exact side facing left, back. Same scale, same baseline, complete ears and shoes, neutral standing posture, warm light grey studio background. Reference preserves white fur rabbit species, LONG flowing waist-length white hair with beautiful half-up crown braid and ribbon, flower-picking character concept, fine feature-film CGI. Essential redesign: smaller head relative to body, longer torso and elegant longer legs, slim graceful young-adult build, clearly an older sister rather than a little child; approximately seven head lengths excluding ears, no chibi. Face must be genuinely more delicate and naturally pretty: moderately sized almond-shaped brown eyes considerably smaller than reference, softer refined brows, narrow graceful cheek silhouette, reduced puffed cheeks, petite rabbit muzzle and tiny soft pink nose, relaxed closed-mouth subtle smile with NO protruding buck teeth. Keep recognizable furry rabbit face, not human skin or human girl wearing ears. Mature calm gentle feminine expression, not startled wide-eyed or cartoon grin. Long upright rabbit ears proportionate and elegant. Keep white fur, no makeup-heavy glamour. New costume in fresh SOFT PINK palette: ivory delicate puff-sleeve blouse, blush-pink fitted-waist pinafore sundress with softly gathered below-knee skirt, restrained pastel rainbow wildflower embroidery near hem (pale lavender, butter yellow, mint, pale blue), dusty pink ribbon fastening braid, ivory low flat shoes. Cottage spring flower-picker, airy cotton/linen with subtle seams, not a royal gown, no jewels. Both hands empty and relaxed slightly away from body in all views to clearly inspect silhouette; a small wicker basket of wildflowers stands separately on ground beside the FRONT view only, not duplicated or held in changing hands. Single small white rabbit tail in side/back. Hair, face, costume proportions and dress construction consistent across all three views. Physically based materials, individually resolved white fur and long hair, crisp linen weave, soft warm key with subtle cool fill, refined cinematic natural detail. No text, no labels, no collage frames, no other characters, no plastic toy look, no 2D linework.",
+  "channel": "内置image_gen",
+  "reference": "修订前3D三视图.png，现备份archive/粉裙修订前/3D三视图.png；锁白兔长发编发及CG表现，修改比例脸与衣装",
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "待用户审阅",
+  "inspection": "全身完整、身形修长、面部收敛、粉裙；裙边花绣排列存在视角差异，背带局部被长发遮挡",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

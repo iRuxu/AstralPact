@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Precise LOCAL lapel-pin edit. Image 1 is target three-view wolf sheet. Preserve entire approved scarred muscular wolf, all poses, proportions, face, fur, scar, suit, tie, hands, tail, legs, shoes, lighting, background and sheet composition. Modify ONLY lapel pins in front and side views. Image2 is user's authoritative SHAPE SKETCH: one simple slanted ZIGZAG LIGHTNING slash, short broad upper rising stroke, diagonal down kink then long rising lower stroke. Turn this sketched zigzag into a tasteful SMALL double-layer lapel pin: EXACTLY TWO similar slanted Z/lightning silhouettes, one solid vivid RED enamel and one solid WHITE enamel, parallel, slightly offset diagonally, overlapping as two stacked layers; white layer visible offset below/right behind red layer. Both tilted in SAME diagonal orientation matching sketch (overall lower left toward upper right), NOT upright readable typography, NOT M, NOT mountains, NOT diamonds. Compact realistic jewelry about 2cm, fine restrained silver metal edges and natural contact shadow on cloth. Clear two-color red-and-white lightning, each color is its own complete zigzag piece rather than white border around red. Same exact badge design attached anatomical left upper lapel near collar in both front/side with correct perspective. No badge back. No other changes, high-end feature-film CGI, no captions or watermark.",
+  "output": "archive/环形领针修订前/双Z过程-白边版.png",
+  "references": "中信执行时抽象折线三视图＋用户草图",
+  "reference_source": null,
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "结果白色仅像描边，未满足双层要求",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

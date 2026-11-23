@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-21",
+  "action": "用户最终选择既有环形斜切版，原样恢复，不调用生成",
+  "source": "/Users/iruxu/.codex/generated_images/01a1fd63-1eae-7a72-aace-527f9727c271/exec-828051d6-8efd-42c4-b5b9-ad76b3052dfd.png",
+  "output": "3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "用户明确确认采用",
+  "superseded": "archive/最终采用环形版前/3D三视图-双峰一体版.png",
+  "sha256": "6b39f3fb3be608be7f260909d82a5dee76cccc8aec046d6df7c30a896b6faf44"
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "tool": "内置image_gen",
+  "model": "未暴露",
+  "status": "新稿待用户审阅",
+  "size": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "reference_order": [
+    "assets/characters/02-资本猎手与市场舆论/狼王/特写/06-狼王特写.png",
+    "assets/characters/02-资本猎手与市场舆论/狼王/原画三视图.png"
+  ],
+  "reference_roles": [
+    "特写锁定身份、鬃毛、面部和电影CG材质",
+    "原画锁全身比例、服装、尾部及三视图结构"
+  ],
+  "prompt": "Use case: identity-preserve / stylized-concept. Create ONE exquisite high-end feature-film 3D CGI full-body character turnaround of the WOLF KING, a mature sophisticated male anthropomorphic wolf representing securities / non-bank finance. Landscape 3:2, exactly three equal-height full-body figures: FRONT, strict LEFT PROFILE facing left, BACK, aligned ground baseline, generous margins with crown ears tail and shoes fully inside frame. Neutral warm-grey seamless studio, natural contact shadows, no text or borders.\nREFERENCE ROLES: Image 1 approved council closeup is PRIMARY authority for exact current face, silver-grey white layered long mane, upright pointed wolf ears, warm golden eyes, fine dark eyelid contour, black nose, refined long wolf muzzle and closed-mouth confident slightly sardonic expression, antique gold crown with red gemstones, current outfit textures and rendering clarity. Image 2 original full-body drawing is authority for exact tall slim adult body proportions, longcoat cut, front/profile/back arrangement and full tail anatomy. It is ONLY a structural reference; do not copy flat shading, line art or paper texture.\nMaintain exact mature handsome wolf identity, majestic layered mane flowing to upper shoulders with individually resolved fine strands and grey roots, silver-white cheeks and chest ruff, realistic natural wolf paws adapted into humanoid hands with dark claws. No human face. Preserve SMALL open gold royal crown with red gemstone settings, complete tips, crown between ears and same geometry in all views. Black tailored long formal coat with thin restrained gold edging on lapels/cuffs, gold buttons, small gold lapel pin, burgundy patterned waistcoat and dark red patterned silk tie, white shirt, gold pocket watch chain. Coat ends around knee/upper calf, burgundy lining only inside, NOT a robe. Clearly show TWO complete separate black trouser legs, knees, shins, ankles and TWO polished black formal shoes grounded. Back has original waist strap with two buttons and split coat tails around fluffy silver-grey wolf tail; anatomically correct tail attachment at sacrum, full fluffy tail curves down beside legs in profile/front without obscuring shoes, back hangs through coat split. Arms relaxed at sides, both hands clear. No ledger required; no scene furniture or props.\nPremium cinematic CGI physically based materials: individually resolved hair/fur, fine wool cloth weave and tailoring seams, weighty natural folds, subtle raised woven waistcoat and tie pattern, distinct brushed gold crown/buttons and faceted red stones, leather shoe grain and restrained polish. Soft warm key light and subtle cool fill, crisp natural detail across ALL THREE complete figures, no depth of field blur. No plastic toy, painterly smears, hard glowing gold outlines, overexposed fur, cel shading, exaggerated muscular bulk, redesigned outfit, extra characters or limbs. Highest available native detail.",
+  "source": "/Users/iruxu/.codex/generated_images/01a1f34e-1af8-7eb2-8822-b61b2f912fa2/exec-5d0cfa23-718b-45ae-81c4-f28efefe026c.png",
+  "visual_check": "正面、左侧面、背面全身完整，王冠、耳、双手、尾与鞋入画，黑裤两腿及地面承托清楚；保留金边黑礼服、酒红马甲和金链。",
+  "known_limit": "细小衣纹及冠饰跨视角可能存在生成差异，非精确建模结构图。"
+}

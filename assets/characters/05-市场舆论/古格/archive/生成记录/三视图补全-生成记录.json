@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制",
+  "path_base": "项目根目录",
+  "approval": "用户认可正面，称其为火狐；本次三视图待审阅",
+  "outputs": [
+    {
+      "file": "3D三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "Create one landscape 3:2 full-body character turnaround sheet, three separate evenly spaced views of EXACTLY THE SAME adult female anthropomorphic red fox witch: FRONT, true SIDE, BACK, same scale on neutral taupe studio background. The attached user-approved portrait is authoritative for face, russet fox species, tall ears, long copper-red wavy hair, amber eyes, oxblood velvet mantle, deep crimson fitted priestess gown, antique gold flame embroidery, and VERY LARGE oval faceted red ruby at base of neck in broad antique gold choker. Preserve this exact identity and costume without redesign. Extend consistently below the portrait into floor-length graceful gown, two coherent legs beneath gown with small glimpses of dark burgundy shoes at front and side hem, grounded contact shadows. One natural red fox tail with cream tip emerging behind at pelvis below mantle, visible in side and back, not multiple tails. Back hair drapes to waist, mantle falls naturally with readable construction. Slender mature feminine proportions, not cute. Arms relaxed slightly away from body for structural readability, furry hands with coherent fingers. All ear tips, all shoes and tail entirely within canvas, ample margin. No text, no watermark, no panels or decorative borders. Render as high-end feature-film 3D CGI matching reference quality: individually resolved fur and hair, velvet nap, physically based fabric, raised gold embroidery, ruby internal refraction, aged gold roughness, soft warm key with subtle cool fill, crisp natural detail. Three consistent orthographic-like views, no dramatic perspective, no plastic or painterly surfaces.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/光之王传播者女巫/特写/01-赤狐女巫正面-探索v1.png"
+      ],
+      "roles": [
+        "已认可面部、服装、红宝石与材质"
+      ]
+    },
+    {
+      "file": "原画三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "Create one landscape 3:2 full-body character turnaround sheet, three separate evenly spaced views of EXACTLY THE SAME adult female anthropomorphic red fox witch: FRONT, true SIDE, BACK, same scale on neutral taupe studio background. The attached user-approved portrait is authoritative for face, russet fox species, tall ears, long copper-red wavy hair, amber eyes, oxblood velvet mantle, deep crimson fitted priestess gown, antique gold flame embroidery, and VERY LARGE oval faceted red ruby at base of neck in broad antique gold choker. Preserve this exact identity and costume without redesign. Extend consistently below the portrait into floor-length graceful gown, two coherent legs beneath gown with small glimpses of dark burgundy shoes at front and side hem, grounded contact shadows. One natural red fox tail with cream tip emerging behind at pelvis below mantle, visible in side and back, not multiple tails. Back hair drapes to waist, mantle falls naturally with readable construction. Slender mature feminine proportions, not cute. Arms relaxed slightly away from body for structural readability, furry hands with coherent fingers. All ear tips, all shoes and tail entirely within canvas, ample margin. No text, no watermark, no panels or decorative borders. Style MUST be a genuine TWO-DIMENSIONAL HAND-DRAWN character design sheet, refined clean ink/pencil contours, precise flat local colors with restrained hand-painted shadows and light paper texture, detailed costume construction and flame motifs readable, NOT a 3D render or a filter applied to a render. Image 1 locks approved face and collar. Image 2 locks the newly extended full-length dress, mantle, single cream-tipped tail and small burgundy shoes; preserve consistent exact same design in all views. No text.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/光之王传播者女巫/特写/01-赤狐女巫正面-探索v1.png",
+        "assets/characters/02-资本猎手与市场舆论/光之王传播者女巫/3D三视图.png"
+      ],
+      "roles": [
+        "第一张锁身份与项饰",
+        "第二张锁全身及背面服装结构"
+      ]
+    }
+  ],
+  "inspection": "耳尖、手爪、裙摆和尾巴完整，正侧面红宝石可辨，鞋尖有地面承托。长裙覆盖膝腿，未核验裙内下肢；小刺绣有视角差异。",
+  "new_details": "单条奶油尾尖赤狐尾、落地裙、暗酒红鞋及背面衣装为本次延展，待审阅"
+}

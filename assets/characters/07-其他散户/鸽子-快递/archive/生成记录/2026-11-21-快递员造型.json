@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Use case: identity-preserve / stylized-concept.\nCreate a redesigned character turnaround sheet for 哒哒 (Dada), an anthropomorphic pigeon parcel courier representing ordinary working people in AstralPact. Landscape 3:2, three consistent full-body views front, left-facing profile, rear, spaced clearly on a plain light warm gray studio background. This is an intentional character turnaround, no decorative panels.\nReference image 1 is the old pigeon design: authoritative for pigeon species, gray plumage, green-purple iridescent neck, pale cere and beak, wing arms with feathered tips (NO human hands), scaled bird feet, compact sturdy adult build. Redesign clothing and expression as below.\nReference image 2 is ONLY the rendering and material quality anchor: high-end feature-film CGI, physically based materials, crisp individually layered feathers and woven fabrics, soft key and subtle cool fill, natural contact shadows. DO NOT copy dragon anatomy, jewelry, gold embroidery, palace or royal costume. No paper grain, sketch lines, cel shading.\nDesign: a modest everyday male adult pigeon courier, alert, dependable, approachable, slightly tired eyes with quiet dignity; avoid angry villain brows and exaggerated misery. Worn but well-maintained off-white bicycle helmet with securely fastened dark chin strap. Replace the ragged long overcoat and scarf with a practical muted brick-red zip-front short work jacket / delivery vest over slate-gray work shirt, restrained silver reflective bands on chest/back and shoulders, reinforced pockets, visible functional seams, mild rubbed cuffs and small neat repair, no large holes or ragged hems. Dark gray practical work trousers, both legs fully visible ending above strong scaled pigeon feet with readable claws. Preserve wing anatomy with tailored sleeve openings and feathered lower wings; no extra arms. Gray tail feathers visible below hem. Lightweight rectangular brick-red waterproof PARCEL delivery backpack, sensible size not oversized, padded shoulder straps and waist support, functional zip flap, subtle wear, reflective strip, small blank parcel label holder, simple taped cardboard parcel visible in outer retaining strap/pocket. This is parcel delivery, not a food warmer. One compact handheld barcode scanner in belt holster with wrist tether, a slim delivery slip pouch and a small practical water bottle attached to backpack; remove stock charts, antique messenger satchel and bulky ornamental pouches. No corporate brands, no invented logos, no readable text.\nAll three views must depict exactly the same costume, equipment, helmet, anatomy and colors. Rear view explains backpack construction, side view makes beak and load clear, front view leaves chest and face readable. Natural upright standing posture with slight forward work-ready inclination, not hunched or helpless. Complete helmet, backpack, wings, trousers, feet and tail in frame. Fine feather barb detail, soft natural iridescence, realistic cloth weight and rough nylon fabric, restrained highlights, no toy plastic, no over-sharpening.",
+  "references": [
+    {
+      "path": "assets/characters/07-其他散户/哒哒/鸽子.png",
+      "role": "身份与物种，服装按本次要求重设计"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅CG材质与细节"
+    }
+  ],
+  "output": "3D三视图-快递员提案.png",
+  "width": 1536,
+  "height": 1024,
+  "postprocessing": "无",
+  "review": "已目视检查，三视图头盔、灰羽、工装、背箱、鸟翼鸟爪完整。箱体仍具有保温配送箱外形，包裹和扫码终端辅助明确快递身份。待用户验收。",
+  "status": "提案，未获用户确认",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

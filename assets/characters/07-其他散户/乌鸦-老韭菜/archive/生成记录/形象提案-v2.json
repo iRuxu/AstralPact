@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: identity-preserve. Make a very targeted edit to this approved full-body crow character portrait. ONLY ADD a small tasteful tuft of fresh green CHINESE GARLIC CHIVE LEAVES (韭菜) as a head ornament at the crown, nestled securely among the top feathers. About 5 slender FLAT strap-shaped green blades, varied lengths, gently curving upward and slightly back, modest size roughly one quarter of head height. Clearly recognizable leafy chives, not scallion tubes, not a flower, not antlers, no pot, no soil, no roots. A subtle witty visual symbol for a seasoned retail investor, dignified rather than clownish. Preserve the original black feather crown around the ornament. Keep the ENTIRE remainder EXACTLY as reference: same crow identity, beak, eyes, expression, head angle, feather detail, body proportions, crossed hands, watch, charcoal olive long coat, burgundy scarf, knit sweater, trousers, leather shoes, tail, small SILVER LIGHTNING BOLT on left lapel, pose, studio background, light and framing. High-end feature-film CGI, physically based materials; chive leaves have believable subtle longitudinal texture and restrained natural green. No redesign or added accessories. Maintain full-body portrait 2:3, enough top margin for all leaves, no cropping, no text watermark collage.",
+  "references": [
+    {
+      "path": "assets/characters/07-其他散户/乌鸦/形象提案-v1.png",
+      "role": "用户认可的基础形象，仅增加头顶韭菜装饰"
+    }
+  ],
+  "output": "形象提案-v2.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无",
+  "status": "v1获用户认可；v2新增韭菜装饰待审阅",
+  "inspection": "已目视检查：头顶绿色叶簇清晰，完整全身、衣着与徽章保留。"
+}

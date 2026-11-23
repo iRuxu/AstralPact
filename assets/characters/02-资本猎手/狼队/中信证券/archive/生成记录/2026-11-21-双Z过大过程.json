@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "LOCAL badge-only correction. Preserve entire wolf sheet unchanged except pins. Current pin is ONE red zigzag with white outline; user needs TWO COMPLETE separate zigzags. On each visible left lapel, create a SMALL paired lightning emblem: a solid RED slanted Z/lightning on TOP, and a SECOND solid WHITE slanted Z/lightning BELOW and slightly RIGHT of it, separated by a visible narrow DARK GAP of suit fabric. Each complete bolt must have its own upper stroke, central kink, lower stroke. Both parallel tilted matching current red bolt shape. Two clearly countable complete bolts, one red one white, approximately equal size. The lower white bolt must be visible full length, not merely edging or shadow. Together small realistic silver-backed enamel brooch attached naturally, not huge cartoon icon. No M letter, no white outline as substitute for second bolt. Keep scar, face, fur, suit, body, hands, back view, all lighting and sheet layout precisely unchanged.",
+  "output": "archive/环形领针修订前/双Z过程-尺寸过大版.png",
+  "references": "双Z白边过程图",
+  "reference_source": null,
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "用户否定：徽章过大、材质像画上去",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

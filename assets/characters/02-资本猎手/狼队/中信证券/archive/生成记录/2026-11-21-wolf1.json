@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE landscape 3:2 full-body turnaround of SAME character: left FRONT, middle SIDE, right BACK. Equal scale and baseline, all ears/horns/tails/hands/legs/shoes fully visible. Neutral standing, warm grey plain studio, no labels, no text except explicitly requested. Optimize first reference slim adult male grey wolf in black pinstripe three-piece suit, white shirt, burgundy tie and watch chain. Shrewd composed analyst. First image authoritative anatomy/costume, second ONLY CGI fur/material, NEVER crown or king identity. Add clear small red squared interlocking angular geometric chest badge inspired by CITIC securities visual language, not lettering. Consistent badge on character left chest in each angle. Both hands relaxed, one tail. High-end feature-film 3D CGI, physically based materials, individually resolved fur or appropriate skin, woven cloth, crisp natural detail, soft warm key subtle cool fill, no plastic, no 2D outlines, no watermark.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/小狼-中信证券.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼队/小狼-中信证券.png",
+      "role": "参考分工及优先级见完整提示词"
+    },
+    {
+      "order": 2,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/特写/06-狼王特写.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/02-资本猎手/狼王/特写/06-狼王特写.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/characters/02-资本猎手/狼队/archive/第二集临时徽章/01-修长精英狼-3D三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "过程版本，已被修订替代",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

@@ -1,0 +1,24 @@
+{
+  "说明": "摘录已有议会厅v2记录；refs与source为生成当时路径，可能已移动，不作为当前文件入口。",
+  "原始记录": "storyboard/第一集-负和游戏/第二场-议会厅/v2/archive/生成记录/生成记录.json",
+  "tool": "内置image_gen",
+  "records": [
+    {
+      "name": "04-八爪特写.png",
+      "source": "/Users/iruxu/.codex/generated_images/01a1f059-ccf9-7a70-b7fe-240e71c3c231/exec-6dc408e6-e5fd-4cc4-a6fc-2e9787364076.png",
+      "prompt": "Use case identity-preserve. ONE standalone landscape16:9 cinematic film CG still, elegant SPIDER NOBLEWOMAN Bachua seated at LEFT NEAR seat of same council room, medium closeup face shoulders waist and TWO hands resting at blackgold table edge, threequarter body turned slightly toward screen RIGHT toward king. Image1 authoritative exact character identity anatomy attire: dark purplegray genuine SPIDER FACE multiple glossy blackgold eyes and distinct original mandible contours, NOT human nose lips chin and NOT hairy tarantula; sophisticated mature graceful dignity. Ornate dark sculpted bun pearl chains gold floral hairpieces, pearl earrings necklaces, rich deep plum gown gold raised WEB embroidery shawl and magnificent clear faceted diamond ring on one hand, ring clearly visible. TWO humanlike arms/hands plus exactly SIX jointed spider appendages connected to BACK, 3 per side, fold gracefully around chair; do not grow extra hands. Keep visible head and hair complete with margin, dignified slim upright torso. Image2 room reference background LEFT windows blue coastal city consistent, warmgold white flowing ribs and blackgold chair, shallow blur. Image3 ONLY high-end dimensional CGI quality soft warm key coolblue fill precise strands pearls embroidery nuanced chitin roughness, do NOT copy queen horns muzzle white scales or gown. Beauty with inhuman spider identity, no smile grotesque teeth or horror gore. Camera at seated eye level, subject face clear and poised listening, no dialogue text labels collage watermark.",
+      "refs": [
+        "assets/characters/03-内政与司法/蜘蛛-八爪.png",
+        "assets/scenes/议会厅/v2/01-正面视角.png",
+        "storyboard/第一集-负和游戏/第一场-宫殿开场/v2/07-龙后抬眼询问.png"
+      ],
+      "actual_width": 1672,
+      "actual_height": 941
+    }
+  ],
+  "记录迁移说明": {
+    "原记录位置": "assets/characters/03-内政与司法/蜘蛛/archive/特写历史生成记录.json",
+    "历史相对路径基准": "assets/characters/03-内政与司法/蜘蛛/archive",
+    "说明": "生成时的素材refs/source保持历史原文；其中相对素材路径按原记录位置解析。"
+  }
+}

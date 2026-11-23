@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: style-transfer. Asset: 牛来二维手绘原画三视图，横向3:2。唯一参考图为用户选定的最初CG候选，锁定同一牛角色身份、脸型、壮实成年男性比例、弯角、耳朵、深棕短发、黄棕毛、浅色口鼻、尾巴，严格保留浅蓝Polo、敞开深蓝工作夹克、深卡其工装长裤、深色驾驶鞋、角色左胸橙色车形别针、腰间车钥匙，不重新设计。将参考画面重绘为专业二维手绘角色设定原画：清楚细致的手绘轮廓，克制平涂和柔和手绘阴影，浅米灰干净背景，无CG渲染、无摄影材质。左正面、中左侧面、右背面，同一角色同一比例同一基线，完整角尖至鞋底、尾巴完整，留足边距。保留双手插袋的自然站姿。手机与车载支架在最左侧单独陈列，黑屏，无车辆。三个角度服装和配饰位置一致，普通网约车司机气质、亲切略疲倦的神态。不添白胡须、老人装、药袋、皇冠、出租车顶灯、品牌文字。不加标题标签水印。This is a hand-drawn 2D design sheet, not 3D.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/07-其他散户/牛来/第二集候选/01-网约车司机-3D三视图.png",
+      "current_project_path": "assets/characters/07-其他散户/牛来/3D三视图.png",
+      "role": "锁定用户选定最初候选的身份、比例、服装与配饰，仅转换为二维手绘"
+    }
+  ],
+  "output": "assets/characters/07-其他散户/牛来/原画三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "CG最初候选已由用户选定；本次补制原画待用户审阅",
+  "inspection": "已目视正侧背、双角、尾巴、双腿双鞋、服装与配饰；双手插袋，无法完整验收手指。",
+  "relocation": "最初CG候选移至角色根目录3D三视图.png，历史实际生成记录不改写。"
+}

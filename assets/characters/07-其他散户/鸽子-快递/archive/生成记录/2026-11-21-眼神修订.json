@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Edit this exact pigeon courier three-view sheet. Change ONLY the eyes and immediately surrounding brow/eyelid feathers in the front and profile views. User approves all other design. Make Dada's gaze look more vulnerable, socially timid and deferential, with a gentle slightly worried working person's expression. Remove the stern inward-slanting brow ridge and confrontational sharp stare. Relax the upper eyelids and brow feathers, raise the inner brow slightly, soften lower lids, subtly direct gaze a little downwards. He looks mild, a little apprehensive and tired, quietly humble, still an adult with dignity. Clearly visible change in gaze, not just a softer render. No tears, no exaggerated crying, no baby eyes or huge pupils, no caricature. Preserve exactly his pigeon identity, beak, head size, helmet, iridescent neck, all feathers outside eye region, upright posture, red courier uniform, scanner, backpack, packages, bottle, trousers, bird feet, all three views, camera, framing, lighting, gray background, and high-end physically based film CGI detail. Rear view unchanged. Same landscape 3:2 turnaround layout.",
+  "references": [
+    {
+      "path": "archive/眼神修订前/3D三视图-快递员提案.png",
+      "role": "唯一编辑目标，实际生成时使用归档前原路径"
+    }
+  ],
+  "output": "3D三视图-快递员提案.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无",
+  "review": "已目视检查：正面和侧面眉眼变得温和、忧虑，服装装备与三视图布局保持。生成式编辑存在细微像素变化。",
+  "status": "用户认可上一版造型，本次眼神修订待验收",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

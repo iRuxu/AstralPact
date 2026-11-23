@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-21",
+  "status": "待用户审阅，未替换正式版",
+  "channel": "内置image_gen",
+  "prompt": "Use case: identity-preserve. Asset: revised CGI character turnaround sheet for 牛来, landscape 3:2, three full body views front, left profile, back, same layout as image 1.\nReference priority: Image 1 is the edit target and authoritative for adult male bull's sturdy driver physique, costume, accessories, pose and sheet layout. Image 2 is the user's film homage reference: borrow golden-yellow short fur, a rounded broad forehead with virtually no dark hair tuft, short upright subtly curved gray horns, relaxed half-lidded eyes, narrow expressive brown eyebrows, a broad pale cream muzzle and slightly fuller lips, a good-natured worldly subtly shrewd expression. Integrate these traits into 牛来 as a restrained refinement, recognizably a clothed adult working driver. Image 3 ONLY locks high-end feature-film CGI material quality and soft light, never borrow dragon anatomy, jewelry, clothing or palace.\nKeep image 1's light blue polo, open dark navy work jacket, dark khaki cargo trousers, dark driving shoes, orange car pin on CHARACTER LEFT chest, keys on belt, brown bull tail, hands in pockets and separately displayed phone with car mount. Preserve body proportions and full legs and shoes. Modify head consistently in all three views: brighter warm golden ochre fur rather than brown, smooth rounded short-furred crown replacing large dark tousled hairstyle, much shorter gray textured horns, relaxed slightly half-lidded eyes rather than wide worried eyes, straight thin eyebrows, cream protruding muzzle with understated fleshy lips. Friendly tired driver with a small knowing smile, not arrogant or villainous. Natural golden fur not neon yellow.\nHigh-end feature-film CGI, physically based materials, individually resolved fine short fur, convincing weighty fabric weave and seams, worn leather shoes, restrained metal highlights. Soft studio key light and subtle cool fill, neutral warm gray backdrop, crisp natural details, no plastic toy look. Three matching orthographic-like full body views with all horns, ears, tail and shoes in frame, ample spacing. No labels, subtitles, text or watermark. Do not introduce additional props or change occupational identity.",
+  "references": [
+    {
+      "path": "3D三视图.png",
+      "role": "原采用版，锁体型服装配饰布局"
+    },
+    {
+      "path": "/var/folders/hz/wsm91w2n3d5dwnh41mp7zrwm0000gn/T/codex-clipboard-2b9108cd-4ef8-43cf-b1ae-6d013c79942c.png",
+      "role": "用户电影截图，锁致敬特征；临时原路径"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "项目根目录为基准，仅CG风格材质参考"
+    }
+  ],
+  "output": "3D三视图-电影致敬候选v2.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "review": "已目视检查，手插袋不验收完整手指；用户尚未确认",
+  "model": "工具未暴露"
+}

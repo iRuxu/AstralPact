@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. ONE original full-body front-facing character concept in high-end feature-film 3D CGI for animal financial fable AstralPact. Character named 熊大笑, nicknamed 大笑师傅. An unmistakably adult middle-aged male anthropomorphic GIANT PANDA, round kind face, recognizable black eye patches, round black ears, white and black individually resolved fur. Stout friendly mature build, believable adult proportions, two strong legs and grounded feet, NOT a baby panda. Warm slightly rueful smile, wise gentle eyes with a subtle concerned knowing expression: a modest man trying quietly to warn ordinary people against deception, approachable and not a clown or villain.\nTHREE essential signature props, all extremely clear:\n1. A SMALL EARTH-GLOBE TOY securely perched ON TOP OF HIS HEAD between the ears, blue ocean and recognizable green continent shapes, tiny brass-toned cradle/base on a discreet headband so structurally supported. Globe roughly one quarter head width, playful but tasteful, entire globe visible.\n2. A vintage compact PORTABLE RADIO hanging at his waist from a leather belt, on viewer-right hip, outward facing: weathered brown casing, round speaker grille, tuning scale, two knobs and a short aerial, visibly a radio rather than a purse.\n3. RIGHT BESIDE THE RADIO hangs a separate substantial ivory/wooden rectangular tag on a cord, front plane facing camera and unobstructed. The tag has exactly TWO CLEAR BLACK CHINESE CHARACTERS: “好人”. Arrange vertically 好 above 人, large correctly formed plain printed characters, not scribbles. No other words anywhere.\nCostume proposal: plain well-tailored warm grey-blue Chinese stand-collar jacket with simple frog buttons, cream inner collar, dark charcoal straight trousers, comfortable black cloth shoes, slightly worn everyday fabric. Modest and approachable, no royal gold embroidery. His dark furry hands relaxed in front near abdomen without hiding radio or tag. No extra props, no cane, no spectacle glasses, no hats competing with globe.\nFull head-to-toe portrait, vertical 2:3, leave margin around globe and both feet, neutral warm grey studio background, soft natural floor contact shadow. Attached reference is ONLY for physically based rendering and cinematic quality, do NOT inherit dragon identity, horns, jewelry or royal gown. High-end feature-film CGI, physically based materials, individually resolved fur, woven cloth texture, distinct radio metal/leather/plastic and printed wood tag, soft warm key and subtle cool fill, crisp natural detail, realistic volume yet appealing art direction. Not photoreal human, no human face, no toy plastic fur, no painterly smears, no watermark, no collage.",
+  "references": [
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅电影CG质感、材质和光照；不借角色身份"
+    }
+  ],
+  "path_base": "项目根目录",
+  "output": "特写/01-大笑师傅正面全身-探索v1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "postprocessing": "无，原生输出复制",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "status": "探索稿待审阅",
+  "inspection": "头顶地球、双耳、鞋完整；收音机喇叭调谐盘天线可辨，吊牌好人两字正确可读。灰蓝盘扣服装、头带地球支架和中年方向为设计提案。"
+}

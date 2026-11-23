@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE standalone full-body first character proposal for AstralPact, portrait composition, a WHITE anthropomorphic rabbit young ADULT woman, the older of two rabbit sisters, daughter of a rabbit mother and tiger father. Show ONLY the older sister. Clearly a rabbit face with fine white fur, gentle short rabbit muzzle, small pink nose, long upright pink-inner ears, expressive warm brown eyes, subtle feminine lashes, a little swept white forelock, slim natural young-adult proportions, graceful but ordinary working-family appearance. Warm intelligent curious expression, small restrained smile, relaxed standing three-quarter front pose, arms naturally relaxed, complete ears and both feet within frame. Proposed everyday costume: simple pale dusty blue cardigan over an ivory cotton blouse, modest muted blue calf-length skirt, practical brown flat lace-up shoes, small plain canvas shoulder bag. Tasteful simple clothing with believable weave and seams, no royal jewelry, no tiara. White fur hands with readable anatomy. Plain warm light-grey studio background, soft contact shadow, no text, no other characters. Image 1 is the old male brown rabbit design ONLY for the world's anthropomorphic rabbit anatomy and ordinary-family character language; do NOT copy its brown fur, male identity, hoodie, or childlike proportions. Image 2 is PRIMARY for rendering quality, refined cinematic material and soft lighting ONLY; never borrow dragon anatomy, horns, scales, jewelry, gold embroidery, royal clothing or palace setting. High-end feature-film 3D CGI, physically based materials, individually resolved fine white fur and layered hair, weighty woven fabric with convincing folds, crisp natural detail, soft warm key and subtle cool fill, controlled highlights. Not a human girl wearing bunny ears, not a plush toy, not chibi, no cartoon outlines or paper grain. This is a new unapproved character proposal, not a redesign of the old rabbit.",
+  "references": [
+    {
+      "path": "assets/characters/08-兔子一家/兔子.png",
+      "role": "仅参考兔类拟人结构与普通家庭角色语言，不复制性别毛色衣装"
+    },
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅锁CG材质与灯光"
+    }
+  ],
+  "output": "特写/01-白兔姐姐全身-探索v1.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "postprocessing": false,
+  "status": "新设计待用户审阅",
+  "knownIssues": "背面及尾部结构未验证；未生成三视图",
+  "model": "工具未暴露",
+  "seed": "工具未暴露"
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "model": "工具未暴露，不推测",
+  "postprocessing": "无",
+  "approval": "用户已认可茶楼掌柜全身探索v1；本次新增两张三视图待用户审阅",
+  "results": [
+    {
+      "file": "3D三视图.png",
+      "dimensions": "1536×1024",
+      "prompt": "Create a single landscape 3:2 CHARACTER TURNAROUND SHEET, exactly three equally scaled full-body views side by side: FRONT, true LEFT PROFILE (nose points left), BACK. Same character, matching head height and ground baseline, ample margin, all ears and shoes intact. Plain warm ivory background, soft contact shadows, NO labels or text. Reference image 1 is the user-approved pig shopkeeper, authoritative for identity, mature face, anatomy, proportions, colors, costume, and fine details. Preserve his broad kind pig face, pink skin, sparse pale bristles, folded ears, round sturdy adult build, warm intelligent eyes, welcoming subtle smile. Exactly two arms and two legs, porcine hoof-like hands with dark nails. Muted petrol-teal frog-button jacket, cream inner shirt and rolled cuff linings, brown sash, loose warm brown full trousers and dark brown practical shoes. Small cream striped towel tucked at CHARACTER RIGHT waist, visible consistently only when camera allows. Arms relaxed slightly away from body for legibility, empty hands for anatomical clarity, no teapot in hands. Back construction understated, matching jacket hem and sash; no invented decorative emblems. Modest tea-house proprietor, comfortable and clean, not rich aristocrat. Preserve identity rather than redesigning into child mascot. No shop background, no props display, no extra people, no collage borders. Render in the SAME high-end feature-film 3D CGI as reference: physically based pink skin with subtle subsurface scattering, individually resolved sparse bristles, detailed woven fabrics and seams, convincing weighty folds, distinct leather shoes, soft warm key with subtle cool fill, natural sharp detail, restrained highlights. No hand-drawn lines, no flat cel shading, no plastic toy.",
+      "references": [
+        {
+          "path": "特写/01-茶楼掌柜全身-探索v1.png",
+          "role": "已认可身份、造型、材质"
+        }
+      ]
+    },
+    {
+      "file": "原画三视图.png",
+      "dimensions": "1536×1024",
+      "prompt": "Create a single landscape 3:2 CHARACTER TURNAROUND SHEET, exactly three equally scaled full-body views side by side: FRONT, true LEFT PROFILE (nose points left), BACK. Same character, matching head height and ground baseline, ample margin, all ears and shoes intact. Plain warm ivory background, soft contact shadows, NO labels or text. Reference image 1 is the user-approved pig shopkeeper, authoritative for identity, mature face, anatomy, proportions, colors, costume, and fine details. Preserve his broad kind pig face, pink skin, sparse pale bristles, folded ears, round sturdy adult build, warm intelligent eyes, welcoming subtle smile. Exactly two arms and two legs, porcine hoof-like hands with dark nails. Muted petrol-teal frog-button jacket, cream inner shirt and rolled cuff linings, brown sash, loose warm brown full trousers and dark brown practical shoes. Small cream striped towel tucked at CHARACTER RIGHT waist, visible consistently only when camera allows. Arms relaxed slightly away from body for legibility, empty hands for anatomical clarity, no teapot in hands. Back construction understated, matching jacket hem and sash; no invented decorative emblems. Modest tea-house proprietor, comfortable and clean, not rich aristocrat. Preserve identity rather than redesigning into child mascot. No shop background, no props display, no extra people, no collage borders. Image 2 is the corresponding newly generated CGI turnaround, use to match costume back construction, hand anatomy and exact view consistency; image 1 remains authoritative for user-approved identity. Image 3 is ONLY a hand-drawn STYLE reference: borrow clean fine dark linework with varied weight, restrained cel color blocks, gentle volumetric painted shadows, faint paper grain and elegant mature animation character design. Do NOT borrow dragon horns, crown, long robes, pearls, scales or tail. Render this pig as a genuinely TWO-DIMENSIONAL HAND-DRAWN ORIGINAL CHARACTER DESIGN, not a 3D render with outlines or a filtered photograph. Precisely articulated garment seams, simplified readable fur hatching and fabric shading. Same petrol-teal, cream and brown palette, same anatomy and proportions. No royal ornament, no text.",
+      "references": [
+        {
+          "path": "特写/01-茶楼掌柜全身-探索v1.png",
+          "role": "已认可角色身份与造型"
+        },
+        {
+          "path": "3D三视图.png",
+          "role": "本轮CG三视图，服装背部及视角结构"
+        },
+        {
+          "path": "assets/characters/01-龙族王室/龙后/原画三视图.png",
+          "role": "仅手绘表现，路径相对项目根"
+        }
+      ]
+    }
+  ],
+  "inspection": "已目视检查：正、侧、背三视角，完整耳部、双臂、长裤、双鞋和落地关系；青灰外褂、米色内衫、棕腰带及角色右侧布巾基本对应。无茶壶以便结构核对；尾部未外露，不据此新增尾型设定。三视角手部指甲数量、盘扣细节仍有生成差异，后续精确手部镜头以已认可原图为优先，不将本图当作建模拓扑规范。",
+  "reference_path_basis": "前两类角色内相对路径；龙后路径相对项目根。"
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "Create ONE landscape 3:2 THREE-VIEW full-body feature-film 3D CGI turnaround of the SCARRED MUSCULAR WOLF from reference IMAGE 1. Left front view in SAME arms-crossed pose, center exact side facing left arms naturally down, right back arms down, same scale baseline, all ears tail hands trouser legs and shoes complete. Image 1 is AUTHORITATIVE identity: extremely broad shoulders, thick powerful muscular chest and arms, thick neck, blocky strong wolf muzzle and square face, short grey fur, small stern amber eyes, distinctive diagonal healed scar across anatomical RIGHT eye and cheek (viewer LEFT on front). Preserve scar anatomical side across views; side view facing left shows scar as reference. Black/charcoal plain tailored three-piece business suit, white shirt, deep burgundy tie and burgundy pocket square. NOT slim, NOT fat round-bellied, no glasses, no cigar, no crown. IMAGE 2 supplies ONLY refined CGI fur, wool weave, soft studio lighting and physically based materials; do NOT copy its slim body, long fluffy head hair, face or pinstripe fabric. Add ONE clearly legible lapel pin on anatomical LEFT upper lapel near collar: bold capital letter M in RED AND WHITE enamel, red M strokes with thin WHITE enamel border, neat compact metal setting. No other lettering or logos; letter M not W, no square-knot badge. In front pose pin must remain visible above crossed arms, same pin present on side if lapel visible, no pin on back. Physically based fur individually resolved, natural wool folds weight, soft warm key subtle cool fill, crisp natural detail. Plain warm grey studio background, no panels dividing views, no labels, no text except M on pin, no toy/plastic or 2D outlines. This redraw replaces old slim CITIC wolf with clearly distinct scarred muscular identity, preserving Image 1 proportions.",
+  "references": [
+    {
+      "order": 1,
+      "path": "assets/characters/02-资本猎手/狼队/archive/v1/小狼-壮硕护卫型-三视图.png",
+      "role": "身份、体型、刀疤、姿态和服装"
+    },
+    {
+      "order": 2,
+      "path": "assets/characters/02-资本猎手/狼队/中信证券/3D三视图.png（执行时旧修长版）",
+      "current_path": "assets/characters/02-资本猎手/狼队/中信证券/archive/刀疤壮硕版启用前/3D三视图.png",
+      "role": "仅CG毛发、织物与灯光"
+    }
+  ],
+  "output": "assets/characters/02-资本猎手/狼队/中信证券/3D三视图.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "status": "用户指定造型方向；新CG待审阅",
+  "inspection": "宽肩刀疤、抱臂、红白M领针可读，耳尾腿鞋完整；手爪徽章透视衣褶仍有角度差异",
+  "model": "未暴露",
+  "seed": "未暴露"
+}

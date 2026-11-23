@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置image_gen",
+  "prompt": "ONE landscape 3:2 full-body turnaround of SAME character: left FRONT, middle SIDE, right BACK. Equal scale and baseline, all ears/horns/tails/hands/legs/shoes fully visible. Neutral standing, warm grey plain studio, no labels, no text except explicitly requested. Precisely preserve reference Xiong Daxiao panda identity, round middle-aged male, gentle worried smile, grey-blue traditional frog-button cotton jacket, dark trousers and cloth shoes, black/white fur. CHANGE head globe to GOLDEN MOON: small metallic golden sphere with visible LUNAR CRATERS, no continents or Earth map, same secure headband/base, no tall globe armature. REPLACE pink bow with clear small WHITE RABBIT hair clip with two long ears and tiny pink ear centers, visibly clipped beside moon base, NOT bow. Waist compact vintage portable LOUDSPEAKER with clear speaker grille replacing radio, leather strap, retain wood tag with legible Chinese text 好人 in two vertically arranged characters. Hands relaxed. Same accessories locations across three views, back shows headband and speaker attachment. High-end feature-film 3D CGI, physically based materials, individually resolved fur or appropriate skin, woven cloth, crisp natural detail, soft warm key subtle cool fill, no plastic, no 2D outlines, no watermark.",
+  "references": [
+    {
+      "order": 1,
+      "actual_input_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/特写/01-大笑师傅正面全身-探索v1.png",
+      "current_project_path": "/Users/iruxu/Desktop/2kog/AstralPact/assets/characters/05-市场舆论/熊大笑/特写/01-大笑师傅正面全身-探索v1.png",
+      "role": "参考分工及优先级见完整提示词"
+    }
+  ],
+  "output": "assets/characters/05-市场舆论/熊大笑/archive/第二集音响位置修订前/01-金月小兔夹-3D三视图.png",
+  "actual_size": [
+    1536,
+    1024
+  ],
+  "postprocessing": false,
+  "model": "工具未暴露",
+  "seed": "工具未暴露",
+  "status": "过程版本，已被修订替代",
+  "inspection": "已目视主体、全身/空间布局；细节局限见所属README"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Use case: stylized-concept. Create ONE standalone character exploration portrait for AstralPact, landscape 16:9. A dignified anthropomorphic middle-aged male domestic PIG who owns a modest successful tea house. Full body standing three-quarter view, both feet fully visible and grounded, face large enough to appreciate. Rounded sturdy well-fed physique but believable adult proportions, warm pale pink skin with fine sparse bristles, broad expressive porcine snout, soft naturally folded pig ears, kind intelligent dark eyes with subtle smile lines, gentle welcoming closed-mouth smile. Clearly a pig, not a human with pig nose, not boar. Relaxed confident shopkeeper posture, one hoof-like articulated hand holding a small dark clay teapot at waist height, other arm relaxed. Tastefully tailored muted petrol-teal Chinese-inspired everyday jacket with simple frog closures, cream shirt, warm brown trousers and practical dark shoes, clean soft woven fabrics, slight lived-in wear, small cloth towel tucked at waist. Looks comfortable, capable, approachable and mildly prosperous, no ostentatious wealth.\nBackground: warmly lit modest elegant tea shop, restrained dark wood counter, a few ceramic tea jars and cups, daylight through window, tasteful quiet everyday life. Character occupies most of height, setting secondary, no additional characters, no text or signs.\nReference image 1 is ONLY authoritative for high-end feature-film 3D CGI rendering quality, physical materials, crisp natural detail and warm cinematic light with subtle cool fill. Do NOT copy dragon identity, horns, crown, pearls, royal embroidery, palace architecture or royal opulence. New pig identity and shopkeeper design described here take priority. Physically based skin with subtle subsurface scattering, individually resolved fine bristles, believable fabric weight and folds, distinct clay/wood/fabric responses, controlled highlights, natural contact shadows. Avoid flat illustration, cel outlines, plastic toy surfaces, baby mascot proportions, greedy sneer, exaggerated comic obesity, gold chains, extra fingers or limbs, cropped feet, collage, watermark.",
+  "channel": "内置 image_gen",
+  "references": [
+    {
+      "path": "storyboard/第一集-负和游戏/01第一场-宫殿开场/v2/05-龙后低眸侧颜.png",
+      "role": "仅CG材质与光照，不借用身份与宫殿陈设"
+    }
+  ],
+  "status": "探索v1，待用户验收",
+  "postprocessing": "无",
+  "dimensions": "1672×941"
+}

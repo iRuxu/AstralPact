@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-19",
+  "channel": "内置image_gen",
+  "model": "未暴露",
+  "seed": "未暴露",
+  "postprocessing": "无，原生输出复制",
+  "path_base": "项目根目录",
+  "approval": "用户认可双腿面纱全身形象；本批三视图与近景新生成待审阅",
+  "outputs": [
+    {
+      "file": "3D三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "Create ONE landscape 3:2 production character turnaround, three full body views FRONT, true SIDE, BACK at identical scale with generous spacing, neutral grey-green background, no text. Attached image is the USER APPROVED definitive Youzi adult female humanoid snake sorceress (30-40). Preserve EXACT face, amber slit pupil eyes, forehead snake marking, black emerald elaborate bun, single antique gold horizontal serpent hairpin with jade drop, jade earrings, translucent dark emerald lower-face veil with fine gold chain edge, jade pendant, shoulder and outer-arm jade scales, serpent upper-arm bracelet, bracelets and red fingernails. Preserve very full bust, narrow waist, shapely hips and long TWO HUMANLIKE LEGS, NO TAIL. Exact deep emerald opaque fitted lapel bodice with gold buttons, gold snake embroidery and waist chains, draped floor-length skirt with ONE side slit, gold jade high heeled shoes, sheer long shoulder/arm drapes. Fully clothed elegant mature sensual woman. Both legs structurally plausible, each foot supports body naturally with shoe-floor contact. Show both shoes front, foot silhouette side. Arms relaxed slightly away for readability. Back view must reveal coherent back bodice seams, same bun and sheer drape attachment, no invented wings, no added accessories. Keep head ornament, fingers, hem and heels wholly in frame. High-end feature-film 3D CGI, physically based materials, individually resolved hair, fine natural raised scales, silk weave, raised gold embroidery, transparent jade and veil, soft warm key and subtle cool fill, crisp detail, restrained metallic highlights. Orthographic-like views, no perspective distortion, no plastic, no painterly smearing, no watermark.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/悠姿/特写/01-双腿面纱全身-探索v1.png"
+      ],
+      "roles": [
+        "唯一附图锁已认可身份、全身服装及CG材质"
+      ]
+    },
+    {
+      "file": "原画三视图.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "Create ONE genuine 2D hand-drawn production character model sheet, landscape 3:2, FRONT / true SIDE / BACK full-body at equal scale, no text. Image 1 locks the user-approved Youzi adult female snake sorceress identity, full bust and hourglass proportions, two humanlike legs with no tail, dark emerald bun, gold snake hairpin, jade jewelry, gold slit-pupil eyes, forehead snake mark, translucent lower-face veil, shoulder scales, serpent armlet, red nails, emerald fitted opaque lapel bodice, buttons, gold embroidery and waist chains, long single-slit skirt, jade-gold high heel shoes and sheer arm drapes. Image 2 locks the extended full-body and back garment structure. Preserve identity and outfit exactly across views; no additions or nudity. Draw with precise elegant ink contours, colored pencil and gouache local colors, controlled flat cel-like shadows, subtle ivory paper, readable garment seams and snake-scale embroidery. Clearly a hand-drawn design drawing, not a 3D render or photoreal filter. Relaxed arms away from waist for readability. Full hairpin, fingers, hem, both grounded shoes within margins. Avoid extra limbs, missing lower legs, coiled tail, text and watermark.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/悠姿/特写/01-双腿面纱全身-探索v1.png",
+        "assets/characters/02-资本猎手与市场舆论/悠姿/3D三视图.png"
+      ],
+      "roles": [
+        "第一张锁已认可身份",
+        "第二张锁多视角与背面衣装结构"
+      ]
+    },
+    {
+      "file": "特写/02-面纱四分之三近景.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "prompt": "ONE standalone cinematic 3D portrait of EXACT same USER APPROVED Youzi adult female humanoid snake sorceress from attached image. Landscape 16:9, head and upper torso, gentle three-quarter angle turned toward image left, golden slit-pupil eyes looking slightly toward viewer, calm calculating expression. Preserve identical face proportions, subtle serpent forehead mark, elaborate black-emerald bun and complete horizontal gold snake hairpin with jade drop, jade earrings, translucent dark emerald veil over nose and mouth with gold chain edge, pale jade-ivory skin with emerald scales on temples and shoulders. Same opaque deep emerald lapel bodice and jade pendant, busty mature silhouette. All hairpin tips and bun inside frame with margin; no extra accessories or characters. Neutral dark teal studio backdrop, soft warm key and cool fill. High-end feature-film CGI with exquisite individually resolved hair, scales, silk and raised gold-thread detail, distinct jade, gold and translucent veil. Preserve mysterious adult identity, do not remove veil, no dragon horns, no photoreal actress, no toy plastic, no text, no watermark.",
+      "references": [
+        "assets/characters/02-资本猎手与市场舆论/悠姿/特写/01-双腿面纱全身-探索v1.png"
+      ],
+      "roles": [
+        "唯一附图锁面部、面纱、饰件和材质"
+      ]
+    }
+  ],
+  "inspection": "三视图头饰、手、裙摆和鞋完整。正面双脚落地，侧面可见膝小腿和高跟鞋，背面裙下腿部被遮住未完整核验。近景头饰、发髻完整。面纱、耳坠、金蛇簪和蛇形臂环可辨。细小刺绣、链条、鳞片排列及蛇簪朝向仍有跨角度差异，后续特写连续性需复核。",
+  "archive": {
+    "original": "assets/characters/02-资本猎手与市场舆论/悠姿/蛇妖.png",
+    "current": "assets/characters/02-资本猎手与市场舆论/悠姿/archive/旧蛇尾原稿/蛇妖.png",
+    "reason": "双腿方向已获认可；旧蛇尾稿仅历史参考，历史生成记录保留原路径"
+  }
+}

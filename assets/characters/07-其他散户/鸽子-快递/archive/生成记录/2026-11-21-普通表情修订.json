@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "channel": "内置 image_gen",
+  "prompt": "Edit ONLY the eyes, eyelids and brow feathers of the front and side pigeon faces in this exact three-view courier turnaround. Give him an ORDINARY NEUTRAL RESTING EXPRESSION: relaxed level brow feathers, naturally open eyes, normal calm forward gaze, plain everyday composure. Remove the raised inner eyebrows, drooping sad lids, worried arches and pitiful expression. No sadness, worry, timidness, misery, pleading, crying, exhaustion or melancholy. Equally no anger, furrowed eyebrows, scowl, heroic intensity, smirk or exaggerated smile. Simply a normal adult pigeon courier calmly standing for a reference photo. Keep exact adult pigeon identity and eye size. Preserve ALL other details: beak, helmet, gray and iridescent feathers, wings, stance, work clothes, scanner, pouch, backpack, parcel, bottle, trousers, feet, tail, three-view layout, framing, studio background, lighting and detailed physically based film CGI rendering. Rear view unchanged. Landscape 3:2.",
+  "references": [
+    {
+      "path": "archive/普通表情修订前/3D三视图-快递员提案.png",
+      "role": "唯一编辑目标，生成时为归档前原路径"
+    }
+  ],
+  "output": "3D三视图-快递员提案.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "postprocessing": "无",
+  "review": "已目视检查：去掉明显忧愁眉形，眼睛自然睁开，正侧面表情趋于中性；服装装备与构图保持，生成式编辑有细微变化。",
+  "status": "本次表情待用户验收；上一版被指出过于可怜",
+  "model": "未暴露",
+  "seed": "未暴露"
+}
