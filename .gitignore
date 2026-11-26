@@ -2,7 +2,9 @@
 node_modules
 .env
 .env.*
-
 tmp
+
 draft
 .kacha
+
+/scripts/**/*.mp4

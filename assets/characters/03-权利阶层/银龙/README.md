@@ -36,7 +36,7 @@ Render as beautiful finished 2D hand-drawn animated-film concept art: refined cl
 
 实际附图顺序：
 1. [龙后当前3D三视图](../../01-龙族王室/龙后/3d-turnaround.png)：龙族比例、全身CG完成度；不复制女性身份和服装配饰。
-2. [龙后抬眼特写](../../01-龙族王室/龙后/portraits/07-龙后抬眼询问.png)：面部美感、鳞片发丝、物理材质和柔暖主光／冷补光。
+2. [龙后抬眼特写](../../01-龙族王室/龙后/portraits/007-龙后抬眼询问.png)：面部美感、鳞片发丝、物理材质和柔暖主光／冷补光。
 
 ## 实际提示词
 

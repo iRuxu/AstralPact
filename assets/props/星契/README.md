@@ -5,4 +5,4 @@
 - [镭射正面概念](index.png)
 - [即梦 16:9 参考版](portraits/星契卡-镭射正面概念-即梦16x9.png)
 
-参考[片头 v2 剧本](../../../scripts/片头/v2.md)和[道具美术设定](../../../docs/art/道具美术.md)。
+参考[片头 v2 剧本](../../../scripts/opening/index.md)和[道具美术设定](../../../docs/art/道具美术.md)。
