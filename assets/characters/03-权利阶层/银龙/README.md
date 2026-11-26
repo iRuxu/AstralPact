@@ -26,9 +26,9 @@ Render as beautiful finished 2D hand-drawn animated-film concept art: refined cl
 | --- | --- | --- |
 | 原画三视图 | [2d-turnaround.png](2d-turnaround.png) | 按认可CG造型补绘的2D手绘版，1536×1024 |
 | 3D三视图 | [3d-turnaround.png](3d-turnaround.png) | 本次新稿，1536×1024，3:2 |
-| 历史修改 | [archive/](archive/) | 预留，尚无旧稿 |
-| 音色参考 | [voice/](voice/) | 预留，尚无音色 |
-| 特写 | [portraits/](portraits/) | 预留，尚无独立特写 |
+| 历史修改 | [archive/](archive) | 预留，尚无旧稿 |
+| 音色参考 | [voice/](voice) | 预留，尚无音色 |
+| 特写 | [portraits/](portraits) | 预留，尚无独立特写 |
 
 ## 生成与验收
 
