@@ -3,6 +3,6 @@
   "description": "星契工作台",
   "private": true,
   "devDependencies": {
-    "@2kog/kacha": "^0.2.1"
+    "@2kog/kacha": "^0.3.0"
   }
 }
